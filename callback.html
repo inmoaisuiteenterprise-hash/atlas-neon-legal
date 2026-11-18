@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="es"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex">
+<title>Atlas Neón · Código de autorización</title>
+<style>body{font-family:system-ui,-apple-system,sans-serif;max-width:640px;margin:30px auto;padding:0 18px;line-height:1.5;color:#1b1b1b}
+#codigo{width:100%;box-sizing:border-box;font:16px ui-monospace,monospace;padding:12px;border:2px solid #333;border-radius:10px;word-break:break-all;min-height:90px}
+button,a.b{display:block;width:100%;box-sizing:border-box;margin:12px 0;padding:14px;font-size:17px;border-radius:10px;border:0;background:#111;color:#fff;text-align:center;text-decoration:none}
+.err{color:#b00020}.ok{color:#0a7a2f}small{color:#666}</style></head>
+<body>
+<h1>Atlas Neón</h1>
+<div id="r">Cargando…</div>
+<p><small>Esta página no envía nada a ningún sitio: solo muestra la respuesta de Google para que la pegues en GitHub. El código caduca en unos minutos, solo sirve una vez y sin el verificador PKCE guardado en GitHub no se puede canjear.
+<a href="index.html">Qué es Atlas Neón</a></small></p>
+<script>
+(function () {
+  var q = new URLSearchParams(location.search), r = document.getElementById('r');
+  var NOMBRES = { 'raiz': 'La Raíz de Todo', 'letra': 'Letra Pequeña', 'atlas-neon': 'Proyecto Gris' };
+  var canal = (q.get('state') || '').split('.')[0];
+  history.replaceState(null, '', location.pathname);  // quita el código de la barra de direcciones y del historial
+  if (q.get('error')) { r.innerHTML = '<p class="err">Google no ha dado permiso (' + q.get('error').replace(/[<>&"]/g, '') + '). Vuelve a empezar desde el paso «enlace».</p>'; return; }
+  var code = q.get('code');
+  if (!code) { r.innerHTML = '<p>Esta página solo se usa al conectar un canal desde el workflow «Atlas · Conectar canal».</p>'; return; }
+  var nombre = NOMBRES[canal] || canal;
+  r.innerHTML = '<p class="ok"><b>Autorización recibida para: ' + nombre + '</b></p>' +
+    '<p>1. Copia esta respuesta:</p><textarea id="codigo" readonly></textarea>' +
+    '<button id="c">Copiar código</button>' +
+    '<p>2. Abre GitHub y lanza <b>«Atlas · Conectar canal»</b> con <b>paso = guardar</b>, <b>canal = ' + canal.replace(/[^a-z-]/g, '') + '</b> y pega la respuesta en «codigo».</p>' +
+    '<a class="b" href="https://github.com/inmoaisuiteenterprise-hash/atlas-neon/actions/workflows/conectar-canal.yml">Abrir el workflow en GitHub</a>';
+  var resp = 'state=' + encodeURIComponent(q.get('state') || '') + '&code=' + encodeURIComponent(code);
+  var t = document.getElementById('codigo'); t.value = resp;
+  document.getElementById('c').onclick = function () {
+    t.select(); t.setSelectionRange(0, 99999);
+    (navigator.clipboard ? navigator.clipboard.writeText(resp) : Promise.reject()).then(function () { document.getElementById('c').textContent = 'Copiado ✓'; },
+      function () { document.execCommand('copy'); document.getElementById('c').textContent = 'Copiado ✓'; });
+  };
+})();
+</script>
+</body></html>
