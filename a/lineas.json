@@ -1,0 +1,42 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 6.87,
+  "acierto": 1.0,
+  "texto": "Entras en el súper a por leche. Solo leche. Y tienes que cruzar la tienda entera para encontrarla, porque está al fondo. Siempre al fondo.",
+  "exa": 1.1,
+  "cfg": 0.3,
+  "pausa": 0.3
+ },
+ {
+  "i": 1,
+  "a": 7.17,
+  "b": 13.78,
+  "acierto": 0.96,
+  "texto": "Sales con veinte euros de cosas que no ibas a comprar. Y no es que seas débil: alguien ha pensado durante meses cómo hacer que pagues un poco más.",
+  "exa": 1.1,
+  "cfg": 0.3,
+  "pausa": 0.3
+ },
+ {
+  "i": 2,
+  "a": 14.08,
+  "b": 22.17,
+  "acierto": 0.9,
+  "texto": "Así que guárdate esta pregunta: ¿por qué la leche está siempre al fondo? Te lo cuento al final. Antes, te voy a enseñar seis trucos de precios que usan contigo cada día.",
+  "exa": 1.1,
+  "cfg": 0.3,
+  "pausa": 0.3
+ },
+ {
+  "i": 3,
+  "a": 22.47,
+  "b": 28.81,
+  "acierto": 0.86,
+  "texto": "Y tres reglas para que no te la vuelvan a colar. Empecemos por el más famoso de todos: el nueve con noventa y nueve.",
+  "exa": 1.1,
+  "cfg": 0.3,
+  "pausa": 0.3
+ }
+]

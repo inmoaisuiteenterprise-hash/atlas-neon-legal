@@ -1,0 +1,62 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 6.16,
+  "acierto": 0.64,
+  "texto": "Nueve con noventa y nueve. Es un céntimo menos que diez. Un céntimo. ¿De verdad cambia algo?",
+  "exa": 1.1,
+  "cfg": 0.3,
+  "pausa": 0.3
+ },
+ {
+  "i": 1,
+  "a": 6.46,
+  "b": 12.53,
+  "acierto": 1.0,
+  "texto": "Sí. Porque leemos los precios de izquierda a derecha, y el primer número es el que más pesa en nuestra cabeza.",
+  "exa": 1.1,
+  "cfg": 0.3,
+  "pausa": 0.3
+ },
+ {
+  "i": 2,
+  "a": 12.83,
+  "b": 19.4,
+  "acierto": 0.83,
+  "texto": "Cuando ves nueve con noventa y nueve, tu cerebro se queda con el nueve. Y lo siente más cerca de nueve que de diez.",
+  "exa": 1.1,
+  "cfg": 0.3,
+  "pausa": 0.3
+ },
+ {
+  "i": 3,
+  "a": 19.7,
+  "b": 24.78,
+  "acierto": 0.81,
+  "texto": "Los investigadores Manoj Thomas y Vicki Morwitz lo llamaron el efecto del dígito de la izquierda.",
+  "exa": 1.1,
+  "cfg": 0.3,
+  "pausa": 0.3
+ },
+ {
+  "i": 4,
+  "a": 25.08,
+  "b": 35.98,
+  "acierto": 0.69,
+  "texto": "Y encontraron algo clave: el truco funciona cuando ese céntimo cambia el primer número. De tres euros a dos con noventa y nueve, sí. De tres con sesenta a tres con cincuenta y nueve, casi nada.",
+  "exa": 1.1,
+  "cfg": 0.3,
+  "pausa": 0.3
+ },
+ {
+  "i": 5,
+  "a": 36.28,
+  "b": 43.36,
+  "acierto": 0.94,
+  "texto": "Por eso los precios terminados en nueve no están puestos al azar. Están justo en la frontera del primer número.",
+  "exa": 1.1,
+  "cfg": 0.3,
+  "pausa": 0.3
+ }
+]

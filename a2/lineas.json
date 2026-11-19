@@ -1,0 +1,22 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 5.55,
+  "acierto": 1.0,
+  "texto": "Y te aviso: después de este vídeo no vas a volver a mirar una etiqueta de la misma forma.",
+  "exa": 1.1,
+  "cfg": 0.3,
+  "pausa": 0.3
+ },
+ {
+  "i": 1,
+  "a": 5.85,
+  "b": 12.36,
+  "acierto": 0.95,
+  "texto": "Vas a ver los trucos en el súper, en Amazon, en el cine y en la carta de cualquier restaurante. Y lo mejor: vas a poder esquivarlos.",
+  "exa": 1.1,
+  "cfg": 0.3,
+  "pausa": 0.3
+ }
+]

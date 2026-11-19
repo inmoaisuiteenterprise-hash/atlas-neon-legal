@@ -1,0 +1,42 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 3.49,
+  "acierto": 0.92,
+  "texto": "Y hay un truco que ni siquiera toca el precio: la reduflación.",
+  "exa": 1.1,
+  "cfg": 0.3,
+  "pausa": 0.3
+ },
+ {
+  "i": 1,
+  "a": 3.79,
+  "b": 12.9,
+  "acierto": 1.0,
+  "texto": "El paquete parece el mismo. El precio es el mismo. Pero dentro hay menos. Unos gramos menos de galletas, un poco menos de detergente, un rollo de papel más corto.",
+  "exa": 1.1,
+  "cfg": 0.3,
+  "pausa": 0.3
+ },
+ {
+  "i": 2,
+  "a": 13.2,
+  "b": 19.41,
+  "acierto": 1.0,
+  "texto": "Es más fácil que no te des cuenta de que el paquete pesa menos, que de que cuesta más.",
+  "exa": 1.1,
+  "cfg": 0.3,
+  "pausa": 0.3
+ },
+ {
+  "i": 3,
+  "a": 19.71,
+  "b": 24.02,
+  "acierto": 0.87,
+  "texto": "Por eso el precio por kilo es tu mejor arma: es el único número que delata la reduflación.",
+  "exa": 1.1,
+  "cfg": 0.3,
+  "pausa": 0.3
+ }
+]

@@ -1,0 +1,62 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 2.97,
+  "acierto": 1.0,
+  "texto": "Tercer truco, y mi favorito: el señuelo.",
+  "exa": 1.1,
+  "cfg": 0.3,
+  "pausa": 0.3
+ },
+ {
+  "i": 1,
+  "a": 3.27,
+  "b": 10.71,
+  "acierto": 0.94,
+  "texto": "El economista Dan Ariely lo contó con una suscripción real a la revista The Economist. Había tres opciones.",
+  "exa": 1.1,
+  "cfg": 0.3,
+  "pausa": 0.3
+ },
+ {
+  "i": 2,
+  "a": 11.01,
+  "b": 18.6,
+  "acierto": 0.64,
+  "texto": "Solo digital, cincuenta y nueve dólares. Solo papel, ciento veinticinco. Y papel más digital… también ciento veinticinco.",
+  "exa": 1.1,
+  "cfg": 0.3,
+  "pausa": 0.3
+ },
+ {
+  "i": 3,
+  "a": 18.9,
+  "b": 27.82,
+  "acierto": 0.93,
+  "texto": "¿Quién elegiría solo papel, si por lo mismo te llevas las dos? Nadie. Y no hace falta: esa opción existe para que la tercera parezca un regalo.",
+  "exa": 1.1,
+  "cfg": 0.3,
+  "pausa": 0.3
+ },
+ {
+  "i": 4,
+  "a": 28.12,
+  "b": 36.82,
+  "acierto": 0.86,
+  "texto": "Cuando Ariely se lo planteó a sus alumnos, la mayoría eligió el pack de ciento veinticinco. Cuando quitó la opción absurda, la mayoría pasó a elegir la barata.",
+  "exa": 1.1,
+  "cfg": 0.3,
+  "pausa": 0.3
+ },
+ {
+  "i": 5,
+  "a": 37.12,
+  "b": 44.38,
+  "acierto": 1.0,
+  "texto": "La opción que nadie quiere es la que más vende. Lo vas a ver en todas partes: en los tamaños de las palomitas, en las tarifas del móvil, en los menús.",
+  "exa": 1.1,
+  "cfg": 0.3,
+  "pausa": 0.3
+ }
+]

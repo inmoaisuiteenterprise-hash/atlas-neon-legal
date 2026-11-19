@@ -1,0 +1,52 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 4.5,
+  "acierto": 0.89,
+  "texto": "Quinto truco: el que no ves. El precio por kilo.",
+  "exa": 1.1,
+  "cfg": 0.3,
+  "pausa": 0.3
+ },
+ {
+  "i": 1,
+  "a": 4.8,
+  "b": 12.02,
+  "acierto": 1.0,
+  "texto": "Un paquete más grande no siempre es más barato. A veces, el tamaño mediano sale mejor por kilo que el familiar.",
+  "exa": 1.1,
+  "cfg": 0.3,
+  "pausa": 0.3
+ },
+ {
+  "i": 2,
+  "a": 12.32,
+  "b": 18.74,
+  "acierto": 1.0,
+  "texto": "Por eso en España las tiendas tienen la obligación de mostrar el precio por kilo o por litro en la etiqueta, normalmente en letra pequeña.",
+  "exa": 1.1,
+  "cfg": 0.3,
+  "pausa": 0.3
+ },
+ {
+  "i": 3,
+  "a": 19.04,
+  "b": 26.36,
+  "acierto": 0.8,
+  "texto": "Y sexto: el precio redondo. Fíjate en que muchas marcas de lujo no ponen nueve con noventa y nueve. Ponen trescientos euros justos.",
+  "exa": 1.1,
+  "cfg": 0.3,
+  "pausa": 0.3
+ },
+ {
+  "i": 4,
+  "a": 26.66,
+  "b": 33.35,
+  "acierto": 0.94,
+  "texto": "Porque el nueve suena a oferta. Y el número redondo suena a calidad. Cada precio está elegido para hacerte sentir algo.",
+  "exa": 1.1,
+  "cfg": 0.3,
+  "pausa": 0.3
+ }
+]

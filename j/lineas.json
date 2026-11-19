@@ -1,0 +1,62 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 6.66,
+  "acierto": 1.0,
+  "texto": "¿Por qué la leche está siempre al fondo del súper? Hay dos respuestas, y las dos son verdad.",
+  "exa": 1.1,
+  "cfg": 0.3,
+  "pausa": 0.3
+ },
+ {
+  "i": 1,
+  "a": 6.96,
+  "b": 16.63,
+  "acierto": 0.96,
+  "texto": "La primera es práctica. La leche necesita frío, y las cámaras frigoríficas suelen estar junto al almacén y la zona de descarga, que casi siempre están en la parte de atrás.",
+  "exa": 1.1,
+  "cfg": 0.3,
+  "pausa": 0.3
+ },
+ {
+  "i": 2,
+  "a": 16.93,
+  "b": 26.87,
+  "acierto": 1.0,
+  "texto": "La segunda es la que no te cuentan. La leche es de lo que más se compra. Y si está al fondo, para llegar a ella tienes que pasar por delante de todo lo demás.",
+  "exa": 1.1,
+  "cfg": 0.3,
+  "pausa": 0.3
+ },
+ {
+  "i": 3,
+  "a": 27.17,
+  "b": 33.75,
+  "acierto": 0.86,
+  "texto": "Cada pasillo es una oportunidad de que caiga algo en el carrito. Las galletas, el chocolate, la oferta del tres por dos.",
+  "exa": 1.1,
+  "cfg": 0.3,
+  "pausa": 0.3
+ },
+ {
+  "i": 4,
+  "a": 34.05,
+  "b": 40.08,
+  "acierto": 0.96,
+  "texto": "Así que la próxima vez que vayas a por leche, ve directo. No mires a los lados. Y si algo te llama, usa las tres reglas.",
+  "exa": 1.1,
+  "cfg": 0.3,
+  "pausa": 0.3
+ },
+ {
+  "i": 5,
+  "a": 40.38,
+  "b": 51.59,
+  "acierto": 0.94,
+  "texto": "Si quieres seguir leyendo la letra pequeña de todo lo que compras, suscríbete a Bolsillo Despierto. En el próximo vídeo: por qué darse de alta en una suscripción cuesta un clic, y darse de baja, una odisea.",
+  "exa": 1.1,
+  "cfg": 0.3,
+  "pausa": 0.3
+ }
+]

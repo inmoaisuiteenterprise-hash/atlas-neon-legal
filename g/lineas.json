@@ -1,0 +1,52 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 2.44,
+  "acierto": 1.0,
+  "texto": "Cuarto truco: el precio tachado.",
+  "exa": 1.1,
+  "cfg": 0.3,
+  "pausa": 0.3
+ },
+ {
+  "i": 1,
+  "a": 2.74,
+  "b": 12.06,
+  "acierto": 0.83,
+  "texto": "Antes noventa y nueve, ahora cuarenta y nueve. Tu cerebro no compara el producto con lo que vale. Lo compara con el número tachado. A eso se le llama anclaje.",
+  "exa": 1.1,
+  "cfg": 0.3,
+  "pausa": 0.3
+ },
+ {
+  "i": 2,
+  "a": 12.36,
+  "b": 17.39,
+  "acierto": 1.0,
+  "texto": "Durante años, algunas tiendas subían el precio justo antes de las rebajas para poder tacharlo.",
+  "exa": 1.1,
+  "cfg": 0.3,
+  "pausa": 0.3
+ },
+ {
+  "i": 3,
+  "a": 17.7,
+  "b": 28.45,
+  "acierto": 0.87,
+  "texto": "Por eso en la Unión Europea hay una norma: el precio anterior que te enseñan tiene que ser el más bajo de los últimos treinta días. En España se aplica desde dos mil veintidós.",
+  "exa": 1.1,
+  "cfg": 0.3,
+  "pausa": 0.3
+ },
+ {
+  "i": 4,
+  "a": 28.75,
+  "b": 35.33,
+  "acierto": 1.0,
+  "texto": "Así que, si un descuento te parece increíble, desconfía. Y si puedes, mira cuánto costaba hace un mes.",
+  "exa": 1.1,
+  "cfg": 0.3,
+  "pausa": 0.3
+ }
+]

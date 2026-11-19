@@ -1,0 +1,42 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 4.57,
+  "acierto": 0.93,
+  "texto": "Y en los restaurantes hay una versión aún más sutil: quitar el símbolo del euro.",
+  "exa": 1.1,
+  "cfg": 0.3,
+  "pausa": 0.3
+ },
+ {
+  "i": 1,
+  "a": 4.87,
+  "b": 14.27,
+  "acierto": 1.0,
+  "texto": "Investigadores de la Universidad de Cornell probaron menús con el mismo plato y el mismo precio, escrito de distintas formas. Con el símbolo de la moneda, sin él, o con el precio en palabras.",
+  "exa": 1.1,
+  "cfg": 0.3,
+  "pausa": 0.3
+ },
+ {
+  "i": 2,
+  "a": 14.57,
+  "b": 22.62,
+  "acierto": 1.0,
+  "texto": "Los clientes que recibieron la carta solo con números, sin el símbolo, gastaron más que los que veían el símbolo delante.",
+  "exa": 1.1,
+  "cfg": 0.3,
+  "pausa": 0.3
+ },
+ {
+  "i": 3,
+  "a": 22.92,
+  "b": 32.06,
+  "acierto": 0.96,
+  "texto": "El símbolo te recuerda que estás pagando. Sin él, el número parece solo un número. Por eso en tantos restaurantes de moda verás «dieciocho» a secas, sin euros.",
+  "exa": 1.1,
+  "cfg": 0.3,
+  "pausa": 0.3
+ }
+]
