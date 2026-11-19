@@ -1,0 +1,26 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 8.47,
+  "acierto": 0.94,
+  "texto": "Son las dos de la madrugada. Le quedan cinco segundos para decidir… y no va a decidir él.",
+  "pausa": 0.6
+ },
+ {
+  "i": 1,
+  "a": 9.07,
+  "b": 18.78,
+  "acierto": 0.83,
+  "texto": "En mil novecientos veintisiete, una psicóloga descubrió algo que tu cerebro hace cada noche, sin que te des cuenta.",
+  "pausa": 0.5
+ },
+ {
+  "i": 2,
+  "a": 19.28,
+  "b": 23.74,
+  "acierto": 1.0,
+  "texto": "No es culpa tuya. Pero sí es tu decisión.",
+  "pausa": 0.6
+ }
+]
