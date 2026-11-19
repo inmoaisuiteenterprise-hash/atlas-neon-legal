@@ -1,0 +1,17 @@
+{
+ "ref": "ref_es_co_male_07049.wav",
+ "lineas": [
+  {
+   "texto": "¿Por qué después del domingo viene el lunes, y no el viernes?",
+   "exa": 1.2,
+   "cfg": 0.3,
+   "pausa": 0.3
+  },
+  {
+   "texto": "La respuesta tiene cinco mil años. Y es mucho más rara de lo que crees.",
+   "exa": 1.2,
+   "cfg": 0.3,
+   "pausa": 0.3
+  }
+ ]
+}

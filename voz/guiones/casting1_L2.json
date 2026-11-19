@@ -1,0 +1,17 @@
+{
+ "ref": "ref_es_ar_male_07049.wav",
+ "lineas": [
+  {
+   "texto": "¿Sabes por qué casi todo cuesta nueve con noventa y nueve? No es casualidad.",
+   "exa": 1.4,
+   "cfg": 0.2,
+   "pausa": 0.3
+  },
+  {
+   "texto": "Es un truco. Y funciona contigo, aunque creas que no.",
+   "exa": 1.4,
+   "cfg": 0.2,
+   "pausa": 0.3
+  }
+ ]
+}
