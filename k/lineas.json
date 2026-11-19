@@ -1,0 +1,58 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 5.43,
+  "acierto": 1.0,
+  "texto": "¿Recuerdas la pregunta del principio? ¿Por qué es tan fácil empezar… y tan difícil parar?",
+  "voz": "¿Recuerdas la pregunta del principio? ¿Por qué es tan fácil empezar… y tan difícil parar?"
+ },
+ {
+  "i": 1,
+  "a": 5.73,
+  "b": 8.41,
+  "acierto": 1.0,
+  "texto": "Empezar es fácil porque todavía no hay nada a medias.",
+  "voz": "Empezar es fácil porque todavía no hay nada a medias."
+ },
+ {
+  "i": 2,
+  "a": 8.71,
+  "b": 15.34,
+  "acierto": 0.95,
+  "texto": "Parar es difícil porque te lo piden justo al final, cuando tu cerebro tiene una tarea interrumpida. En el peor momento posible.",
+  "voz": "Parar es difícil porque te lo piden justo al final, cuando tu cerebro tiene una tarea interrumpida. En el peor momento posible."
+ },
+ {
+  "i": 3,
+  "a": 15.64,
+  "b": 20.81,
+  "acierto": 0.88,
+  "texto": "Así que la regla cuatro le da la vuelta: no pares al final del capítulo. Para a la mitad.",
+  "voz": "Así que la regla cuatro le da la vuelta: no pares al final del capítulo. Para a la mitad."
+ },
+ {
+  "i": 4,
+  "a": 21.11,
+  "b": 27.43,
+  "acierto": 0.94,
+  "texto": "A mitad de capítulo la historia está tranquila. Sin cliffhanger. Sin cuenta atrás. Es cuando menos cuesta apagar.",
+  "voz": "A mitad de capítulo la historia está tranquila. Sin cliffhanger. Sin cuenta atrás. Es cuando menos cuesta apagar."
+ },
+ {
+  "i": 5,
+  "a": 27.73,
+  "b": 30.84,
+  "acierto": 1.0,
+  "texto": "Y al día siguiente vuelves con ganas… en vez de con culpa.",
+  "voz": "Y al día siguiente vuelves con ganas… en vez de con culpa."
+ },
+ {
+  "i": 6,
+  "a": 31.14,
+  "b": 35.36,
+  "acierto": 1.0,
+  "texto": "La primera noche le costó. La tercera, apagó sin pensarlo.",
+  "voz": "La primera noche le costó. La tercera, apagó sin pensarlo."
+ }
+]

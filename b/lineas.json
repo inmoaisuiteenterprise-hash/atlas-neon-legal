@@ -1,0 +1,50 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 5.74,
+  "acierto": 1.0,
+  "texto": "Hace un mes, Gris consiguió algo que parecía imposible: sacar el móvil del dormitorio.",
+  "voz": "Hace un mes, Gris consiguió algo que parecía imposible: sacar el móvil del dormitorio."
+ },
+ {
+  "i": 1,
+  "a": 6.04,
+  "b": 9.63,
+  "acierto": 1.0,
+  "texto": "Dormía mejor. Volvía a leer. Estaba orgulloso.",
+  "voz": "Dormía mejor. Volvía a leer. Estaba orgulloso."
+ },
+ {
+  "i": 2,
+  "a": 9.93,
+  "b": 16.67,
+  "acierto": 1.0,
+  "texto": "Hasta que un viernes, reventado, se tiró en el sofá. Y un amigo le escribió: «tienes que ver esta serie».",
+  "voz": "Hasta que un viernes, reventado, se tiró en el sofá. Y un amigo le escribió: «tienes que ver esta serie»."
+ },
+ {
+  "i": 3,
+  "a": 16.97,
+  "b": 19.79,
+  "acierto": 1.0,
+  "texto": "El primer capítulo… estaba bien. Sin más.",
+  "voz": "El primer capítulo… estaba bien. Sin más."
+ },
+ {
+  "i": 4,
+  "a": 20.09,
+  "b": 24.57,
+  "acierto": 1.0,
+  "texto": "El segundo, mejor. Y el tercero… ya no pudo soltarlo.",
+  "voz": "El segundo, mejor. Y el tercero… ya no pudo soltarlo."
+ },
+ {
+  "i": 5,
+  "a": 24.87,
+  "b": 31.2,
+  "acierto": 1.0,
+  "texto": "Cuando miró el reloj eran las cuatro. Lo que Gris no sabía es que eso no era casualidad. Estaba diseñado.",
+  "voz": "Cuando miró el reloj eran las cuatro. Lo que Gris no sabía es que eso no era casualidad. Estaba diseñado."
+ }
+]

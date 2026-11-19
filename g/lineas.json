@@ -1,0 +1,66 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 5.48,
+  "acierto": 0.8,
+  "texto": "En dos mil diecisiete, el jefe de Netflix, Reed Hastings, lo dijo delante de sus inversores.",
+  "voz": "En dos mil diecisiete, el jefe de Netflix, Reed Hastings, lo dijo delante de sus inversores."
+ },
+ {
+  "i": 1,
+  "a": 5.78,
+  "b": 9.39,
+  "acierto": 1.0,
+  "texto": "Su gran competidor no era Amazon. Ni HBO.",
+  "voz": "Su gran competidor no era Amazon. Ni hache be o."
+ },
+ {
+  "i": 2,
+  "a": 9.69,
+  "b": 10.49,
+  "acierto": 1.0,
+  "texto": "Era el sueño.",
+  "voz": "Era el sueño."
+ },
+ {
+  "i": 3,
+  "a": 10.79,
+  "b": 19.8,
+  "acierto": 0.9,
+  "texto": "Y no exageraba. Ese mismo año, investigadores de Bélgica y de la Universidad de Míchigan preguntaron a más de cuatrocientos jóvenes por sus noches.",
+  "voz": "Y no exageraba. Ese mismo año, investigadores de Bélgica y de la Universidad de Míchigan preguntaron a más de cuatrocientos jóvenes por sus noches."
+ },
+ {
+  "i": 4,
+  "a": 20.1,
+  "b": 28.31,
+  "acierto": 0.87,
+  "texto": "Ocho de cada diez hacían maratones de series. Y cuanto más las hacían, peor dormían: más cansancio, más insomnio.",
+  "voz": "Ocho de cada diez hacían maratones de series. Y cuanto más las hacían, peor dormían: más cansancio, más insomnio."
+ },
+ {
+  "i": 5,
+  "a": 28.61,
+  "b": 33.05,
+  "acierto": 1.0,
+  "texto": "Ver la tele de forma normal no tenía ese efecto. Solo los atracones.",
+  "voz": "Ver la tele de forma normal no tenía ese efecto. Solo los atracones."
+ },
+ {
+  "i": 6,
+  "a": 33.35,
+  "b": 38.12,
+  "acierto": 1.0,
+  "texto": "¿La razón? Te metes en la cama… pero tu cabeza sigue dentro de la historia.",
+  "voz": "¿La razón? Te metes en la cama… pero tu cabeza sigue dentro de la historia."
+ },
+ {
+  "i": 7,
+  "a": 38.42,
+  "b": 41.96,
+  "acierto": 1.0,
+  "texto": "Apagas la pantalla. Pero el capítulo sigue encendido dentro de ti.",
+  "voz": "Apagas la pantalla. Pero el capítulo sigue encendido dentro de ti."
+ }
+]

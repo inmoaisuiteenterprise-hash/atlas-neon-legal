@@ -1,0 +1,58 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 4.69,
+  "acierto": 0.92,
+  "texto": "Para entenderlo hay que viajar a Berlín, a los años veinte. A un restaurante.",
+  "voz": "Para entenderlo hay que viajar a Berlín, a los años veinte. A un restaurante."
+ },
+ {
+  "i": 1,
+  "a": 4.99,
+  "b": 11.75,
+  "acierto": 1.0,
+  "texto": "Un psicólogo, Kurt Lewin, se fijó en algo raro: el camarero recordaba todos los pedidos sin apuntar nada.",
+  "voz": "Un psicólogo, Kurt Lewin, se fijó en algo raro: el camarero recordaba todos los pedidos sin apuntar nada."
+ },
+ {
+  "i": 2,
+  "a": 12.05,
+  "b": 16.72,
+  "acierto": 1.0,
+  "texto": "Pero en cuanto una mesa pagaba… lo olvidaba todo. Como si borrara la pizarra.",
+  "voz": "Pero en cuanto una mesa pagaba… lo olvidaba todo. Como si borrara la pizarra."
+ },
+ {
+  "i": 3,
+  "a": 17.02,
+  "b": 21.47,
+  "acierto": 0.89,
+  "texto": "Una alumna suya, Bluma Zeigarnik, decidió ponerlo a prueba.",
+  "voz": "Una alumna suya, Bluma Zeigárnik, decidió ponerlo a prueba."
+ },
+ {
+  "i": 4,
+  "a": 21.77,
+  "b": 29.84,
+  "acierto": 0.94,
+  "texto": "Dio a varias personas tareas sencillas: puzles, figuras de barro. A unas las dejó terminar. A otras las cortó a la mitad.",
+  "voz": "Dio a varias personas tareas sencillas: puzles, figuras de barro. A unas las dejó terminar. A otras las cortó a la mitad."
+ },
+ {
+  "i": 5,
+  "a": 30.14,
+  "b": 34.03,
+  "acierto": 1.0,
+  "texto": "Resultado: las tareas interrumpidas se recordaban casi el doble.",
+  "voz": "Resultado: las tareas interrumpidas se recordaban casi el doble."
+ },
+ {
+  "i": 6,
+  "a": 34.33,
+  "b": 41.51,
+  "acierto": 0.78,
+  "texto": "Lo publicó en mil novecientos veintisiete. Hoy lo llamamos efecto Zeigarnik: tu cerebro no soporta dejar algo a medias.",
+  "voz": "Lo publicó en mil novecientos veintisiete. Hoy lo llamamos efecto Zeigárnik: tu cerebro no soporta dejar algo a medias."
+ }
+]

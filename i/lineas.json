@@ -1,0 +1,50 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 5.55,
+  "acierto": 1.0,
+  "texto": "Así que Gris hizo lo mismo que con el móvil: no pelear contra sí mismo. Cambiar las reglas.",
+  "voz": "Así que Gris hizo lo mismo que con el móvil: no pelear contra sí mismo. Cambiar las reglas."
+ },
+ {
+  "i": 1,
+  "a": 5.85,
+  "b": 13.09,
+  "acierto": 0.93,
+  "texto": "Regla uno: apagó la reproducción automática. Ahora cada capítulo es un clic. Uno solo. Pero suyo.",
+  "voz": "Regla uno: apagó la reproducción automática. Ahora cada capítulo es un clic. Uno solo. Pero suyo."
+ },
+ {
+  "i": 2,
+  "a": 13.39,
+  "b": 19.26,
+  "acierto": 0.92,
+  "texto": "Regla dos: antes de empezar, decide cuántos. En voz alta. «Dos». Ni uno más.",
+  "voz": "Regla dos: antes de empezar, decide cuántos. En voz alta. «Dos». Ni uno más."
+ },
+ {
+  "i": 3,
+  "a": 19.56,
+  "b": 24.95,
+  "acierto": 0.93,
+  "texto": "Regla tres: nada de series en la cama. La última pantalla, una hora antes de dormir.",
+  "voz": "Regla tres: nada de series en la cama. La última pantalla, una hora antes de dormir."
+ },
+ {
+  "i": 4,
+  "a": 25.25,
+  "b": 29.28,
+  "acierto": 0.91,
+  "texto": "Y la regla cuatro… es la más rara. Y la que de verdad funcionó.",
+  "voz": "Y la regla cuatro… es la más rara. Y la que de verdad funcionó."
+ },
+ {
+  "i": 5,
+  "a": 29.58,
+  "b": 31.3,
+  "acierto": 1.0,
+  "texto": "Pero primero, mira cómo le fue.",
+  "voz": "Pero primero, mira cómo le fue."
+ }
+]

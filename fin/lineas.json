@@ -1,0 +1,18 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 7.79,
+  "acierto": 1.0,
+  "texto": "Gris ha dejado su segunda adicción. Pero esa misma semana, llamaron a la puerta… con un paquete que no recordaba haber pedido.",
+  "voz": "Gris ha dejado su segunda adicción. Pero esa misma semana, llamaron a la puerta… con un paquete que no recordaba haber pedido."
+ },
+ {
+  "i": 1,
+  "a": 8.09,
+  "b": 14.64,
+  "acierto": 0.95,
+  "texto": "Suscríbete para ver qué hay dentro. Y si conoces a alguien que siempre dice «solo uno más»… mándale este vídeo.",
+  "voz": "Suscríbete para ver qué hay dentro. Y si conoces a alguien que siempre dice «solo uno más»… mándale este vídeo."
+ }
+]

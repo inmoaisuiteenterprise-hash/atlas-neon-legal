@@ -1,0 +1,34 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 5.77,
+  "acierto": 1.0,
+  "texto": "Un mes después, Gris sigue viendo series. Le encantan. Pero ahora las elige él.",
+  "voz": "Un mes después, Gris sigue viendo series. Le encantan. Pero ahora las elige él."
+ },
+ {
+  "i": 1,
+  "a": 6.07,
+  "b": 12.86,
+  "acierto": 1.0,
+  "texto": "Duerme. Recuerda lo que ve. Y cuando una serie termina, siente algo que había olvidado: que ha terminado.",
+  "voz": "Duerme. Recuerda lo que ve. Y cuando una serie termina, siente algo que había olvidado: que ha terminado."
+ },
+ {
+  "i": 2,
+  "a": 13.16,
+  "b": 20.5,
+  "acierto": 1.0,
+  "texto": "Las series no son el enemigo. El problema empieza cuando dejas de elegir tú el siguiente capítulo… y empieza a elegirte él a ti.",
+  "voz": "Las series no son el enemigo. El problema empieza cuando dejas de elegir tú el siguiente capítulo… y empieza a elegirte él a ti."
+ },
+ {
+  "i": 3,
+  "a": 20.8,
+  "b": 27.63,
+  "acierto": 0.94,
+  "texto": "Así que esta noche, haz una sola cosa: entra en ajustes y apaga la reproducción automática. Treinta segundos.",
+  "voz": "Así que esta noche, haz una sola cosa: entra en ajustes y apaga la reproducción automática. Treinta segundos."
+ }
+]

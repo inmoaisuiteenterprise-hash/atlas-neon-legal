@@ -1,0 +1,74 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 2.66,
+  "acierto": 0.62,
+  "texto": "Las cuatro y treinta y siete de la madrugada.",
+  "voz": "Las cuatro y treinta y siete de la madrugada."
+ },
+ {
+  "i": 1,
+  "a": 2.96,
+  "b": 5.81,
+  "acierto": 1.0,
+  "texto": "Gris entra a trabajar en tres horas. Lo sabe.",
+  "voz": "Gris entra a trabajar en tres horas. Lo sabe."
+ },
+ {
+  "i": 2,
+  "a": 6.11,
+  "b": 12.93,
+  "acierto": 1.0,
+  "texto": "En la pantalla, el capítulo termina… y aparece una cuenta atrás. Cinco. Cuatro. Tres.",
+  "voz": "En la pantalla, el capítulo termina… y aparece una cuenta atrás. Cinco. Cuatro. Tres."
+ },
+ {
+  "i": 3,
+  "a": 13.23,
+  "b": 15.94,
+  "acierto": 1.0,
+  "texto": "Gris tiene el mando en la mano. Podría apagar.",
+  "voz": "Gris tiene el mando en la mano. Podría apagar."
+ },
+ {
+  "i": 4,
+  "a": 16.24,
+  "b": 16.9,
+  "acierto": 0.7,
+  "texto": "No lo hace.",
+  "voz": "No lo hace."
+ },
+ {
+  "i": 5,
+  "a": 17.2,
+  "b": 20.7,
+  "acierto": 1.0,
+  "texto": "Y hace seis capítulos se prometió lo mismo: solo uno.",
+  "voz": "Y hace seis capítulos se prometió lo mismo: solo uno."
+ },
+ {
+  "i": 6,
+  "a": 21.0,
+  "b": 24.5,
+  "acierto": 1.0,
+  "texto": "¿Por qué es tan fácil empezar una serie… y tan difícil parar?",
+  "voz": "¿Por qué es tan fácil empezar una serie… y tan difícil parar?"
+ },
+ {
+  "i": 7,
+  "a": 24.8,
+  "b": 30.7,
+  "acierto": 1.0,
+  "texto": "Hoy lo vas a entender. Y al final te cuento el truco más raro, el que le devolvió las noches a Gris.",
+  "voz": "Hoy lo vas a entender. Y al final te cuento el truco más raro, el que le devolvió las noches a Gris."
+ },
+ {
+  "i": 8,
+  "a": 31.0,
+  "b": 34.89,
+  "acierto": 0.88,
+  "texto": "Proyecto Gris. Episodio dos: solo un capítulo más.",
+  "voz": "Proyecto Gris. Episodio dos: solo un capítulo más."
+ }
+]

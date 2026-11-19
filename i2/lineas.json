@@ -1,0 +1,34 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 4.43,
+  "acierto": 1.0,
+  "texto": "La primera noche, el capítulo terminó… y la pantalla se quedó quieta.",
+  "voz": "La primera noche, el capítulo terminó… y la pantalla se quedó quieta."
+ },
+ {
+  "i": 1,
+  "a": 4.73,
+  "b": 6.89,
+  "acierto": 0.6,
+  "texto": "Sin cuenta atrás. Solo silencio.",
+  "voz": "Sin cuenta atrás. Solo silencio."
+ },
+ {
+  "i": 2,
+  "a": 7.19,
+  "b": 12.44,
+  "acierto": 1.0,
+  "texto": "Y en ese silencio, Gris tuvo que decidir. Eligió uno más… pero lo eligió él.",
+  "voz": "Y en ese silencio, Gris tuvo que decidir. Eligió uno más… pero lo eligió él."
+ },
+ {
+  "i": 3,
+  "a": 12.74,
+  "b": 18.23,
+  "acierto": 1.0,
+  "texto": "Las noches siguientes, dos capítulos. A veces tres. Pero a la cama antes que nunca.",
+  "voz": "Las noches siguientes, dos capítulos. A veces tres. Pero a la cama antes que nunca."
+ }
+]

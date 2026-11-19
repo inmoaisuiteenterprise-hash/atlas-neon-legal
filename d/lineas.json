@@ -1,0 +1,50 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 2.61,
+  "acierto": 1.0,
+  "texto": "Ahora piensa en cómo acaba cada capítulo.",
+  "voz": "Ahora piensa en cómo acaba cada capítulo."
+ },
+ {
+  "i": 1,
+  "a": 2.91,
+  "b": 8.85,
+  "acierto": 1.0,
+  "texto": "Una puerta que se abre. Un disparo. Alguien a punto de decir la verdad… y negro.",
+  "voz": "Una puerta que se abre. Un disparo. Alguien a punto de decir la verdad… y negro."
+ },
+ {
+  "i": 2,
+  "a": 9.15,
+  "b": 14.56,
+  "acierto": 1.0,
+  "texto": "Eso se llama cliffhanger: dejar la historia colgando del borde. A propósito.",
+  "voz": "Eso se llama cliffhanger: dejar la historia colgando del borde. A propósito."
+ },
+ {
+  "i": 3,
+  "a": 14.86,
+  "b": 20.21,
+  "acierto": 1.0,
+  "texto": "Para tu cerebro, eso no es un final. Es una tarea a medias. Una cuenta sin pagar.",
+  "voz": "Para tu cerebro, eso no es un final. Es una tarea a medias. Una cuenta sin pagar."
+ },
+ {
+  "i": 4,
+  "a": 20.51,
+  "b": 29.55,
+  "acierto": 0.9,
+  "texto": "Y otra alumna de Lewin, Maria Ovsiankina, descubrió algo aún más incómodo: cuando nos cortan algo, sentimos el impulso de volver a ello.",
+  "voz": "Y otra alumna de Lewin, Maria Ovsiánkina, descubrió algo aún más incómodo: cuando nos cortan algo, sentimos el impulso de volver a ello."
+ },
+ {
+  "i": 5,
+  "a": 29.85,
+  "b": 34.23,
+  "acierto": 1.0,
+  "texto": "Gris no quería ver otro capítulo. Necesitaba cerrar el que tenía abierto.",
+  "voz": "Gris no quería ver otro capítulo. Necesitaba cerrar el que tenía abierto."
+ }
+]

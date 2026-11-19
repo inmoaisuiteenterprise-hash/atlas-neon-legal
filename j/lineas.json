@@ -1,0 +1,34 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 6.11,
+  "acierto": 1.0,
+  "texto": "Y entonces salió la nueva temporada de su serie favorita. Ocho capítulos. Todos a la vez.",
+  "voz": "Y entonces salió la nueva temporada de su serie favorita. Ocho capítulos. Todos a la vez."
+ },
+ {
+  "i": 1,
+  "a": 6.41,
+  "b": 8.28,
+  "acierto": 0.6,
+  "texto": "Gris dijo dos. Vio siete.",
+  "voz": "Gris dijo dos. Vio siete."
+ },
+ {
+  "i": 2,
+  "a": 8.58,
+  "b": 17.14,
+  "acierto": 1.0,
+  "texto": "A las cinco de la mañana, con los ojos rojos, se acordó de la frase pegada en su nevera: un día malo, vale. Dos, no.",
+  "voz": "A las cinco de la mañana, con los ojos rojos, se acordó de la frase pegada en su nevera: un día malo, vale. Dos, no."
+ },
+ {
+  "i": 3,
+  "a": 17.44,
+  "b": 22.46,
+  "acierto": 0.93,
+  "texto": "No se castigó. Al día siguiente volvió a empezar. Y probó la regla cuatro.",
+  "voz": "No se castigó. Al día siguiente volvió a empezar. Y probó la regla cuatro."
+ }
+]

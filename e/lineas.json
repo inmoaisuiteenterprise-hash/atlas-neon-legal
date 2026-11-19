@@ -1,0 +1,74 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 4.19,
+  "acierto": 1.0,
+  "texto": "Pero antes, por muy enganchado que estuvieras, había un freno.",
+  "voz": "Pero antes, por muy enganchado que estuvieras, había un freno."
+ },
+ {
+  "i": 1,
+  "a": 4.49,
+  "b": 8.32,
+  "acierto": 1.0,
+  "texto": "Había que levantarse, cambiar de disco… o esperar una semana entera.",
+  "voz": "Había que levantarse, cambiar de disco… o esperar una semana entera."
+ },
+ {
+  "i": 2,
+  "a": 8.62,
+  "b": 12.75,
+  "acierto": 1.0,
+  "texto": "Ese pequeño esfuerzo era un final de verdad. Un momento para decidir.",
+  "voz": "Ese pequeño esfuerzo era un final de verdad. Un momento para decidir."
+ },
+ {
+  "i": 3,
+  "a": 13.05,
+  "b": 17.68,
+  "acierto": 0.93,
+  "texto": "Hoy ese momento dura cinco segundos. Y si no haces nada, el siguiente empieza solo.",
+  "voz": "Hoy ese momento dura cinco segundos. Y si no haces nada, el siguiente empieza solo."
+ },
+ {
+  "i": 4,
+  "a": 17.98,
+  "b": 21.63,
+  "acierto": 0.92,
+  "texto": "Fíjate en el truco: ya no decides seguir. Tienes que decidir parar.",
+  "voz": "Fíjate en el truco: ya no decides seguir. Tienes que decidir parar."
+ },
+ {
+  "i": 5,
+  "a": 21.93,
+  "b": 27.52,
+  "acierto": 1.0,
+  "texto": "Los psicólogos lo llaman el efecto de la opción por defecto: casi siempre nos quedamos con lo que ya viene marcado.",
+  "voz": "Los psicólogos lo llaman el efecto de la opción por defecto: casi siempre nos quedamos con lo que ya viene marcado."
+ },
+ {
+  "i": 6,
+  "a": 27.82,
+  "b": 33.27,
+  "acierto": 0.87,
+  "texto": "En dos mil tres, dos investigadores lo vieron con algo muy serio: la donación de órganos.",
+  "voz": "En dos mil tres, dos investigadores lo vieron con algo muy serio: la donación de órganos."
+ },
+ {
+  "i": 7,
+  "a": 33.57,
+  "b": 41.17,
+  "acierto": 1.0,
+  "texto": "Donde eres donante salvo que digas que no, casi todo el mundo figura como donante. Donde tienes que apuntarte tú, muchísimos menos.",
+  "voz": "Donde eres donante salvo que digas que no, casi todo el mundo figura como donante. Donde tienes que apuntarte tú, muchísimos menos."
+ },
+ {
+  "i": 8,
+  "a": 41.47,
+  "b": 45.91,
+  "acierto": 1.0,
+  "texto": "Si una casilla marcada cambia algo así… imagina lo que hace con un capítulo más.",
+  "voz": "Si una casilla marcada cambia algo así… imagina lo que hace con un capítulo más."
+ }
+]

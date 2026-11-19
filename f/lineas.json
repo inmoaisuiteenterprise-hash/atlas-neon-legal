@@ -1,0 +1,50 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 3.17,
+  "acierto": 1.0,
+  "texto": "Y las plataformas saben exactamente cuándo caes.",
+  "voz": "Y las plataformas saben exactamente cuándo caes."
+ },
+ {
+  "i": 1,
+  "a": 3.47,
+  "b": 11.21,
+  "acierto": 0.74,
+  "texto": "En dos mil quince, Netflix analizó veinticinco series en dieciséis países para encontrar un momento concreto: el capítulo del enganche.",
+  "voz": "En dos mil quince, Netflix analizó veinticinco series en dieciséis países para encontrar un momento concreto: el capítulo del enganche."
+ },
+ {
+  "i": 2,
+  "a": 11.51,
+  "b": 15.72,
+  "acierto": 0.8,
+  "texto": "El capítulo a partir del cual el setenta por ciento de la gente se termina la temporada.",
+  "voz": "El capítulo a partir del cual el setenta por ciento de la gente se termina la temporada."
+ },
+ {
+  "i": 3,
+  "a": 16.02,
+  "b": 18.56,
+  "acierto": 1.0,
+  "texto": "¿Y sabes qué descubrieron? Nunca era el primero.",
+  "voz": "¿Y sabes qué descubrieron? Nunca era el primero."
+ },
+ {
+  "i": 4,
+  "a": 18.86,
+  "b": 26.02,
+  "acierto": 0.94,
+  "texto": "De media, hacían falta unos tres. En Breaking Bad, dos. En Cómo conocí a vuestra madre, ocho.",
+  "voz": "De media, hacían falta unos tres. En Breaking Bad, dos. En Cómo conocí a vuestra madre, ocho."
+ },
+ {
+  "i": 5,
+  "a": 26.32,
+  "b": 32.22,
+  "acierto": 1.0,
+  "texto": "Por eso sueltan la temporada entera de golpe. Para que llegues a ese capítulo… esa misma noche.",
+  "voz": "Por eso sueltan la temporada entera de golpe. Para que llegues a ese capítulo… esa misma noche."
+ }
+]

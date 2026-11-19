@@ -1,0 +1,50 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 7.67,
+  "acierto": 0.95,
+  "texto": "Gris lo notaba cada mañana. Café doble a las nueve. Bostezos en cada reunión. Y la sensación de haber perdido la noche.",
+  "voz": "Gris lo notaba cada mañana. Café doble a las nueve. Bostezos en cada reunión. Y la sensación de haber perdido la noche."
+ },
+ {
+  "i": 1,
+  "a": 7.97,
+  "b": 11.0,
+  "acierto": 1.0,
+  "texto": "Pero aquí viene lo importante: no es que Gris sea débil.",
+  "voz": "Pero aquí viene lo importante: no es que Gris sea débil."
+ },
+ {
+  "i": 2,
+  "a": 11.3,
+  "b": 18.2,
+  "acierto": 1.0,
+  "texto": "Se juntan tres cosas: una historia cortada en el peor momento, un botón que decide por ti y una temporada entera esperando.",
+  "voz": "Se juntan tres cosas: una historia cortada en el peor momento, un botón que decide por ti y una temporada entera esperando."
+ },
+ {
+  "i": 3,
+  "a": 18.5,
+  "b": 24.1,
+  "acierto": 1.0,
+  "texto": "Es como intentar comer una sola patata… con la bolsa abierta. Y que la bolsa se rellene sola.",
+  "voz": "Es como intentar comer una sola patata… con la bolsa abierta. Y que la bolsa se rellene sola."
+ },
+ {
+  "i": 4,
+  "a": 24.4,
+  "b": 31.06,
+  "acierto": 1.0,
+  "texto": "Y cuando lo ves, lo ves en todas partes: el vídeo que empieza solo, las redes sin última página, la partida más.",
+  "voz": "Y cuando lo ves, lo ves en todas partes: el vídeo que empieza solo, las redes sin última página, la partida más."
+ },
+ {
+  "i": 5,
+  "a": 31.36,
+  "b": 37.29,
+  "acierto": 1.0,
+  "texto": "Todo con la misma idea: quitarte el momento de parar. No es una pelea justa. Pero se puede ganar.",
+  "voz": "Todo con la misma idea: quitarte el momento de parar. No es una pelea justa. Pero se puede ganar."
+ }
+]
