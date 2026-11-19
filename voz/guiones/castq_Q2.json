@@ -1,0 +1,18 @@
+{
+ "modo": "diseno",
+ "instruct": "Male narrator in his thirties from Spain, Castilian Spanish accent (c and z pronounced as 'th'). Deep, slightly husky and captivating voice, like a Spanish true-crime podcast host. Builds suspense with dramatic pauses and a rich emotional range, intimate and gripping.",
+ "lineas": [
+  {
+   "texto": "Son las dos de la madrugada. Le quedan cinco segundos para decidir… y no va a decidir él.",
+   "pausa": 0.6
+  },
+  {
+   "texto": "En mil novecientos veintisiete, una psicóloga descubrió algo que tu cerebro hace cada noche, sin que te des cuenta.",
+   "pausa": 0.5
+  },
+  {
+   "texto": "No es culpa tuya. Pero sí es tu decisión.",
+   "pausa": 0.6
+  }
+ ]
+}

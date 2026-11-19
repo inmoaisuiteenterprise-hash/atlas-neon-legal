@@ -1,0 +1,18 @@
+{
+ "modo": "diseno",
+ "instruct": "Young adult male narrator from Madrid, Spain, speaking Castilian Spanish with a clear Spain accent (c and z pronounced as 'th'). Warm, close and charismatic storytelling voice with lively, expressive intonation, like a popular Spanish YouTube storyteller. Medium-low pitch, crisp diction, natural conversational pace, never monotone.",
+ "lineas": [
+  {
+   "texto": "Son las dos de la madrugada. Le quedan cinco segundos para decidir… y no va a decidir él.",
+   "pausa": 0.6
+  },
+  {
+   "texto": "En mil novecientos veintisiete, una psicóloga descubrió algo que tu cerebro hace cada noche, sin que te des cuenta.",
+   "pausa": 0.5
+  },
+  {
+   "texto": "No es culpa tuya. Pero sí es tu decisión.",
+   "pausa": 0.6
+  }
+ ]
+}

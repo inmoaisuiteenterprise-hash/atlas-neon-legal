@@ -1,0 +1,59 @@
+# Narración con Qwen3-TTS (Apache 2.0, CPU). Repositorio público: sin secretos y sin coste.
+# Se lanza al subir voz/pedidos_qwen/<trabajo>.json:  {"trabajo": "raiz03", "ref": "ref_01523.wav", "escenas": ["a", "b"]}
+# Lee voz/guiones/<trabajo>_<escena>.json y deja el audio en la rama salidas-<trabajo>. No publica nada en YouTube.
+name: "Voz Qwen · narración"
+on:
+  push:
+    branches: [main]
+    paths: ["voz/pedidos_qwen/*.json"]
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  plan:
+    runs-on: ubuntu-latest
+    outputs:
+      escenas: ${{ steps.p.outputs.escenas }}
+      trabajo: ${{ steps.p.outputs.trabajo }}
+      ref: ${{ steps.p.outputs.ref }}
+    steps:
+      - uses: actions/checkout@v4
+        with: { fetch-depth: 2 }
+      - id: p
+        run: |
+          f=$(git diff --name-only HEAD~1 HEAD -- voz/pedidos_qwen | tail -1); [ -n "$f" ] || f=$(ls -t voz/pedidos_qwen/*.json | head -1); cat $f
+          python3 -c "import json;p=json.load(open('$f'));print('escenas='+json.dumps(p['escenas']));print('trabajo='+p['trabajo']);print('ref='+p.get('ref','ref_01523.wav'))" >> $GITHUB_OUTPUT
+  voz:
+    needs: plan
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+    strategy:
+      fail-fast: false
+      matrix:
+        escena: ${{ fromJSON(needs.plan.outputs.escenas) }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.11" }
+      - name: Dependencias
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg >/dev/null
+          pip install -q torch torchaudio --index-url https://download.pytorch.org/whl/cpu
+          pip install -q qwen-tts faster-whisper soundfile --extra-index-url https://download.pytorch.org/whl/cpu
+      - name: Escena ${{ matrix.escena }}
+        run: python voz/qwen/qwen.py voz/guiones/${{ needs.plan.outputs.trabajo }}_${{ matrix.escena }}.json out/${{ matrix.escena }}
+      - uses: actions/upload-artifact@v4
+        with: { name: "voz-${{ matrix.escena }}", path: out }
+  juntar:
+    needs: [plan, voz]
+    if: always()
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/download-artifact@v4
+        with: { pattern: "voz-*", path: salida, merge-multiple: true }
+      - name: Guardar en salidas-${{ needs.plan.outputs.trabajo }}
+        run: |
+          cd salida && ls
+          git init -q -b salidas-${{ needs.plan.outputs.trabajo }} && git add -A
+          git -c user.name=atlas-bot -c user.email=atlas-bot@users.noreply.github.com commit -qm "Narración ${{ needs.plan.outputs.trabajo }}"
+          git push -qf "https://x-access-token:${{ github.token }}@github.com/${GITHUB_REPOSITORY}.git" salidas-${{ needs.plan.outputs.trabajo }}
