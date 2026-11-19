@@ -1,0 +1,31 @@
+{
+ "modo": "clon",
+ "ref": "ref_qwen_Q1.wav",
+ "ref_text": "Son las dos de la madrugada. Le quedan cinco segundos para decidir… y no va a decidir él. En mil novecientos veintisiete, una psicóloga descubrió algo que tu cerebro hace cada noche, sin que te des cuenta. No es culpa tuya. Pero sí es tu decisión.",
+ "lineas": [
+  {
+   "texto": "Hace un mes, Gris consiguió algo que parecía imposible: sacar el móvil del dormitorio.",
+   "voz": "Hace un mes, Gris consiguió algo que parecía imposible: sacar el móvil del dormitorio."
+  },
+  {
+   "texto": "Dormía mejor. Volvía a leer. Estaba orgulloso.",
+   "voz": "Dormía mejor. Volvía a leer. Estaba orgulloso."
+  },
+  {
+   "texto": "Hasta que un viernes, reventado, se tiró en el sofá. Y un amigo le escribió: «tienes que ver esta serie».",
+   "voz": "Hasta que un viernes, reventado, se tiró en el sofá. Y un amigo le escribió: «tienes que ver esta serie»."
+  },
+  {
+   "texto": "El primer capítulo… estaba bien. Sin más.",
+   "voz": "El primer capítulo… estaba bien. Sin más."
+  },
+  {
+   "texto": "El segundo, mejor. Y el tercero… ya no pudo soltarlo.",
+   "voz": "El segundo, mejor. Y el tercero… ya no pudo soltarlo."
+  },
+  {
+   "texto": "Cuando miró el reloj eran las cuatro. Lo que Gris no sabía es que eso no era casualidad. Estaba diseñado.",
+   "voz": "Cuando miró el reloj eran las cuatro. Lo que Gris no sabía es que eso no era casualidad. Estaba diseñado."
+  }
+ ]
+}

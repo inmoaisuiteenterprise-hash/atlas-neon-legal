@@ -1,0 +1,23 @@
+{
+ "modo": "clon",
+ "ref": "ref_qwen_Q1.wav",
+ "ref_text": "Son las dos de la madrugada. Le quedan cinco segundos para decidir… y no va a decidir él. En mil novecientos veintisiete, una psicóloga descubrió algo que tu cerebro hace cada noche, sin que te des cuenta. No es culpa tuya. Pero sí es tu decisión.",
+ "lineas": [
+  {
+   "texto": "La primera noche, el capítulo terminó… y la pantalla se quedó quieta.",
+   "voz": "La primera noche, el capítulo terminó… y la pantalla se quedó quieta."
+  },
+  {
+   "texto": "Sin cuenta atrás. Solo silencio.",
+   "voz": "Sin cuenta atrás. Solo silencio."
+  },
+  {
+   "texto": "Y en ese silencio, Gris tuvo que decidir. Eligió uno más… pero lo eligió él.",
+   "voz": "Y en ese silencio, Gris tuvo que decidir. Eligió uno más… pero lo eligió él."
+  },
+  {
+   "texto": "Las noches siguientes, dos capítulos. A veces tres. Pero a la cama antes que nunca.",
+   "voz": "Las noches siguientes, dos capítulos. A veces tres. Pero a la cama antes que nunca."
+  }
+ ]
+}

@@ -1,0 +1,43 @@
+{
+ "modo": "clon",
+ "ref": "ref_qwen_Q1.wav",
+ "ref_text": "Son las dos de la madrugada. Le quedan cinco segundos para decidir… y no va a decidir él. En mil novecientos veintisiete, una psicóloga descubrió algo que tu cerebro hace cada noche, sin que te des cuenta. No es culpa tuya. Pero sí es tu decisión.",
+ "lineas": [
+  {
+   "texto": "Pero antes, por muy enganchado que estuvieras, había un freno.",
+   "voz": "Pero antes, por muy enganchado que estuvieras, había un freno."
+  },
+  {
+   "texto": "Había que levantarse, cambiar de disco… o esperar una semana entera.",
+   "voz": "Había que levantarse, cambiar de disco… o esperar una semana entera."
+  },
+  {
+   "texto": "Ese pequeño esfuerzo era un final de verdad. Un momento para decidir.",
+   "voz": "Ese pequeño esfuerzo era un final de verdad. Un momento para decidir."
+  },
+  {
+   "texto": "Hoy ese momento dura cinco segundos. Y si no haces nada, el siguiente empieza solo.",
+   "voz": "Hoy ese momento dura cinco segundos. Y si no haces nada, el siguiente empieza solo."
+  },
+  {
+   "texto": "Fíjate en el truco: ya no decides seguir. Tienes que decidir parar.",
+   "voz": "Fíjate en el truco: ya no decides seguir. Tienes que decidir parar."
+  },
+  {
+   "texto": "Los psicólogos lo llaman el efecto de la opción por defecto: casi siempre nos quedamos con lo que ya viene marcado.",
+   "voz": "Los psicólogos lo llaman el efecto de la opción por defecto: casi siempre nos quedamos con lo que ya viene marcado."
+  },
+  {
+   "texto": "En dos mil tres, dos investigadores lo vieron con algo muy serio: la donación de órganos.",
+   "voz": "En dos mil tres, dos investigadores lo vieron con algo muy serio: la donación de órganos."
+  },
+  {
+   "texto": "Donde eres donante salvo que digas que no, casi todo el mundo figura como donante. Donde tienes que apuntarte tú, muchísimos menos.",
+   "voz": "Donde eres donante salvo que digas que no, casi todo el mundo figura como donante. Donde tienes que apuntarte tú, muchísimos menos."
+  },
+  {
+   "texto": "Si una casilla marcada cambia algo así… imagina lo que hace con un capítulo más.",
+   "voz": "Si una casilla marcada cambia algo así… imagina lo que hace con un capítulo más."
+  }
+ ]
+}

@@ -1,0 +1,43 @@
+{
+ "modo": "clon",
+ "ref": "ref_qwen_Q1.wav",
+ "ref_text": "Son las dos de la madrugada. Le quedan cinco segundos para decidir… y no va a decidir él. En mil novecientos veintisiete, una psicóloga descubrió algo que tu cerebro hace cada noche, sin que te des cuenta. No es culpa tuya. Pero sí es tu decisión.",
+ "lineas": [
+  {
+   "texto": "Las cuatro y treinta y siete de la madrugada.",
+   "voz": "Las cuatro y treinta y siete de la madrugada."
+  },
+  {
+   "texto": "Gris entra a trabajar en tres horas. Lo sabe.",
+   "voz": "Gris entra a trabajar en tres horas. Lo sabe."
+  },
+  {
+   "texto": "En la pantalla, el capítulo termina… y aparece una cuenta atrás. Cinco. Cuatro. Tres.",
+   "voz": "En la pantalla, el capítulo termina… y aparece una cuenta atrás. Cinco. Cuatro. Tres."
+  },
+  {
+   "texto": "Gris tiene el mando en la mano. Podría apagar.",
+   "voz": "Gris tiene el mando en la mano. Podría apagar."
+  },
+  {
+   "texto": "No lo hace.",
+   "voz": "No lo hace."
+  },
+  {
+   "texto": "Y hace seis capítulos se prometió lo mismo: solo uno.",
+   "voz": "Y hace seis capítulos se prometió lo mismo: solo uno."
+  },
+  {
+   "texto": "¿Por qué es tan fácil empezar una serie… y tan difícil parar?",
+   "voz": "¿Por qué es tan fácil empezar una serie… y tan difícil parar?"
+  },
+  {
+   "texto": "Hoy lo vas a entender. Y al final te cuento el truco más raro, el que le devolvió las noches a Gris.",
+   "voz": "Hoy lo vas a entender. Y al final te cuento el truco más raro, el que le devolvió las noches a Gris."
+  },
+  {
+   "texto": "Proyecto Gris. Episodio dos: solo un capítulo más.",
+   "voz": "Proyecto Gris. Episodio dos: solo un capítulo más."
+  }
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "modo": "clon",
+ "ref": "ref_qwen_Q1.wav",
+ "ref_text": "Son las dos de la madrugada. Le quedan cinco segundos para decidir… y no va a decidir él. En mil novecientos veintisiete, una psicóloga descubrió algo que tu cerebro hace cada noche, sin que te des cuenta. No es culpa tuya. Pero sí es tu decisión.",
+ "lineas": [
+  {
+   "texto": "Un mes después, Gris sigue viendo series. Le encantan. Pero ahora las elige él.",
+   "voz": "Un mes después, Gris sigue viendo series. Le encantan. Pero ahora las elige él."
+  },
+  {
+   "texto": "Duerme. Recuerda lo que ve. Y cuando una serie termina, siente algo que había olvidado: que ha terminado.",
+   "voz": "Duerme. Recuerda lo que ve. Y cuando una serie termina, siente algo que había olvidado: que ha terminado."
+  },
+  {
+   "texto": "Las series no son el enemigo. El problema empieza cuando dejas de elegir tú el siguiente capítulo… y empieza a elegirte él a ti.",
+   "voz": "Las series no son el enemigo. El problema empieza cuando dejas de elegir tú el siguiente capítulo… y empieza a elegirte él a ti."
+  },
+  {
+   "texto": "Así que esta noche, haz una sola cosa: entra en ajustes y apaga la reproducción automática. Treinta segundos.",
+   "voz": "Así que esta noche, haz una sola cosa: entra en ajustes y apaga la reproducción automática. Treinta segundos."
+  }
+ ]
+}

@@ -1,0 +1,31 @@
+{
+ "modo": "clon",
+ "ref": "ref_qwen_Q1.wav",
+ "ref_text": "Son las dos de la madrugada. Le quedan cinco segundos para decidir… y no va a decidir él. En mil novecientos veintisiete, una psicóloga descubrió algo que tu cerebro hace cada noche, sin que te des cuenta. No es culpa tuya. Pero sí es tu decisión.",
+ "lineas": [
+  {
+   "texto": "Así que Gris hizo lo mismo que con el móvil: no pelear contra sí mismo. Cambiar las reglas.",
+   "voz": "Así que Gris hizo lo mismo que con el móvil: no pelear contra sí mismo. Cambiar las reglas."
+  },
+  {
+   "texto": "Regla uno: apagó la reproducción automática. Ahora cada capítulo es un clic. Uno solo. Pero suyo.",
+   "voz": "Regla uno: apagó la reproducción automática. Ahora cada capítulo es un clic. Uno solo. Pero suyo."
+  },
+  {
+   "texto": "Regla dos: antes de empezar, decide cuántos. En voz alta. «Dos». Ni uno más.",
+   "voz": "Regla dos: antes de empezar, decide cuántos. En voz alta. «Dos». Ni uno más."
+  },
+  {
+   "texto": "Regla tres: nada de series en la cama. La última pantalla, una hora antes de dormir.",
+   "voz": "Regla tres: nada de series en la cama. La última pantalla, una hora antes de dormir."
+  },
+  {
+   "texto": "Y la regla cuatro… es la más rara. Y la que de verdad funcionó.",
+   "voz": "Y la regla cuatro… es la más rara. Y la que de verdad funcionó."
+  },
+  {
+   "texto": "Pero primero, mira cómo le fue.",
+   "voz": "Pero primero, mira cómo le fue."
+  }
+ ]
+}

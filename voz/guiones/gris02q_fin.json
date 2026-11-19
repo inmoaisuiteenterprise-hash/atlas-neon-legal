@@ -1,0 +1,15 @@
+{
+ "modo": "clon",
+ "ref": "ref_qwen_Q1.wav",
+ "ref_text": "Son las dos de la madrugada. Le quedan cinco segundos para decidir… y no va a decidir él. En mil novecientos veintisiete, una psicóloga descubrió algo que tu cerebro hace cada noche, sin que te des cuenta. No es culpa tuya. Pero sí es tu decisión.",
+ "lineas": [
+  {
+   "texto": "Gris ha dejado su segunda adicción. Pero esa misma semana, llamaron a la puerta… con un paquete que no recordaba haber pedido.",
+   "voz": "Gris ha dejado su segunda adicción. Pero esa misma semana, llamaron a la puerta… con un paquete que no recordaba haber pedido."
+  },
+  {
+   "texto": "Suscríbete para ver qué hay dentro. Y si conoces a alguien que siempre dice «solo uno más»… mándale este vídeo.",
+   "voz": "Suscríbete para ver qué hay dentro. Y si conoces a alguien que siempre dice «solo uno más»… mándale este vídeo."
+  }
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "modo": "clon",
+ "ref": "ref_qwen_Q1.wav",
+ "ref_text": "Son las dos de la madrugada. Le quedan cinco segundos para decidir… y no va a decidir él. En mil novecientos veintisiete, una psicóloga descubrió algo que tu cerebro hace cada noche, sin que te des cuenta. No es culpa tuya. Pero sí es tu decisión.",
+ "lineas": [
+  {
+   "texto": "Y entonces salió la nueva temporada de su serie favorita. Ocho capítulos. Todos a la vez.",
+   "voz": "Y entonces salió la nueva temporada de su serie favorita. Ocho capítulos. Todos a la vez."
+  },
+  {
+   "texto": "Gris dijo dos. Vio siete.",
+   "voz": "Gris dijo dos. Vio siete."
+  },
+  {
+   "texto": "A las cinco de la mañana, con los ojos rojos, se acordó de la frase pegada en su nevera: un día malo, vale. Dos, no.",
+   "voz": "A las cinco de la mañana, con los ojos rojos, se acordó de la frase pegada en su nevera: un día malo, vale. Dos, no."
+  },
+  {
+   "texto": "No se castigó. Al día siguiente volvió a empezar. Y probó la regla cuatro.",
+   "voz": "No se castigó. Al día siguiente volvió a empezar. Y probó la regla cuatro."
+  }
+ ]
+}

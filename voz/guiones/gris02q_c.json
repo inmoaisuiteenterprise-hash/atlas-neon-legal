@@ -1,0 +1,35 @@
+{
+ "modo": "clon",
+ "ref": "ref_qwen_Q1.wav",
+ "ref_text": "Son las dos de la madrugada. Le quedan cinco segundos para decidir… y no va a decidir él. En mil novecientos veintisiete, una psicóloga descubrió algo que tu cerebro hace cada noche, sin que te des cuenta. No es culpa tuya. Pero sí es tu decisión.",
+ "lineas": [
+  {
+   "texto": "Para entenderlo hay que viajar a Berlín, a los años veinte. A un restaurante.",
+   "voz": "Para entenderlo hay que viajar a Berlín, a los años veinte. A un restaurante."
+  },
+  {
+   "texto": "Un psicólogo, Kurt Lewin, se fijó en algo raro: el camarero recordaba todos los pedidos sin apuntar nada.",
+   "voz": "Un psicólogo, Kurt Lewin, se fijó en algo raro: el camarero recordaba todos los pedidos sin apuntar nada."
+  },
+  {
+   "texto": "Pero en cuanto una mesa pagaba… lo olvidaba todo. Como si borrara la pizarra.",
+   "voz": "Pero en cuanto una mesa pagaba… lo olvidaba todo. Como si borrara la pizarra."
+  },
+  {
+   "texto": "Una alumna suya, Bluma Zeigarnik, decidió ponerlo a prueba.",
+   "voz": "Una alumna suya, Bluma Zeigárnik, decidió ponerlo a prueba."
+  },
+  {
+   "texto": "Dio a varias personas tareas sencillas: puzles, figuras de barro. A unas las dejó terminar. A otras las cortó a la mitad.",
+   "voz": "Dio a varias personas tareas sencillas: puzles, figuras de barro. A unas las dejó terminar. A otras las cortó a la mitad."
+  },
+  {
+   "texto": "Resultado: las tareas interrumpidas se recordaban casi el doble.",
+   "voz": "Resultado: las tareas interrumpidas se recordaban casi el doble."
+  },
+  {
+   "texto": "Lo publicó en mil novecientos veintisiete. Hoy lo llamamos efecto Zeigarnik: tu cerebro no soporta dejar algo a medias.",
+   "voz": "Lo publicó en mil novecientos veintisiete. Hoy lo llamamos efecto Zeigárnik: tu cerebro no soporta dejar algo a medias."
+  }
+ ]
+}

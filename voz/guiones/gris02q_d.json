@@ -1,0 +1,31 @@
+{
+ "modo": "clon",
+ "ref": "ref_qwen_Q1.wav",
+ "ref_text": "Son las dos de la madrugada. Le quedan cinco segundos para decidir… y no va a decidir él. En mil novecientos veintisiete, una psicóloga descubrió algo que tu cerebro hace cada noche, sin que te des cuenta. No es culpa tuya. Pero sí es tu decisión.",
+ "lineas": [
+  {
+   "texto": "Ahora piensa en cómo acaba cada capítulo.",
+   "voz": "Ahora piensa en cómo acaba cada capítulo."
+  },
+  {
+   "texto": "Una puerta que se abre. Un disparo. Alguien a punto de decir la verdad… y negro.",
+   "voz": "Una puerta que se abre. Un disparo. Alguien a punto de decir la verdad… y negro."
+  },
+  {
+   "texto": "Eso se llama cliffhanger: dejar la historia colgando del borde. A propósito.",
+   "voz": "Eso se llama cliffhanger: dejar la historia colgando del borde. A propósito."
+  },
+  {
+   "texto": "Para tu cerebro, eso no es un final. Es una tarea a medias. Una cuenta sin pagar.",
+   "voz": "Para tu cerebro, eso no es un final. Es una tarea a medias. Una cuenta sin pagar."
+  },
+  {
+   "texto": "Y otra alumna de Lewin, Maria Ovsiankina, descubrió algo aún más incómodo: cuando nos cortan algo, sentimos el impulso de volver a ello.",
+   "voz": "Y otra alumna de Lewin, Maria Ovsiánkina, descubrió algo aún más incómodo: cuando nos cortan algo, sentimos el impulso de volver a ello."
+  },
+  {
+   "texto": "Gris no quería ver otro capítulo. Necesitaba cerrar el que tenía abierto.",
+   "voz": "Gris no quería ver otro capítulo. Necesitaba cerrar el que tenía abierto."
+  }
+ ]
+}

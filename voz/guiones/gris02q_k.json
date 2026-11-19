@@ -1,0 +1,35 @@
+{
+ "modo": "clon",
+ "ref": "ref_qwen_Q1.wav",
+ "ref_text": "Son las dos de la madrugada. Le quedan cinco segundos para decidir… y no va a decidir él. En mil novecientos veintisiete, una psicóloga descubrió algo que tu cerebro hace cada noche, sin que te des cuenta. No es culpa tuya. Pero sí es tu decisión.",
+ "lineas": [
+  {
+   "texto": "¿Recuerdas la pregunta del principio? ¿Por qué es tan fácil empezar… y tan difícil parar?",
+   "voz": "¿Recuerdas la pregunta del principio? ¿Por qué es tan fácil empezar… y tan difícil parar?"
+  },
+  {
+   "texto": "Empezar es fácil porque todavía no hay nada a medias.",
+   "voz": "Empezar es fácil porque todavía no hay nada a medias."
+  },
+  {
+   "texto": "Parar es difícil porque te lo piden justo al final, cuando tu cerebro tiene una tarea interrumpida. En el peor momento posible.",
+   "voz": "Parar es difícil porque te lo piden justo al final, cuando tu cerebro tiene una tarea interrumpida. En el peor momento posible."
+  },
+  {
+   "texto": "Así que la regla cuatro le da la vuelta: no pares al final del capítulo. Para a la mitad.",
+   "voz": "Así que la regla cuatro le da la vuelta: no pares al final del capítulo. Para a la mitad."
+  },
+  {
+   "texto": "A mitad de capítulo la historia está tranquila. Sin cliffhanger. Sin cuenta atrás. Es cuando menos cuesta apagar.",
+   "voz": "A mitad de capítulo la historia está tranquila. Sin cliffhanger. Sin cuenta atrás. Es cuando menos cuesta apagar."
+  },
+  {
+   "texto": "Y al día siguiente vuelves con ganas… en vez de con culpa.",
+   "voz": "Y al día siguiente vuelves con ganas… en vez de con culpa."
+  },
+  {
+   "texto": "La primera noche le costó. La tercera, apagó sin pensarlo.",
+   "voz": "La primera noche le costó. La tercera, apagó sin pensarlo."
+  }
+ ]
+}

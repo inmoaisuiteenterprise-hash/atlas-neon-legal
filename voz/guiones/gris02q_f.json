@@ -1,0 +1,31 @@
+{
+ "modo": "clon",
+ "ref": "ref_qwen_Q1.wav",
+ "ref_text": "Son las dos de la madrugada. Le quedan cinco segundos para decidir… y no va a decidir él. En mil novecientos veintisiete, una psicóloga descubrió algo que tu cerebro hace cada noche, sin que te des cuenta. No es culpa tuya. Pero sí es tu decisión.",
+ "lineas": [
+  {
+   "texto": "Y las plataformas saben exactamente cuándo caes.",
+   "voz": "Y las plataformas saben exactamente cuándo caes."
+  },
+  {
+   "texto": "En dos mil quince, Netflix analizó veinticinco series en dieciséis países para encontrar un momento concreto: el capítulo del enganche.",
+   "voz": "En dos mil quince, Netflix analizó veinticinco series en dieciséis países para encontrar un momento concreto: el capítulo del enganche."
+  },
+  {
+   "texto": "El capítulo a partir del cual el setenta por ciento de la gente se termina la temporada.",
+   "voz": "El capítulo a partir del cual el setenta por ciento de la gente se termina la temporada."
+  },
+  {
+   "texto": "¿Y sabes qué descubrieron? Nunca era el primero.",
+   "voz": "¿Y sabes qué descubrieron? Nunca era el primero."
+  },
+  {
+   "texto": "De media, hacían falta unos tres. En Breaking Bad, dos. En Cómo conocí a vuestra madre, ocho.",
+   "voz": "De media, hacían falta unos tres. En Breaking Bad, dos. En Cómo conocí a vuestra madre, ocho."
+  },
+  {
+   "texto": "Por eso sueltan la temporada entera de golpe. Para que llegues a ese capítulo… esa misma noche.",
+   "voz": "Por eso sueltan la temporada entera de golpe. Para que llegues a ese capítulo… esa misma noche."
+  }
+ ]
+}
