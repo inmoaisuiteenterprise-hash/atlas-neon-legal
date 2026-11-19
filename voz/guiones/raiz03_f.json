@@ -1,0 +1,34 @@
+{
+ "lineas": [
+  {
+   "texto": "En el Imperio romano, esa semana de los planetas se extendió por todas partes. Y en el año trescientos veintiuno, el emperador Constantino dio el paso definitivo: el día del Sol sería el día de descanso.",
+   "exa": 1.2,
+   "cfg": 0.35,
+   "pausa": 0.3
+  },
+  {
+   "texto": "Con el cristianismo, ese día pasó a llamarse día del Señor. En latín, dies Dominicus. De ahí, domingo.",
+   "exa": 1.2,
+   "cfg": 0.35,
+   "pausa": 0.3
+  },
+  {
+   "texto": "El sábado se quedó con el nombre del sabbat hebreo. Y los otros cinco días conservaron sus planetas: lunes de la Luna, martes de Marte, miércoles de Mercurio, jueves de Júpiter y viernes de Venus.",
+   "exa": 1.2,
+   "cfg": 0.35,
+   "pausa": 0.3
+  },
+  {
+   "texto": "En inglés todavía se ve al revés: Saturday es el día de Saturno, y Sunday, el día del Sol.",
+   "exa": 1.2,
+   "cfg": 0.35,
+   "pausa": 0.3
+  },
+  {
+   "texto": "Así que cada vez que dices «hasta el lunes», estás nombrando a la Luna, como hacían los romanos.",
+   "exa": 1.2,
+   "cfg": 0.35,
+   "pausa": 0.3
+  }
+ ]
+}

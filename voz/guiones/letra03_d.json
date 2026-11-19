@@ -1,0 +1,28 @@
+{
+ "lineas": [
+  {
+   "texto": "Este efecto es tan fuerte que mueve millones. Un estudio con más de veintidós millones de ventas de coches usados en Estados Unidos lo encontró en el cuentakilómetros.",
+   "exa": 1.1,
+   "cfg": 0.3,
+   "pausa": 0.3
+  },
+  {
+   "texto": "Cada vez que un coche pasa una cifra redonda, como diez mil millas, su precio cae de golpe.",
+   "exa": 1.1,
+   "cfg": 0.3,
+   "pausa": 0.3
+  },
+  {
+   "texto": "Un coche con nueve mil novecientas noventa millas se vende bastante más caro que uno con diez mil. Aunque la diferencia sea un paseo hasta la panadería.",
+   "exa": 1.1,
+   "cfg": 0.3,
+   "pausa": 0.3
+  },
+  {
+   "texto": "Los compradores miran el primer número. Y pagan por él.",
+   "exa": 1.1,
+   "cfg": 0.3,
+   "pausa": 0.3
+  }
+ ]
+}

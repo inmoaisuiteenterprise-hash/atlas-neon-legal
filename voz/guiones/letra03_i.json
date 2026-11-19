@@ -1,0 +1,40 @@
+{
+ "lineas": [
+  {
+   "texto": "Entonces, ¿cómo te defiendes? Con tres reglas.",
+   "exa": 1.1,
+   "cfg": 0.3,
+   "pausa": 0.3
+  },
+  {
+   "texto": "Uno: redondea siempre hacia arriba. Nueve con noventa y nueve son diez euros. Diecinueve con noventa y cinco son veinte. Dilo en voz alta si hace falta.",
+   "exa": 1.1,
+   "cfg": 0.3,
+   "pausa": 0.3
+  },
+  {
+   "texto": "Dos: compara por kilo o por litro, nunca por paquete.",
+   "exa": 1.1,
+   "cfg": 0.3,
+   "pausa": 0.3
+  },
+  {
+   "texto": "Tres: antes de comprar, hazte una pregunta. ¿Lo compraría si no estuviera rebajado, o si costara un número redondo? Si la respuesta es no, no es una oferta. Es un truco.",
+   "exa": 1.1,
+   "cfg": 0.3,
+   "pausa": 0.3
+  },
+  {
+   "texto": "Ninguno de estos trucos te roba mucho de golpe. Te roban poco a poco, compra a compra, durante toda tu vida. Y lo más caro que se llevan no es el dinero. Es la atención con la que decides.",
+   "exa": 1.1,
+   "cfg": 0.3,
+   "pausa": 0.3
+  },
+  {
+   "texto": "Y ahora sí, la pregunta del principio.",
+   "exa": 1.1,
+   "cfg": 0.3,
+   "pausa": 0.3
+  }
+ ]
+}

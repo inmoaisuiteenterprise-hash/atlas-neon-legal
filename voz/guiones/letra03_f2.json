@@ -1,0 +1,34 @@
+{
+ "lineas": [
+  {
+   "texto": "Y hay una versión todavía más extrema del señuelo: la palabra gratis.",
+   "exa": 1.1,
+   "cfg": 0.3,
+   "pausa": 0.3
+  },
+  {
+   "texto": "En otro experimento de Ariely, la gente podía elegir entre una trufa Lindt a quince céntimos y un bombón Hershey's a un céntimo. La mayoría eligió la trufa, que es mucho mejor.",
+   "exa": 1.1,
+   "cfg": 0.3,
+   "pausa": 0.3
+  },
+  {
+   "texto": "Luego bajaron los dos un céntimo. La trufa, a catorce. El bombón, gratis.",
+   "exa": 1.1,
+   "cfg": 0.3,
+   "pausa": 0.3
+  },
+  {
+   "texto": "La diferencia entre los dos era exactamente la misma. Pero de repente, la mayoría eligió el bombón gratis.",
+   "exa": 1.1,
+   "cfg": 0.3,
+   "pausa": 0.3
+  },
+  {
+   "texto": "Cuando algo es gratis, dejamos de comparar. Por eso te regalan los gastos de envío a partir de cierta cantidad. Y acabas añadiendo algo al carrito solo para no pagarlos.",
+   "exa": 1.1,
+   "cfg": 0.3,
+   "pausa": 0.3
+  }
+ ]
+}

@@ -1,0 +1,34 @@
+{
+ "lineas": [
+  {
+   "texto": "Moscú, otoño de mil novecientos veintinueve. Una madre libra el martes. Su marido, el jueves. Su hijo, el sábado.",
+   "exa": 1.2,
+   "cfg": 0.35,
+   "pausa": 0.3
+  },
+  {
+   "texto": "Llevan semanas sin comer juntos un día de descanso. Y no es mala suerte. Es una orden del Estado.",
+   "exa": 1.2,
+   "cfg": 0.35,
+   "pausa": 0.3
+  },
+  {
+   "texto": "La Unión Soviética acaba de abolir la semana.",
+   "exa": 1.2,
+   "cfg": 0.35,
+   "pausa": 0.3
+  },
+  {
+   "texto": "Parece una locura. Pero esconde una pregunta que casi nadie se hace: ¿por qué la semana tiene siete días? Y, sobre todo, ¿por qué van en este orden? ¿Por qué después del domingo viene el lunes, y no el viernes?",
+   "exa": 1.2,
+   "cfg": 0.35,
+   "pausa": 0.3
+  },
+  {
+   "texto": "Te prometo una cosa: al final de este vídeo vas a poder sacar tú mismo el orden de los días con un papel y un boli. Pero para entenderlo hay que viajar cinco mil años atrás.",
+   "exa": 1.2,
+   "cfg": 0.35,
+   "pausa": 0.3
+  }
+ ]
+}

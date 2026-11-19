@@ -1,0 +1,34 @@
+{
+ "lineas": [
+  {
+   "texto": "¿Funciona en la vida real? Unos investigadores del MIT y de la Universidad de Chicago lo comprobaron con un catálogo de ropa de verdad.",
+   "exa": 1.1,
+   "cfg": 0.3,
+   "pausa": 0.3
+  },
+  {
+   "texto": "El mismo vestido apareció a tres precios distintos, según el catálogo que recibía cada cliente: treinta y cuatro, treinta y nueve y cuarenta y cuatro dólares.",
+   "exa": 1.1,
+   "cfg": 0.3,
+   "pausa": 0.3
+  },
+  {
+   "texto": "Piénsalo un segundo. ¿Cuál vendió más?",
+   "exa": 1.1,
+   "cfg": 0.3,
+   "pausa": 0.3
+  },
+  {
+   "texto": "El de treinta y nueve. Más que el de treinta y cuatro, que era más barato.",
+   "exa": 1.1,
+   "cfg": 0.3,
+   "pausa": 0.3
+  },
+  {
+   "texto": "Subir el precio cinco dólares hizo vender más. Solo porque acababa en nueve.",
+   "exa": 1.1,
+   "cfg": 0.3,
+   "pausa": 0.3
+  }
+ ]
+}

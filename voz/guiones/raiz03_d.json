@@ -1,0 +1,28 @@
+{
+ "lineas": [
+  {
+   "texto": "Pero quien convirtió el siete en una costumbre fija fue otro pueblo: el pueblo judío.",
+   "exa": 1.2,
+   "cfg": 0.35,
+   "pausa": 0.3
+  },
+  {
+   "texto": "En su tradición, el mundo se creó en seis días, y el séptimo se descansa. Ese día se llama sabbat.",
+   "exa": 1.2,
+   "cfg": 0.35,
+   "pausa": 0.3
+  },
+  {
+   "texto": "Y aquí ocurre algo importante: por primera vez, la semana deja de depender de la Luna. Siete días, uno detrás de otro, sin parar nunca, pase lo que pase en el cielo.",
+   "exa": 1.2,
+   "cfg": 0.35,
+   "pausa": 0.3
+  },
+  {
+   "texto": "Ese ritmo continuo es el que tú sigues hoy, sin interrupciones desde hace miles de años. Pero seguimos sin saber lo más raro: el orden de los días. Guárdate esa pregunta, porque vuelve al final.",
+   "exa": 1.2,
+   "cfg": 0.35,
+   "pausa": 0.3
+  }
+ ]
+}

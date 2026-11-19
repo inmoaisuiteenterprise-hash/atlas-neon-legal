@@ -1,0 +1,34 @@
+{
+ "lineas": [
+  {
+   "texto": "Casi todo nuestro calendario sale del cielo.",
+   "exa": 1.2,
+   "cfg": 0.35,
+   "pausa": 0.3
+  },
+  {
+   "texto": "El día es una vuelta de la Tierra sobre sí misma. El mes viene, más o menos, de la Luna. Y el año es una vuelta completa alrededor del Sol.",
+   "exa": 1.2,
+   "cfg": 0.35,
+   "pausa": 0.3
+  },
+  {
+   "texto": "Pero la semana no encaja con nada. Un año tiene trescientos sesenta y cinco días. Divídelo entre siete y te sale un número feo: cincuenta y dos semanas y un día suelto.",
+   "exa": 1.2,
+   "cfg": 0.35,
+   "pausa": 0.3
+  },
+  {
+   "texto": "Por eso tu cumpleaños cae cada año en un día distinto de la semana. La semana va por libre.",
+   "exa": 1.2,
+   "cfg": 0.35,
+   "pausa": 0.3
+  },
+  {
+   "texto": "Entonces, si no sale del cielo… ¿de dónde sale?",
+   "exa": 1.2,
+   "cfg": 0.35,
+   "pausa": 0.3
+  }
+ ]
+}

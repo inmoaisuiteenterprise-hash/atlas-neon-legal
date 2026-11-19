@@ -1,0 +1,28 @@
+{
+ "lineas": [
+  {
+   "texto": "Y hablando del súper: el famoso tres por dos.",
+   "exa": 1.1,
+   "cfg": 0.3,
+   "pausa": 0.3
+  },
+  {
+   "texto": "Querías un paquete. Sales con tres. Pagas dos, sí, pero gastas el doble de lo que pensabas.",
+   "exa": 1.1,
+   "cfg": 0.3,
+   "pausa": 0.3
+  },
+  {
+   "texto": "Si el producto se estropea, o simplemente no te lo terminas, el ahorro desaparece. Solo es una oferta si de verdad lo ibas a comprar igual.",
+   "exa": 1.1,
+   "cfg": 0.3,
+   "pausa": 0.3
+  },
+  {
+   "texto": "La pregunta no es cuánto te ahorras. Es cuánto ibas a gastar al entrar por la puerta.",
+   "exa": 1.1,
+   "cfg": 0.3,
+   "pausa": 0.3
+  }
+ ]
+}

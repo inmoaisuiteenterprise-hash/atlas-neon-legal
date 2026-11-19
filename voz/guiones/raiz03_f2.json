@@ -1,0 +1,40 @@
+{
+ "lineas": [
+  {
+   "texto": "Pero no todos los idiomas siguieron el camino de los planetas. Y aquí viene lo más curioso.",
+   "exa": 1.2,
+   "cfg": 0.35,
+   "pausa": 0.3
+  },
+  {
+   "texto": "En portugués, los días se cuentan con números: segunda-feira, terça-feira, quarta-feira. Es decir: segundo día, tercer día, cuarto día. Una costumbre de la Iglesia para no nombrar a los dioses romanos.",
+   "exa": 1.2,
+   "cfg": 0.35,
+   "pausa": 0.3
+  },
+  {
+   "texto": "En chino pasa algo parecido. El lunes es, literalmente, «semana uno». El martes, «semana dos».",
+   "exa": 1.2,
+   "cfg": 0.35,
+   "pausa": 0.3
+  },
+  {
+   "texto": "Y en japonés ocurre algo increíble. Los días llevan los nombres de los mismos siete astros: el lunes es el día de la Luna, y el domingo, el del Sol.",
+   "exa": 1.2,
+   "cfg": 0.35,
+   "pausa": 0.3
+  },
+  {
+   "texto": "Los otros cinco usan los elementos con los que en Asia se conocían esos planetas: fuego para Marte, agua para Mercurio, madera para Júpiter, metal para Venus y tierra para Saturno.",
+   "exa": 1.2,
+   "cfg": 0.35,
+   "pausa": 0.3
+  },
+  {
+   "texto": "Dos culturas que durante siglos apenas tuvieron contacto, y llegaron a la misma semana de siete luces.",
+   "exa": 1.2,
+   "cfg": 0.35,
+   "pausa": 0.3
+  }
+ ]
+}

@@ -1,0 +1,34 @@
+{
+ "lineas": [
+  {
+   "texto": "Ciento veinte años después, lo intentó la Unión Soviética. Y aquí volvemos a la familia del principio.",
+   "exa": 1.2,
+   "cfg": 0.35,
+   "pausa": 0.3
+  },
+  {
+   "texto": "En mil novecientos veintinueve, el gobierno creó la semana continua: cinco días, y cada trabajador con un color que marcaba su día libre.",
+   "exa": 1.2,
+   "cfg": 0.35,
+   "pausa": 0.3
+  },
+  {
+   "texto": "La idea era que las fábricas no pararan nunca. Pero las familias dejaron de coincidir. Los amigos no podían quedar. La vida se rompía en turnos.",
+   "exa": 1.2,
+   "cfg": 0.35,
+   "pausa": 0.3
+  },
+  {
+   "texto": "En mil novecientos treinta y uno lo cambiaron por una semana de seis días. Tampoco funcionó.",
+   "exa": 1.2,
+   "cfg": 0.35,
+   "pausa": 0.3
+  },
+  {
+   "texto": "Y en mil novecientos cuarenta, la Unión Soviética se rindió. Volvió la semana de siete días. Dos imperios lo intentaron, y los dos perdieron.",
+   "exa": 1.2,
+   "cfg": 0.35,
+   "pausa": 0.3
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "lineas": [
+  {
+   "texto": "Segundo truco: el precio exacto.",
+   "exa": 1.1,
+   "cfg": 0.3,
+   "pausa": 0.3
+  },
+  {
+   "texto": "Imagina dos casas. Una cuesta trescientos noventa y cinco mil euros. La otra, trescientos noventa y cuatro mil ochocientos veinte.",
+   "exa": 1.1,
+   "cfg": 0.3,
+   "pausa": 0.3
+  },
+  {
+   "texto": "La segunda parece más ajustada. Como si alguien hubiera calculado al céntimo lo que vale. Y por eso nos parece más barata, aunque la diferencia sea mínima.",
+   "exa": 1.1,
+   "cfg": 0.3,
+   "pausa": 0.3
+  },
+  {
+   "texto": "Unos investigadores lo vieron en ventas reales de viviendas: los precios muy exactos llevaban a contraofertas más altas. El comprador regateaba menos.",
+   "exa": 1.1,
+   "cfg": 0.3,
+   "pausa": 0.3
+  }
+ ]
+}

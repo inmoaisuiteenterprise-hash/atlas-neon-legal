@@ -1,0 +1,34 @@
+{
+ "lineas": [
+  {
+   "texto": "Viajemos a Mesopotamia, entre los ríos Tigris y Éufrates, hace más de cuatro mil años.",
+   "exa": 1.2,
+   "cfg": 0.35,
+   "pausa": 0.3
+  },
+  {
+   "texto": "Allí, los sacerdotes vigilaban el cielo cada noche desde lo alto de sus templos escalonados.",
+   "exa": 1.2,
+   "cfg": 0.35,
+   "pausa": 0.3
+  },
+  {
+   "texto": "Y vieron algo que tú también puedes ver a simple vista: siete luces que no se quedan quietas como las estrellas. El Sol, la Luna, Marte, Mercurio, Júpiter, Venus y Saturno.",
+   "exa": 1.2,
+   "cfg": 0.35,
+   "pausa": 0.3
+  },
+  {
+   "texto": "Hay más. Cada fase de la Luna, de luna nueva a cuarto creciente, de ahí a llena, dura unos siete días y medio.",
+   "exa": 1.2,
+   "cfg": 0.35,
+   "pausa": 0.3
+  },
+  {
+   "texto": "Siete luces errantes y una Luna que cambia cada siete días. Para aquella gente, el siete no era un número cualquiera. Era el número del cielo.",
+   "exa": 1.2,
+   "cfg": 0.35,
+   "pausa": 0.3
+  }
+ ]
+}

@@ -1,0 +1,34 @@
+{
+ "lineas": [
+  {
+   "texto": "Pero ojo, porque el siete no fue la única opción. Otras civilizaciones probaron semanas muy distintas.",
+   "exa": 1.2,
+   "cfg": 0.35,
+   "pausa": 0.3
+  },
+  {
+   "texto": "En el antiguo Egipto, el año se dividía en grupos de diez días, guiados por estrellas que salían una detrás de otra en el horizonte.",
+   "exa": 1.2,
+   "cfg": 0.35,
+   "pausa": 0.3
+  },
+  {
+   "texto": "Los primeros romanos tenían una semana de ocho días, marcada por el día de mercado: las nundinae. Cada ocho días, la gente del campo bajaba a la ciudad a vender.",
+   "exa": 1.2,
+   "cfg": 0.35,
+   "pausa": 0.3
+  },
+  {
+   "texto": "Y en Bali, todavía hoy, se usa un calendario en el que conviven a la vez semanas de uno, dos, tres y hasta diez días.",
+   "exa": 1.2,
+   "cfg": 0.35,
+   "pausa": 0.3
+  },
+  {
+   "texto": "Es decir: la semana puede durar casi cualquier cosa. Lo raro no es que exista. Lo raro es que, de todas las opciones, el planeta entero acabara usando la misma.",
+   "exa": 1.2,
+   "cfg": 0.35,
+   "pausa": 0.3
+  }
+ ]
+}

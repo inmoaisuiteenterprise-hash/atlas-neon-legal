@@ -1,0 +1,40 @@
+{
+ "lineas": [
+  {
+   "texto": "Tercer truco, y mi favorito: el señuelo.",
+   "exa": 1.1,
+   "cfg": 0.3,
+   "pausa": 0.3
+  },
+  {
+   "texto": "El economista Dan Ariely lo contó con una suscripción real a la revista The Economist. Había tres opciones.",
+   "exa": 1.1,
+   "cfg": 0.3,
+   "pausa": 0.3
+  },
+  {
+   "texto": "Solo digital, cincuenta y nueve dólares. Solo papel, ciento veinticinco. Y papel más digital… también ciento veinticinco.",
+   "exa": 1.1,
+   "cfg": 0.3,
+   "pausa": 0.3
+  },
+  {
+   "texto": "¿Quién elegiría solo papel, si por lo mismo te llevas las dos? Nadie. Y no hace falta: esa opción existe para que la tercera parezca un regalo.",
+   "exa": 1.1,
+   "cfg": 0.3,
+   "pausa": 0.3
+  },
+  {
+   "texto": "Cuando Ariely se lo planteó a sus alumnos, la mayoría eligió el pack de ciento veinticinco. Cuando quitó la opción absurda, la mayoría pasó a elegir la barata.",
+   "exa": 1.1,
+   "cfg": 0.3,
+   "pausa": 0.3
+  },
+  {
+   "texto": "La opción que nadie quiere es la que más vende. Lo vas a ver en todas partes: en los tamaños de las palomitas, en las tarifas del móvil, en los menús.",
+   "exa": 1.1,
+   "cfg": 0.3,
+   "pausa": 0.3
+  }
+ ]
+}

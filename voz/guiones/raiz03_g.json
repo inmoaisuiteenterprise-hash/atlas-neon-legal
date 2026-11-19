@@ -1,0 +1,40 @@
+{
+ "lineas": [
+  {
+   "texto": "Durante siglos, nadie se atrevió a tocar la semana. Hasta que llegó la Revolución francesa.",
+   "exa": 1.2,
+   "cfg": 0.35,
+   "pausa": 0.3
+  },
+  {
+   "texto": "En mil setecientos noventa y tres, Francia quiso borrar todo lo antiguo. Un calendario nuevo, racional, basado en el número diez.",
+   "exa": 1.2,
+   "cfg": 0.35,
+   "pausa": 0.3
+  },
+  {
+   "texto": "Meses de treinta días, divididos en tres décadas de diez días cada una. Primidi, duodi, tridi… hasta décadi, el único día de descanso.",
+   "exa": 1.2,
+   "cfg": 0.35,
+   "pausa": 0.3
+  },
+  {
+   "texto": "Incluso intentaron que el día tuviera diez horas, y cada hora cien minutos. Se fabricaron relojes decimales.",
+   "exa": 1.2,
+   "cfg": 0.35,
+   "pausa": 0.3
+  },
+  {
+   "texto": "El problema era evidente: antes descansabas uno de cada siete días. Ahora, uno de cada diez. A la gente no le gustó nada.",
+   "exa": 1.2,
+   "cfg": 0.35,
+   "pausa": 0.3
+  },
+  {
+   "texto": "Los relojes decimales duraron poco más de un año. Y en mil ochocientos seis, Napoleón devolvió a Francia el calendario de siempre.",
+   "exa": 1.2,
+   "cfg": 0.35,
+   "pausa": 0.3
+  }
+ ]
+}

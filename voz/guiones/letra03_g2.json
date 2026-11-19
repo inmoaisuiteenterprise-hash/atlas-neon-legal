@@ -1,0 +1,22 @@
+{
+ "lineas": [
+  {
+   "texto": "Y fíjate en la caja del súper. Chicles, chocolatinas, pilas, revistas. Justo donde esperas en la cola, sin nada que hacer.",
+   "exa": 1.1,
+   "cfg": 0.3,
+   "pausa": 0.3
+  },
+  {
+   "texto": "No es casualidad. Son productos baratos que compras sin pensar, porque ya has decidido pagar y el esfuerzo de decir que no parece mayor que el precio.",
+   "exa": 1.1,
+   "cfg": 0.3,
+   "pausa": 0.3
+  },
+  {
+   "texto": "Unos céntimos aquí, un euro allá. Multiplicado por cada visita al súper durante un año, ya no es tan poco. Y no, todavía no me he olvidado de la leche.",
+   "exa": 1.1,
+   "cfg": 0.3,
+   "pausa": 0.3
+  }
+ ]
+}
