@@ -1,0 +1,22 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 4.38,
+  "acierto": 0.69,
+  "texto": "¿Sabes por qué casi todo cuesta nueve con noventa y nueve? No es casualidad.",
+  "exa": 1.2,
+  "cfg": 0.3,
+  "pausa": 0.3
+ },
+ {
+  "i": 1,
+  "a": 4.68,
+  "b": 7.53,
+  "acierto": 1.0,
+  "texto": "Es un truco. Y funciona contigo, aunque creas que no.",
+  "exa": 1.2,
+  "cfg": 0.3,
+  "pausa": 0.3
+ }
+]

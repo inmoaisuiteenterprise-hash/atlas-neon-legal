@@ -1,0 +1,22 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 2.88,
+  "acierto": 0.82,
+  "texto": "¿Por qué después del domingo viene el lunes, y no el viernes?",
+  "exa": 1.3,
+  "cfg": 0.2,
+  "pausa": 0.3
+ },
+ {
+  "i": 1,
+  "a": 3.18,
+  "b": 6.48,
+  "acierto": 0.93,
+  "texto": "La respuesta tiene cinco mil años. Y es mucho más rara de lo que crees.",
+  "exa": 1.3,
+  "cfg": 0.2,
+  "pausa": 0.3
+ }
+]
