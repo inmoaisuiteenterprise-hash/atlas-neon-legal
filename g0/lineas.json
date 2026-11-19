@@ -1,0 +1,52 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 4.89,
+  "acierto": 1.0,
+  "texto": "Antes de seguir, una pista que llevas viendo toda la vida en el calendario sin darte cuenta: septiembre.",
+  "exa": 1.2,
+  "cfg": 0.35,
+  "pausa": 0.3
+ },
+ {
+  "i": 1,
+  "a": 5.19,
+  "b": 12.94,
+  "acierto": 0.88,
+  "texto": "Septiembre viene del latín septem, siete. Octubre, de octo, ocho. Noviembre, de novem, nueve. Y diciembre, de decem, diez.",
+  "exa": 1.2,
+  "cfg": 0.35,
+  "pausa": 0.3
+ },
+ {
+  "i": 2,
+  "a": 13.24,
+  "b": 16.34,
+  "acierto": 1.0,
+  "texto": "Pero septiembre es el noveno mes, no el séptimo. ¿Qué ha pasado?",
+  "exa": 1.2,
+  "cfg": 0.35,
+  "pausa": 0.3
+ },
+ {
+  "i": 3,
+  "a": 16.64,
+  "b": 24.64,
+  "acierto": 0.96,
+  "texto": "Que el primer calendario romano empezaba en marzo y tenía solo diez meses. Enero y febrero se añadieron después, al final del año, y con el tiempo pasaron a ir delante.",
+  "exa": 1.2,
+  "cfg": 0.35,
+  "pausa": 0.3
+ },
+ {
+  "i": 4,
+  "a": 24.94,
+  "b": 31.45,
+  "acierto": 0.86,
+  "texto": "Los nombres se quedaron donde estaban. Así que cada vez que dices diciembre, estás diciendo «mes décimo» en un mes que es el duodécimo.",
+  "exa": 1.2,
+  "cfg": 0.35,
+  "pausa": 0.3
+ }
+]

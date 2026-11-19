@@ -1,0 +1,62 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 7.85,
+  "acierto": 1.0,
+  "texto": "Y ahora sí, la pregunta del principio. ¿Por qué los días van en este orden? ¿Por qué después del día del Sol viene el de la Luna, y después el de Marte?",
+  "exa": 1.2,
+  "cfg": 0.35,
+  "pausa": 0.3
+ },
+ {
+  "i": 1,
+  "a": 8.15,
+  "b": 19.11,
+  "acierto": 0.96,
+  "texto": "La respuesta es una de las ideas más curiosas de la Antigüedad. Los astrólogos ordenaban los siete astros de más lento a más rápido: Saturno, Júpiter, Marte, el Sol, Venus, Mercurio y la Luna.",
+  "exa": 1.2,
+  "cfg": 0.35,
+  "pausa": 0.3
+ },
+ {
+  "i": 2,
+  "a": 19.41,
+  "b": 27.09,
+  "acierto": 1.0,
+  "texto": "Luego, a cada hora del día le asignaban uno de ellos, en ese orden, una y otra vez. Y el astro que gobernaba la primera hora le daba nombre al día entero.",
+  "exa": 1.2,
+  "cfg": 0.35,
+  "pausa": 0.3
+ },
+ {
+  "i": 3,
+  "a": 27.39,
+  "b": 36.23,
+  "acierto": 0.96,
+  "texto": "Si el primer día empieza con Saturno, haz la cuenta: veinticuatro horas después, la primera hora le toca al Sol. Al día siguiente, a la Luna. Después a Marte, a Mercurio, a Júpiter y a Venus.",
+  "exa": 1.2,
+  "cfg": 0.35,
+  "pausa": 0.3
+ },
+ {
+  "i": 4,
+  "a": 36.53,
+  "b": 42.94,
+  "acierto": 1.0,
+  "texto": "Sábado, domingo, lunes, martes, miércoles, jueves, viernes. El orden de tu semana salió de repartir horas entre planetas.",
+  "exa": 1.2,
+  "cfg": 0.35,
+  "pausa": 0.3
+ },
+ {
+  "i": 5,
+  "a": 43.24,
+  "b": 52.33,
+  "acierto": 0.9,
+  "texto": "Lo cuenta el historiador romano Dion Casio, hace casi dos mil años. Coge un papel, apunta los siete astros en ese orden y cuenta de veinticuatro en veinticuatro. Te saldrá tu semana.",
+  "exa": 1.2,
+  "cfg": 0.35,
+  "pausa": 0.3
+ }
+]

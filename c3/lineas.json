@@ -1,0 +1,62 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 5.61,
+  "acierto": 0.95,
+  "texto": "Y ya que estamos en Mesopotamia, hay otra cosa que heredaste de allí sin saberlo: la forma de medir el tiempo dentro de cada día.",
+  "exa": 1.2,
+  "cfg": 0.35,
+  "pausa": 0.3
+ },
+ {
+  "i": 1,
+  "a": 5.91,
+  "b": 11.04,
+  "acierto": 0.75,
+  "texto": "Los babilonios contaban en base sesenta. No de diez en diez, como nosotros, sino de sesenta en sesenta.",
+  "exa": 1.2,
+  "cfg": 0.35,
+  "pausa": 0.3
+ },
+ {
+  "i": 2,
+  "a": 11.34,
+  "b": 19.58,
+  "acierto": 0.56,
+  "texto": "Sesenta tiene una ventaja enorme: se puede dividir entre dos, tres, cuatro, cinco, seis, diez, doce, quince, veinte y treinta. Perfecto para repartir sin decimales.",
+  "exa": 1.2,
+  "cfg": 0.35,
+  "pausa": 0.3
+ },
+ {
+  "i": 3,
+  "a": 19.88,
+  "b": 26.22,
+  "acierto": 0.86,
+  "texto": "Por eso una hora tiene sesenta minutos, y un minuto, sesenta segundos. Y por eso un círculo tiene trescientos sesenta grados.",
+  "exa": 1.2,
+  "cfg": 0.35,
+  "pausa": 0.3
+ },
+ {
+  "i": 4,
+  "a": 26.52,
+  "b": 32.86,
+  "acierto": 0.9,
+  "texto": "Los egipcios, por su parte, dividieron el día en doce horas de luz y la noche en otras doce. Así nacieron las veinticuatro horas.",
+  "exa": 1.2,
+  "cfg": 0.35,
+  "pausa": 0.3
+ },
+ {
+  "i": 5,
+  "a": 33.16,
+  "b": 36.76,
+  "acierto": 0.87,
+  "texto": "Cada vez que miras el reloj, estás usando matemáticas de hace más de cuatro mil años.",
+  "exa": 1.2,
+  "cfg": 0.35,
+  "pausa": 0.3
+ }
+]

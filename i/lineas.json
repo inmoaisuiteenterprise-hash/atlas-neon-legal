@@ -1,0 +1,82 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 6.19,
+  "acierto": 1.0,
+  "texto": "Entonces, ¿por qué sobrevive algo que no tiene lógica astronómica? Porque la semana nunca fue astronomía. Es un pacto entre personas.",
+  "exa": 1.2,
+  "cfg": 0.35,
+  "pausa": 0.3
+ },
+ {
+  "i": 1,
+  "a": 6.49,
+  "b": 13.36,
+  "acierto": 1.0,
+  "texto": "Es el día en que coincides con tu familia. El que libras a la vez que tus amigos. El ritmo que compartes con millones de desconocidos sin darte cuenta.",
+  "exa": 1.2,
+  "cfg": 0.35,
+  "pausa": 0.3
+ },
+ {
+  "i": 2,
+  "a": 13.66,
+  "b": 20.07,
+  "acierto": 0.88,
+  "texto": "Y ese pacto sigue cambiando. El fin de semana de dos días es muy reciente: Henry Ford lo popularizó en sus fábricas en mil novecientos veintiséis.",
+  "exa": 1.2,
+  "cfg": 0.35,
+  "pausa": 0.3
+ },
+ {
+  "i": 3,
+  "a": 20.37,
+  "b": 25.33,
+  "acierto": 1.0,
+  "texto": "Hoy, algunos países prueban la semana laboral de cuatro días. Quizá la semana cambie otra vez.",
+  "exa": 1.2,
+  "cfg": 0.35,
+  "pausa": 0.3
+ },
+ {
+  "i": 4,
+  "a": 25.63,
+  "b": 33.27,
+  "acierto": 0.86,
+  "texto": "Piensa en lo que eso significa. Ninguna ley obliga a un pastor de Mongolia y a un oficinista de Madrid a descansar el mismo día. Y aun así, el mundo entero respira al mismo ritmo.",
+  "exa": 1.2,
+  "cfg": 0.35,
+  "pausa": 0.3
+ },
+ {
+  "i": 5,
+  "a": 33.57,
+  "b": 41.85,
+  "acierto": 1.0,
+  "texto": "Pero si algo nos enseña la historia, es esto: puedes cambiar los nombres, las horas y los calendarios. Lo que no puedes romper es la necesidad de parar juntos.",
+  "exa": 1.2,
+  "cfg": 0.35,
+  "pausa": 0.3
+ },
+ {
+  "i": 6,
+  "a": 42.15,
+  "b": 48.1,
+  "acierto": 1.0,
+  "texto": "La próxima vez que digas «por fin es viernes», recuerda que estás repitiendo un ritual que empezó mirando siete luces en el cielo.",
+  "exa": 1.2,
+  "cfg": 0.35,
+  "pausa": 0.3
+ },
+ {
+  "i": 7,
+  "a": 48.4,
+  "b": 57.21,
+  "acierto": 1.0,
+  "texto": "Si te ha gustado, suscríbete a Raíz Curiosa. En el próximo vídeo buscamos el origen de algo que haces cada día sin pensarlo: dar la mano. Y te adelanto que no empezó como un saludo.",
+  "exa": 1.2,
+  "cfg": 0.35,
+  "pausa": 0.3
+ }
+]

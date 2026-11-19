@@ -1,0 +1,52 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 4.82,
+  "acierto": 1.0,
+  "texto": "Pero hubo un tercer intento, mucho más discreto. Y casi lo consigue.",
+  "exa": 1.2,
+  "cfg": 0.35,
+  "pausa": 0.3
+ },
+ {
+  "i": 1,
+  "a": 5.12,
+  "b": 13.71,
+  "acierto": 0.93,
+  "texto": "En los años treinta, una estadounidense llamada Elisabeth Achelis propuso el Calendario Mundial: un año igual todos los años, en el que cada fecha caería siempre en el mismo día de la semana.",
+  "exa": 1.2,
+  "cfg": 0.35,
+  "pausa": 0.3
+ },
+ {
+  "i": 2,
+  "a": 14.01,
+  "b": 18.82,
+  "acierto": 0.89,
+  "texto": "Para cuadrar las cuentas, sobraba un día al año que no pertenecería a ninguna semana. Un día fuera del tiempo.",
+  "exa": 1.2,
+  "cfg": 0.35,
+  "pausa": 0.3
+ },
+ {
+  "i": 3,
+  "a": 19.12,
+  "b": 29.41,
+  "acierto": 0.84,
+  "texto": "La propuesta llegó a las Naciones Unidas en mil novecientos cincuenta y cinco. Y se paró, entre otras razones, por las objeciones religiosas: ese día extra rompía la cadena de semanas que nunca se ha interrumpido.",
+  "exa": 1.2,
+  "cfg": 0.35,
+  "pausa": 0.3
+ },
+ {
+  "i": 4,
+  "a": 29.71,
+  "b": 35.37,
+  "acierto": 1.0,
+  "texto": "Ni la Revolución, ni la Unión Soviética, ni la ONU. La semana de siete días ha ganado todas las batallas.",
+  "exa": 1.2,
+  "cfg": 0.35,
+  "pausa": 0.3
+ }
+]
