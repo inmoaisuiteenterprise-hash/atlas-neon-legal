@@ -1,0 +1,16 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 1.65,
+  "acierto": 1.0,
+  "texto": "¿Quieres saber cómo termina?"
+ },
+ {
+  "i": 1,
+  "a": 1.95,
+  "b": 4.42,
+  "acierto": 0.88,
+  "texto": "Mira el vídeo completo en el canal y descúbrelo."
+ }
+]
