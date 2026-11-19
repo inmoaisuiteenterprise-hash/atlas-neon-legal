@@ -1,0 +1,19 @@
+# Descarga recursos libres (por ejemplo, bancos de sonido con licencia MIT) a la rama "recursos". Sin secretos ni coste.
+name: "Recursos libres"
+on:
+  push:
+    branches: [main]
+    paths: ["recursos/pedido.json"]
+permissions:
+  contents: write
+jobs:
+  bajar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: |
+          mkdir -p /tmp/r && cd /tmp/r
+          python3 -c "import json;[print(x['url'],x['nombre']) for x in json.load(open('$GITHUB_WORKSPACE/recursos/pedido.json'))]" | while read u n; do curl -fsSL "$u" -o "$n" && ls -la "$n"; done
+          cp $GITHUB_WORKSPACE/recursos/pedido.json . ; git init -q -b recursos && git add -A
+          git -c user.name=atlas-bot -c user.email=atlas-bot@users.noreply.github.com commit -qm "Recursos libres"
+          git push -qf "https://x-access-token:${{ github.token }}@github.com/${GITHUB_REPOSITORY}.git" recursos
