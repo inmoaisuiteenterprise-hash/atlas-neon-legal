@@ -1,0 +1,90 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 7.09,
+  "acierto": 1.0,
+  "texto": "Pero una historia a medias no basta. Antes, para ver el siguiente capítulo, había que cambiar de disco… o esperar una semana entera.",
+  "voz": "Pero una historia a medias no basta. Antes, para ver el siguiente capítulo, había que cambiar de disco… o esperar una semana entera.",
+  "exa": 0.95,
+  "cfg": 0.4,
+  "pausa": 0.35
+ },
+ {
+  "i": 1,
+  "a": 7.44,
+  "b": 10.47,
+  "acierto": 1.0,
+  "texto": "Ese pequeño esfuerzo era un final. Un momento para decidir.",
+  "voz": "Ese pequeño esfuerzo era un final. Un momento para decidir.",
+  "exa": 1.3,
+  "cfg": 0.3,
+  "pausa": 0.7
+ },
+ {
+  "i": 2,
+  "a": 11.17,
+  "b": 15.6,
+  "acierto": 0.93,
+  "texto": "Hoy, ese momento dura cinco segundos. Y si no haces nada… el siguiente empieza solo.",
+  "voz": "Hoy, ese momento dura cinco segundos. Y si no haces nada… el siguiente empieza solo.",
+  "exa": 0.95,
+  "cfg": 0.4,
+  "pausa": 0.35
+ },
+ {
+  "i": 3,
+  "a": 15.95,
+  "b": 21.78,
+  "acierto": 1.0,
+  "texto": "Fíjate en el truco: ya no tienes que decidir seguir. Tienes que decidir parar.",
+  "voz": "Fíjate en el truco: ya no tienes que decidir seguir. Tienes que decidir parar.",
+  "exa": 1.05,
+  "cfg": 0.4,
+  "pausa": 0.6
+ },
+ {
+  "i": 4,
+  "a": 22.38,
+  "b": 27.91,
+  "acierto": 1.0,
+  "texto": "Los psicólogos lo llaman el efecto de la opción por defecto. Casi siempre nos quedamos con lo que ya viene marcado.",
+  "voz": "Los psicólogos lo llaman el efecto de la opción por defecto. Casi siempre nos quedamos con lo que ya viene marcado.",
+  "exa": 0.95,
+  "cfg": 0.4,
+  "pausa": 0.35
+ },
+ {
+  "i": 5,
+  "a": 28.26,
+  "b": 40.07,
+  "acierto": 0.91,
+  "texto": "En dos mil tres, dos investigadores lo midieron con algo muy serio: la donación de órganos. En los países donde eres donante salvo que digas que no, casi todo el mundo figura como donante. Donde tienes que apuntarte, muchísimos menos.",
+  "voz": "En dos mil tres, dos investigadores lo midieron con algo muy serio: la donación de órganos. En los países donde eres donante salvo que digas que no, casi todo el mundo figura como donante. Donde tienes que apuntarte, muchísimos menos.",
+  "exa": 1.05,
+  "cfg": 0.4,
+  "pausa": 0.6
+ },
+ {
+  "i": 6,
+  "a": 40.67,
+  "b": 44.98,
+  "acierto": 1.0,
+  "texto": "Si una casilla marcada cambia algo así… imagina lo que hace con un capítulo más.",
+  "voz": "Si una casilla marcada cambia algo así… imagina lo que hace con un capítulo más.",
+  "exa": 0.75,
+  "cfg": 0.5,
+  "pausa": 0.8
+ },
+ {
+  "i": 7,
+  "a": 45.78,
+  "b": 49.5,
+  "acierto": 1.0,
+  "texto": "La reproducción automática se puede desactivar en los ajustes. Pero viene activada.",
+  "voz": "La reproducción automática se puede desactivar en los ajustes. Pero viene activada.",
+  "exa": 0.95,
+  "cfg": 0.4,
+  "pausa": 0.35
+ }
+]

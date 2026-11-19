@@ -1,0 +1,57 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 5.84,
+  "acierto": 1.0,
+  "texto": "Hace un mes, Gris dejó el móvil fuera del cuarto. Y funcionó. Duerme mejor. Ha vuelto a leer.",
+  "voz": "Hace un mes, Gris dejó el móvil fuera del cuarto. Y funcionó. Duerme mejor. Ha vuelto a leer.",
+  "exa": 0.95,
+  "cfg": 0.4,
+  "pausa": 0.35
+ },
+ {
+  "i": 1,
+  "a": 6.19,
+  "b": 11.51,
+  "acierto": 1.0,
+  "texto": "Pero una noche, cansado, se tumbó en el sofá y abrió una serie. Una que le habían recomendado mil veces.",
+  "voz": "Pero una noche, cansado, se tumbó en el sofá y abrió una serie. Una que le habían recomendado mil veces.",
+  "exa": 0.95,
+  "cfg": 0.4,
+  "pausa": 0.35
+ },
+ {
+  "i": 2,
+  "a": 11.86,
+  "b": 14.6,
+  "acierto": 1.0,
+  "texto": "El primer capítulo… estaba bien. Nada del otro mundo.",
+  "voz": "El primer capítulo… estaba bien. Nada del otro mundo.",
+  "exa": 1.05,
+  "cfg": 0.4,
+  "pausa": 0.6
+ },
+ {
+  "i": 3,
+  "a": 15.2,
+  "b": 19.46,
+  "acierto": 0.88,
+  "texto": "Y aun así, cuatro horas después, seguía ahí.",
+  "voz": "Y aun así, cuatro horas después, seguía ahí.",
+  "exa": 1.3,
+  "cfg": 0.3,
+  "pausa": 0.7
+ },
+ {
+  "i": 4,
+  "a": 20.16,
+  "b": 23.71,
+  "acierto": 1.0,
+  "texto": "Lo que Gris no sabía es que eso no fue un accidente. Fue un diseño.",
+  "voz": "Lo que Gris no sabía es que eso no fue un accidente. Fue un diseño.",
+  "exa": 0.75,
+  "cfg": 0.5,
+  "pausa": 0.8
+ }
+]

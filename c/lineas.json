@@ -1,0 +1,79 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 5.46,
+  "acierto": 0.88,
+  "texto": "Hace casi cien años, un psicólogo alemán llamado Kurt Lewin se fijó en algo raro en un restaurante.",
+  "voz": "Hace casi cien años, un psicólogo alemán llamado Kurt Lévin se fijó en algo raro en un restaurante.",
+  "exa": 0.95,
+  "cfg": 0.4,
+  "pausa": 0.35
+ },
+ {
+  "i": 1,
+  "a": 5.81,
+  "b": 11.07,
+  "acierto": 1.0,
+  "texto": "Los camareros recordaban perfectamente lo que había pedido cada mesa… mientras la cuenta estaba sin pagar.",
+  "voz": "Los camareros recordaban perfectamente lo que había pedido cada mesa… mientras la cuenta estaba sin pagar.",
+  "exa": 0.95,
+  "cfg": 0.4,
+  "pausa": 0.35
+ },
+ {
+  "i": 2,
+  "a": 11.42,
+  "b": 15.3,
+  "acierto": 1.0,
+  "texto": "En cuanto la mesa pagaba, lo olvidaban. Como si alguien hubiera borrado la pizarra.",
+  "voz": "En cuanto la mesa pagaba, lo olvidaban. Como si alguien hubiera borrado la pizarra.",
+  "exa": 1.3,
+  "cfg": 0.3,
+  "pausa": 0.7
+ },
+ {
+  "i": 3,
+  "a": 16.0,
+  "b": 25.78,
+  "acierto": 0.86,
+  "texto": "Una alumna suya, Bluma Zeigarnik, lo puso a prueba. Dio a varias personas tareas sencillas, como puzles o figuras de barro. Algunas las dejó terminar. Otras las interrumpió a la mitad.",
+  "voz": "Una alumna suya, Bluma Zeigárnik, lo puso a prueba. Dio a varias personas tareas sencillas, como puzles o figuras de barro. Algunas las dejó terminar. Otras las interrumpió a la mitad.",
+  "exa": 0.95,
+  "cfg": 0.4,
+  "pausa": 0.35
+ },
+ {
+  "i": 4,
+  "a": 26.13,
+  "b": 32.05,
+  "acierto": 1.0,
+  "texto": "Después les preguntó qué recordaban. Las tareas interrumpidas se recordaban mucho mejor. Casi el doble.",
+  "voz": "Después les preguntó qué recordaban. Las tareas interrumpidas se recordaban mucho mejor. Casi el doble.",
+  "exa": 1.05,
+  "cfg": 0.4,
+  "pausa": 0.6
+ },
+ {
+  "i": 5,
+  "a": 32.65,
+  "b": 38.67,
+  "acierto": 0.79,
+  "texto": "Lo publicó en mil novecientos veintisiete. Hoy se llama efecto Zeigarnik. Tu cerebro no soporta las cosas a medias.",
+  "voz": "Lo publicó en mil novecientos veintisiete. Hoy se llama efecto Zeigárnik. Tu cerebro no soporta las cosas a medias.",
+  "exa": 0.95,
+  "cfg": 0.4,
+  "pausa": 0.35
+ },
+ {
+  "i": 6,
+  "a": 39.02,
+  "b": 43.68,
+  "acierto": 1.0,
+  "texto": "Y ahora piensa en cómo acaba cada capítulo de tu serie favorita.",
+  "voz": "Y ahora piensa en cómo acaba cada capítulo de tu serie favorita.",
+  "exa": 1.3,
+  "cfg": 0.3,
+  "pausa": 0.7
+ }
+]

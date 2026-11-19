@@ -1,0 +1,46 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 4.28,
+  "acierto": 1.0,
+  "texto": "Así que, cuando no puedes parar, no es que seas débil.",
+  "voz": "Así que, cuando no puedes parar, no es que seas débil.",
+  "exa": 0.95,
+  "cfg": 0.4,
+  "pausa": 0.35
+ },
+ {
+  "i": 1,
+  "a": 4.63,
+  "b": 10.97,
+  "acierto": 0.95,
+  "texto": "Se juntan tres cosas: una historia que se corta en el peor momento, un botón que decide por ti, y una temporada entera esperando.",
+  "voz": "Se juntan tres cosas: una historia que se corta en el peor momento, un botón que decide por ti, y una temporada entera esperando.",
+  "exa": 0.95,
+  "cfg": 0.4,
+  "pausa": 0.35
+ },
+ {
+  "i": 2,
+  "a": 11.32,
+  "b": 16.27,
+  "acierto": 0.93,
+  "texto": "Es como intentar comer una sola patata… con la bolsa abierta, en la mano, y rellenándose sola.",
+  "voz": "Es como intentar comer una sola patata… con la bolsa abierta, en la mano, y rellenándose sola.",
+  "exa": 1.3,
+  "cfg": 0.3,
+  "pausa": 0.7
+ },
+ {
+  "i": 3,
+  "a": 16.97,
+  "b": 19.07,
+  "acierto": 1.0,
+  "texto": "No es una pelea justa. Pero se puede ganar.",
+  "voz": "No es una pelea justa. Pero se puede ganar.",
+  "exa": 0.75,
+  "cfg": 0.5,
+  "pausa": 0.8
+ }
+]

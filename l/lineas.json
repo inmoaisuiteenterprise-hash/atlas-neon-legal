@@ -1,0 +1,46 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 5.1,
+  "acierto": 1.0,
+  "texto": "Un mes después, Gris sigue viendo series. Le encantan. Pero ahora las elige él.",
+  "voz": "Un mes después, Gris sigue viendo series. Le encantan. Pero ahora las elige él.",
+  "exa": 0.95,
+  "cfg": 0.4,
+  "pausa": 0.35
+ },
+ {
+  "i": 1,
+  "a": 5.45,
+  "b": 12.3,
+  "acierto": 1.0,
+  "texto": "Duerme. Se acuerda de lo que ve. Y cuando una serie termina, siente algo que había olvidado: que ha terminado.",
+  "voz": "Duerme. Se acuerda de lo que ve. Y cuando una serie termina, siente algo que había olvidado: que ha terminado.",
+  "exa": 0.75,
+  "cfg": 0.5,
+  "pausa": 0.8
+ },
+ {
+  "i": 2,
+  "a": 13.1,
+  "b": 21.3,
+  "acierto": 0.96,
+  "texto": "Las series no son el enemigo. Son de lo mejor que tenemos. El problema es cuando dejas de elegir el siguiente capítulo… y empieza a elegirte él a ti.",
+  "voz": "Las series no son el enemigo. Son de lo mejor que tenemos. El problema es cuando dejas de elegir el siguiente capítulo… y empieza a elegirte él a ti.",
+  "exa": 0.95,
+  "cfg": 0.4,
+  "pausa": 0.35
+ },
+ {
+  "i": 3,
+  "a": 21.65,
+  "b": 29.1,
+  "acierto": 0.86,
+  "texto": "Así que esta noche, haz una sola cosa. Entra en los ajustes y apaga la reproducción automática. Treinta segundos. Y mira qué pasa.",
+  "voz": "Así que esta noche, haz una sola cosa. Entra en los ajustes y apaga la reproducción automática. Treinta segundos. Y mira qué pasa.",
+  "exa": 0.75,
+  "cfg": 0.5,
+  "pausa": 0.8
+ }
+]

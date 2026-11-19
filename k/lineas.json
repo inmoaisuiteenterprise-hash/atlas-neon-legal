@@ -1,0 +1,68 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 4.43,
+  "acierto": 0.86,
+  "texto": "¿Recuerdas la pregunta del principio? Por qué es tan fácil empezar… y tan difícil parar.",
+  "voz": "¿Recuerdas la pregunta del principio? Por qué es tan fácil empezar… y tan difícil parar.",
+  "exa": 1.25,
+  "cfg": 0.3,
+  "pausa": 0.55
+ },
+ {
+  "i": 1,
+  "a": 4.98,
+  "b": 12.86,
+  "acierto": 1.0,
+  "texto": "Empezar es fácil porque todavía no hay nada a medias. Parar es difícil porque te lo piden justo cuando tu cerebro tiene una tarea interrumpida. En el peor momento posible.",
+  "voz": "Empezar es fácil porque todavía no hay nada a medias. Parar es difícil porque te lo piden justo cuando tu cerebro tiene una tarea interrumpida. En el peor momento posible.",
+  "exa": 0.95,
+  "cfg": 0.4,
+  "pausa": 0.35
+ },
+ {
+  "i": 2,
+  "a": 13.21,
+  "b": 17.85,
+  "acierto": 0.94,
+  "texto": "Así que la cuarta regla es darle la vuelta: no pares al final del capítulo. Para a la mitad.",
+  "voz": "Así que la cuarta regla es darle la vuelta: no pares al final del capítulo. Para a la mitad.",
+  "exa": 1.3,
+  "cfg": 0.3,
+  "pausa": 0.7
+ },
+ {
+  "i": 3,
+  "a": 18.55,
+  "b": 25.06,
+  "acierto": 0.95,
+  "texto": "A mitad de capítulo, la historia suele estar más tranquila. No hay cliffhanger. No hay cuenta atrás. Es cuando menos cuesta apagar.",
+  "voz": "A mitad de capítulo, la historia suele estar más tranquila. No hay clifjánguer. No hay cuenta atrás. Es cuando menos cuesta apagar.",
+  "exa": 0.95,
+  "cfg": 0.4,
+  "pausa": 0.35
+ },
+ {
+  "i": 4,
+  "a": 25.41,
+  "b": 30.83,
+  "acierto": 1.0,
+  "texto": "Y al día siguiente, cuando vuelves, empiezas con ganas… en vez de con culpa.",
+  "voz": "Y al día siguiente, cuando vuelves, empiezas con ganas… en vez de con culpa.",
+  "exa": 0.75,
+  "cfg": 0.5,
+  "pausa": 0.8
+ },
+ {
+  "i": 5,
+  "a": 31.63,
+  "b": 36.12,
+  "acierto": 1.0,
+  "texto": "Gris lo probó. La primera noche le costó. La tercera, apagó sin pensarlo.",
+  "voz": "Gris lo probó. La primera noche le costó. La tercera, apagó sin pensarlo.",
+  "exa": 0.95,
+  "cfg": 0.4,
+  "pausa": 0.35
+ }
+]

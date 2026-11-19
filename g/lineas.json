@@ -1,0 +1,90 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 6.93,
+  "acierto": 0.76,
+  "texto": "En dos mil diecisiete, el jefe de Netflix, Reed Hastings, lo dijo en voz alta, delante de los inversores.",
+  "voz": "En dos mil diecisiete, el jefe de Nétflix, Reed Héistings, lo dijo en voz alta, delante de los inversores.",
+  "exa": 1.25,
+  "cfg": 0.3,
+  "pausa": 0.55
+ },
+ {
+  "i": 1,
+  "a": 7.48,
+  "b": 10.57,
+  "acierto": 0.9,
+  "texto": "Su mayor competidor no era Amazon. Ni HBO. Era el sueño.",
+  "voz": "Su mayor competidor no era Amazon. Ni hache be o. Era el sueño.",
+  "exa": 1.3,
+  "cfg": 0.3,
+  "pausa": 0.7
+ },
+ {
+  "i": 2,
+  "a": 11.27,
+  "b": 16.76,
+  "acierto": 0.95,
+  "texto": "Lo explicó más o menos así: cuando te enganchas a una serie, te quedas despierto hasta tarde. Competimos con el sueño.",
+  "voz": "Lo explicó más o menos así: cuando te enganchas a una serie, te quedas despierto hasta tarde. Competimos con el sueño.",
+  "exa": 1.05,
+  "cfg": 0.4,
+  "pausa": 0.6
+ },
+ {
+  "i": 3,
+  "a": 17.36,
+  "b": 25.61,
+  "acierto": 0.91,
+  "texto": "Y no es una exageración. Ese mismo año, investigadores de Bélgica y de la Universidad de Míchigan preguntaron a más de cuatrocientos jóvenes por sus noches.",
+  "voz": "Y no es una exageración. Ese mismo año, investigadores de Bélgica y de la Universidad de Míchigan preguntaron a más de cuatrocientos jóvenes por sus noches.",
+  "exa": 0.95,
+  "cfg": 0.4,
+  "pausa": 0.35
+ },
+ {
+  "i": 4,
+  "a": 25.96,
+  "b": 32.66,
+  "acierto": 0.89,
+  "texto": "Ocho de cada diez se consideraban espectadores de maratones. Y cuanto más a menudo lo hacían, peor dormían: más cansancio, más insomnio.",
+  "voz": "Ocho de cada diez se consideraban espectadores de maratones. Y cuanto más a menudo lo hacían, peor dormían: más cansancio, más insomnio.",
+  "exa": 1.05,
+  "cfg": 0.4,
+  "pausa": 0.6
+ },
+ {
+  "i": 5,
+  "a": 33.26,
+  "b": 38.87,
+  "acierto": 1.0,
+  "texto": "Lo curioso es que ver la tele de forma normal no tenía ese efecto. Solo las maratones.",
+  "voz": "Lo curioso es que ver la tele de forma normal no tenía ese efecto. Solo las maratones.",
+  "exa": 1.3,
+  "cfg": 0.3,
+  "pausa": 0.7
+ },
+ {
+  "i": 6,
+  "a": 39.57,
+  "b": 46.85,
+  "acierto": 1.0,
+  "texto": "La explicación es la activación antes de dormir. Te metes en la cama, pero tu cabeza sigue dentro de la historia, pensando en lo que va a pasar.",
+  "voz": "La explicación es la activación antes de dormir. Te metes en la cama, pero tu cabeza sigue dentro de la historia, pensando en lo que va a pasar.",
+  "exa": 0.95,
+  "cfg": 0.4,
+  "pausa": 0.35
+ },
+ {
+  "i": 7,
+  "a": 47.2,
+  "b": 50.67,
+  "acierto": 0.91,
+  "texto": "Apagas la pantalla. Pero el capítulo sigue encendido dentro de ti.",
+  "voz": "Apagas la pantalla. Pero el capítulo sigue encendido dentro de ti.",
+  "exa": 0.75,
+  "cfg": 0.5,
+  "pausa": 0.8
+ }
+]
