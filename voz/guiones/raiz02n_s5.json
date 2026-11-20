@@ -1,0 +1,27 @@
+{
+ "modo": "clon",
+ "ref": "ref_raiz_narr.wav",
+ "ref_text": "En el año mil cuatro, una princesa llegó a Venecia con un objeto que escandalizó a todos. Hoy lo tienes en el cajón de tu cocina, y no sabes de dónde viene. Esta es la historia de cómo algo tan pequeño cambió la forma de comer de medio mundo.",
+ "lineas": [
+  {
+   "texto": "Casi todos los vídeos cuentan mal quién llevó el tenedor a Venecia.",
+   "i": 0
+  },
+  {
+   "texto": "Suelen decir que fue Teodora, la esposa del dux Domenico Selvo, y que el monje Pedro Damián la criticó.",
+   "i": 1
+  },
+  {
+   "texto": "Pero Pedro Damián murió en mil setenta y dos. Y Teodora se casó con Selvo después de mil setenta y uno.",
+   "i": 2
+  },
+  {
+   "texto": "La princesa de la que habló era otra, que llegó unos setenta años antes: María Argyropoulaina.",
+   "i": 3
+  },
+  {
+   "texto": "Los cronistas de la época las confundieron. Y la confusión ha llegado hasta hoy.",
+   "i": 4
+  }
+ ]
+}

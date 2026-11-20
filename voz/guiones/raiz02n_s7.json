@@ -1,0 +1,27 @@
+{
+ "modo": "clon",
+ "ref": "ref_raiz_narr.wav",
+ "ref_text": "En el año mil cuatro, una princesa llegó a Venecia con un objeto que escandalizó a todos. Hoy lo tienes en el cajón de tu cocina, y no sabes de dónde viene. Esta es la historia de cómo algo tan pequeño cambió la forma de comer de medio mundo.",
+ "lineas": [
+  {
+   "texto": "El tenedor no ganó por ser el mejor cubierto.",
+   "i": 0
+  },
+  {
+   "texto": "En buena parte de Asia se lleva siglos comiendo con palillos.",
+   "i": 1
+  },
+  {
+   "texto": "Y en muchos países se come con la mano, con normas tan refinadas como las nuestras.",
+   "i": 2
+  },
+  {
+   "texto": "En Europa el tenedor ganó porque encajó con su comida, con sus modas y con sus ganas de distinguirse.",
+   "i": 3
+  },
+  {
+   "texto": "Cada cubierto cuenta una forma distinta de entender la mesa.",
+   "i": 4
+  }
+ ]
+}

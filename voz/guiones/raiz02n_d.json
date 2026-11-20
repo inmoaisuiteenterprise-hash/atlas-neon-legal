@@ -1,0 +1,35 @@
+{
+ "modo": "clon",
+ "ref": "ref_raiz_narr.wav",
+ "ref_text": "En el año mil cuatro, una princesa llegó a Venecia con un objeto que escandalizó a todos. Hoy lo tienes en el cajón de tu cocina, y no sabes de dónde viene. Esta es la historia de cómo algo tan pequeño cambió la forma de comer de medio mundo.",
+ "lineas": [
+  {
+   "texto": "No cogió la comida con los dedos.",
+   "i": 0
+  },
+  {
+   "texto": "Sacó su tenedor de oro, pinchó un trozo… y se lo llevó a la boca.",
+   "i": 1
+  },
+  {
+   "texto": "Para los venecianos de la época, aquello era un lujo exagerado. Casi una provocación.",
+   "i": 2
+  },
+  {
+   "texto": "Años después, el monje Pedro Damián escribió sobre una princesa bizantina en Venecia y la puso como ejemplo de vanidad: decía que ni siquiera tocaba la comida con las manos.",
+   "i": 3
+  },
+  {
+   "texto": "Y aquí hay un detalle que muchos vídeos cuentan mal.",
+   "i": 4
+  },
+  {
+   "texto": "Durante siglos, los cronistas mezclaron a esta princesa con otra, Teodora, que se casó con otro dux, Domenico Selvo, unos setenta años más tarde.",
+   "i": 5
+  },
+  {
+   "texto": "Pero Pedro Damián murió en mil setenta y dos. No pudo escribir sobre Teodora. La historia del tenedor tiene incluso su propia confusión.",
+   "i": 6
+  }
+ ]
+}

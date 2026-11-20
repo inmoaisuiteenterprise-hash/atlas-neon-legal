@@ -1,0 +1,31 @@
+{
+ "modo": "clon",
+ "ref": "ref_raiz_narr.wav",
+ "ref_text": "En el año mil cuatro, una princesa llegó a Venecia con un objeto que escandalizó a todos. Hoy lo tienes en el cajón de tu cocina, y no sabes de dónde viene. Esta es la historia de cómo algo tan pequeño cambió la forma de comer de medio mundo.",
+ "lineas": [
+  {
+   "texto": "En mil seiscientos once, un viajero inglés, Thomas Coryat, publicó un libro sobre su viaje por Europa.",
+   "i": 0
+  },
+  {
+   "texto": "Contó, sorprendido, que los italianos usaban un pequeño tenedor en cada comida.",
+   "i": 1
+  },
+  {
+   "texto": "Él lo adoptó. Y al volver a Inglaterra siguió usándolo.",
+   "i": 2
+  },
+  {
+   "texto": "¿El resultado? Sus amigos se burlaron de él y le pusieron un apodo en latín: «Furcifer».",
+   "i": 3
+  },
+  {
+   "texto": "Que significa «el que lleva la horca». Y también… sinvergüenza.",
+   "i": 4
+  },
+  {
+   "texto": "En Inglaterra, comer con tenedor se veía como una afectación italiana. Algo poco varonil.",
+   "i": 5
+  }
+ ]
+}

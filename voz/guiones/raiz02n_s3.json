@@ -1,0 +1,27 @@
+{
+ "modo": "clon",
+ "ref": "ref_raiz_narr.wav",
+ "ref_text": "En el año mil cuatro, una princesa llegó a Venecia con un objeto que escandalizó a todos. Hoy lo tienes en el cajón de tu cocina, y no sabes de dónde viene. Esta es la historia de cómo algo tan pequeño cambió la forma de comer de medio mundo.",
+ "lineas": [
+  {
+   "texto": "El tenedor llegó a Italia como un capricho de ricos.",
+   "i": 0
+  },
+  {
+   "texto": "Y allí encontró a su mejor aliado: la pasta.",
+   "i": 1
+  },
+  {
+   "texto": "Intenta comer espaguetis con los dedos. O con un cuchillo. Imposible.",
+   "i": 2
+  },
+  {
+   "texto": "Con un tenedor, se enrollan solos.",
+   "i": 3
+  },
+  {
+   "texto": "Hacia el siglo catorce, en Italia, el tenedor ya era algo normal en la mesa. En el resto de Europa, todavía no.",
+   "i": 4
+  }
+ ]
+}

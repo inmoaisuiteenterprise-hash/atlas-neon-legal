@@ -1,0 +1,27 @@
+{
+ "modo": "clon",
+ "ref": "ref_letra_narr.wav",
+ "ref_text": "Mira la etiqueta: nueve euros con noventa y nueve. No son diez. ¿O sí? Tu cerebro acaba de caer en un truco que tiene más de cien años. Hoy te enseño qué hay detrás de ese céntimo, y por qué funciona aunque lo sepas.",
+ "lineas": [
+  {
+   "texto": "Ese último detalle es la clave de todo el laberinto.",
+   "i": 0
+  },
+  {
+   "texto": "Cuando sabes lo que vale algo, porque lo compras cada semana, el nueve te afecta menos.",
+   "i": 1
+  },
+  {
+   "texto": "Cuando no tienes ni idea, el nueve te sirve de atajo: «parece barato».",
+   "i": 2
+  },
+  {
+   "texto": "Y el mismo estudio encontró indicios de algo más: si el producto ya llevaba un cartel de rebaja, el nueve perdía fuerza.",
+   "i": 3
+  },
+  {
+   "texto": "Como si el cerebro solo necesitara una señal de chollo. Con una le basta.",
+   "i": 4
+  }
+ ]
+}

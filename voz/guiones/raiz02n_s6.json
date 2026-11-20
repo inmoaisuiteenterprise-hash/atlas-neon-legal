@@ -1,0 +1,27 @@
+{
+ "modo": "clon",
+ "ref": "ref_raiz_narr.wav",
+ "ref_text": "En el año mil cuatro, una princesa llegó a Venecia con un objeto que escandalizó a todos. Hoy lo tienes en el cajón de tu cocina, y no sabes de dónde viene. Esta es la historia de cómo algo tan pequeño cambió la forma de comer de medio mundo.",
+ "lineas": [
+  {
+   "texto": "Antes de que existiera el tenedor de mesa, ¿cómo comía la gente en la Europa medieval?",
+   "i": 0
+  },
+  {
+   "texto": "Con los dedos, con una cuchara y con un cuchillo, que servía para cortar y para pinchar.",
+   "i": 1
+  },
+  {
+   "texto": "Y muchas veces el pan hacía de plato y de esponja.",
+   "i": 2
+  },
+  {
+   "texto": "Los tenedores existían, sí. Pero eran enormes y estaban en la cocina, para sujetar la carne al trincharla.",
+   "i": 3
+  },
+  {
+   "texto": "Llevarte uno a la boca habría sido como comer hoy con las pinzas de la barbacoa.",
+   "i": 4
+  }
+ ]
+}

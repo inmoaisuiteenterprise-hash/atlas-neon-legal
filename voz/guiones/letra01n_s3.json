@@ -1,0 +1,27 @@
+{
+ "modo": "clon",
+ "ref": "ref_letra_narr.wav",
+ "ref_text": "Mira la etiqueta: nueve euros con noventa y nueve. No son diez. ¿O sí? Tu cerebro acaba de caer en un truco que tiene más de cien años. Hoy te enseño qué hay detrás de ese céntimo, y por qué funciona aunque lo sepas.",
+ "lineas": [
+  {
+   "texto": "Dos profesores enviaron el mismo catálogo con precios distintos a clientes distintos.",
+   "i": 0
+  },
+  {
+   "texto": "Los mismos productos. Solo cambiaba el final del precio.",
+   "i": 1
+  },
+  {
+   "texto": "Hicieron tres experimentos. Y en los tres, los precios acabados en nueve vendieron más.",
+   "i": 2
+  },
+  {
+   "texto": "Lo publicaron Eric Anderson y Duncan Simester en dos mil tres.",
+   "i": 3
+  },
+  {
+   "texto": "Y el efecto fue mayor en productos nuevos, esos que no sabes cuánto deberían costar.",
+   "i": 4
+  }
+ ]
+}

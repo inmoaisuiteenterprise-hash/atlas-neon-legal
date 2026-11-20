@@ -1,0 +1,27 @@
+{
+ "modo": "clon",
+ "ref": "ref_raiz_narr.wav",
+ "ref_text": "En el año mil cuatro, una princesa llegó a Venecia con un objeto que escandalizó a todos. Hoy lo tienes en el cajón de tu cocina, y no sabes de dónde viene. Esta es la historia de cómo algo tan pequeño cambió la forma de comer de medio mundo.",
+ "lineas": [
+  {
+   "texto": "Y cuando el tenedor cambió, cambió todo lo demás.",
+   "i": 0
+  },
+  {
+   "texto": "Con el tenedor para pinchar, el cuchillo de mesa ya no necesitaba punta. Hoy muchos la tienen redondeada.",
+   "i": 1
+  },
+  {
+   "texto": "Aparecieron las reglas: qué mano coge qué, dónde se apoya, cuándo se deja en el plato.",
+   "i": 2
+  },
+  {
+   "texto": "Comer dejó de ser solo alimentarse. Se convirtió en una forma de mostrar quién eras.",
+   "i": 3
+  },
+  {
+   "texto": "Lo que empezó como el capricho de una princesa acabó siendo una señal de buena educación.",
+   "i": 4
+  }
+ ]
+}

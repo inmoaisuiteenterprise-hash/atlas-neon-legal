@@ -1,0 +1,27 @@
+{
+ "modo": "clon",
+ "ref": "ref_raiz_narr.wav",
+ "ref_text": "En el año mil cuatro, una princesa llegó a Venecia con un objeto que escandalizó a todos. Hoy lo tienes en el cajón de tu cocina, y no sabes de dónde viene. Esta es la historia de cómo algo tan pequeño cambió la forma de comer de medio mundo.",
+ "lineas": [
+  {
+   "texto": "En el año mil cuatro, una novia llegó a Venecia con un objeto que nadie había visto en una mesa.",
+   "i": 0
+  },
+  {
+   "texto": "Un tenedor pequeño, de oro, con dos púas.",
+   "i": 1
+  },
+  {
+   "texto": "Era María Argyropoulaina, sobrina del emperador de Bizancio, y venía a casarse con el hijo del dux.",
+   "i": 2
+  },
+  {
+   "texto": "En el banquete no tocó la comida con los dedos. La pinchó.",
+   "i": 3
+  },
+  {
+   "texto": "Para muchos fue un lujo exagerado. Y el tenedor tardó siglos en dejar de parecer una ofensa.",
+   "i": 4
+  }
+ ]
+}

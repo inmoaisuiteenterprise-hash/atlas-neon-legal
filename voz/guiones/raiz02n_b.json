@@ -1,0 +1,31 @@
+{
+ "modo": "clon",
+ "ref": "ref_raiz_narr.wav",
+ "ref_text": "En el año mil cuatro, una princesa llegó a Venecia con un objeto que escandalizó a todos. Hoy lo tienes en el cajón de tu cocina, y no sabes de dónde viene. Esta es la historia de cómo algo tan pequeño cambió la forma de comer de medio mundo.",
+ "lineas": [
+  {
+   "texto": "Empecemos por lo que había antes.",
+   "i": 0
+  },
+  {
+   "texto": "En la Europa medieval se comía con los dedos, con una cuchara y con un cuchillo.",
+   "i": 1
+  },
+  {
+   "texto": "El cuchillo cortaba y pinchaba. El pan servía de plato y de esponja.",
+   "i": 2
+  },
+  {
+   "texto": "Los tenedores sí existían… pero en la cocina. Eran grandes, de hierro, para sujetar la carne mientras se trinchaba.",
+   "i": 3
+  },
+  {
+   "texto": "Llevarse uno a la boca habría parecido tan raro como comer hoy con unas pinzas de barbacoa.",
+   "i": 4
+  },
+  {
+   "texto": "Pero muy lejos, en Constantinopla, la capital del Imperio bizantino, las cosas eran distintas.",
+   "i": 5
+  }
+ ]
+}

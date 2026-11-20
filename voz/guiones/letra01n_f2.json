@@ -1,0 +1,31 @@
+{
+ "modo": "clon",
+ "ref": "ref_letra_narr.wav",
+ "ref_text": "Mira la etiqueta: nueve euros con noventa y nueve. No son diez. ¿O sí? Tu cerebro acaba de caer en un truco que tiene más de cien años. Hoy te enseño qué hay detrás de ese céntimo, y por qué funciona aunque lo sepas.",
+ "lineas": [
+  {
+   "texto": "Y si el nueve funciona tan bien, ¿por qué no está en todas partes?",
+   "i": 0
+  },
+  {
+   "texto": "Fíjate en las tiendas de lujo. Ahí verás precios redondos: doscientos euros, mil euros.",
+   "i": 1
+  },
+  {
+   "texto": "Porque el nueve tiene un significado escondido: suena a oferta, a precio ajustado.",
+   "i": 2
+  },
+  {
+   "texto": "Y el lujo no quiere parecer una oferta. Quiere parecer caro.",
+   "i": 3
+  },
+  {
+   "texto": "En el otro extremo, en las gasolineras, se van incluso a tres decimales: uno con quinientos cincuenta y nueve el litro.",
+   "i": 4
+  },
+  {
+   "texto": "Mismo truco, diferente escala. Cada tienda elige su número según lo que quiere que sientas.",
+   "i": 5
+  }
+ ]
+}

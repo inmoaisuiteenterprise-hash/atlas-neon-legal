@@ -1,0 +1,31 @@
+{
+ "modo": "clon",
+ "ref": "ref_raiz_narr.wav",
+ "ref_text": "En el año mil cuatro, una princesa llegó a Venecia con un objeto que escandalizó a todos. Hoy lo tienes en el cajón de tu cocina, y no sabes de dónde viene. Esta es la historia de cómo algo tan pequeño cambió la forma de comer de medio mundo.",
+ "lineas": [
+  {
+   "texto": "Así que, mientras Italia comía con tenedor, gran parte de Europa siguió con el cuchillo y los dedos durante generaciones.",
+   "i": 0
+  },
+  {
+   "texto": "Hasta el siglo dieciocho, el tenedor no se volvió normal en el resto del continente.",
+   "i": 1
+  },
+  {
+   "texto": "Y cambió de forma por el camino.",
+   "i": 2
+  },
+  {
+   "texto": "Primero, dos púas: buenas para pinchar, malas para recoger.",
+   "i": 3
+  },
+  {
+   "texto": "Después, tres. Y a finales del siglo dieciocho, ya eran habituales los de cuatro púas, como los tuyos.",
+   "i": 4
+  },
+  {
+   "texto": "Más púas significaba algo nuevo: el tenedor ya no solo pinchaba. Ahora también servía de pequeña pala.",
+   "i": 5
+  }
+ ]
+}

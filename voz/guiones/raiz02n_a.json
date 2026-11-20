@@ -1,0 +1,27 @@
+{
+ "modo": "clon",
+ "ref": "ref_raiz_narr.wav",
+ "ref_text": "En el año mil cuatro, una princesa llegó a Venecia con un objeto que escandalizó a todos. Hoy lo tienes en el cajón de tu cocina, y no sabes de dónde viene. Esta es la historia de cómo algo tan pequeño cambió la forma de comer de medio mundo.",
+ "lineas": [
+  {
+   "texto": "En el año mil cuatro, una novia llegó a Venecia con algo en su equipaje que nadie había visto en una mesa.",
+   "i": 0
+  },
+  {
+   "texto": "Era pequeño. Era de oro. Tenía dos púas.",
+   "i": 1
+  },
+  {
+   "texto": "Y durante siglos, la gente decente lo miró como si fuera una ofensa.",
+   "i": 2
+  },
+  {
+   "texto": "Hoy tienes varios en el cajón de la cocina. Y casi nadie sabe que tardaron setecientos años en convencernos.",
+   "i": 3
+  },
+  {
+   "texto": "Esta es la historia del tenedor.",
+   "i": 4
+  }
+ ]
+}

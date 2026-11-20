@@ -1,0 +1,23 @@
+{
+ "modo": "clon",
+ "ref": "ref_raiz_narr.wav",
+ "ref_text": "En el año mil cuatro, una princesa llegó a Venecia con un objeto que escandalizó a todos. Hoy lo tienes en el cajón de tu cocina, y no sabes de dónde viene. Esta es la historia de cómo algo tan pequeño cambió la forma de comer de medio mundo.",
+ "lineas": [
+  {
+   "texto": "La próxima vez que abras el cajón de los cubiertos, piénsalo.",
+   "i": 0
+  },
+  {
+   "texto": "Ese objeto que usas sin mirar fue un escándalo en Venecia, una burla en Inglaterra y tardó siete siglos en llegar a tu mesa.",
+   "i": 1
+  },
+  {
+   "texto": "Las cosas más normales casi siempre tienen la historia más rara.",
+   "i": 2
+  },
+  {
+   "texto": "¿Qué objeto de tu casa quieres que investiguemos en el próximo vídeo? Déjalo en los comentarios.",
+   "i": 3
+  }
+ ]
+}

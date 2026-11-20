@@ -1,0 +1,27 @@
+{
+ "modo": "clon",
+ "ref": "ref_raiz_narr.wav",
+ "ref_text": "En el año mil cuatro, una princesa llegó a Venecia con un objeto que escandalizó a todos. Hoy lo tienes en el cajón de tu cocina, y no sabes de dónde viene. Esta es la historia de cómo algo tan pequeño cambió la forma de comer de medio mundo.",
+ "lineas": [
+  {
+   "texto": "¿Te has fijado en cuántas púas tiene tu tenedor?",
+   "i": 0
+  },
+  {
+   "texto": "Los primeros tenedores de mesa tenían dos. Perfectos para pinchar… y malísimos para recoger.",
+   "i": 1
+  },
+  {
+   "texto": "Luego llegaron los de tres.",
+   "i": 2
+  },
+  {
+   "texto": "Y a finales del siglo dieciocho ya eran habituales los de cuatro.",
+   "i": 3
+  },
+  {
+   "texto": "Esa púa extra cambió su trabajo: el tenedor dejó de ser solo un pincho y se convirtió también en una pequeña pala.",
+   "i": 4
+  }
+ ]
+}

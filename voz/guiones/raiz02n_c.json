@@ -1,0 +1,31 @@
+{
+ "modo": "clon",
+ "ref": "ref_raiz_narr.wav",
+ "ref_text": "En el año mil cuatro, una princesa llegó a Venecia con un objeto que escandalizó a todos. Hoy lo tienes en el cajón de tu cocina, y no sabes de dónde viene. Esta es la historia de cómo algo tan pequeño cambió la forma de comer de medio mundo.",
+ "lineas": [
+  {
+   "texto": "En la corte bizantina, la gente rica ya usaba pequeños tenedores en la mesa.",
+   "i": 0
+  },
+  {
+   "texto": "Era un gesto de refinamiento: no mancharse los dedos, tocar la comida lo menos posible.",
+   "i": 1
+  },
+  {
+   "texto": "Y en el año mil cuatro, ese refinamiento viajó en barco hasta Venecia.",
+   "i": 2
+  },
+  {
+   "texto": "La novia se llamaba María Argyropoulaina. Era sobrina del emperador Basilio Segundo.",
+   "i": 3
+  },
+  {
+   "texto": "Venía a casarse con Giovanni Orseolo, hijo del dux, el gobernante de Venecia.",
+   "i": 4
+  },
+  {
+   "texto": "Una boda entre dos potencias. Y en el banquete, la novia hizo algo que nadie esperaba.",
+   "i": 5
+  }
+ ]
+}
