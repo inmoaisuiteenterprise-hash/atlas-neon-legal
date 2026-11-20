@@ -1,0 +1,37 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 5.24,
+  "acierto": 0.64,
+  "texto": "En mil seiscientos once, a un inglés le pusieron un mote por comer con tenedor."
+ },
+ {
+  "i": 1,
+  "a": 5.54,
+  "b": 12.13,
+  "acierto": 0.89,
+  "texto": "Se llamaba Thomas Coryat. Había viajado por Italia y vio que allí usaban un pequeño tenedor en cada comida."
+ },
+ {
+  "i": 2,
+  "a": 12.43,
+  "b": 15.12,
+  "acierto": 1.0,
+  "texto": "Volvió a Inglaterra y siguió usándolo."
+ },
+ {
+  "i": 3,
+  "a": 15.42,
+  "b": 22.29,
+  "acierto": 0.87,
+  "texto": "Sus amigos le llamaron «Furcifer». En latín: el que lleva la horca. O sea, sinvergüenza."
+ },
+ {
+  "i": 4,
+  "a": 22.59,
+  "b": 27.41,
+  "acierto": 0.83,
+  "texto": "En la Inglaterra de entonces, comer con tenedor era cosa de italianos presumidos."
+ }
+]

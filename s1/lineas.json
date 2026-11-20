@@ -1,0 +1,37 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 5.74,
+  "acierto": 0.89,
+  "texto": "En el año mil cuatro, una novia llegó a Venecia con un objeto que nadie había visto en una mesa."
+ },
+ {
+  "i": 1,
+  "a": 6.04,
+  "b": 10.04,
+  "acierto": 0.88,
+  "texto": "Un tenedor pequeño, de oro, con dos púas."
+ },
+ {
+  "i": 2,
+  "a": 10.34,
+  "b": 16.65,
+  "acierto": 0.88,
+  "texto": "Era María Argyropoulaina, sobrina del emperador de Bizancio, y venía a casarse con el hijo del dux."
+ },
+ {
+  "i": 3,
+  "a": 16.95,
+  "b": 20.49,
+  "acierto": 1.0,
+  "texto": "En el banquete no tocó la comida con los dedos. La pinchó."
+ },
+ {
+  "i": 4,
+  "a": 20.79,
+  "b": 26.53,
+  "acierto": 1.0,
+  "texto": "Para muchos fue un lujo exagerado. Y el tenedor tardó siglos en dejar de parecer una ofensa."
+ }
+]

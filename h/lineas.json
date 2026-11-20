@@ -1,0 +1,37 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 3.68,
+  "acierto": 1.0,
+  "texto": "Y cuando el tenedor cambió, cambió todo lo demás."
+ },
+ {
+  "i": 1,
+  "a": 3.98,
+  "b": 10.79,
+  "acierto": 1.0,
+  "texto": "Con el tenedor para pinchar, el cuchillo de mesa ya no necesitaba punta. Hoy muchos la tienen redondeada."
+ },
+ {
+  "i": 2,
+  "a": 11.09,
+  "b": 17.33,
+  "acierto": 0.93,
+  "texto": "Aparecieron las reglas: qué mano coge qué, dónde se apoya, cuándo se deja en el plato."
+ },
+ {
+  "i": 3,
+  "a": 17.63,
+  "b": 22.84,
+  "acierto": 1.0,
+  "texto": "Comer dejó de ser solo alimentarse. Se convirtió en una forma de mostrar quién eras."
+ },
+ {
+  "i": 4,
+  "a": 23.14,
+  "b": 28.54,
+  "acierto": 1.0,
+  "texto": "Lo que empezó como el capricho de una princesa acabó siendo una señal de buena educación."
+ }
+]

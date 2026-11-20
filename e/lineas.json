@@ -1,0 +1,51 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 4.92,
+  "acierto": 1.0,
+  "texto": "Lo que es seguro es esto: el tenedor llegó a Italia como un capricho de ricos."
+ },
+ {
+  "i": 1,
+  "a": 5.22,
+  "b": 9.13,
+  "acierto": 1.0,
+  "texto": "Y allí, poco a poco, encontró su gran aliado."
+ },
+ {
+  "i": 2,
+  "a": 9.43,
+  "b": 10.13,
+  "acierto": 1.0,
+  "texto": "La pasta."
+ },
+ {
+  "i": 3,
+  "a": 10.43,
+  "b": 16.31,
+  "acierto": 1.0,
+  "texto": "Intenta comer unos espaguetis resbaladizos con los dedos o con un cuchillo. Imposible."
+ },
+ {
+  "i": 4,
+  "a": 16.61,
+  "b": 20.26,
+  "acierto": 1.0,
+  "texto": "Con un tenedor, en cambio, se enrollan solos."
+ },
+ {
+  "i": 5,
+  "a": 20.56,
+  "b": 24.91,
+  "acierto": 0.92,
+  "texto": "Hacia el siglo catorce, el tenedor de mesa ya era algo común en Italia."
+ },
+ {
+  "i": 6,
+  "a": 25.21,
+  "b": 31.17,
+  "acierto": 1.0,
+  "texto": "Pero solo en Italia. Fuera de allí, el resto de Europa seguía mirándolo con desconfianza."
+ }
+]

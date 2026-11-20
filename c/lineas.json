@@ -1,0 +1,44 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 5.95,
+  "acierto": 1.0,
+  "texto": "En la corte bizantina, la gente rica ya usaba pequeños tenedores en la mesa."
+ },
+ {
+  "i": 1,
+  "a": 6.25,
+  "b": 11.81,
+  "acierto": 1.0,
+  "texto": "Era un gesto de refinamiento: no mancharse los dedos, tocar la comida lo menos posible."
+ },
+ {
+  "i": 2,
+  "a": 12.11,
+  "b": 16.38,
+  "acierto": 0.83,
+  "texto": "Y en el año mil cuatro, ese refinamiento viajó en barco hasta Venecia."
+ },
+ {
+  "i": 3,
+  "a": 16.68,
+  "b": 22.54,
+  "acierto": 0.83,
+  "texto": "La novia se llamaba María Argyropoulaina. Era sobrina del emperador Basilio Segundo."
+ },
+ {
+  "i": 4,
+  "a": 22.84,
+  "b": 27.95,
+  "acierto": 0.92,
+  "texto": "Venía a casarse con Giovanni Orseolo, hijo del dux, el gobernante de Venecia."
+ },
+ {
+  "i": 5,
+  "a": 28.25,
+  "b": 33.87,
+  "acierto": 1.0,
+  "texto": "Una boda entre dos potencias. Y en el banquete, la novia hizo algo que nadie esperaba."
+ }
+]

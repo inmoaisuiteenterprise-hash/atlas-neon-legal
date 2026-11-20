@@ -1,0 +1,44 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 7.66,
+  "acierto": 0.95,
+  "texto": "Así que, mientras Italia comía con tenedor, gran parte de Europa siguió con el cuchillo y los dedos durante generaciones."
+ },
+ {
+  "i": 1,
+  "a": 7.96,
+  "b": 12.77,
+  "acierto": 0.92,
+  "texto": "Hasta el siglo dieciocho, el tenedor no se volvió normal en el resto del continente."
+ },
+ {
+  "i": 2,
+  "a": 13.07,
+  "b": 14.94,
+  "acierto": 1.0,
+  "texto": "Y cambió de forma por el camino."
+ },
+ {
+  "i": 3,
+  "a": 15.24,
+  "b": 20.14,
+  "acierto": 0.88,
+  "texto": "Primero, dos púas: buenas para pinchar, malas para recoger."
+ },
+ {
+  "i": 4,
+  "a": 20.44,
+  "b": 28.29,
+  "acierto": 0.88,
+  "texto": "Después, tres. Y a finales del siglo dieciocho, ya eran habituales los de cuatro púas, como los tuyos."
+ },
+ {
+  "i": 5,
+  "a": 28.59,
+  "b": 35.18,
+  "acierto": 0.94,
+  "texto": "Más púas significaba algo nuevo: el tenedor ya no solo pinchaba. Ahora también servía de pequeña pala."
+ }
+]

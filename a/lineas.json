@@ -1,0 +1,37 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 6.97,
+  "acierto": 0.89,
+  "texto": "En el año mil cuatro, una novia llegó a Venecia con algo en su equipaje que nadie había visto en una mesa."
+ },
+ {
+  "i": 1,
+  "a": 7.27,
+  "b": 11.25,
+  "acierto": 0.86,
+  "texto": "Era pequeño. Era de oro. Tenía dos púas."
+ },
+ {
+  "i": 2,
+  "a": 11.55,
+  "b": 15.58,
+  "acierto": 1.0,
+  "texto": "Y durante siglos, la gente decente lo miró como si fuera una ofensa."
+ },
+ {
+  "i": 3,
+  "a": 15.88,
+  "b": 22.23,
+  "acierto": 0.94,
+  "texto": "Hoy tienes varios en el cajón de la cocina. Y casi nadie sabe que tardaron setecientos años en convencernos."
+ },
+ {
+  "i": 4,
+  "a": 22.53,
+  "b": 24.27,
+  "acierto": 1.0,
+  "texto": "Esta es la historia del tenedor."
+ }
+]

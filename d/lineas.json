@@ -1,0 +1,51 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 2.18,
+  "acierto": 1.0,
+  "texto": "No cogió la comida con los dedos."
+ },
+ {
+  "i": 1,
+  "a": 2.48,
+  "b": 7.33,
+  "acierto": 1.0,
+  "texto": "Sacó su tenedor de oro, pinchó un trozo… y se lo llevó a la boca."
+ },
+ {
+  "i": 2,
+  "a": 7.63,
+  "b": 13.51,
+  "acierto": 1.0,
+  "texto": "Para los venecianos de la época, aquello era un lujo exagerado. Casi una provocación."
+ },
+ {
+  "i": 3,
+  "a": 13.81,
+  "b": 24.69,
+  "acierto": 1.0,
+  "texto": "Años después, el monje Pedro Damián escribió sobre una princesa bizantina en Venecia y la puso como ejemplo de vanidad: decía que ni siquiera tocaba la comida con las manos."
+ },
+ {
+  "i": 4,
+  "a": 24.99,
+  "b": 27.8,
+  "acierto": 1.0,
+  "texto": "Y aquí hay un detalle que muchos vídeos cuentan mal."
+ },
+ {
+  "i": 5,
+  "a": 28.1,
+  "b": 38.05,
+  "acierto": 0.91,
+  "texto": "Durante siglos, los cronistas mezclaron a esta princesa con otra, Teodora, que se casó con otro dux, Domenico Selvo, unos setenta años más tarde."
+ },
+ {
+  "i": 6,
+  "a": 38.35,
+  "b": 47.53,
+  "acierto": 0.83,
+  "texto": "Pero Pedro Damián murió en mil setenta y dos. No pudo escribir sobre Teodora. La historia del tenedor tiene incluso su propia confusión."
+ }
+]

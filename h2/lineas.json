@@ -1,0 +1,37 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 3.78,
+  "acierto": 1.0,
+  "texto": "Pero cuidado con pensar que el tenedor es «el progreso»."
+ },
+ {
+  "i": 1,
+  "a": 4.08,
+  "b": 7.61,
+  "acierto": 1.0,
+  "texto": "En buena parte de Asia se lleva siglos comiendo con palillos."
+ },
+ {
+  "i": 2,
+  "a": 7.91,
+  "b": 16.64,
+  "acierto": 1.0,
+  "texto": "Y en muchos países se come con la mano, con normas tan refinadas como las nuestras: qué mano se usa, cómo se coge el pan, cuánto se toca la comida."
+ },
+ {
+  "i": 3,
+  "a": 16.94,
+  "b": 24.37,
+  "acierto": 1.0,
+  "texto": "El tenedor no ganó porque fuera mejor. Ganó en Europa porque encajó con su comida, con sus modas y con sus ganas de distinguirse."
+ },
+ {
+  "i": 4,
+  "a": 24.67,
+  "b": 28.08,
+  "acierto": 1.0,
+  "texto": "Cada cubierto cuenta una forma distinta de entender la mesa."
+ }
+]

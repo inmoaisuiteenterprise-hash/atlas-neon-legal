@@ -1,0 +1,37 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 2.82,
+  "acierto": 0.89,
+  "texto": "¿Te has fijado en cuántas púas tiene tu tenedor?"
+ },
+ {
+  "i": 1,
+  "a": 3.12,
+  "b": 9.23,
+  "acierto": 1.0,
+  "texto": "Los primeros tenedores de mesa tenían dos. Perfectos para pinchar… y malísimos para recoger."
+ },
+ {
+  "i": 2,
+  "a": 9.53,
+  "b": 11.0,
+  "acierto": 1.0,
+  "texto": "Luego llegaron los de tres."
+ },
+ {
+  "i": 3,
+  "a": 11.3,
+  "b": 15.35,
+  "acierto": 0.92,
+  "texto": "Y a finales del siglo dieciocho ya eran habituales los de cuatro."
+ },
+ {
+  "i": 4,
+  "a": 15.65,
+  "b": 22.48,
+  "acierto": 0.95,
+  "texto": "Esa púa extra cambió su trabajo: el tenedor dejó de ser solo un pincho y se convirtió también en una pequeña pala."
+ }
+]

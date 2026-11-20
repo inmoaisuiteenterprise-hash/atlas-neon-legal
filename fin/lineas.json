@@ -1,0 +1,30 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 3.79,
+  "acierto": 1.0,
+  "texto": "La próxima vez que abras el cajón de los cubiertos, piénsalo."
+ },
+ {
+  "i": 1,
+  "a": 4.09,
+  "b": 11.84,
+  "acierto": 0.95,
+  "texto": "Ese objeto que usas sin mirar fue un escándalo en Venecia, una burla en Inglaterra y tardó siete siglos en llegar a tu mesa."
+ },
+ {
+  "i": 2,
+  "a": 12.14,
+  "b": 16.15,
+  "acierto": 1.0,
+  "texto": "Las cosas más normales casi siempre tienen la historia más rara."
+ },
+ {
+  "i": 3,
+  "a": 16.45,
+  "b": 21.98,
+  "acierto": 1.0,
+  "texto": "¿Qué objeto de tu casa quieres que investiguemos en el próximo vídeo? Déjalo en los comentarios."
+ }
+]

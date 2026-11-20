@@ -1,0 +1,37 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 3.92,
+  "acierto": 0.92,
+  "texto": "Casi todos los vídeos cuentan mal quién llevó el tenedor a Venecia."
+ },
+ {
+  "i": 1,
+  "a": 4.22,
+  "b": 11.12,
+  "acierto": 0.88,
+  "texto": "Suelen decir que fue Teodora, la esposa del dux Domenico Selvo, y que el monje Pedro Damián la criticó."
+ },
+ {
+  "i": 2,
+  "a": 11.42,
+  "b": 17.67,
+  "acierto": 0.76,
+  "texto": "Pero Pedro Damián murió en mil setenta y dos. Y Teodora se casó con Selvo después de mil setenta y uno."
+ },
+ {
+  "i": 3,
+  "a": 17.97,
+  "b": 24.01,
+  "acierto": 0.86,
+  "texto": "La princesa de la que habló era otra, que llegó unos setenta años antes: María Argyropoulaina."
+ },
+ {
+  "i": 4,
+  "a": 24.31,
+  "b": 29.24,
+  "acierto": 1.0,
+  "texto": "Los cronistas de la época las confundieron. Y la confusión ha llegado hasta hoy."
+ }
+]

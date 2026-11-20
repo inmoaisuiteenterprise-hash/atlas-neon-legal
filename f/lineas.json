@@ -1,0 +1,44 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 7.19,
+  "acierto": 0.75,
+  "texto": "En mil seiscientos once, un viajero inglés, Thomas Coryat, publicó un libro sobre su viaje por Europa."
+ },
+ {
+  "i": 1,
+  "a": 7.49,
+  "b": 12.97,
+  "acierto": 1.0,
+  "texto": "Contó, sorprendido, que los italianos usaban un pequeño tenedor en cada comida."
+ },
+ {
+  "i": 2,
+  "a": 13.27,
+  "b": 17.02,
+  "acierto": 1.0,
+  "texto": "Él lo adoptó. Y al volver a Inglaterra siguió usándolo."
+ },
+ {
+  "i": 3,
+  "a": 17.32,
+  "b": 24.22,
+  "acierto": 1.0,
+  "texto": "¿El resultado? Sus amigos se burlaron de él y le pusieron un apodo en latín: «Furcifer»."
+ },
+ {
+  "i": 4,
+  "a": 24.52,
+  "b": 29.36,
+  "acierto": 0.78,
+  "texto": "Que significa «el que lleva la horca». Y también… sinvergüenza."
+ },
+ {
+  "i": 5,
+  "a": 29.66,
+  "b": 35.85,
+  "acierto": 0.86,
+  "texto": "En Inglaterra, comer con tenedor se veía como una afectación italiana. Algo poco varonil."
+ }
+]
