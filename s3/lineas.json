@@ -1,0 +1,50 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 2.13,
+  "acierto": 1.0,
+  "texto": "Un libro tiene la última página.",
+  "pausa": 0.18
+ },
+ {
+  "i": 1,
+  "a": 2.31,
+  "b": 3.91,
+  "acierto": 1.0,
+  "texto": "Una película tiene créditos.",
+  "pausa": 0.18
+ },
+ {
+  "i": 2,
+  "a": 4.09,
+  "b": 5.26,
+  "acierto": 1.0,
+  "texto": "Un periódico se acaba.",
+  "pausa": 0.18
+ },
+ {
+  "i": 3,
+  "a": 5.44,
+  "b": 6.2,
+  "acierto": 1.0,
+  "texto": "Tu móvil no.",
+  "pausa": 0.18
+ },
+ {
+  "i": 4,
+  "a": 6.38,
+  "b": 13.67,
+  "acierto": 1.0,
+  "texto": "Siempre hay otro vídeo justo debajo. Y como nunca sabes si el siguiente será bueno, tu cerebro sigue bajando para comprobarlo.",
+  "pausa": 0.18
+ },
+ {
+  "i": 5,
+  "a": 13.85,
+  "b": 19.29,
+  "acierto": 0.94,
+  "texto": "Por eso a las tres de la madrugada no estás buscando nada. Estás esperando un final que no existe.",
+  "pausa": 0.18
+ }
+]

@@ -1,0 +1,42 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 3.19,
+  "acierto": 0.7,
+  "texto": "El truco para dejar el móvil por la noche no está en la noche.",
+  "pausa": 0.18
+ },
+ {
+  "i": 1,
+  "a": 3.37,
+  "b": 5.14,
+  "acierto": 1.0,
+  "texto": "Está en el resto del día.",
+  "pausa": 0.18
+ },
+ {
+  "i": 2,
+  "a": 5.32,
+  "b": 11.0,
+  "acierto": 1.0,
+  "texto": "Si en todo el día no has tenido ni media hora para ti, la noche te la vas a cobrar. Con intereses.",
+  "pausa": 0.18
+ },
+ {
+  "i": 3,
+  "a": 11.18,
+  "b": 16.68,
+  "acierto": 1.0,
+  "texto": "Así que guárdate esa media hora antes. Un paseo, un capítulo, nada. Pero tuya.",
+  "pausa": 0.18
+ },
+ {
+  "i": 4,
+  "a": 16.86,
+  "b": 20.83,
+  "acierto": 1.0,
+  "texto": "Cuando el día te devuelve un poco de tiempo, la noche ya no tiene que robarlo.",
+  "pausa": 0.18
+ }
+]

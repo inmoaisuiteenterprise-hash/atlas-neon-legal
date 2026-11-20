@@ -1,0 +1,42 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 5.01,
+  "acierto": 0.94,
+  "texto": "A las tres de la madrugada, con el móvil en la mano, sientes que estás perdiendo una batalla.",
+  "pausa": 0.18
+ },
+ {
+  "i": 1,
+  "a": 5.19,
+  "b": 7.26,
+  "acierto": 1.0,
+  "texto": "Pero esa batalla no empezó a las tres.",
+  "pausa": 0.18
+ },
+ {
+  "i": 2,
+  "a": 7.44,
+  "b": 10.89,
+  "acierto": 0.92,
+  "texto": "Empezó a las ocho de la mañana, cuando tu día dejó de ser tuyo.",
+  "pausa": 0.18
+ },
+ {
+  "i": 3,
+  "a": 11.07,
+  "b": 14.64,
+  "acierto": 1.0,
+  "texto": "Prometerte «esta noche me acuesto pronto» no cambia nada de eso.",
+  "pausa": 0.18
+ },
+ {
+  "i": 4,
+  "a": 14.82,
+  "b": 16.89,
+  "acierto": 1.0,
+  "texto": "Cambiar tu día, sí.",
+  "pausa": 0.18
+ }
+]

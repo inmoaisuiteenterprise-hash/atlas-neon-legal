@@ -1,0 +1,42 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 4.29,
+  "acierto": 1.0,
+  "texto": "Si te acuestas tarde aunque estés agotado, lo que te pasa tiene nombre.",
+  "pausa": 0.18
+ },
+ {
+  "i": 1,
+  "a": 4.47,
+  "b": 6.46,
+  "acierto": 1.0,
+  "texto": "Se llama procrastinación del sueño.",
+  "pausa": 0.18
+ },
+ {
+  "i": 2,
+  "a": 6.64,
+  "b": 14.27,
+  "acierto": 0.86,
+  "texto": "La describieron en dos mil catorce en la Universidad de Utrecht: irte a la cama más tarde de lo que querías, sin que nada te lo impida.",
+  "pausa": 0.18
+ },
+ {
+  "i": 3,
+  "a": 14.45,
+  "b": 18.87,
+  "acierto": 0.9,
+  "texto": "No hay bebé, no hay examen, no hay trabajo. Solo tú y la pantalla.",
+  "pausa": 0.18
+ },
+ {
+  "i": 4,
+  "a": 19.05,
+  "b": 23.9,
+  "acierto": 0.93,
+  "texto": "Y lo más curioso: casi todos saben que lo están haciendo. Y aun así no paran.",
+  "pausa": 0.18
+ }
+]

@@ -1,0 +1,42 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 3.57,
+  "acierto": 1.0,
+  "texto": "En China tienen una expresión para lo que haces cada noche.",
+  "pausa": 0.18
+ },
+ {
+  "i": 1,
+  "a": 3.75,
+  "b": 6.47,
+  "acierto": 1.0,
+  "texto": "Se traduce como «quedarse despierto por venganza».",
+  "pausa": 0.18
+ },
+ {
+  "i": 2,
+  "a": 6.65,
+  "b": 9.95,
+  "acierto": 0.7,
+  "texto": "Venganza contra un día en el que no has tenido ni una hora para ti.",
+  "pausa": 0.18
+ },
+ {
+  "i": 3,
+  "a": 10.13,
+  "b": 19.38,
+  "acierto": 0.92,
+  "texto": "Trabajo, metro, recados, mensajes. Y cuando por fin llega la noche, no quieres dormirte… porque dormirte es aceptar que el día se ha acabado sin vivir nada.",
+  "pausa": 0.18
+ },
+ {
+  "i": 4,
+  "a": 19.56,
+  "b": 22.53,
+  "acierto": 1.0,
+  "texto": "No es que no tengas sueño. Es que tienes hambre de tiempo.",
+  "pausa": 0.18
+ }
+]

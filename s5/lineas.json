@@ -1,0 +1,42 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 4.06,
+  "acierto": 1.0,
+  "texto": "Menos de la mitad de la gente en España duerme las horas recomendadas.",
+  "pausa": 0.18
+ },
+ {
+  "i": 1,
+  "a": 4.24,
+  "b": 6.58,
+  "acierto": 1.0,
+  "texto": "Lo dice la Sociedad Española de Neurología.",
+  "pausa": 0.18
+ },
+ {
+  "i": 2,
+  "a": 6.76,
+  "b": 9.88,
+  "acierto": 1.0,
+  "texto": "Uno de cada tres adultos se levanta sin sentir que ha descansado.",
+  "pausa": 0.18
+ },
+ {
+  "i": 3,
+  "a": 10.06,
+  "b": 15.14,
+  "acierto": 0.85,
+  "texto": "Y más del sesenta por ciento de los jóvenes admite que le quita horas al sueño para hacer otras cosas.",
+  "pausa": 0.18
+ },
+ {
+  "i": 4,
+  "a": 15.32,
+  "b": 21.96,
+  "acierto": 1.0,
+  "texto": "Si tú también lo haces, no eres raro. Eres la mayoría. Y eso debería preocuparnos un poco más.",
+  "pausa": 0.18
+ }
+]
