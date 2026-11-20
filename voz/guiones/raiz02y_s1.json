@@ -1,0 +1,27 @@
+{
+ "modo": "clon",
+ "ref": "ref_raiz_narr.wav",
+ "ref_text": "En el año mil cuatro, una princesa llegó a Venecia con un objeto que escandalizó a todos. Hoy lo tienes en el cajón de tu cocina, y no sabes de dónde viene. Esta es la historia de cómo algo tan pequeño cambió la forma de comer de medio mundo.",
+ "lineas": [
+  {
+   "texto": "Si nacías en la Edad Media, tu mayor reto no era llegar a viejo.",
+   "i": 0
+  },
+  {
+   "texto": "Era llegar a los cinco años.",
+   "i": 1
+  },
+  {
+   "texto": "Infecciones, fiebres, hambre: una parte enorme de los niños no llegaba a crecer.",
+   "i": 2
+  },
+  {
+   "texto": "Pero si superabas la infancia, todo cambiaba.",
+   "i": 3
+  },
+  {
+   "texto": "Tus posibilidades de llegar a los sesenta eran mucho mayores de lo que imaginas.",
+   "i": 4
+  }
+ ]
+}

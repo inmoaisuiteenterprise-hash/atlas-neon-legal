@@ -1,0 +1,31 @@
+{
+ "modo": "clon",
+ "ref": "ref_raiz_narr.wav",
+ "ref_text": "En el año mil cuatro, una princesa llegó a Venecia con un objeto que escandalizó a todos. Hoy lo tienes en el cajón de tu cocina, y no sabes de dónde viene. Esta es la historia de cómo algo tan pequeño cambió la forma de comer de medio mundo.",
+ "lineas": [
+  {
+   "texto": "Pero hay algo que seguro que no te esperabas.",
+   "i": 0
+  },
+  {
+   "texto": "Te bañas.",
+   "i": 1
+  },
+  {
+   "texto": "La idea de que en la Edad Media nadie se lavaba es un mito.",
+   "i": 2
+  },
+  {
+   "texto": "Te lavas las manos y la cara a menudo, en verano te bañas en el río, y en las ciudades hay baños públicos.",
+   "i": 3
+  },
+  {
+   "texto": "En el París del siglo trece había más de treinta y dos.",
+   "i": 4
+  },
+  {
+   "texto": "Hay quien dice que eran sitios para charlar, comer… y algo más que lavarse.",
+   "i": 5
+  }
+ ]
+}

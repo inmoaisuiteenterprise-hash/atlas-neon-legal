@@ -1,0 +1,27 @@
+{
+ "modo": "clon",
+ "ref": "ref_raiz_narr.wav",
+ "ref_text": "En el año mil cuatro, una princesa llegó a Venecia con un objeto que escandalizó a todos. Hoy lo tienes en el cajón de tu cocina, y no sabes de dónde viene. Esta es la historia de cómo algo tan pequeño cambió la forma de comer de medio mundo.",
+ "lineas": [
+  {
+   "texto": "Imagina que naces en el año mil trescientos treinta, en una aldea de Castilla.",
+   "i": 0
+  },
+  {
+   "texto": "No hay hospital, no hay médico, y tu casa es una sola habitación compartida con tu familia… y con las gallinas.",
+   "i": 1
+  },
+  {
+   "texto": "Vas a vivir la Edad Media desde dentro. Año a año.",
+   "i": 2
+  },
+  {
+   "texto": "Y vas a descubrir que casi todo lo que te contaron sobre ella está un poco mal.",
+   "i": 3
+  },
+  {
+   "texto": "Edad cero. Empezamos.",
+   "i": 4
+  }
+ ]
+}

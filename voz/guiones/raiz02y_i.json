@@ -1,0 +1,27 @@
+{
+ "modo": "clon",
+ "ref": "ref_raiz_narr.wav",
+ "ref_text": "En el año mil cuatro, una princesa llegó a Venecia con un objeto que escandalizó a todos. Hoy lo tienes en el cajón de tu cocina, y no sabes de dónde viene. Esta es la historia de cómo algo tan pequeño cambió la forma de comer de medio mundo.",
+ "lineas": [
+  {
+   "texto": "Edad cuarenta. Ya eres de los mayores de la aldea… pero no eres un anciano.",
+   "i": 0
+  },
+  {
+   "texto": "Has visto hambre, peste y guerras. Y sigues aquí.",
+   "i": 1
+  },
+  {
+   "texto": "Si has llegado hasta aquí, puedes llegar a los sesenta, o incluso más.",
+   "i": 2
+  },
+  {
+   "texto": "Los huesos encontrados por los arqueólogos lo demuestran: había gente mayor, y mucha.",
+   "i": 3
+  },
+  {
+   "texto": "Lo que no había era la medicina para salvar a los que caían antes.",
+   "i": 4
+  }
+ ]
+}

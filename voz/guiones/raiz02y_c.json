@@ -1,0 +1,27 @@
+{
+ "modo": "clon",
+ "ref": "ref_raiz_narr.wav",
+ "ref_text": "En el año mil cuatro, una princesa llegó a Venecia con un objeto que escandalizó a todos. Hoy lo tienes en el cajón de tu cocina, y no sabes de dónde viene. Esta es la historia de cómo algo tan pequeño cambió la forma de comer de medio mundo.",
+ "lineas": [
+  {
+   "texto": "Edad siete. Ya trabajas.",
+   "i": 0
+  },
+  {
+   "texto": "Nadie va al colegio en tu aldea. Cuidas a tus hermanos, llevas el agua, espantas pájaros de los cultivos y cuidas los animales.",
+   "i": 1
+  },
+  {
+   "texto": "No sabes leer, y probablemente nunca aprenderás.",
+   "i": 2
+  },
+  {
+   "texto": "Tu reloj es el sol, y tu calendario son las fiestas de la Iglesia y las estaciones.",
+   "i": 3
+  },
+  {
+   "texto": "Sembrar, cosechar, guardar. Si la cosecha sale mal, el invierno será de hambre.",
+   "i": 4
+  }
+ ]
+}

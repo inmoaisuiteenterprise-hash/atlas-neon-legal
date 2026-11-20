@@ -1,0 +1,27 @@
+{
+ "modo": "clon",
+ "ref": "ref_raiz_narr.wav",
+ "ref_text": "En el año mil cuatro, una princesa llegó a Venecia con un objeto que escandalizó a todos. Hoy lo tienes en el cajón de tu cocina, y no sabes de dónde viene. Esta es la historia de cómo algo tan pequeño cambió la forma de comer de medio mundo.",
+ "lineas": [
+  {
+   "texto": "Después de la peste negra, el mundo cambió de una forma inesperada.",
+   "i": 0
+  },
+  {
+   "texto": "Faltaban manos para trabajar el campo.",
+   "i": 1
+  },
+  {
+   "texto": "Y lo que falta, vale más.",
+   "i": 2
+  },
+  {
+   "texto": "En buena parte de Europa, muchos trabajadores pudieron negociar mejores condiciones.",
+   "i": 3
+  },
+  {
+   "texto": "La mayor tragedia de su vida también cambió el orden de las cosas.",
+   "i": 4
+  }
+ ]
+}

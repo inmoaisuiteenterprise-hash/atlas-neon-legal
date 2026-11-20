@@ -1,0 +1,31 @@
+{
+ "modo": "clon",
+ "ref": "ref_raiz_narr.wav",
+ "ref_text": "En el año mil cuatro, una princesa llegó a Venecia con un objeto que escandalizó a todos. Hoy lo tienes en el cajón de tu cocina, y no sabes de dónde viene. Esta es la historia de cómo algo tan pequeño cambió la forma de comer de medio mundo.",
+ "lineas": [
+  {
+   "texto": "¿Y qué comes? Pan. Mucho pan.",
+   "i": 0
+  },
+  {
+   "texto": "Según algunas estimaciones, una persona podía comer entre uno y un kilo y medio de pan al día.",
+   "i": 1
+  },
+  {
+   "texto": "No es pan blanco: el trigo fino es caro. El tuyo es oscuro, de centeno o de cebada.",
+   "i": 2
+  },
+  {
+   "texto": "Lo acompañas con gachas, legumbres, cebolla, col y lo que dé el huerto.",
+   "i": 3
+  },
+  {
+   "texto": "¿Carne? Poca, y casi siempre en días de fiesta o en forma de tocino.",
+   "i": 4
+  },
+  {
+   "texto": "Y para beber, muchas veces, vino aguado o cerveza floja, según la región.",
+   "i": 5
+  }
+ ]
+}

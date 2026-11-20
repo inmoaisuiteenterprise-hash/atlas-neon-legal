@@ -1,0 +1,27 @@
+{
+ "modo": "clon",
+ "ref": "ref_raiz_narr.wav",
+ "ref_text": "En el año mil cuatro, una princesa llegó a Venecia con un objeto que escandalizó a todos. Hoy lo tienes en el cajón de tu cocina, y no sabes de dónde viene. Esta es la historia de cómo algo tan pequeño cambió la forma de comer de medio mundo.",
+ "lineas": [
+  {
+   "texto": "Te han contado que en la Edad Media la gente vivía unos treinta años.",
+   "i": 0
+  },
+  {
+   "texto": "Es una media. Y engaña.",
+   "i": 1
+  },
+  {
+   "texto": "Si muchos bebés mueren muy pronto, la media cae en picado… aunque los adultos vivan bastante más.",
+   "i": 2
+  },
+  {
+   "texto": "Los arqueólogos han encontrado huesos de mucha gente mayor.",
+   "i": 3
+  },
+  {
+   "texto": "No faltaban viejos. Faltaba medicina para salvar a los que caían antes.",
+   "i": 4
+  }
+ ]
+}

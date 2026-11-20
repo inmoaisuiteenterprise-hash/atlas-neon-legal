@@ -1,0 +1,27 @@
+{
+ "modo": "clon",
+ "ref": "ref_raiz_narr.wav",
+ "ref_text": "En el año mil cuatro, una princesa llegó a Venecia con un objeto que escandalizó a todos. Hoy lo tienes en el cajón de tu cocina, y no sabes de dónde viene. Esta es la historia de cómo algo tan pequeño cambió la forma de comer de medio mundo.",
+ "lineas": [
+  {
+   "texto": "Si nacías en una aldea medieval, tu comida tenía un protagonista: el pan.",
+   "i": 0
+  },
+  {
+   "texto": "Según algunas estimaciones, entre uno y un kilo y medio al día por persona.",
+   "i": 1
+  },
+  {
+   "texto": "Y no era blanco: el trigo fino era caro. El tuyo era oscuro, de centeno o de cebada.",
+   "i": 2
+  },
+  {
+   "texto": "Con gachas, legumbres, cebolla, col…",
+   "i": 3
+  },
+  {
+   "texto": "¿Carne? Poca, y casi siempre en días de fiesta.",
+   "i": 4
+  }
+ ]
+}

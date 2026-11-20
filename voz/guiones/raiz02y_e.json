@@ -1,0 +1,27 @@
+{
+ "modo": "clon",
+ "ref": "ref_raiz_narr.wav",
+ "ref_text": "En el año mil cuatro, una princesa llegó a Venecia con un objeto que escandalizó a todos. Hoy lo tienes en el cajón de tu cocina, y no sabes de dónde viene. Esta es la historia de cómo algo tan pequeño cambió la forma de comer de medio mundo.",
+ "lineas": [
+  {
+   "texto": "Edad catorce. Ya haces el trabajo de un adulto.",
+   "i": 0
+  },
+  {
+   "texto": "La tierra que trabajas no es tuya. Es de un señor, o de un monasterio.",
+   "i": 1
+  },
+  {
+   "texto": "Tu familia paga rentas por cultivarla, y además le da a la Iglesia el diezmo: una parte de todo lo que produce.",
+   "i": 2
+  },
+  {
+   "texto": "Molino, horno, puente… muchas cosas que usas tienen un dueño, y hay que pagarle.",
+   "i": 3
+  },
+  {
+   "texto": "Al final del año, de todo lo que has sembrado, a tu mesa llega bastante menos de lo que crees.",
+   "i": 4
+  }
+ ]
+}

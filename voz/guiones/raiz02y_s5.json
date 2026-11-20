@@ -1,0 +1,27 @@
+{
+ "modo": "clon",
+ "ref": "ref_raiz_narr.wav",
+ "ref_text": "En el año mil cuatro, una princesa llegó a Venecia con un objeto que escandalizó a todos. Hoy lo tienes en el cajón de tu cocina, y no sabes de dónde viene. Esta es la historia de cómo algo tan pequeño cambió la forma de comer de medio mundo.",
+ "lineas": [
+  {
+   "texto": "Año mil trescientos cuarenta y ocho. Tienes dieciocho años.",
+   "i": 0
+  },
+  {
+   "texto": "Una enfermedad llega en los barcos y avanza de ciudad en ciudad: la peste negra.",
+   "i": 1
+  },
+  {
+   "texto": "En los lugares a los que llegó, murió entre el treinta y el cincuenta por ciento de la población.",
+   "i": 2
+  },
+  {
+   "texto": "Mira a tus vecinos.",
+   "i": 3
+  },
+  {
+   "texto": "De cada tres, puede que uno… o más… no vea el invierno.",
+   "i": 4
+  }
+ ]
+}
