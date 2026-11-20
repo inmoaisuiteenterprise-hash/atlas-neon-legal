@@ -1,0 +1,14 @@
+{
+ "modo": "diseno",
+ "instruct": "Narradora joven, española de España con acento castellano peninsular neutro (no latinoamericano), unos treinta años, voz clara y cercana, ritmo ágil, tono directo con un punto de ironía, como una divulgadora de economía.",
+ "lineas": [
+  {
+   "texto": "Mira la etiqueta: nueve euros con noventa y nueve. No son diez. ¿O sí? Tu cerebro acaba de caer en un truco que tiene más de cien años.",
+   "i": 0
+  },
+  {
+   "texto": "Hoy te enseño qué hay detrás de ese céntimo, y por qué funciona aunque lo sepas.",
+   "i": 1
+  }
+ ]
+}

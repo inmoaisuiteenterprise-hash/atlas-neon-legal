@@ -1,0 +1,14 @@
+{
+ "modo": "diseno",
+ "instruct": "Narrador masculino de documental, español de España con acento castellano peninsular neutro (no latinoamericano), unos cuarenta años, voz grave y cálida, ritmo pausado, entonación curiosa y expresiva, como un buen narrador de historia.",
+ "lineas": [
+  {
+   "texto": "En el año mil cuatro, una princesa llegó a Venecia con un objeto que escandalizó a todos. Hoy lo tienes en el cajón de tu cocina, y no sabes de dónde viene.",
+   "i": 0
+  },
+  {
+   "texto": "Esta es la historia de cómo algo tan pequeño cambió la forma de comer de medio mundo.",
+   "i": 1
+  }
+ ]
+}
