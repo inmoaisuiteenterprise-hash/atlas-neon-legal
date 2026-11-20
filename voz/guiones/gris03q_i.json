@@ -1,0 +1,42 @@
+{
+ "modo": "clon",
+ "ref": "ref_qwen_Q1.wav",
+ "ref_text": "Son las dos de la madrugada. Le quedan cinco segundos para decidir… y no va a decidir él. En mil novecientos veintisiete, una psicóloga descubrió algo que tu cerebro hace cada noche, sin que te des cuenta. No es culpa tuya. Pero sí es tu decisión.",
+ "lineas": [
+  {
+   "texto": "Así que Gris hizo lo de siempre: cambiar las reglas del juego.",
+   "voz": "Así que Gris hizo lo de siempre: cambiar las reglas del juego.",
+   "i": 0
+  },
+  {
+   "texto": "Regla uno: borró la tarjeta guardada. Ahora, para comprar, tenía que levantarse a buscar la cartera.",
+   "voz": "Regla uno: borró la tarjeta guardada. Ahora, para comprar, tenía que levantarse a buscar la cartera.",
+   "i": 1
+  },
+  {
+   "texto": "Esos treinta segundos de pereza le salvaron más de la mitad de las compras.",
+   "voz": "Esos treinta segundos de pereza le salvaron más de la mitad de las compras.",
+   "i": 2
+  },
+  {
+   "texto": "Regla dos: nada de comprar en el momento. Lo que quería iba a una lista. Y si a las cuarenta y ocho horas lo seguía queriendo, lo compraba.",
+   "voz": "Regla dos: nada de comprar en el momento. Lo que quería iba a una lista. Y si a las cuarenta y ocho horas lo seguía queriendo, lo compraba.",
+   "i": 3
+  },
+  {
+   "texto": "Casi nunca lo seguía queriendo.",
+   "voz": "Casi nunca lo seguía queriendo.",
+   "i": 4
+  },
+  {
+   "texto": "Regla tres: quitó las notificaciones de la app. Sin luces… no hay zumo.",
+   "voz": "Regla tres: quitó las notificaciones de la app. Sin luces… no hay zumo.",
+   "i": 5
+  },
+  {
+   "texto": "Y la regla cuatro es la del botón. La más incómoda. Y la que de verdad funcionó.",
+   "voz": "Y la regla cuatro es la del botón. La más incómoda. Y la que de verdad funcionó.",
+   "i": 6
+  }
+ ]
+}

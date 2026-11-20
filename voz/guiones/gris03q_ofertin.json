@@ -1,0 +1,36 @@
+{
+ "modo": "diseno",
+ "instruct": "Overly cheerful cartoon mascot of a shopping app, a fast-talking hyperactive salesman from Spain (Castilian Spanish accent). High-pitched, bubbly, exaggerated enthusiasm like a TV shopping host announcing incredible deals, slightly sneaky and manipulative, big smile in the voice.",
+ "lineas": [
+  {
+   "texto": "¡Bienvenido! ¡Tienes un regalo esperándote!",
+   "voz": "¡Bienvenido! ¡Tienes un regalo esperándote!",
+   "escena": "b",
+   "i": 1
+  },
+  {
+   "texto": "¡Gira la ruleta! ¡Puedes ganar hasta un noventa por ciento de descuento!",
+   "voz": "¡Gira la ruleta! ¡Puedes ganar hasta un noventa por ciento de descuento!",
+   "escena": "b",
+   "i": 3
+  },
+  {
+   "texto": "¡Enhorabuena! ¡Cupón desbloqueado! Pero solo durante los próximos diez minutos.",
+   "voz": "¡Enhorabuena! ¡Cupón desbloqueado! Pero solo durante los próximos diez minutos.",
+   "escena": "b",
+   "i": 5
+  },
+  {
+   "texto": "¡Te faltan solo tres euros para el envío gratis!",
+   "voz": "¡Te faltan solo tres euros para el envío gratis!",
+   "escena": "e",
+   "i": 5
+  },
+  {
+   "texto": "¡Ofertas que no volverán! ¡Solo hoy! ¡Quedan dos unidades!",
+   "voz": "¡Ofertas que no volverán! ¡Solo hoy! ¡Quedan dos unidades!",
+   "escena": "j",
+   "i": 1
+  }
+ ]
+}

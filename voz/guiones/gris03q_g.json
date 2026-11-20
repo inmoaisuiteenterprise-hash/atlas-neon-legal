@@ -1,0 +1,37 @@
+{
+ "modo": "clon",
+ "ref": "ref_qwen_Q1.wav",
+ "ref_text": "Son las dos de la madrugada. Le quedan cinco segundos para decidir… y no va a decidir él. En mil novecientos veintisiete, una psicóloga descubrió algo que tu cerebro hace cada noche, sin que te des cuenta. No es culpa tuya. Pero sí es tu decisión.",
+ "lineas": [
+  {
+   "texto": "Gris empezó a esperar al repartidor como antes esperaba un capítulo.",
+   "voz": "Gris empezó a esperar al repartidor como antes esperaba un capítulo.",
+   "i": 0
+  },
+  {
+   "texto": "Cada aviso de «tu pedido está en camino» le daba un pequeño subidón. El paquete, al llegar… casi ninguno.",
+   "voz": "Cada aviso de «tu pedido está en camino» le daba un pequeño subidón. El paquete, al llegar… casi ninguno.",
+   "i": 1
+  },
+  {
+   "texto": "Abría la caja, miraba el pato… y volvía a abrir la app.",
+   "voz": "Abría la caja, miraba el pato… y volvía a abrir la app.",
+   "i": 2
+  },
+  {
+   "texto": "Porque la dopamina no te pide el objeto. Te pide la próxima espera.",
+   "voz": "Porque la dopamina no te pide el objeto. Te pide la próxima espera.",
+   "i": 3
+  },
+  {
+   "texto": "Su cuenta del banco, mientras tanto, contaba otra historia.",
+   "voz": "Su cuenta del banco, mientras tanto, contaba otra historia.",
+   "i": 4
+  },
+  {
+   "texto": "Cuatrocientos doce euros en un mes. Más que la luz, el agua y el móvil juntos.",
+   "voz": "Cuatrocientos doce euros en un mes. Más que la luz, el agua y el móvil juntos.",
+   "i": 5
+  }
+ ]
+}

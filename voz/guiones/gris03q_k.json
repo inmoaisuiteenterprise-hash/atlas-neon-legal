@@ -1,0 +1,42 @@
+{
+ "modo": "clon",
+ "ref": "ref_qwen_Q1.wav",
+ "ref_text": "Son las dos de la madrugada. Le quedan cinco segundos para decidir… y no va a decidir él. En mil novecientos veintisiete, una psicóloga descubrió algo que tu cerebro hace cada noche, sin que te des cuenta. No es culpa tuya. Pero sí es tu decisión.",
+ "lineas": [
+  {
+   "texto": "¿Recuerdas la pregunta del principio? ¿Cómo se gasta tanto dinero en cosas tan baratas?",
+   "voz": "¿Recuerdas la pregunta del principio? ¿Cómo se gasta tanto dinero en cosas tan baratas?",
+   "i": 0
+  },
+  {
+   "texto": "Porque cada compra pequeña pasa por debajo de la parte del cerebro que dice «esto duele».",
+   "voz": "Porque cada compra pequeña pasa por debajo de la parte del cerebro que dice «esto duele».",
+   "i": 1
+  },
+  {
+   "texto": "Las apps convierten el dinero en cupones, en puntos, en un botón. Y sin dolor, no hay freno.",
+   "voz": "Las apps convierten el dinero en cupones, en puntos, en un botón. Y sin dolor, no hay freno.",
+   "i": 2
+  },
+  {
+   "texto": "Así que la regla cuatro le devuelve el dolor: antes de pagar, Gris convierte el precio en horas de su vida.",
+   "voz": "Así que la regla cuatro le devuelve el dolor: antes de pagar, Gris convierte el precio en horas de su vida.",
+   "i": 3
+  },
+  {
+   "texto": "Si gana diez euros la hora, ese robot de ciento veinte euros son doce horas de trabajo. Un día y medio entero.",
+   "voz": "Si gana diez euros la hora, ese robot de ciento veinte euros son doce horas de trabajo. Un día y medio entero.",
+   "i": 4
+  },
+  {
+   "texto": "¿Día y medio de su vida por un robot que no necesita? Gris pulsó el botón que ninguna app quiere que pulses: eliminar del carrito.",
+   "voz": "¿Día y medio de su vida por un robot que no necesita? Gris pulsó el botón que ninguna app quiere que pulses: eliminar del carrito.",
+   "i": 5
+  },
+  {
+   "texto": "Haz la cuenta tú: divide el precio entre lo que ganas por hora. Funciona que da miedo.",
+   "voz": "Haz la cuenta tú: divide el precio entre lo que ganas por hora. Funciona que da miedo.",
+   "i": 6
+  }
+ ]
+}

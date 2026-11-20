@@ -1,0 +1,37 @@
+{
+ "modo": "clon",
+ "ref": "ref_qwen_Q1.wav",
+ "ref_text": "Son las dos de la madrugada. Le quedan cinco segundos para decidir… y no va a decidir él. En mil novecientos veintisiete, una psicóloga descubrió algo que tu cerebro hace cada noche, sin que te des cuenta. No es culpa tuya. Pero sí es tu decisión.",
+ "lineas": [
+  {
+   "texto": "Pero lo de Gris no era solo cosa de su cabeza.",
+   "voz": "Pero lo de Gris no era solo cosa de su cabeza.",
+   "i": 0
+  },
+  {
+   "texto": "En noviembre de dos mil veinticuatro, las autoridades de consumo de toda Europa enviaron un aviso a Temu.",
+   "voz": "En noviembre de dos mil veinticuatro, las autoridades de consumo de toda Europa enviaron un aviso a Tému.",
+   "i": 1
+  },
+  {
+   "texto": "Según ellas, la app podía estar usando descuentos que no eran reales, prisas falsas del tipo «quedan pocas unidades» y una ruleta obligatoria con condiciones poco claras.",
+   "voz": "Según ellas, la app podía estar usando descuentos que no eran reales, prisas falsas del tipo «quedan pocas unidades» y una ruleta obligatoria con condiciones poco claras.",
+   "i": 2
+  },
+  {
+   "texto": "Lo que Gris vivía como suerte, para los reguladores podía ser presión.",
+   "voz": "Lo que Gris vivía como suerte, para los reguladores podía ser presión.",
+   "i": 3
+  },
+  {
+   "texto": "Y en mayo de dos mil veintiséis, la Comisión Europea multó a Temu con doscientos millones de euros, en este caso por no evaluar bien el riesgo de vender productos ilegales o peligrosos.",
+   "voz": "Y en mayo de dos mil veintiséis, la Comisión Europea multó a Tému con doscientos millones de euros, en este caso por no evaluar bien el riesgo de vender productos ilegales o peligrosos.",
+   "i": 4
+  },
+  {
+   "texto": "Temu dice que la multa es desproporcionada. Pero la pregunta para ti es otra: ¿quién decide cuándo compras?",
+   "voz": "Tému dice que la multa es desproporcionada. Pero la pregunta para ti es otra: ¿quién decide cuándo compras?",
+   "i": 5
+  }
+ ]
+}

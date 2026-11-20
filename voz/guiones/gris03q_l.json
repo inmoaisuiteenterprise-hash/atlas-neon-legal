@@ -1,0 +1,27 @@
+{
+ "modo": "clon",
+ "ref": "ref_qwen_Q1.wav",
+ "ref_text": "Son las dos de la madrugada. Le quedan cinco segundos para decidir… y no va a decidir él. En mil novecientos veintisiete, una psicóloga descubrió algo que tu cerebro hace cada noche, sin que te des cuenta. No es culpa tuya. Pero sí es tu decisión.",
+ "lineas": [
+  {
+   "texto": "Un mes después, Gris ha gastado treinta y un euros. Y todo lo que compró, lo usa.",
+   "voz": "Un mes después, Gris ha gastado treinta y un euros. Y todo lo que compró, lo usa.",
+   "i": 0
+  },
+  {
+   "texto": "La lámpara de pato sigue ahí. Ahora le hace gracia.",
+   "voz": "La lámpara de pato sigue ahí. Ahora le hace gracia.",
+   "i": 1
+  },
+  {
+   "texto": "Comprar no es malo. El problema empieza cuando la tienda decide por ti… y tú solo pulsas.",
+   "voz": "Comprar no es malo. El problema empieza cuando la tienda decide por ti… y tú solo pulsas.",
+   "i": 2
+  },
+  {
+   "texto": "Así que hoy, haz una sola cosa: borra la tarjeta guardada de tu app de compras. Treinta segundos.",
+   "voz": "Así que hoy, haz una sola cosa: borra la tarjeta guardada de tu app de compras. Treinta segundos.",
+   "i": 3
+  }
+ ]
+}

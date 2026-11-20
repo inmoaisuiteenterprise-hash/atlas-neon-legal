@@ -1,0 +1,27 @@
+{
+ "modo": "clon",
+ "ref": "ref_qwen_Q1.wav",
+ "ref_text": "Son las dos de la madrugada. Le quedan cinco segundos para decidir… y no va a decidir él. En mil novecientos veintisiete, una psicóloga descubrió algo que tu cerebro hace cada noche, sin que te des cuenta. No es culpa tuya. Pero sí es tu decisión.",
+ "lineas": [
+  {
+   "texto": "Todo empezó tres semanas antes. Gris acababa de dejar las series por la noche… y le sobraba tiempo.",
+   "voz": "Todo empezó tres semanas antes. Gris acababa de dejar las series por la noche… y le sobraba tiempo.",
+   "i": 0
+  },
+  {
+   "texto": "Gris pensó: bueno, por mirar, no pasa nada.",
+   "voz": "Gris pensó: bueno, por mirar, no pasa nada.",
+   "i": 2
+  },
+  {
+   "texto": "Giró. Ganó. O eso le pareció.",
+   "voz": "Giró. Ganó. O eso le pareció.",
+   "i": 4
+  },
+  {
+   "texto": "Y así, sin darse cuenta, Gris ya tenía algo en el carrito. Ese algo era el pato.",
+   "voz": "Y así, sin darse cuenta, Gris ya tenía algo en el carrito. Ese algo era el pato.",
+   "i": 6
+  }
+ ]
+}

@@ -1,0 +1,47 @@
+{
+ "modo": "clon",
+ "ref": "ref_qwen_Q1.wav",
+ "ref_text": "Son las dos de la madrugada. Le quedan cinco segundos para decidir… y no va a decidir él. En mil novecientos veintisiete, una psicóloga descubrió algo que tu cerebro hace cada noche, sin que te des cuenta. No es culpa tuya. Pero sí es tu decisión.",
+ "lineas": [
+  {
+   "texto": "Pero comprar debería doler. Y de hecho, duele.",
+   "voz": "Pero comprar debería doler. Y de hecho, duele.",
+   "i": 0
+  },
+  {
+   "texto": "En dos mil siete, investigadores de Stanford y Carnegie Mellon metieron a gente en un escáner cerebral y le enseñaron productos con su precio.",
+   "voz": "En dos mil siete, investigadores de Stanford y Cárnegui Mélon metieron a gente en un escáner cerebral y le enseñaron productos con su precio.",
+   "i": 1
+  },
+  {
+   "texto": "Cuando el precio parecía excesivo, se activaba la ínsula, una zona del cerebro ligada a anticipar dolor y pérdidas. Y la gente no compraba.",
+   "voz": "Cuando el precio parecía excesivo, se activaba la ínsula, una zona del cerebro ligada a anticipar dolor y pérdidas. Y la gente no compraba.",
+   "i": 2
+  },
+  {
+   "texto": "Los economistas lo llaman el dolor de pagar.",
+   "voz": "Los economistas lo llaman el dolor de pagar.",
+   "i": 3
+  },
+  {
+   "texto": "Y aquí viene el truco: ese dolor se puede anestesiar.",
+   "voz": "Y aquí viene el truco: ese dolor se puede anestesiar.",
+   "i": 4
+  },
+  {
+   "texto": "En dos mil uno, en el MIT, subastaron entradas para un partido de baloncesto. A la mitad les dijeron que pagarían en efectivo. A la otra mitad, con tarjeta.",
+   "voz": "En dos mil uno, en el eme i te, subastaron entradas para un partido de baloncesto. A la mitad les dijeron que pagarían en efectivo. A la otra mitad, con tarjeta.",
+   "i": 5
+  },
+  {
+   "texto": "Los que iban a pagar con tarjeta pujaron más del doble. Por las mismas entradas.",
+   "voz": "Los que iban a pagar con tarjeta pujaron más del doble. Por las mismas entradas.",
+   "i": 6
+  },
+  {
+   "texto": "Cuanto menos se nota el dinero salir, menos duele. Y Gris ya no veía billetes. Solo un botón.",
+   "voz": "Cuanto menos se nota el dinero salir, menos duele. Y Gris ya no veía billetes. Solo un botón.",
+   "i": 7
+  }
+ ]
+}

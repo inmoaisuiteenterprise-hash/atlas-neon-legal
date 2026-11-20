@@ -1,0 +1,37 @@
+{
+ "modo": "clon",
+ "ref": "ref_qwen_Q1.wav",
+ "ref_text": "Son las dos de la madrugada. Le quedan cinco segundos para decidir… y no va a decidir él. En mil novecientos veintisiete, una psicóloga descubrió algo que tu cerebro hace cada noche, sin que te des cuenta. No es culpa tuya. Pero sí es tu decisión.",
+ "lineas": [
+  {
+   "texto": "Amazon lo entendió muy pronto: en mil novecientos noventa y nueve consiguió la patente de la compra con un solo clic.",
+   "voz": "Amazon lo entendió muy pronto: en mil novecientos noventa y nueve consiguió la patente de la compra con un solo clic.",
+   "i": 0
+  },
+  {
+   "texto": "Sin rellenar datos. Sin pararte a pensar. Un clic, y listo.",
+   "voz": "Sin rellenar datos. Sin pararte a pensar. Un clic, y listo.",
+   "i": 1
+  },
+  {
+   "texto": "Tanto valía esa idea que la tuvo patentada casi veinte años.",
+   "voz": "Tanto valía esa idea que la tuvo patentada casi veinte años.",
+   "i": 2
+  },
+  {
+   "texto": "Hoy está en todas partes. Y con precios de dos euros, el dolor de pagar casi desaparece.",
+   "voz": "Hoy está en todas partes. Y con precios de dos euros, el dolor de pagar casi desaparece.",
+   "i": 3
+  },
+  {
+   "texto": "Dos euros no duelen. Pero dos euros, doscientas veces… sí.",
+   "voz": "Dos euros no duelen. Pero dos euros, doscientas veces… sí.",
+   "i": 4
+  },
+  {
+   "texto": "Y Gris, para ahorrarse un envío de dos euros… se gastaba siete en cosas que no necesitaba.",
+   "voz": "Y Gris, para ahorrarse un envío de dos euros… se gastaba siete en cosas que no necesitaba.",
+   "i": 6
+  }
+ ]
+}

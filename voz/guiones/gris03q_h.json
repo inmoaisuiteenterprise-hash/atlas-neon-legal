@@ -1,0 +1,27 @@
+{
+ "modo": "clon",
+ "ref": "ref_qwen_Q1.wav",
+ "ref_text": "Son las dos de la madrugada. Le quedan cinco segundos para decidir… y no va a decidir él. En mil novecientos veintisiete, una psicóloga descubrió algo que tu cerebro hace cada noche, sin que te des cuenta. No es culpa tuya. Pero sí es tu decisión.",
+ "lineas": [
+  {
+   "texto": "Pero, otra vez: Gris no es tonto.",
+   "voz": "Pero, otra vez: Gris no es tonto.",
+   "i": 0
+  },
+  {
+   "texto": "Se juntan cuatro trampas: una ruleta que anticipa premios, un pago que no duele, un botón sin pausa y una cuenta atrás que mete prisa.",
+   "voz": "Se juntan cuatro trampas: una ruleta que anticipa premios, un pago que no duele, un botón sin pausa y una cuenta atrás que mete prisa.",
+   "i": 1
+  },
+  {
+   "texto": "Cada una por separado es pequeña. Juntas, son una máquina.",
+   "voz": "Cada una por separado es pequeña. Juntas, son una máquina.",
+   "i": 2
+  },
+  {
+   "texto": "Y no es solo Temu: Shein, AliExpress, las ofertas flash… Y en Black Friday, todas a la vez.",
+   "voz": "Y no es solo Tému: Shí-in, Áli Express, las ofertas flash… Y en Blac Fráidei, todas a la vez.",
+   "i": 3
+  }
+ ]
+}

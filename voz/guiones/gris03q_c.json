@@ -1,0 +1,37 @@
+{
+ "modo": "clon",
+ "ref": "ref_qwen_Q1.wav",
+ "ref_text": "Son las dos de la madrugada. Le quedan cinco segundos para decidir… y no va a decidir él. En mil novecientos veintisiete, una psicóloga descubrió algo que tu cerebro hace cada noche, sin que te des cuenta. No es culpa tuya. Pero sí es tu decisión.",
+ "lineas": [
+  {
+   "texto": "Para entender qué le pasó, hay que ir a un laboratorio. Con monos. Y zumo.",
+   "voz": "Para entender qué le pasó, hay que ir a un laboratorio. Con monos. Y zumo.",
+   "i": 0
+  },
+  {
+   "texto": "En los años noventa, el neurocientífico Wolfram Schultz midió las neuronas de dopamina de unos monos mientras recibían zumo.",
+   "voz": "En los años noventa, el neurocientífico Wólfram Shults midió las neuronas de dopamina de unos monos mientras recibían zumo.",
+   "i": 1
+  },
+  {
+   "texto": "Al principio, la dopamina se disparaba al llegar el zumo. Normal: premio, placer.",
+   "voz": "Al principio, la dopamina se disparaba al llegar el zumo. Normal: premio, placer.",
+   "i": 2
+  },
+  {
+   "texto": "Pero cuando los monos aprendieron que una luz anunciaba el zumo… la dopamina empezó a dispararse con la luz. Antes del premio.",
+   "voz": "Pero cuando los monos aprendieron que una luz anunciaba el zumo… la dopamina empezó a dispararse con la luz. Antes del premio.",
+   "i": 3
+  },
+  {
+   "texto": "La dopamina tiene mucho que ver con anticipar. Con esperar que algo bueno está a punto de pasar.",
+   "voz": "La dopamina tiene mucho que ver con anticipar. Con esperar que algo bueno está a punto de pasar.",
+   "i": 4
+  },
+  {
+   "texto": "Y una ruleta es exactamente eso: una luz que promete zumo… cada vez que abres la app.",
+   "voz": "Y una ruleta es exactamente eso: una luz que promete zumo… cada vez que abres la app.",
+   "i": 5
+  }
+ ]
+}

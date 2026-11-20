@@ -1,0 +1,22 @@
+{
+ "modo": "clon",
+ "ref": "ref_qwen_Q1.wav",
+ "ref_text": "Son las dos de la madrugada. Le quedan cinco segundos para decidir… y no va a decidir él. En mil novecientos veintisiete, una psicóloga descubrió algo que tu cerebro hace cada noche, sin que te des cuenta. No es culpa tuya. Pero sí es tu decisión.",
+ "lineas": [
+  {
+   "texto": "Entonces llegó el Black Friday.",
+   "voz": "Entonces llegó el Blac Fráidei.",
+   "i": 0
+  },
+  {
+   "texto": "Gris aguantó dos horas. Luego cayó: un robot aspirador que su piso no necesitaba.",
+   "voz": "Gris aguantó dos horas. Luego cayó: un robot aspirador que su piso no necesitaba.",
+   "i": 2
+  },
+  {
+   "texto": "Pero esta vez algo había cambiado. Antes de pagar, apareció una pregunta.",
+   "voz": "Pero esta vez algo había cambiado. Antes de pagar, apareció una pregunta.",
+   "i": 3
+  }
+ ]
+}

@@ -1,0 +1,57 @@
+{
+ "modo": "clon",
+ "ref": "ref_qwen_Q1.wav",
+ "ref_text": "Son las dos de la madrugada. Le quedan cinco segundos para decidir… y no va a decidir él. En mil novecientos veintisiete, una psicóloga descubrió algo que tu cerebro hace cada noche, sin que te des cuenta. No es culpa tuya. Pero sí es tu decisión.",
+ "lineas": [
+  {
+   "texto": "Un martes cualquiera, a Gris le llega un paquete.",
+   "voz": "Un martes cualquiera, a Gris le llega un paquete.",
+   "i": 0
+  },
+  {
+   "texto": "Lo abre… y dentro hay una lámpara con forma de pato.",
+   "voz": "Lo abre… y dentro hay una lámpara con forma de pato.",
+   "i": 1
+  },
+  {
+   "texto": "Gris no recuerda haber pedido una lámpara con forma de pato.",
+   "voz": "Gris no recuerda haber pedido una lámpara con forma de pato.",
+   "i": 2
+  },
+  {
+   "texto": "Abre la app para ver qué ha pasado. Y entonces lo ve: treinta y siete pedidos este mes.",
+   "voz": "Abre la app para ver qué ha pasado. Y entonces lo ve: treinta y siete pedidos este mes.",
+   "i": 3
+  },
+  {
+   "texto": "Un cortapelos para perros. Gris no tiene perro.",
+   "voz": "Un cortapelos para perros. Gris no tiene perro.",
+   "i": 4
+  },
+  {
+   "texto": "Un pelador de huevos. Unas zapatillas con luces. Y tres fundas para un móvil que ya no tiene.",
+   "voz": "Un pelador de huevos. Unas zapatillas con luces. Y tres fundas para un móvil que ya no tiene.",
+   "i": 5
+  },
+  {
+   "texto": "Total: cuatrocientos doce euros. En cosas de dos euros.",
+   "voz": "Total: cuatrocientos doce euros. En cosas de dos euros.",
+   "i": 6
+  },
+  {
+   "texto": "¿Cómo se gasta tanto dinero… comprando cosas tan baratas?",
+   "voz": "¿Cómo se gasta tanto dinero… comprando cosas tan baratas?",
+   "i": 7
+  },
+  {
+   "texto": "Hoy lo vas a descubrir. Y al final te enseño el botón que ninguna app quiere que pulses.",
+   "voz": "Hoy lo vas a descubrir. Y al final te enseño el botón que ninguna app quiere que pulses.",
+   "i": 8
+  },
+  {
+   "texto": "Proyecto Gris. Episodio tres: solo un carrito más.",
+   "voz": "Proyecto Gris. Episodio tres: solo un carrito más.",
+   "i": 9
+  }
+ ]
+}
