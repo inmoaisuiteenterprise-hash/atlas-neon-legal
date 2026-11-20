@@ -1,0 +1,16 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 11.73,
+  "acierto": 1.0,
+  "texto": "En el año mil cuatro, una princesa llegó a Venecia con un objeto que escandalizó a todos. Hoy lo tienes en el cajón de tu cocina, y no sabes de dónde viene."
+ },
+ {
+  "i": 1,
+  "a": 12.03,
+  "b": 19.46,
+  "acierto": 1.0,
+  "texto": "Esta es la historia de cómo algo tan pequeño cambió la forma de comer de medio mundo."
+ }
+]
