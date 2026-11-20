@@ -1,0 +1,31 @@
+{
+ "modo": "clon",
+ "ref": "ref_qwen_Q1.wav",
+ "ref_text": "Son las dos de la madrugada. Le quedan cinco segundos para decidir… y no va a decidir él. En mil novecientos veintisiete, una psicóloga descubrió algo que tu cerebro hace cada noche, sin que te des cuenta. No es culpa tuya. Pero sí es tu decisión.",
+ "lineas": [
+  {
+   "texto": "Siete de la mañana.",
+   "i": 0
+  },
+  {
+   "texto": "Gris abre los ojos con la sensación de no haber cerrado los suyos.",
+   "i": 1
+  },
+  {
+   "texto": "Se promete lo de siempre: «esta noche me acuesto pronto».",
+   "i": 2
+  },
+  {
+   "texto": "Y esta noche volverá a pasar lo mismo. Porque la promesa no cambia nada de lo que pasó ayer.",
+   "i": 3
+  },
+  {
+   "texto": "Si el problema fuera la fuerza de voluntad, ya lo habría resuelto.",
+   "i": 4
+  },
+  {
+   "texto": "El problema es que, a las tres de la madrugada, Gris tiene que ganar una batalla que empezó a perder a las ocho de la mañana.",
+   "i": 5
+  }
+ ]
+}

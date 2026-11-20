@@ -1,0 +1,35 @@
+{
+ "modo": "clon",
+ "ref": "ref_qwen_Q1.wav",
+ "ref_text": "Son las dos de la madrugada. Le quedan cinco segundos para decidir… y no va a decidir él. En mil novecientos veintisiete, una psicóloga descubrió algo que tu cerebro hace cada noche, sin que te des cuenta. No es culpa tuya. Pero sí es tu decisión.",
+ "lineas": [
+  {
+   "texto": "Son las tres y doce de la madrugada.",
+   "i": 0
+  },
+  {
+   "texto": "Gris lleva una hora diciéndose lo mismo: «cinco minutos más y lo dejo».",
+   "i": 1
+  },
+  {
+   "texto": "Mañana entra a trabajar a las ocho. Lo sabe. Le escuecen los ojos. Lo sabe.",
+   "i": 2
+  },
+  {
+   "texto": "Y aun así, su pulgar sigue bajando.",
+   "i": 3
+  },
+  {
+   "texto": "Lo raro no es que Gris esté despierto.",
+   "i": 4
+  },
+  {
+   "texto": "Lo raro es que no quiere estarlo… y no consigue soltar el móvil.",
+   "i": 5
+  },
+  {
+   "texto": "Esto tiene nombre. Lo estudiaron en dos mil catorce. Y casi nunca tiene que ver con el móvil.",
+   "i": 6
+  }
+ ]
+}

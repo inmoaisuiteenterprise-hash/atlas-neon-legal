@@ -1,0 +1,35 @@
+{
+ "modo": "clon",
+ "ref": "ref_qwen_Q1.wav",
+ "ref_text": "Son las dos de la madrugada. Le quedan cinco segundos para decidir… y no va a decidir él. En mil novecientos veintisiete, una psicóloga descubrió algo que tu cerebro hace cada noche, sin que te des cuenta. No es culpa tuya. Pero sí es tu decisión.",
+ "lineas": [
+  {
+   "texto": "Así que esta vez Gris prueba algo distinto. No contra el móvil. A favor de su día.",
+   "i": 0
+  },
+  {
+   "texto": "Uno: deja el cargador fuera del dormitorio. Si el móvil no está al alcance, no hay que decidir a las tres de la madrugada.",
+   "i": 1
+  },
+  {
+   "texto": "Dos: se pone una alarma, pero no para despertarse. Para irse a dormir.",
+   "i": 2
+  },
+  {
+   "texto": "Tres: y esta es la importante. Se guarda media hora al día que sea solo suya. Antes de la noche.",
+   "i": 3
+  },
+  {
+   "texto": "Un paseo. Un capítulo. Nada. Pero suya.",
+   "i": 4
+  },
+  {
+   "texto": "Porque cuando el día te devuelve un poco de tiempo, la noche ya no tiene que robarlo.",
+   "i": 5
+  },
+  {
+   "texto": "Si a ti te pasa, ni tú ni Gris estáis rotos. Estáis cansados de vivir el día para los demás.",
+   "i": 6
+  }
+ ]
+}

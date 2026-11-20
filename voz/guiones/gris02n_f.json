@@ -1,0 +1,35 @@
+{
+ "modo": "clon",
+ "ref": "ref_qwen_Q1.wav",
+ "ref_text": "Son las dos de la madrugada. Le quedan cinco segundos para decidir… y no va a decidir él. En mil novecientos veintisiete, una psicóloga descubrió algo que tu cerebro hace cada noche, sin que te des cuenta. No es culpa tuya. Pero sí es tu decisión.",
+ "lineas": [
+  {
+   "texto": "Segundo: la luz.",
+   "i": 0
+  },
+  {
+   "texto": "La pantalla brilla a pocos centímetros de su cara.",
+   "i": 1
+  },
+  {
+   "texto": "Y la luz de las pantallas por la noche puede retrasar la hora a la que el cerebro se prepara para dormir.",
+   "i": 2
+  },
+  {
+   "texto": "Así que, cuanto más tarde mira, más tarde le entra el sueño. Y cuanto más tarde le entra el sueño, más mira.",
+   "i": 3
+  },
+  {
+   "texto": "Es un círculo que se alimenta solo.",
+   "i": 4
+  },
+  {
+   "texto": "Tercero: el cansancio.",
+   "i": 5
+  },
+  {
+   "texto": "A las dos de la madrugada, la parte del cerebro que dice «ya basta» está agotada. Decidir parar cuesta más que seguir.",
+   "i": 6
+  }
+ ]
+}

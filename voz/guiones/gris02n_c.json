@@ -1,0 +1,35 @@
+{
+ "modo": "clon",
+ "ref": "ref_qwen_Q1.wav",
+ "ref_text": "Son las dos de la madrugada. Le quedan cinco segundos para decidir… y no va a decidir él. En mil novecientos veintisiete, una psicóloga descubrió algo que tu cerebro hace cada noche, sin que te des cuenta. No es culpa tuya. Pero sí es tu decisión.",
+ "lineas": [
+  {
+   "texto": "A las once y media, por fin, se mete en la cama.",
+   "i": 0
+  },
+  {
+   "texto": "Y ahí, en la oscuridad, pasa algo muy humano.",
+   "i": 1
+  },
+  {
+   "texto": "El cuerpo pide dormir. Pero otra parte de él piensa: «si me duermo ahora, el día se ha acabado… y no he vivido nada».",
+   "i": 2
+  },
+  {
+   "texto": "En China lo llaman con una expresión que se hizo viral en dos mil veinte:",
+   "i": 3
+  },
+  {
+   "texto": "«quedarse despierto por venganza».",
+   "i": 4
+  },
+  {
+   "texto": "Venganza contra un día que no te ha dejado ser tú.",
+   "i": 5
+  },
+  {
+   "texto": "Las horas de la noche son las únicas que nadie le pide. Así que Gris se las cobra.",
+   "i": 6
+  }
+ ]
+}

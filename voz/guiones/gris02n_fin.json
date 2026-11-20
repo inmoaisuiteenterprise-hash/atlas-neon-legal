@@ -1,0 +1,27 @@
+{
+ "modo": "clon",
+ "ref": "ref_qwen_Q1.wav",
+ "ref_text": "Son las dos de la madrugada. Le quedan cinco segundos para decidir… y no va a decidir él. En mil novecientos veintisiete, una psicóloga descubrió algo que tu cerebro hace cada noche, sin que te des cuenta. No es culpa tuya. Pero sí es tu decisión.",
+ "lineas": [
+  {
+   "texto": "Esa noche, a las once y cuarenta, Gris deja el móvil en la cocina.",
+   "i": 0
+  },
+  {
+   "texto": "Vuelve a la cama. Mira el techo. Le cuesta.",
+   "i": 1
+  },
+  {
+   "texto": "Pero por primera vez en semanas, el reloj no llega a marcar las tres.",
+   "i": 2
+  },
+  {
+   "texto": "Y tú, ¿a qué hora te acostaste ayer? Te leo en los comentarios.",
+   "i": 3
+  },
+  {
+   "texto": "En el próximo capítulo: por qué no puedes parar de comprar cosas que no necesitas.",
+   "i": 4
+  }
+ ]
+}
