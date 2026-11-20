@@ -1,0 +1,44 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 2.01,
+  "acierto": 0.4,
+  "texto": "Nueve euros con noventa y nueve."
+ },
+ {
+  "i": 1,
+  "a": 2.31,
+  "b": 6.29,
+  "acierto": 1.0,
+  "texto": "Tu cerebro acaba de leer «nueve». No «diez». Nueve."
+ },
+ {
+  "i": 2,
+  "a": 6.59,
+  "b": 9.38,
+  "acierto": 1.0,
+  "texto": "Y eso que la diferencia es un céntimo. Uno."
+ },
+ {
+  "i": 3,
+  "a": 9.68,
+  "b": 14.86,
+  "acierto": 0.93,
+  "texto": "Si un céntimo no importa, ¿por qué casi ninguna tienda pone diez euros redondos?"
+ },
+ {
+  "i": 4,
+  "a": 15.16,
+  "b": 19.69,
+  "acierto": 0.93,
+  "texto": "Porque ese céntimo no está ahí para ti. Está ahí para tu forma de leer los números."
+ },
+ {
+  "i": 5,
+  "a": 19.99,
+  "b": 25.94,
+  "acierto": 0.95,
+  "texto": "Hoy entramos en el laberinto de los precios que acaban en nueve. Y vas a salir sin volver a verlos igual."
+ }
+]

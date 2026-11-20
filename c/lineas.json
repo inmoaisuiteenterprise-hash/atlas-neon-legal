@@ -1,0 +1,44 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 8.35,
+  "acierto": 0.8,
+  "texto": "En dos mil cinco, dos investigadores de la Universidad de Nueva York, Manoj Thomas y Vicki Morwitz, se hicieron esa misma pregunta."
+ },
+ {
+  "i": 1,
+  "a": 8.65,
+  "b": 12.58,
+  "acierto": 1.0,
+  "texto": "Hicieron cinco experimentos sobre cómo percibimos los precios."
+ },
+ {
+  "i": 2,
+  "a": 12.88,
+  "b": 17.63,
+  "acierto": 1.0,
+  "texto": "Y encontraron la pieza clave: leemos los números de izquierda a derecha."
+ },
+ {
+  "i": 3,
+  "a": 17.93,
+  "b": 22.1,
+  "acierto": 0.69,
+  "texto": "Cuando ves dos con noventa y nueve, la primera cifra que se te queda es el dos."
+ },
+ {
+  "i": 4,
+  "a": 22.4,
+  "b": 26.32,
+  "acierto": 1.0,
+  "texto": "El cerebro ancla el precio en esa cifra, y los céntimos llegan tarde."
+ },
+ {
+  "i": 5,
+  "a": 26.62,
+  "b": 28.96,
+  "acierto": 1.0,
+  "texto": "Lo llamaron el efecto del dígito izquierdo."
+ }
+]

@@ -1,0 +1,37 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 4.71,
+  "acierto": 0.8,
+  "texto": "Seguro que te han contado que los precios acaban en noventa y nueve para evitar robos."
+ },
+ {
+  "i": 1,
+  "a": 5.01,
+  "b": 9.98,
+  "acierto": 1.0,
+  "texto": "Que así el cajero tenía que abrir la caja para dar cambio, y no podía quedarse el dinero."
+ },
+ {
+  "i": 2,
+  "a": 10.28,
+  "b": 14.06,
+  "acierto": 1.0,
+  "texto": "Suena bien. Pero no hay pruebas sólidas de que naciera así."
+ },
+ {
+  "i": 3,
+  "a": 14.36,
+  "b": 17.72,
+  "acierto": 0.92,
+  "texto": "Lo que sí está medido es lo que ese nueve hace en tu cabeza."
+ },
+ {
+  "i": 4,
+  "a": 18.02,
+  "b": 21.1,
+  "acierto": 1.0,
+  "texto": "Así que el mito no importa tanto. El truco sí."
+ }
+]

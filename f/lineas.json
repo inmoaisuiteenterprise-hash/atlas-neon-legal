@@ -1,0 +1,37 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 3.04,
+  "acierto": 1.0,
+  "texto": "Ese último detalle es la clave de todo el laberinto."
+ },
+ {
+  "i": 1,
+  "a": 3.34,
+  "b": 8.18,
+  "acierto": 0.93,
+  "texto": "Cuando sabes lo que vale algo, porque lo compras cada semana, el nueve te afecta menos."
+ },
+ {
+  "i": 2,
+  "a": 8.48,
+  "b": 13.69,
+  "acierto": 0.92,
+  "texto": "Cuando no tienes ni idea, el nueve te sirve de atajo: «parece barato»."
+ },
+ {
+  "i": 3,
+  "a": 13.99,
+  "b": 21.58,
+  "acierto": 0.95,
+  "texto": "Y el mismo estudio encontró indicios de algo más: si el producto ya llevaba un cartel de rebaja, el nueve perdía fuerza."
+ },
+ {
+  "i": 4,
+  "a": 21.88,
+  "b": 25.97,
+  "acierto": 0.85,
+  "texto": "Como si el cerebro solo necesitara una señal de chollo. Con una le basta."
+ }
+]

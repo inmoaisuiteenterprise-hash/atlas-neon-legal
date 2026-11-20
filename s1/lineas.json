@@ -1,0 +1,37 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 5.32,
+  "acierto": 0.5,
+  "texto": "Dos con noventa y nueve. O tres euros. ¿Cuál parece más barato?"
+ },
+ {
+  "i": 1,
+  "a": 5.62,
+  "b": 8.26,
+  "acierto": 1.0,
+  "texto": "Obvio. Y la diferencia es un céntimo."
+ },
+ {
+  "i": 2,
+  "a": 8.56,
+  "b": 14.67,
+  "acierto": 0.62,
+  "texto": "Ahora: tres con sesenta, o tres con cincuenta y nueve. Casi no notas la diferencia."
+ },
+ {
+  "i": 3,
+  "a": 14.97,
+  "b": 20.9,
+  "acierto": 1.0,
+  "texto": "Es el efecto del dígito izquierdo. Leemos de izquierda a derecha, y el cerebro se queda con la primera cifra."
+ },
+ {
+  "i": 4,
+  "a": 21.2,
+  "b": 25.59,
+  "acierto": 1.0,
+  "texto": "Por eso el truco solo funciona cuando el céntimo cambia esa primera cifra."
+ }
+]

@@ -1,0 +1,37 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 4.47,
+  "acierto": 0.67,
+  "texto": "¿Te has dado cuenta de que casi nunca ves precios de tres con cincuenta y nueve?"
+ },
+ {
+  "i": 1,
+  "a": 4.77,
+  "b": 10.47,
+  "acierto": 0.38,
+  "texto": "Pero sí dos con noventa y nueve. Nueve con noventa y nueve. Diecinueve con noventa y nueve."
+ },
+ {
+  "i": 2,
+  "a": 10.77,
+  "b": 11.7,
+  "acierto": 1.0,
+  "texto": "No es casualidad."
+ },
+ {
+  "i": 3,
+  "a": 12.0,
+  "b": 18.02,
+  "acierto": 0.94,
+  "texto": "El truco del nueve solo funciona justo antes de un número redondo, cuando el céntimo cambia la primera cifra."
+ },
+ {
+  "i": 4,
+  "a": 18.32,
+  "b": 22.94,
+  "acierto": 1.0,
+  "texto": "Por eso las tiendas lo colocan exactamente ahí. Donde tu cerebro lo nota."
+ }
+]

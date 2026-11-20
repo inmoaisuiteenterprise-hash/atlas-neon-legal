@@ -1,0 +1,37 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 4.97,
+  "acierto": 1.0,
+  "texto": "Dos profesores enviaron el mismo catálogo con precios distintos a clientes distintos."
+ },
+ {
+  "i": 1,
+  "a": 5.27,
+  "b": 8.84,
+  "acierto": 1.0,
+  "texto": "Los mismos productos. Solo cambiaba el final del precio."
+ },
+ {
+  "i": 2,
+  "a": 9.14,
+  "b": 14.4,
+  "acierto": 1.0,
+  "texto": "Hicieron tres experimentos. Y en los tres, los precios acabados en nueve vendieron más."
+ },
+ {
+  "i": 3,
+  "a": 14.7,
+  "b": 18.71,
+  "acierto": 0.64,
+  "texto": "Lo publicaron Eric Anderson y Duncan Simester en dos mil tres."
+ },
+ {
+  "i": 4,
+  "a": 19.01,
+  "b": 23.91,
+  "acierto": 1.0,
+  "texto": "Y el efecto fue mayor en productos nuevos, esos que no sabes cuánto deberían costar."
+ }
+]

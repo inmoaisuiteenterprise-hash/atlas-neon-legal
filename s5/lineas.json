@@ -1,0 +1,37 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 4.25,
+  "acierto": 0.79,
+  "texto": "En una tienda de lujo casi nunca verás un precio acabado en noventa y nueve."
+ },
+ {
+  "i": 1,
+  "a": 4.55,
+  "b": 8.09,
+  "acierto": 0.6,
+  "texto": "Verás doscientos euros. Mil euros. Redondos."
+ },
+ {
+  "i": 2,
+  "a": 8.39,
+  "b": 13.87,
+  "acierto": 0.92,
+  "texto": "Porque el nueve tiene un mensaje escondido: suena a oferta, a precio ajustado."
+ },
+ {
+  "i": 3,
+  "a": 14.17,
+  "b": 18.05,
+  "acierto": 1.0,
+  "texto": "Y el lujo no quiere parecer una oferta. Quiere parecer caro."
+ },
+ {
+  "i": 4,
+  "a": 18.35,
+  "b": 21.28,
+  "acierto": 1.0,
+  "texto": "Cada tienda elige su número según lo que quiere que sientas."
+ }
+]

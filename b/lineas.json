@@ -1,0 +1,44 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 3.31,
+  "acierto": 1.0,
+  "texto": "Empecemos por un experimento que puedes hacer ahora mismo."
+ },
+ {
+  "i": 1,
+  "a": 3.61,
+  "b": 9.48,
+  "acierto": 0.67,
+  "texto": "Te enseño dos precios muy rápido. Dos con noventa y nueve. Y tres euros."
+ },
+ {
+  "i": 2,
+  "a": 9.78,
+  "b": 12.48,
+  "acierto": 1.0,
+  "texto": "¿Cuál te ha parecido más barato? Obvio."
+ },
+ {
+  "i": 3,
+  "a": 12.78,
+  "b": 17.75,
+  "acierto": 0.44,
+  "texto": "Ahora otros dos. Tres con sesenta. Y tres con cincuenta y nueve."
+ },
+ {
+  "i": 4,
+  "a": 18.05,
+  "b": 22.18,
+  "acierto": 1.0,
+  "texto": "Aquí la diferencia también es de un céntimo. Pero casi no la has notado."
+ },
+ {
+  "i": 5,
+  "a": 22.48,
+  "b": 26.71,
+  "acierto": 1.0,
+  "texto": "¿Por qué el primer céntimo te parece enorme y el segundo invisible?"
+ }
+]

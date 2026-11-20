@@ -1,0 +1,44 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 3.75,
+  "acierto": 0.79,
+  "texto": "Y si el nueve funciona tan bien, ¿por qué no está en todas partes?"
+ },
+ {
+  "i": 1,
+  "a": 4.05,
+  "b": 10.15,
+  "acierto": 0.85,
+  "texto": "Fíjate en las tiendas de lujo. Ahí verás precios redondos: doscientos euros, mil euros."
+ },
+ {
+  "i": 2,
+  "a": 10.45,
+  "b": 15.91,
+  "acierto": 0.92,
+  "texto": "Porque el nueve tiene un significado escondido: suena a oferta, a precio ajustado."
+ },
+ {
+  "i": 3,
+  "a": 16.21,
+  "b": 19.95,
+  "acierto": 1.0,
+  "texto": "Y el lujo no quiere parecer una oferta. Quiere parecer caro."
+ },
+ {
+  "i": 4,
+  "a": 20.25,
+  "b": 27.05,
+  "acierto": 0.58,
+  "texto": "En el otro extremo, en las gasolineras, se van incluso a tres decimales: uno con quinientos cincuenta y nueve el litro."
+ },
+ {
+  "i": 5,
+  "a": 27.35,
+  "b": 32.98,
+  "acierto": 1.0,
+  "texto": "Mismo truco, diferente escala. Cada tienda elige su número según lo que quiere que sientas."
+ }
+]

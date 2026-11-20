@@ -1,0 +1,37 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 2.66,
+  "acierto": 1.0,
+  "texto": "Haz una prueba la próxima vez que compres algo."
+ },
+ {
+  "i": 1,
+  "a": 2.96,
+  "b": 5.87,
+  "acierto": 0.43,
+  "texto": "Mira el precio. Nueve con noventa y nueve."
+ },
+ {
+  "i": 2,
+  "a": 6.17,
+  "b": 10.2,
+  "acierto": 0.9,
+  "texto": "Y dilo en voz alta, redondeando hacia arriba: diez euros."
+ },
+ {
+  "i": 3,
+  "a": 10.5,
+  "b": 11.74,
+  "acierto": 1.0,
+  "texto": "Suena distinto, ¿verdad?"
+ },
+ {
+  "i": 4,
+  "a": 12.04,
+  "b": 19.75,
+  "acierto": 0.96,
+  "texto": "Ese pequeño gesto desactiva el truco del dígito izquierdo. Tu cerebro deja de ver un nueve y empieza a ver lo que de verdad vas a pagar."
+ }
+]
