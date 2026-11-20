@@ -1,0 +1,37 @@
+{
+ "modo": "clon",
+ "ref": "ref_qwen_Q1.wav",
+ "ref_text": "Son las dos de la madrugada. Le quedan cinco segundos para decidir… y no va a decidir él. En mil novecientos veintisiete, una psicóloga descubrió algo que tu cerebro hace cada noche, sin que te des cuenta. No es culpa tuya. Pero sí es tu decisión.",
+ "lineas": [
+  {
+   "texto": "Un libro tiene la última página.",
+   "i": 0,
+   "pausa": 0.18
+  },
+  {
+   "texto": "Una película tiene créditos.",
+   "i": 1,
+   "pausa": 0.18
+  },
+  {
+   "texto": "Un periódico se acaba.",
+   "i": 2,
+   "pausa": 0.18
+  },
+  {
+   "texto": "Tu móvil no.",
+   "i": 3,
+   "pausa": 0.18
+  },
+  {
+   "texto": "Siempre hay otro vídeo justo debajo. Y como nunca sabes si el siguiente será bueno, tu cerebro sigue bajando para comprobarlo.",
+   "i": 4,
+   "pausa": 0.18
+  },
+  {
+   "texto": "Por eso a las tres de la madrugada no estás buscando nada. Estás esperando un final que no existe.",
+   "i": 5,
+   "pausa": 0.18
+  }
+ ]
+}

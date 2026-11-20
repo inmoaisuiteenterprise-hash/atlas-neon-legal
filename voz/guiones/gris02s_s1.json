@@ -1,0 +1,32 @@
+{
+ "modo": "clon",
+ "ref": "ref_qwen_Q1.wav",
+ "ref_text": "Son las dos de la madrugada. Le quedan cinco segundos para decidir… y no va a decidir él. En mil novecientos veintisiete, una psicóloga descubrió algo que tu cerebro hace cada noche, sin que te des cuenta. No es culpa tuya. Pero sí es tu decisión.",
+ "lineas": [
+  {
+   "texto": "Si te acuestas tarde aunque estés agotado, lo que te pasa tiene nombre.",
+   "i": 0,
+   "pausa": 0.18
+  },
+  {
+   "texto": "Se llama procrastinación del sueño.",
+   "i": 1,
+   "pausa": 0.18
+  },
+  {
+   "texto": "La describieron en dos mil catorce en la Universidad de Utrecht: irte a la cama más tarde de lo que querías, sin que nada te lo impida.",
+   "i": 2,
+   "pausa": 0.18
+  },
+  {
+   "texto": "No hay bebé, no hay examen, no hay trabajo. Solo tú y la pantalla.",
+   "i": 3,
+   "pausa": 0.18
+  },
+  {
+   "texto": "Y lo más curioso: casi todos saben que lo están haciendo. Y aun así no paran.",
+   "i": 4,
+   "pausa": 0.18
+  }
+ ]
+}

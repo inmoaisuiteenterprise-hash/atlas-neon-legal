@@ -1,0 +1,32 @@
+{
+ "modo": "clon",
+ "ref": "ref_qwen_Q1.wav",
+ "ref_text": "Son las dos de la madrugada. Le quedan cinco segundos para decidir… y no va a decidir él. En mil novecientos veintisiete, una psicóloga descubrió algo que tu cerebro hace cada noche, sin que te des cuenta. No es culpa tuya. Pero sí es tu decisión.",
+ "lineas": [
+  {
+   "texto": "Menos de la mitad de la gente en España duerme las horas recomendadas.",
+   "i": 0,
+   "pausa": 0.18
+  },
+  {
+   "texto": "Lo dice la Sociedad Española de Neurología.",
+   "i": 1,
+   "pausa": 0.18
+  },
+  {
+   "texto": "Uno de cada tres adultos se levanta sin sentir que ha descansado.",
+   "i": 2,
+   "pausa": 0.18
+  },
+  {
+   "texto": "Y más del sesenta por ciento de los jóvenes admite que le quita horas al sueño para hacer otras cosas.",
+   "i": 3,
+   "pausa": 0.18
+  },
+  {
+   "texto": "Si tú también lo haces, no eres raro. Eres la mayoría. Y eso debería preocuparnos un poco más.",
+   "i": 4,
+   "pausa": 0.18
+  }
+ ]
+}

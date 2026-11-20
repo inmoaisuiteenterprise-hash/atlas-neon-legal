@@ -1,0 +1,37 @@
+{
+ "modo": "clon",
+ "ref": "ref_qwen_Q1.wav",
+ "ref_text": "Son las dos de la madrugada. Le quedan cinco segundos para decidir… y no va a decidir él. En mil novecientos veintisiete, una psicóloga descubrió algo que tu cerebro hace cada noche, sin que te des cuenta. No es culpa tuya. Pero sí es tu decisión.",
+ "lineas": [
+  {
+   "texto": "Todo el mundo se pone una alarma para despertarse.",
+   "i": 0,
+   "pausa": 0.18
+  },
+  {
+   "texto": "Casi nadie se la pone para irse a dormir.",
+   "i": 1,
+   "pausa": 0.18
+  },
+  {
+   "texto": "Y es la que más falta hace.",
+   "i": 2,
+   "pausa": 0.18
+  },
+  {
+   "texto": "A las once la decisión es fácil. A las dos de la madrugada, agotado, decidir parar cuesta muchísimo más.",
+   "i": 3,
+   "pausa": 0.18
+  },
+  {
+   "texto": "Así que deja que lo decida tu yo de las once. Alarma, móvil a cargar fuera del dormitorio, y a la cama.",
+   "i": 4,
+   "pausa": 0.18
+  },
+  {
+   "texto": "No es fuerza de voluntad. Es quitarte la batalla de encima.",
+   "i": 5,
+   "pausa": 0.18
+  }
+ ]
+}

@@ -1,0 +1,32 @@
+{
+ "modo": "clon",
+ "ref": "ref_qwen_Q1.wav",
+ "ref_text": "Son las dos de la madrugada. Le quedan cinco segundos para decidir… y no va a decidir él. En mil novecientos veintisiete, una psicóloga descubrió algo que tu cerebro hace cada noche, sin que te des cuenta. No es culpa tuya. Pero sí es tu decisión.",
+ "lineas": [
+  {
+   "texto": "El truco para dejar el móvil por la noche no está en la noche.",
+   "i": 0,
+   "pausa": 0.18
+  },
+  {
+   "texto": "Está en el resto del día.",
+   "i": 1,
+   "pausa": 0.18
+  },
+  {
+   "texto": "Si en todo el día no has tenido ni media hora para ti, la noche te la vas a cobrar. Con intereses.",
+   "i": 2,
+   "pausa": 0.18
+  },
+  {
+   "texto": "Así que guárdate esa media hora antes. Un paseo, un capítulo, nada. Pero tuya.",
+   "i": 3,
+   "pausa": 0.18
+  },
+  {
+   "texto": "Cuando el día te devuelve un poco de tiempo, la noche ya no tiene que robarlo.",
+   "i": 4,
+   "pausa": 0.18
+  }
+ ]
+}

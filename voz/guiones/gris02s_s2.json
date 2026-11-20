@@ -1,0 +1,32 @@
+{
+ "modo": "clon",
+ "ref": "ref_qwen_Q1.wav",
+ "ref_text": "Son las dos de la madrugada. Le quedan cinco segundos para decidir… y no va a decidir él. En mil novecientos veintisiete, una psicóloga descubrió algo que tu cerebro hace cada noche, sin que te des cuenta. No es culpa tuya. Pero sí es tu decisión.",
+ "lineas": [
+  {
+   "texto": "En China tienen una expresión para lo que haces cada noche.",
+   "i": 0,
+   "pausa": 0.18
+  },
+  {
+   "texto": "Se traduce como «quedarse despierto por venganza».",
+   "i": 1,
+   "pausa": 0.18
+  },
+  {
+   "texto": "Venganza contra un día en el que no has tenido ni una hora para ti.",
+   "i": 2,
+   "pausa": 0.18
+  },
+  {
+   "texto": "Trabajo, metro, recados, mensajes. Y cuando por fin llega la noche, no quieres dormirte… porque dormirte es aceptar que el día se ha acabado sin vivir nada.",
+   "i": 3,
+   "pausa": 0.18
+  },
+  {
+   "texto": "No es que no tengas sueño. Es que tienes hambre de tiempo.",
+   "i": 4,
+   "pausa": 0.18
+  }
+ ]
+}

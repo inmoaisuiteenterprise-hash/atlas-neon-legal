@@ -1,0 +1,32 @@
+{
+ "modo": "clon",
+ "ref": "ref_qwen_Q1.wav",
+ "ref_text": "Son las dos de la madrugada. Le quedan cinco segundos para decidir… y no va a decidir él. En mil novecientos veintisiete, una psicóloga descubrió algo que tu cerebro hace cada noche, sin que te des cuenta. No es culpa tuya. Pero sí es tu decisión.",
+ "lineas": [
+  {
+   "texto": "A las tres de la madrugada, con el móvil en la mano, sientes que estás perdiendo una batalla.",
+   "i": 0,
+   "pausa": 0.18
+  },
+  {
+   "texto": "Pero esa batalla no empezó a las tres.",
+   "i": 1,
+   "pausa": 0.18
+  },
+  {
+   "texto": "Empezó a las ocho de la mañana, cuando tu día dejó de ser tuyo.",
+   "i": 2,
+   "pausa": 0.18
+  },
+  {
+   "texto": "Prometerte «esta noche me acuesto pronto» no cambia nada de eso.",
+   "i": 3,
+   "pausa": 0.18
+  },
+  {
+   "texto": "Cambiar tu día, sí.",
+   "i": 4,
+   "pausa": 0.18
+  }
+ ]
+}
