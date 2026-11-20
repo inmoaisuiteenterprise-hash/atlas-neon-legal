@@ -1,0 +1,35 @@
+{
+ "ref": "ref_09334.wav",
+ "lineas": [
+  {
+   "texto": "Dices que el vaper te relaja.",
+   "exa": 0.5,
+   "pausa": 0.5
+  },
+  {
+   "texto": "Y es verdad que, después de una calada, te sientes mejor.",
+   "exa": 0.5,
+   "pausa": 0.5
+  },
+  {
+   "texto": "Pero entre calada y calada, el cuerpo echa de menos la nicotina. Nervios, irritación, ganas.",
+   "exa": 0.5,
+   "pausa": 0.5
+  },
+  {
+   "texto": "La calada quita ese malestar. Y parece calma.",
+   "exa": 0.5,
+   "pausa": 0.5
+  },
+  {
+   "texto": "El vaper no te quita el agobio.",
+   "exa": 0.5,
+   "pausa": 0.5
+  },
+  {
+   "texto": "Te quita el agobio que te ha puesto él.",
+   "exa": 0.5,
+   "pausa": 0.5
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "ref": "ref_09334.wav",
+ "lineas": [
+  {
+   "texto": "Si quieres dejar el vaper, que sepas esto.",
+   "exa": 0.5,
+   "pausa": 0.5
+  },
+  {
+   "texto": "Lo más duro llega en los primeros días.",
+   "exa": 0.5,
+   "pausa": 0.5
+  },
+  {
+   "texto": "Nervios, mal humor, ganas a todas horas.",
+   "exa": 0.5,
+   "pausa": 0.5
+  },
+  {
+   "texto": "Pero después, las ganas suelen ir bajando en unas pocas semanas.",
+   "exa": 0.5,
+   "pausa": 0.5
+  },
+  {
+   "texto": "No es para siempre. Es un pico.",
+   "exa": 0.5,
+   "pausa": 0.5
+  },
+  {
+   "texto": "Y si te cuesta mucho, tu médico de cabecera puede ayudarte.",
+   "exa": 0.5,
+   "pausa": 0.5
+  }
+ ]
+}

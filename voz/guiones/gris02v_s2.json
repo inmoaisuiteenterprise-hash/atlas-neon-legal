@@ -1,0 +1,35 @@
+{
+ "ref": "ref_09334.wav",
+ "lineas": [
+  {
+   "texto": "Un cigarro tiene un final.",
+   "exa": 0.5,
+   "pausa": 0.5
+  },
+  {
+   "texto": "Se consume, se apaga, y tienes que decidir si enciendes otro.",
+   "exa": 0.5,
+   "pausa": 0.5
+  },
+  {
+   "texto": "Ese final es un momento para pensar.",
+   "exa": 0.5,
+   "pausa": 0.5
+  },
+  {
+   "texto": "El vaper no se apaga nunca. Bolsillo, mesa, almohada. Siempre listo.",
+   "exa": 0.5,
+   "pausa": 0.5
+  },
+  {
+   "texto": "Sin final, no hay momento de decidir.",
+   "exa": 0.5,
+   "pausa": 0.5
+  },
+  {
+   "texto": "Solo hay otra calada.",
+   "exa": 0.5,
+   "pausa": 0.5
+  }
+ ]
+}

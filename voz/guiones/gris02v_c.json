@@ -1,0 +1,30 @@
+{
+ "ref": "ref_09334.wav",
+ "lineas": [
+  {
+   "texto": "Y luego está el diseño. Un cigarro tiene un final. Se consume, se apaga, y tienes que decidir si enciendes otro.",
+   "exa": 0.5,
+   "pausa": 0.5
+  },
+  {
+   "texto": "El vaper no se apaga nunca. Está en el bolsillo, en la mesa, debajo de la almohada. Siempre listo.",
+   "exa": 0.5,
+   "pausa": 0.5
+  },
+  {
+   "texto": "Muchos usan sales de nicotina, una forma que raspa menos la garganta. Así se puede inhalar mucha nicotina, con muy poca molestia.",
+   "exa": 0.5,
+   "pausa": 0.5
+  },
+  {
+   "texto": "Y luego, los sabores. Mango, sandía, chicle. Cuesta sentir que algo es peligroso, cuando sabe a caramelo.",
+   "exa": 0.5,
+   "pausa": 0.5
+  },
+  {
+   "texto": "En España, según la última encuesta del Ministerio de Sanidad, casi la mitad de los estudiantes de catorce a dieciocho años ya lo ha probado.",
+   "exa": 0.5,
+   "pausa": 0.5
+  }
+ ]
+}

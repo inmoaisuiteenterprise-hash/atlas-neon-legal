@@ -1,0 +1,35 @@
+{
+ "ref": "ref_09334.wav",
+ "lineas": [
+  {
+   "texto": "Llevabas cuatro días sin vapear. Y en una fiesta, diste una calada.",
+   "exa": 0.5,
+   "pausa": 0.5
+  },
+  {
+   "texto": "No pasa nada.",
+   "exa": 0.5,
+   "pausa": 0.5
+  },
+  {
+   "texto": "Un fallo no rompe el intento.",
+   "exa": 0.5,
+   "pausa": 0.5
+  },
+  {
+   "texto": "Lo que lo rompe es pensar: total, ya da igual.",
+   "exa": 0.5,
+   "pausa": 0.5
+  },
+  {
+   "texto": "Al día siguiente, sigue desde donde lo dejaste.",
+   "exa": 0.5,
+   "pausa": 0.5
+  },
+  {
+   "texto": "Un día malo, vale. Dos, no.",
+   "exa": 0.5,
+   "pausa": 0.5
+  }
+ ]
+}

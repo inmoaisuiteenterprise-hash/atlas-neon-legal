@@ -1,0 +1,25 @@
+{
+ "ref": "ref_09334.wav",
+ "lineas": [
+  {
+   "texto": "Gris dejó el móvil. Treinta días. Y entonces, en el sofá, encontró esto.",
+   "exa": 0.5,
+   "pausa": 0.5
+  },
+  {
+   "texto": "Un vaper que se había dejado un amigo. Sabor a mango. Esto no es tabaco, pensó. Esto no cuenta.",
+   "exa": 0.5,
+   "pausa": 0.5
+  },
+  {
+   "texto": "Tres semanas después, se despierta a las tres de la madrugada. Y lo primero que busca, a oscuras, es el vaper.",
+   "exa": 0.5,
+   "pausa": 0.5
+  },
+  {
+   "texto": "Esta es la historia de cómo algo que no cuenta, acaba contando más que nada.",
+   "exa": 0.5,
+   "pausa": 0.5
+  }
+ ]
+}

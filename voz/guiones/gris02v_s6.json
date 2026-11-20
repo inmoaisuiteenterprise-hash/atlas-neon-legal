@@ -1,0 +1,35 @@
+{
+ "ref": "ref_09334.wav",
+ "lineas": [
+  {
+   "texto": "Las ganas de vapear casi nunca llegan al azar.",
+   "exa": 0.5,
+   "pausa": 0.5
+  },
+  {
+   "texto": "Llegan al despertar. Al salir de casa. Después de comer.",
+   "exa": 0.5,
+   "pausa": 0.5
+  },
+  {
+   "texto": "Siempre a la misma hora, y en el mismo sitio.",
+   "exa": 0.5,
+   "pausa": 0.5
+  },
+  {
+   "texto": "Así que apunta tus momentos.",
+   "exa": 0.5,
+   "pausa": 0.5
+  },
+  {
+   "texto": "Y para cada uno, prepara un gesto de recambio. Agua, chicle sin azúcar, cinco minutos andando.",
+   "exa": 0.5,
+   "pausa": 0.5
+  },
+  {
+   "texto": "No luchas contra las ganas. Les cambias el camino.",
+   "exa": 0.5,
+   "pausa": 0.5
+  }
+ ]
+}
