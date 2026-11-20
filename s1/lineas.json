@@ -1,0 +1,37 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 4.41,
+  "acierto": 1.0,
+  "texto": "Si nacías en la Edad Media, tu mayor reto no era llegar a viejo."
+ },
+ {
+  "i": 1,
+  "a": 4.71,
+  "b": 6.34,
+  "acierto": 1.0,
+  "texto": "Era llegar a los cinco años."
+ },
+ {
+  "i": 2,
+  "a": 6.64,
+  "b": 12.28,
+  "acierto": 1.0,
+  "texto": "Infecciones, fiebres, hambre: una parte enorme de los niños no llegaba a crecer."
+ },
+ {
+  "i": 3,
+  "a": 12.58,
+  "b": 15.43,
+  "acierto": 1.0,
+  "texto": "Pero si superabas la infancia, todo cambiaba."
+ },
+ {
+  "i": 4,
+  "a": 15.73,
+  "b": 20.19,
+  "acierto": 0.92,
+  "texto": "Tus posibilidades de llegar a los sesenta eran mucho mayores de lo que imaginas."
+ }
+]

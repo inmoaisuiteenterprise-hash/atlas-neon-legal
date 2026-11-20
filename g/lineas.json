@@ -1,0 +1,44 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 3.98,
+  "acierto": 0.25,
+  "texto": "Edad dieciocho. Año mil trescientos cuarenta y ocho."
+ },
+ {
+  "i": 1,
+  "a": 4.28,
+  "b": 9.36,
+  "acierto": 1.0,
+  "texto": "Llegan noticias de los puertos: una enfermedad viaja en los barcos y avanza de ciudad en ciudad."
+ },
+ {
+  "i": 2,
+  "a": 9.66,
+  "b": 12.91,
+  "acierto": 1.0,
+  "texto": "La peste negra llega a la Península ese mismo año."
+ },
+ {
+  "i": 3,
+  "a": 13.21,
+  "b": 17.26,
+  "acierto": 0.91,
+  "texto": "Fiebre, bultos negros, y muchas veces la muerte en pocos días."
+ },
+ {
+  "i": 4,
+  "a": 17.56,
+  "b": 23.0,
+  "acierto": 0.76,
+  "texto": "En los lugares a los que llegó, murió entre el treinta y el cincuenta por ciento de la población."
+ },
+ {
+  "i": 5,
+  "a": 23.3,
+  "b": 30.98,
+  "acierto": 0.89,
+  "texto": "Mira a tu alrededor: de cada tres vecinos de tu aldea, puede que uno… o más… no vea el invierno."
+ }
+]

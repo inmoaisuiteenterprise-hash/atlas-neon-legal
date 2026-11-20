@@ -1,0 +1,37 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 4.41,
+  "acierto": 0.33,
+  "texto": "Año mil trescientos cuarenta y ocho. Tienes dieciocho años."
+ },
+ {
+  "i": 1,
+  "a": 4.71,
+  "b": 10.13,
+  "acierto": 1.0,
+  "texto": "Una enfermedad llega en los barcos y avanza de ciudad en ciudad: la peste negra."
+ },
+ {
+  "i": 2,
+  "a": 10.43,
+  "b": 15.72,
+  "acierto": 0.88,
+  "texto": "En los lugares a los que llegó, murió entre el treinta y el cincuenta por ciento de la población."
+ },
+ {
+  "i": 3,
+  "a": 16.02,
+  "b": 17.24,
+  "acierto": 1.0,
+  "texto": "Mira a tus vecinos."
+ },
+ {
+  "i": 4,
+  "a": 17.54,
+  "b": 22.7,
+  "acierto": 1.0,
+  "texto": "De cada tres, puede que uno… o más… no vea el invierno."
+ }
+]

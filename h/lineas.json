@@ -1,0 +1,37 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 3.54,
+  "acierto": 1.0,
+  "texto": "Si sobrevives, el mundo que encuentras es otro."
+ },
+ {
+  "i": 1,
+  "a": 3.84,
+  "b": 8.22,
+  "acierto": 1.0,
+  "texto": "Faltan manos para trabajar el campo. Y lo que falta, vale más."
+ },
+ {
+  "i": 2,
+  "a": 8.52,
+  "b": 15.06,
+  "acierto": 1.0,
+  "texto": "En buena parte de Europa, muchos trabajadores pudieron negociar mejores condiciones con los grandes propietarios."
+ },
+ {
+  "i": 3,
+  "a": 15.36,
+  "b": 19.64,
+  "acierto": 1.0,
+  "texto": "Algunas tierras se abandonaron, y muchas aldeas quedaron vacías."
+ },
+ {
+  "i": 4,
+  "a": 19.94,
+  "b": 23.62,
+  "acierto": 1.0,
+  "texto": "La tragedia más grande de tu vida también cambió el orden de las cosas."
+ }
+]

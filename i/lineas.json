@@ -1,0 +1,37 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 6.01,
+  "acierto": 0.92,
+  "texto": "Edad cuarenta. Ya eres de los mayores de la aldea… pero no eres un anciano."
+ },
+ {
+  "i": 1,
+  "a": 6.31,
+  "b": 10.77,
+  "acierto": 1.0,
+  "texto": "Has visto hambre, peste y guerras. Y sigues aquí."
+ },
+ {
+  "i": 2,
+  "a": 11.07,
+  "b": 15.83,
+  "acierto": 0.92,
+  "texto": "Si has llegado hasta aquí, puedes llegar a los sesenta, o incluso más."
+ },
+ {
+  "i": 3,
+  "a": 16.13,
+  "b": 21.47,
+  "acierto": 1.0,
+  "texto": "Los huesos encontrados por los arqueólogos lo demuestran: había gente mayor, y mucha."
+ },
+ {
+  "i": 4,
+  "a": 21.77,
+  "b": 25.19,
+  "acierto": 1.0,
+  "texto": "Lo que no había era la medicina para salvar a los que caían antes."
+ }
+]

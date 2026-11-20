@@ -1,0 +1,37 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 4.17,
+  "acierto": 0.92,
+  "texto": "Te han contado que en la Edad Media la gente vivía unos treinta años."
+ },
+ {
+  "i": 1,
+  "a": 4.47,
+  "b": 6.71,
+  "acierto": 1.0,
+  "texto": "Es una media. Y engaña."
+ },
+ {
+  "i": 2,
+  "a": 7.01,
+  "b": 13.07,
+  "acierto": 1.0,
+  "texto": "Si muchos bebés mueren muy pronto, la media cae en picado… aunque los adultos vivan bastante más."
+ },
+ {
+  "i": 3,
+  "a": 13.37,
+  "b": 17.13,
+  "acierto": 1.0,
+  "texto": "Los arqueólogos han encontrado huesos de mucha gente mayor."
+ },
+ {
+  "i": 4,
+  "a": 17.43,
+  "b": 22.23,
+  "acierto": 1.0,
+  "texto": "No faltaban viejos. Faltaba medicina para salvar a los que caían antes."
+ }
+]

@@ -1,0 +1,37 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 3.46,
+  "acierto": 1.0,
+  "texto": "«En la Edad Media nadie se lavaba». Mentira."
+ },
+ {
+  "i": 1,
+  "a": 3.76,
+  "b": 8.3,
+  "acierto": 1.0,
+  "texto": "Se lavaban las manos y la cara a menudo, y en verano se bañaban en el río."
+ },
+ {
+  "i": 2,
+  "a": 8.6,
+  "b": 10.91,
+  "acierto": 1.0,
+  "texto": "Y en las ciudades había baños públicos."
+ },
+ {
+  "i": 3,
+  "a": 11.21,
+  "b": 14.74,
+  "acierto": 0.67,
+  "texto": "En el París del siglo trece había más de treinta y dos."
+ },
+ {
+  "i": 4,
+  "a": 15.04,
+  "b": 19.95,
+  "acierto": 1.0,
+  "texto": "Y algunos eran sitios para charlar, comer… y algo más que lavarse."
+ }
+]

@@ -1,0 +1,44 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 3.68,
+  "acierto": 0.8,
+  "texto": "¿Y qué comes? Pan. Mucho pan."
+ },
+ {
+  "i": 1,
+  "a": 3.98,
+  "b": 9.55,
+  "acierto": 1.0,
+  "texto": "Según algunas estimaciones, una persona podía comer entre uno y un kilo y medio de pan al día."
+ },
+ {
+  "i": 2,
+  "a": 9.85,
+  "b": 16.72,
+  "acierto": 1.0,
+  "texto": "No es pan blanco: el trigo fino es caro. El tuyo es oscuro, de centeno o de cebada."
+ },
+ {
+  "i": 3,
+  "a": 17.02,
+  "b": 22.74,
+  "acierto": 1.0,
+  "texto": "Lo acompañas con gachas, legumbres, cebolla, col y lo que dé el huerto."
+ },
+ {
+  "i": 4,
+  "a": 23.04,
+  "b": 27.98,
+  "acierto": 0.92,
+  "texto": "¿Carne? Poca, y casi siempre en días de fiesta o en forma de tocino."
+ },
+ {
+  "i": 5,
+  "a": 28.28,
+  "b": 34.05,
+  "acierto": 1.0,
+  "texto": "Y para beber, muchas veces, vino aguado o cerveza floja, según la región."
+ }
+]

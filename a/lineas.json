@@ -1,0 +1,37 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 5.18,
+  "acierto": 0.77,
+  "texto": "Imagina que naces en el año mil trescientos treinta, en una aldea de Castilla."
+ },
+ {
+  "i": 1,
+  "a": 5.48,
+  "b": 13.03,
+  "acierto": 1.0,
+  "texto": "No hay hospital, no hay médico, y tu casa es una sola habitación compartida con tu familia… y con las gallinas."
+ },
+ {
+  "i": 2,
+  "a": 13.33,
+  "b": 16.94,
+  "acierto": 1.0,
+  "texto": "Vas a vivir la Edad Media desde dentro. Año a año."
+ },
+ {
+  "i": 3,
+  "a": 17.24,
+  "b": 21.51,
+  "acierto": 1.0,
+  "texto": "Y vas a descubrir que casi todo lo que te contaron sobre ella está un poco mal."
+ },
+ {
+  "i": 4,
+  "a": 21.81,
+  "b": 24.24,
+  "acierto": 0.7,
+  "texto": "Edad cero. Empezamos."
+ }
+]

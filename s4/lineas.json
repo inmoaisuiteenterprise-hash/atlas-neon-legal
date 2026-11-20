@@ -1,0 +1,37 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 4.99,
+  "acierto": 1.0,
+  "texto": "Si nacías en una aldea medieval, tu comida tenía un protagonista: el pan."
+ },
+ {
+  "i": 1,
+  "a": 5.29,
+  "b": 10.32,
+  "acierto": 1.0,
+  "texto": "Según algunas estimaciones, entre uno y un kilo y medio al día por persona."
+ },
+ {
+  "i": 2,
+  "a": 10.62,
+  "b": 17.33,
+  "acierto": 1.0,
+  "texto": "Y no era blanco: el trigo fino era caro. El tuyo era oscuro, de centeno o de cebada."
+ },
+ {
+  "i": 3,
+  "a": 17.63,
+  "b": 21.95,
+  "acierto": 0.7,
+  "texto": "Con gachas, legumbres, cebolla, col…"
+ },
+ {
+  "i": 4,
+  "a": 22.25,
+  "b": 25.8,
+  "acierto": 1.0,
+  "texto": "¿Carne? Poca, y casi siempre en días de fiesta."
+ }
+]

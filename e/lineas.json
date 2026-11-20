@@ -1,0 +1,37 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 3.59,
+  "acierto": 0.89,
+  "texto": "Edad catorce. Ya haces el trabajo de un adulto."
+ },
+ {
+  "i": 1,
+  "a": 3.89,
+  "b": 9.01,
+  "acierto": 1.0,
+  "texto": "La tierra que trabajas no es tuya. Es de un señor, o de un monasterio."
+ },
+ {
+  "i": 2,
+  "a": 9.31,
+  "b": 16.59,
+  "acierto": 1.0,
+  "texto": "Tu familia paga rentas por cultivarla, y además le da a la Iglesia el diezmo: una parte de todo lo que produce."
+ },
+ {
+  "i": 3,
+  "a": 16.89,
+  "b": 22.57,
+  "acierto": 1.0,
+  "texto": "Molino, horno, puente… muchas cosas que usas tienen un dueño, y hay que pagarle."
+ },
+ {
+  "i": 4,
+  "a": 22.87,
+  "b": 28.38,
+  "acierto": 1.0,
+  "texto": "Al final del año, de todo lo que has sembrado, a tu mesa llega bastante menos de lo que crees."
+ }
+]

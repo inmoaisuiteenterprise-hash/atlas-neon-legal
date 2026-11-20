@@ -1,0 +1,51 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 5.33,
+  "acierto": 1.0,
+  "texto": "Tu primer reto es sobrevivir a tu infancia. Y es el más difícil de todos."
+ },
+ {
+  "i": 1,
+  "a": 5.63,
+  "b": 12.84,
+  "acierto": 1.0,
+  "texto": "En la Edad Media, una parte enorme de los niños moría antes de crecer, por infecciones, por fiebres o por hambre."
+ },
+ {
+  "i": 2,
+  "a": 13.14,
+  "b": 16.81,
+  "acierto": 0.91,
+  "texto": "Por eso oirás que la gente medieval vivía unos treinta años."
+ },
+ {
+  "i": 3,
+  "a": 17.11,
+  "b": 19.9,
+  "acierto": 1.0,
+  "texto": "Pero eso es una media. Y engaña."
+ },
+ {
+  "i": 4,
+  "a": 20.2,
+  "b": 26.52,
+  "acierto": 1.0,
+  "texto": "Si muchos bebés mueren muy pronto, la media baja muchísimo… aunque los adultos vivan bastante más."
+ },
+ {
+  "i": 5,
+  "a": 26.82,
+  "b": 32.06,
+  "acierto": 1.0,
+  "texto": "Así que si superas la infancia, tus posibilidades de llegar a viejo cambian por completo."
+ },
+ {
+  "i": 6,
+  "a": 32.36,
+  "b": 36.46,
+  "acierto": 0.8,
+  "texto": "Tu primer milagro no es llegar a los treinta. Es llegar a los cinco."
+ }
+]

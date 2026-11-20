@@ -1,0 +1,30 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 2.64,
+  "acierto": 1.0,
+  "texto": "Ahora mira tu vida actual con estos ojos."
+ },
+ {
+  "i": 1,
+  "a": 2.94,
+  "b": 10.07,
+  "acierto": 1.0,
+  "texto": "Sabes leer. Comes cosas de todo el mundo. Y casi todos los niños que nacen llegan a mayores."
+ },
+ {
+  "i": 2,
+  "a": 10.37,
+  "b": 16.03,
+  "acierto": 0.8,
+  "texto": "Lo que para alguien de mil trescientos treinta era un milagro, para ti es un martes cualquiera."
+ },
+ {
+  "i": 3,
+  "a": 16.33,
+  "b": 21.0,
+  "acierto": 0.92,
+  "texto": "¿En qué época quieres que nazcamos en el próximo vídeo? Te leo en los comentarios."
+ }
+]

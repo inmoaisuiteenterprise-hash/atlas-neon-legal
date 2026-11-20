@@ -1,0 +1,37 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 2.38,
+  "acierto": 0.75,
+  "texto": "Edad siete. Ya trabajas."
+ },
+ {
+  "i": 1,
+  "a": 2.68,
+  "b": 11.74,
+  "acierto": 1.0,
+  "texto": "Nadie va al colegio en tu aldea. Cuidas a tus hermanos, llevas el agua, espantas pájaros de los cultivos y cuidas los animales."
+ },
+ {
+  "i": 2,
+  "a": 12.04,
+  "b": 15.43,
+  "acierto": 1.0,
+  "texto": "No sabes leer, y probablemente nunca aprenderás."
+ },
+ {
+  "i": 3,
+  "a": 15.73,
+  "b": 20.39,
+  "acierto": 1.0,
+  "texto": "Tu reloj es el sol, y tu calendario son las fiestas de la Iglesia y las estaciones."
+ },
+ {
+  "i": 4,
+  "a": 20.69,
+  "b": 27.95,
+  "acierto": 1.0,
+  "texto": "Sembrar, cosechar, guardar. Si la cosecha sale mal, el invierno será de hambre."
+ }
+]
