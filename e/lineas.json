@@ -1,0 +1,51 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 1.95,
+  "acierto": 1.0,
+  "texto": "Entonces, ¿por qué no paramos?"
+ },
+ {
+  "i": 1,
+  "a": 2.25,
+  "b": 4.23,
+  "acierto": 1.0,
+  "texto": "Primero, porque el móvil no tiene final."
+ },
+ {
+  "i": 2,
+  "a": 4.53,
+  "b": 10.24,
+  "acierto": 1.0,
+  "texto": "Un libro tiene la última página. Una película tiene créditos. Un periódico se acaba."
+ },
+ {
+  "i": 3,
+  "a": 10.54,
+  "b": 16.29,
+  "acierto": 1.0,
+  "texto": "El móvil no. Siempre hay otro vídeo. Otro mensaje. Otra publicación justo debajo."
+ },
+ {
+  "i": 4,
+  "a": 16.59,
+  "b": 22.92,
+  "acierto": 1.0,
+  "texto": "Y cada vez que deslizas, tu cerebro recibe una pequeña sorpresa. A veces nada. A veces algo bueno."
+ },
+ {
+  "i": 5,
+  "a": 23.22,
+  "b": 26.27,
+  "acierto": 1.0,
+  "texto": "No saber qué viene es precisamente lo que hace difícil parar."
+ },
+ {
+  "i": 6,
+  "a": 26.57,
+  "b": 30.98,
+  "acierto": 1.0,
+  "texto": "Gris no busca nada en concreto. Busca que el día no se termine todavía."
+ }
+]

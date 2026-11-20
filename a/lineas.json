@@ -1,0 +1,51 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 2.34,
+  "acierto": 0.75,
+  "texto": "Son las tres y doce de la madrugada."
+ },
+ {
+  "i": 1,
+  "a": 2.64,
+  "b": 6.46,
+  "acierto": 0.92,
+  "texto": "Gris lleva una hora diciéndose lo mismo: «cinco minutos más y lo dejo»."
+ },
+ {
+  "i": 2,
+  "a": 6.75,
+  "b": 11.75,
+  "acierto": 0.83,
+  "texto": "Mañana entra a trabajar a las ocho. Lo sabe. Le escuecen los ojos. Lo sabe."
+ },
+ {
+  "i": 3,
+  "a": 12.05,
+  "b": 14.29,
+  "acierto": 0.86,
+  "texto": "Y aun así, su pulgar sigue bajando."
+ },
+ {
+  "i": 4,
+  "a": 14.59,
+  "b": 16.64,
+  "acierto": 1.0,
+  "texto": "Lo raro no es que Gris esté despierto."
+ },
+ {
+  "i": 5,
+  "a": 16.94,
+  "b": 20.66,
+  "acierto": 1.0,
+  "texto": "Lo raro es que no quiere estarlo… y no consigue soltar el móvil."
+ },
+ {
+  "i": 6,
+  "a": 20.96,
+  "b": 26.32,
+  "acierto": 0.82,
+  "texto": "Esto tiene nombre. Lo estudiaron en dos mil catorce. Y casi nunca tiene que ver con el móvil."
+ }
+]

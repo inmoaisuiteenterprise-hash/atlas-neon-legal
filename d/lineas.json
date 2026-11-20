@@ -1,0 +1,51 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 6.87,
+  "acierto": 0.82,
+  "texto": "En dos mil catorce, un equipo de la Universidad de Utrecht le puso nombre científico: procrastinación del sueño."
+ },
+ {
+  "i": 1,
+  "a": 7.17,
+  "b": 12.87,
+  "acierto": 1.0,
+  "texto": "La definieron así: irse a la cama más tarde de lo que querías… sin que nada te lo impida."
+ },
+ {
+  "i": 2,
+  "a": 13.17,
+  "b": 16.82,
+  "acierto": 1.0,
+  "texto": "No hay un bebé llorando. No hay un examen. No hay trabajo pendiente."
+ },
+ {
+  "i": 3,
+  "a": 17.12,
+  "b": 19.47,
+  "acierto": 0.89,
+  "texto": "Solo tú, sabiendo que mañana lo vas a pagar."
+ },
+ {
+  "i": 4,
+  "a": 19.77,
+  "b": 25.3,
+  "acierto": 0.89,
+  "texto": "Luego estudiaron a más de dos mil personas en Países Bajos, con un diario de sueño durante una semana."
+ },
+ {
+  "i": 5,
+  "a": 25.6,
+  "b": 32.41,
+  "acierto": 1.0,
+  "texto": "Y vieron algo claro: quienes más retrasaban la hora de acostarse, dormían menos y estaban más cansados al día siguiente."
+ },
+ {
+  "i": 6,
+  "a": 32.71,
+  "b": 37.97,
+  "acierto": 1.0,
+  "texto": "Parece obvio. Lo interesante es lo que no es obvio: casi todos sabían que lo estaban haciendo."
+ }
+]

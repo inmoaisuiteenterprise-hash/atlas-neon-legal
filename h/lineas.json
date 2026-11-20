@@ -1,0 +1,44 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 1.34,
+  "acierto": 0.75,
+  "texto": "Siete de la mañana."
+ },
+ {
+  "i": 1,
+  "a": 1.64,
+  "b": 5.06,
+  "acierto": 1.0,
+  "texto": "Gris abre los ojos con la sensación de no haber cerrado los suyos."
+ },
+ {
+  "i": 2,
+  "a": 5.36,
+  "b": 8.87,
+  "acierto": 1.0,
+  "texto": "Se promete lo de siempre: «esta noche me acuesto pronto»."
+ },
+ {
+  "i": 3,
+  "a": 9.17,
+  "b": 13.82,
+  "acierto": 1.0,
+  "texto": "Y esta noche volverá a pasar lo mismo. Porque la promesa no cambia nada de lo que pasó ayer."
+ },
+ {
+  "i": 4,
+  "a": 14.12,
+  "b": 17.8,
+  "acierto": 1.0,
+  "texto": "Si el problema fuera la fuerza de voluntad, ya lo habría resuelto."
+ },
+ {
+  "i": 5,
+  "a": 18.1,
+  "b": 24.9,
+  "acierto": 0.89,
+  "texto": "El problema es que, a las tres de la madrugada, Gris tiene que ganar una batalla que empezó a perder a las ocho de la mañana."
+ }
+]

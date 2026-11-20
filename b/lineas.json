@@ -1,0 +1,51 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 4.58,
+  "acierto": 0.93,
+  "texto": "Para entenderlo hay que volver atrás. A las ocho de la mañana de ese mismo día."
+ },
+ {
+  "i": 1,
+  "a": 4.88,
+  "b": 8.9,
+  "acierto": 0.7,
+  "texto": "Despertador. Ducha rápida. Metro. Correos."
+ },
+ {
+  "i": 2,
+  "a": 9.2,
+  "b": 11.49,
+  "acierto": 1.0,
+  "texto": "Una reunión que podía haber sido un mensaje."
+ },
+ {
+  "i": 3,
+  "a": 11.79,
+  "b": 14.2,
+  "acierto": 0.86,
+  "texto": "Comer en quince minutos delante del ordenador."
+ },
+ {
+  "i": 4,
+  "a": 14.5,
+  "b": 18.72,
+  "acierto": 1.0,
+  "texto": "Volver a casa. Cenar. Recoger. Contestar a su madre."
+ },
+ {
+  "i": 5,
+  "a": 19.02,
+  "b": 23.73,
+  "acierto": 1.0,
+  "texto": "Gris hace la cuenta. En todo el día no ha tenido ni una hora que fuera suya."
+ },
+ {
+  "i": 6,
+  "a": 24.03,
+  "b": 24.51,
+  "acierto": 1.0,
+  "texto": "Ni una."
+ }
+]

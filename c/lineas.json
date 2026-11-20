@@ -1,0 +1,51 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 3.65,
+  "acierto": 1.0,
+  "texto": "A las once y media, por fin, se mete en la cama."
+ },
+ {
+  "i": 1,
+  "a": 3.95,
+  "b": 6.57,
+  "acierto": 1.0,
+  "texto": "Y ahí, en la oscuridad, pasa algo muy humano."
+ },
+ {
+  "i": 2,
+  "a": 6.87,
+  "b": 14.43,
+  "acierto": 1.0,
+  "texto": "El cuerpo pide dormir. Pero otra parte de él piensa: «si me duermo ahora, el día se ha acabado… y no he vivido nada»."
+ },
+ {
+  "i": 3,
+  "a": 14.73,
+  "b": 18.5,
+  "acierto": 0.79,
+  "texto": "En China lo llaman con una expresión que se hizo viral en dos mil veinte:"
+ },
+ {
+  "i": 4,
+  "a": 18.8,
+  "b": 20.44,
+  "acierto": 1.0,
+  "texto": "«quedarse despierto por venganza»."
+ },
+ {
+  "i": 5,
+  "a": 20.74,
+  "b": 23.04,
+  "acierto": 0.7,
+  "texto": "Venganza contra un día que no te ha dejado ser tú."
+ },
+ {
+  "i": 6,
+  "a": 23.34,
+  "b": 28.23,
+  "acierto": 1.0,
+  "texto": "Las horas de la noche son las únicas que nadie le pide. Así que Gris se las cobra."
+ }
+]

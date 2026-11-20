@@ -1,0 +1,44 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 1.66,
+  "acierto": 1.0,
+  "texto": "Gris no es el único."
+ },
+ {
+  "i": 1,
+  "a": 1.96,
+  "b": 8.23,
+  "acierto": 1.0,
+  "texto": "Según la Sociedad Española de Neurología, menos de la mitad de la población en España duerme las horas recomendadas."
+ },
+ {
+  "i": 2,
+  "a": 8.53,
+  "b": 12.11,
+  "acierto": 1.0,
+  "texto": "Uno de cada tres adultos se levanta con la sensación de no haber descansado."
+ },
+ {
+  "i": 3,
+  "a": 12.41,
+  "b": 17.69,
+  "acierto": 0.85,
+  "texto": "Y más del sesenta por ciento de los jóvenes admite que le quita horas al sueño para hacer otras cosas."
+ },
+ {
+  "i": 4,
+  "a": 17.99,
+  "b": 21.21,
+  "acierto": 1.0,
+  "texto": "No es un fallo de una persona. Es la forma en que vivimos."
+ },
+ {
+  "i": 5,
+  "a": 21.51,
+  "b": 23.94,
+  "acierto": 1.0,
+  "texto": "Pero eso no significa que no se pueda hacer nada."
+ }
+]

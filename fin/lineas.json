@@ -1,0 +1,37 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 4.65,
+  "acierto": 0.79,
+  "texto": "Esa noche, a las once y cuarenta, Gris deja el móvil en la cocina."
+ },
+ {
+  "i": 1,
+  "a": 4.95,
+  "b": 7.76,
+  "acierto": 1.0,
+  "texto": "Vuelve a la cama. Mira el techo. Le cuesta."
+ },
+ {
+  "i": 2,
+  "a": 8.06,
+  "b": 11.8,
+  "acierto": 1.0,
+  "texto": "Pero por primera vez en semanas, el reloj no llega a marcar las tres."
+ },
+ {
+  "i": 3,
+  "a": 12.1,
+  "b": 16.57,
+  "acierto": 1.0,
+  "texto": "Y tú, ¿a qué hora te acostaste ayer? Te leo en los comentarios."
+ },
+ {
+  "i": 4,
+  "a": 16.87,
+  "b": 21.34,
+  "acierto": 1.0,
+  "texto": "En el próximo capítulo: por qué no puedes parar de comprar cosas que no necesitas."
+ }
+]

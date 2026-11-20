@@ -1,0 +1,51 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 5.64,
+  "acierto": 1.0,
+  "texto": "Así que esta vez Gris prueba algo distinto. No contra el móvil. A favor de su día."
+ },
+ {
+  "i": 1,
+  "a": 5.94,
+  "b": 13.53,
+  "acierto": 0.91,
+  "texto": "Uno: deja el cargador fuera del dormitorio. Si el móvil no está al alcance, no hay que decidir a las tres de la madrugada."
+ },
+ {
+  "i": 2,
+  "a": 13.83,
+  "b": 18.73,
+  "acierto": 0.92,
+  "texto": "Dos: se pone una alarma, pero no para despertarse. Para irse a dormir."
+ },
+ {
+  "i": 3,
+  "a": 19.03,
+  "b": 25.37,
+  "acierto": 0.95,
+  "texto": "Tres: y esta es la importante. Se guarda media hora al día que sea solo suya. Antes de la noche."
+ },
+ {
+  "i": 4,
+  "a": 25.67,
+  "b": 28.95,
+  "acierto": 1.0,
+  "texto": "Un paseo. Un capítulo. Nada. Pero suya."
+ },
+ {
+  "i": 5,
+  "a": 29.25,
+  "b": 33.34,
+  "acierto": 1.0,
+  "texto": "Porque cuando el día te devuelve un poco de tiempo, la noche ya no tiene que robarlo."
+ },
+ {
+  "i": 6,
+  "a": 33.64,
+  "b": 39.44,
+  "acierto": 1.0,
+  "texto": "Si a ti te pasa, ni tú ni Gris estáis rotos. Estáis cansados de vivir el día para los demás."
+ }
+]
