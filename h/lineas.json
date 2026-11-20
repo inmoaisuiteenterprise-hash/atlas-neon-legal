@@ -1,0 +1,34 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 2.64,
+  "acierto": 1.0,
+  "texto": "Pero, otra vez: Gris no es tonto.",
+  "voz": "Pero, otra vez: Gris no es tonto."
+ },
+ {
+  "i": 1,
+  "a": 2.94,
+  "b": 11.88,
+  "acierto": 1.0,
+  "texto": "Se juntan cuatro trampas: una ruleta que anticipa premios, un pago que no duele, un botón sin pausa y una cuenta atrás que mete prisa.",
+  "voz": "Se juntan cuatro trampas: una ruleta que anticipa premios, un pago que no duele, un botón sin pausa y una cuenta atrás que mete prisa."
+ },
+ {
+  "i": 2,
+  "a": 12.18,
+  "b": 16.08,
+  "acierto": 1.0,
+  "texto": "Cada una por separado es pequeña. Juntas, son una máquina.",
+  "voz": "Cada una por separado es pequeña. Juntas, son una máquina."
+ },
+ {
+  "i": 3,
+  "a": 16.38,
+  "b": 23.38,
+  "acierto": 0.88,
+  "texto": "Y no es solo Temu: Shein, AliExpress, las ofertas flash… Y en Black Friday, todas a la vez.",
+  "voz": "Y no es solo Tému: Shí-in, Áli Express, las ofertas flash… Y en Blac Fráidei, todas a la vez."
+ }
+]

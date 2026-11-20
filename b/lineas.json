@@ -1,0 +1,34 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 6.33,
+  "acierto": 1.0,
+  "texto": "Todo empezó tres semanas antes. Gris acababa de dejar las series por la noche… y le sobraba tiempo.",
+  "voz": "Todo empezó tres semanas antes. Gris acababa de dejar las series por la noche… y le sobraba tiempo."
+ },
+ {
+  "i": 2,
+  "a": 6.63,
+  "b": 9.95,
+  "acierto": 1.0,
+  "texto": "Gris pensó: bueno, por mirar, no pasa nada.",
+  "voz": "Gris pensó: bueno, por mirar, no pasa nada."
+ },
+ {
+  "i": 4,
+  "a": 10.25,
+  "b": 12.45,
+  "acierto": 1.0,
+  "texto": "Giró. Ganó. O eso le pareció.",
+  "voz": "Giró. Ganó. O eso le pareció."
+ },
+ {
+  "i": 6,
+  "a": 12.75,
+  "b": 18.47,
+  "acierto": 1.0,
+  "texto": "Y así, sin darse cuenta, Gris ya tenía algo en el carrito. Ese algo era el pato.",
+  "voz": "Y así, sin darse cuenta, Gris ya tenía algo en el carrito. Ese algo era el pato."
+ }
+]

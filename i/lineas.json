@@ -1,0 +1,58 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 4.08,
+  "acierto": 1.0,
+  "texto": "Así que Gris hizo lo de siempre: cambiar las reglas del juego.",
+  "voz": "Así que Gris hizo lo de siempre: cambiar las reglas del juego."
+ },
+ {
+  "i": 1,
+  "a": 4.38,
+  "b": 10.91,
+  "acierto": 0.93,
+  "texto": "Regla uno: borró la tarjeta guardada. Ahora, para comprar, tenía que levantarse a buscar la cartera.",
+  "voz": "Regla uno: borró la tarjeta guardada. Ahora, para comprar, tenía que levantarse a buscar la cartera."
+ },
+ {
+  "i": 2,
+  "a": 11.21,
+  "b": 14.78,
+  "acierto": 0.92,
+  "texto": "Esos treinta segundos de pereza le salvaron más de la mitad de las compras.",
+  "voz": "Esos treinta segundos de pereza le salvaron más de la mitad de las compras."
+ },
+ {
+  "i": 3,
+  "a": 15.08,
+  "b": 23.24,
+  "acierto": 0.88,
+  "texto": "Regla dos: nada de comprar en el momento. Lo que quería iba a una lista. Y si a las cuarenta y ocho horas lo seguía queriendo, lo compraba.",
+  "voz": "Regla dos: nada de comprar en el momento. Lo que quería iba a una lista. Y si a las cuarenta y ocho horas lo seguía queriendo, lo compraba."
+ },
+ {
+  "i": 4,
+  "a": 23.54,
+  "b": 25.07,
+  "acierto": 1.0,
+  "texto": "Casi nunca lo seguía queriendo.",
+  "voz": "Casi nunca lo seguía queriendo."
+ },
+ {
+  "i": 5,
+  "a": 25.37,
+  "b": 30.53,
+  "acierto": 0.85,
+  "texto": "Regla tres: quitó las notificaciones de la app. Sin luces… no hay zumo.",
+  "voz": "Regla tres: quitó las notificaciones de la app. Sin luces… no hay zumo."
+ },
+ {
+  "i": 6,
+  "a": 30.83,
+  "b": 35.63,
+  "acierto": 0.92,
+  "texto": "Y la regla cuatro es la del botón. La más incómoda. Y la que de verdad funcionó.",
+  "voz": "Y la regla cuatro es la del botón. La más incómoda. Y la que de verdad funcionó."
+ }
+]

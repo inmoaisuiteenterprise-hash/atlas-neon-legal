@@ -1,0 +1,18 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 10.35,
+  "acierto": 1.0,
+  "texto": "Gris ha dejado su tercera adicción. Pero esa noche, mientras se dormía, su móvil vibró: alguien le había dado «me gusta»… a una foto suya de hace tres años.",
+  "voz": "Gris ha dejado su tercera adicción. Pero esa noche, mientras se dormía, su móvil vibró: alguien le había dado «me gusta»… a una foto suya de hace tres años."
+ },
+ {
+  "i": 1,
+  "a": 10.65,
+  "b": 16.21,
+  "acierto": 0.95,
+  "texto": "Suscríbete para ver qué pasa. Y si tienes un amigo con la casa llena de paquetes… mándale este vídeo.",
+  "voz": "Suscríbete para ver qué pasa. Y si tienes un amigo con la casa llena de paquetes… mándale este vídeo."
+ }
+]

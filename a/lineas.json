@@ -1,0 +1,82 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 3.14,
+  "acierto": 1.0,
+  "texto": "Un martes cualquiera, a Gris le llega un paquete.",
+  "voz": "Un martes cualquiera, a Gris le llega un paquete."
+ },
+ {
+  "i": 1,
+  "a": 3.44,
+  "b": 6.71,
+  "acierto": 1.0,
+  "texto": "Lo abre… y dentro hay una lámpara con forma de pato.",
+  "voz": "Lo abre… y dentro hay una lámpara con forma de pato."
+ },
+ {
+  "i": 2,
+  "a": 7.01,
+  "b": 9.92,
+  "acierto": 1.0,
+  "texto": "Gris no recuerda haber pedido una lámpara con forma de pato.",
+  "voz": "Gris no recuerda haber pedido una lámpara con forma de pato."
+ },
+ {
+  "i": 3,
+  "a": 10.22,
+  "b": 15.94,
+  "acierto": 0.88,
+  "texto": "Abre la app para ver qué ha pasado. Y entonces lo ve: treinta y siete pedidos este mes.",
+  "voz": "Abre la app para ver qué ha pasado. Y entonces lo ve: treinta y siete pedidos este mes."
+ },
+ {
+  "i": 4,
+  "a": 16.24,
+  "b": 19.07,
+  "acierto": 1.0,
+  "texto": "Un cortapelos para perros. Gris no tiene perro.",
+  "voz": "Un cortapelos para perros. Gris no tiene perro."
+ },
+ {
+  "i": 5,
+  "a": 19.37,
+  "b": 26.02,
+  "acierto": 1.0,
+  "texto": "Un pelador de huevos. Unas zapatillas con luces. Y tres fundas para un móvil que ya no tiene.",
+  "voz": "Un pelador de huevos. Unas zapatillas con luces. Y tres fundas para un móvil que ya no tiene."
+ },
+ {
+  "i": 6,
+  "a": 26.32,
+  "b": 30.82,
+  "acierto": 0.62,
+  "texto": "Total: cuatrocientos doce euros. En cosas de dos euros.",
+  "voz": "Total: cuatrocientos doce euros. En cosas de dos euros."
+ },
+ {
+  "i": 7,
+  "a": 31.12,
+  "b": 34.67,
+  "acierto": 1.0,
+  "texto": "¿Cómo se gasta tanto dinero… comprando cosas tan baratas?",
+  "voz": "¿Cómo se gasta tanto dinero… comprando cosas tan baratas?"
+ },
+ {
+  "i": 8,
+  "a": 34.97,
+  "b": 39.77,
+  "acierto": 1.0,
+  "texto": "Hoy lo vas a descubrir. Y al final te enseño el botón que ninguna app quiere que pulses.",
+  "voz": "Hoy lo vas a descubrir. Y al final te enseño el botón que ninguna app quiere que pulses."
+ },
+ {
+  "i": 9,
+  "a": 40.07,
+  "b": 43.78,
+  "acierto": 0.88,
+  "texto": "Proyecto Gris. Episodio tres: solo un carrito más.",
+  "voz": "Proyecto Gris. Episodio tres: solo un carrito más."
+ }
+]

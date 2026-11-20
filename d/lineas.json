@@ -1,0 +1,66 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 2.92,
+  "acierto": 1.0,
+  "texto": "Pero comprar debería doler. Y de hecho, duele.",
+  "voz": "Pero comprar debería doler. Y de hecho, duele."
+ },
+ {
+  "i": 1,
+  "a": 3.22,
+  "b": 10.44,
+  "acierto": 0.86,
+  "texto": "En dos mil siete, investigadores de Stanford y Carnegie Mellon metieron a gente en un escáner cerebral y le enseñaron productos con su precio.",
+  "voz": "En dos mil siete, investigadores de Stanford y Cárnegui Mélon metieron a gente en un escáner cerebral y le enseñaron productos con su precio."
+ },
+ {
+  "i": 2,
+  "a": 10.74,
+  "b": 18.84,
+  "acierto": 1.0,
+  "texto": "Cuando el precio parecía excesivo, se activaba la ínsula, una zona del cerebro ligada a anticipar dolor y pérdidas. Y la gente no compraba.",
+  "voz": "Cuando el precio parecía excesivo, se activaba la ínsula, una zona del cerebro ligada a anticipar dolor y pérdidas. Y la gente no compraba."
+ },
+ {
+  "i": 3,
+  "a": 19.14,
+  "b": 21.46,
+  "acierto": 1.0,
+  "texto": "Los economistas lo llaman el dolor de pagar.",
+  "voz": "Los economistas lo llaman el dolor de pagar."
+ },
+ {
+  "i": 4,
+  "a": 21.76,
+  "b": 24.83,
+  "acierto": 1.0,
+  "texto": "Y aquí viene el truco: ese dolor se puede anestesiar.",
+  "voz": "Y aquí viene el truco: ese dolor se puede anestesiar."
+ },
+ {
+  "i": 5,
+  "a": 25.13,
+  "b": 35.36,
+  "acierto": 0.88,
+  "texto": "En dos mil uno, en el MIT, subastaron entradas para un partido de baloncesto. A la mitad les dijeron que pagarían en efectivo. A la otra mitad, con tarjeta.",
+  "voz": "En dos mil uno, en el eme i te, subastaron entradas para un partido de baloncesto. A la mitad les dijeron que pagarían en efectivo. A la otra mitad, con tarjeta."
+ },
+ {
+  "i": 6,
+  "a": 35.66,
+  "b": 40.2,
+  "acierto": 1.0,
+  "texto": "Los que iban a pagar con tarjeta pujaron más del doble. Por las mismas entradas.",
+  "voz": "Los que iban a pagar con tarjeta pujaron más del doble. Por las mismas entradas."
+ },
+ {
+  "i": 7,
+  "a": 40.5,
+  "b": 46.6,
+  "acierto": 1.0,
+  "texto": "Cuanto menos se nota el dinero salir, menos duele. Y Gris ya no veía billetes. Solo un botón.",
+  "voz": "Cuanto menos se nota el dinero salir, menos duele. Y Gris ya no veía billetes. Solo un botón."
+ }
+]

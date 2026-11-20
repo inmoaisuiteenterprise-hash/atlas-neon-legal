@@ -1,0 +1,34 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 5.67,
+  "acierto": 0.93,
+  "texto": "Un mes después, Gris ha gastado treinta y un euros. Y todo lo que compró, lo usa.",
+  "voz": "Un mes después, Gris ha gastado treinta y un euros. Y todo lo que compró, lo usa."
+ },
+ {
+  "i": 1,
+  "a": 5.97,
+  "b": 9.16,
+  "acierto": 1.0,
+  "texto": "La lámpara de pato sigue ahí. Ahora le hace gracia.",
+  "voz": "La lámpara de pato sigue ahí. Ahora le hace gracia."
+ },
+ {
+  "i": 2,
+  "a": 9.46,
+  "b": 15.13,
+  "acierto": 1.0,
+  "texto": "Comprar no es malo. El problema empieza cuando la tienda decide por ti… y tú solo pulsas.",
+  "voz": "Comprar no es malo. El problema empieza cuando la tienda decide por ti… y tú solo pulsas."
+ },
+ {
+  "i": 3,
+  "a": 15.43,
+  "b": 21.97,
+  "acierto": 0.94,
+  "texto": "Así que hoy, haz una sola cosa: borra la tarjeta guardada de tu app de compras. Treinta segundos.",
+  "voz": "Así que hoy, haz una sola cosa: borra la tarjeta guardada de tu app de compras. Treinta segundos."
+ }
+]

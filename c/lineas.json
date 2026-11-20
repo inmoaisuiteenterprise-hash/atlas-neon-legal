@@ -1,0 +1,50 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 5.51,
+  "acierto": 0.93,
+  "texto": "Para entender qué le pasó, hay que ir a un laboratorio. Con monos. Y zumo.",
+  "voz": "Para entender qué le pasó, hay que ir a un laboratorio. Con monos. Y zumo."
+ },
+ {
+  "i": 1,
+  "a": 5.81,
+  "b": 12.73,
+  "acierto": 0.89,
+  "texto": "En los años noventa, el neurocientífico Wolfram Schultz midió las neuronas de dopamina de unos monos mientras recibían zumo.",
+  "voz": "En los años noventa, el neurocientífico Wólfram Shults midió las neuronas de dopamina de unos monos mientras recibían zumo."
+ },
+ {
+  "i": 2,
+  "a": 13.03,
+  "b": 18.62,
+  "acierto": 0.92,
+  "texto": "Al principio, la dopamina se disparaba al llegar el zumo. Normal: premio, placer.",
+  "voz": "Al principio, la dopamina se disparaba al llegar el zumo. Normal: premio, placer."
+ },
+ {
+  "i": 3,
+  "a": 18.92,
+  "b": 25.67,
+  "acierto": 0.95,
+  "texto": "Pero cuando los monos aprendieron que una luz anunciaba el zumo… la dopamina empezó a dispararse con la luz. Antes del premio.",
+  "voz": "Pero cuando los monos aprendieron que una luz anunciaba el zumo… la dopamina empezó a dispararse con la luz. Antes del premio."
+ },
+ {
+  "i": 4,
+  "a": 25.97,
+  "b": 31.51,
+  "acierto": 1.0,
+  "texto": "La dopamina tiene mucho que ver con anticipar. Con esperar que algo bueno está a punto de pasar.",
+  "voz": "La dopamina tiene mucho que ver con anticipar. Con esperar que algo bueno está a punto de pasar."
+ },
+ {
+  "i": 5,
+  "a": 31.81,
+  "b": 37.87,
+  "acierto": 0.93,
+  "texto": "Y una ruleta es exactamente eso: una luz que promete zumo… cada vez que abres la app.",
+  "voz": "Y una ruleta es exactamente eso: una luz que promete zumo… cada vez que abres la app."
+ }
+]

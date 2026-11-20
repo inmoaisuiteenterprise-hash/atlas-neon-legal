@@ -1,0 +1,50 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 6.47,
+  "acierto": 0.75,
+  "texto": "Amazon lo entendió muy pronto: en mil novecientos noventa y nueve consiguió la patente de la compra con un solo clic.",
+  "voz": "Amazon lo entendió muy pronto: en mil novecientos noventa y nueve consiguió la patente de la compra con un solo clic."
+ },
+ {
+  "i": 1,
+  "a": 6.77,
+  "b": 11.11,
+  "acierto": 1.0,
+  "texto": "Sin rellenar datos. Sin pararte a pensar. Un clic, y listo.",
+  "voz": "Sin rellenar datos. Sin pararte a pensar. Un clic, y listo."
+ },
+ {
+  "i": 2,
+  "a": 11.41,
+  "b": 14.67,
+  "acierto": 0.91,
+  "texto": "Tanto valía esa idea que la tuvo patentada casi veinte años.",
+  "voz": "Tanto valía esa idea que la tuvo patentada casi veinte años."
+ },
+ {
+  "i": 3,
+  "a": 14.97,
+  "b": 19.98,
+  "acierto": 0.94,
+  "texto": "Hoy está en todas partes. Y con precios de dos euros, el dolor de pagar casi desaparece.",
+  "voz": "Hoy está en todas partes. Y con precios de dos euros, el dolor de pagar casi desaparece."
+ },
+ {
+  "i": 4,
+  "a": 20.28,
+  "b": 24.52,
+  "acierto": 1.0,
+  "texto": "Dos euros no duelen. Pero dos euros, doscientas veces… sí.",
+  "voz": "Dos euros no duelen. Pero dos euros, doscientas veces… sí."
+ },
+ {
+  "i": 6,
+  "a": 24.82,
+  "b": 30.42,
+  "acierto": 1.0,
+  "texto": "Y Gris, para ahorrarse un envío de dos euros… se gastaba siete en cosas que no necesitaba.",
+  "voz": "Y Gris, para ahorrarse un envío de dos euros… se gastaba siete en cosas que no necesitaba."
+ }
+]

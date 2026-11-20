@@ -1,0 +1,47 @@
+[
+ {
+  "i": 1,
+  "a": 0.35,
+  "b": 3.04,
+  "acierto": 1.0,
+  "texto": "¡Bienvenido! ¡Tienes un regalo esperándote!",
+  "voz": "¡Bienvenido! ¡Tienes un regalo esperándote!",
+  "escena": "b"
+ },
+ {
+  "i": 3,
+  "a": 3.34,
+  "b": 7.26,
+  "acierto": 0.75,
+  "texto": "¡Gira la ruleta! ¡Puedes ganar hasta un noventa por ciento de descuento!",
+  "voz": "¡Gira la ruleta! ¡Puedes ganar hasta un noventa por ciento de descuento!",
+  "escena": "b"
+ },
+ {
+  "i": 5,
+  "a": 7.56,
+  "b": 13.01,
+  "acierto": 0.9,
+  "texto": "¡Enhorabuena! ¡Cupón desbloqueado! Pero solo durante los próximos diez minutos.",
+  "voz": "¡Enhorabuena! ¡Cupón desbloqueado! Pero solo durante los próximos diez minutos.",
+  "escena": "b"
+ },
+ {
+  "i": 5,
+  "a": 13.31,
+  "b": 16.44,
+  "acierto": 0.78,
+  "texto": "¡Te faltan solo tres euros para el envío gratis!",
+  "voz": "¡Te faltan solo tres euros para el envío gratis!",
+  "escena": "e"
+ },
+ {
+  "i": 1,
+  "a": 16.74,
+  "b": 21.38,
+  "acierto": 0.89,
+  "texto": "¡Ofertas que no volverán! ¡Solo hoy! ¡Quedan dos unidades!",
+  "voz": "¡Ofertas que no volverán! ¡Solo hoy! ¡Quedan dos unidades!",
+  "escena": "j"
+ }
+]

@@ -1,0 +1,58 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 5.14,
+  "acierto": 1.0,
+  "texto": "¿Recuerdas la pregunta del principio? ¿Cómo se gasta tanto dinero en cosas tan baratas?",
+  "voz": "¿Recuerdas la pregunta del principio? ¿Cómo se gasta tanto dinero en cosas tan baratas?"
+ },
+ {
+  "i": 1,
+  "a": 5.44,
+  "b": 9.83,
+  "acierto": 1.0,
+  "texto": "Porque cada compra pequeña pasa por debajo de la parte del cerebro que dice «esto duele».",
+  "voz": "Porque cada compra pequeña pasa por debajo de la parte del cerebro que dice «esto duele»."
+ },
+ {
+  "i": 2,
+  "a": 10.13,
+  "b": 15.86,
+  "acierto": 1.0,
+  "texto": "Las apps convierten el dinero en cupones, en puntos, en un botón. Y sin dolor, no hay freno.",
+  "voz": "Las apps convierten el dinero en cupones, en puntos, en un botón. Y sin dolor, no hay freno."
+ },
+ {
+  "i": 3,
+  "a": 16.16,
+  "b": 22.0,
+  "acierto": 0.84,
+  "texto": "Así que la regla cuatro le devuelve el dolor: antes de pagar, Gris convierte el precio en horas de su vida.",
+  "voz": "Así que la regla cuatro le devuelve el dolor: antes de pagar, Gris convierte el precio en horas de su vida."
+ },
+ {
+  "i": 4,
+  "a": 22.3,
+  "b": 29.17,
+  "acierto": 0.8,
+  "texto": "Si gana diez euros la hora, ese robot de ciento veinte euros son doce horas de trabajo. Un día y medio entero.",
+  "voz": "Si gana diez euros la hora, ese robot de ciento veinte euros son doce horas de trabajo. Un día y medio entero."
+ },
+ {
+  "i": 5,
+  "a": 29.47,
+  "b": 37.28,
+  "acierto": 0.96,
+  "texto": "¿Día y medio de su vida por un robot que no necesita? Gris pulsó el botón que ninguna app quiere que pulses: eliminar del carrito.",
+  "voz": "¿Día y medio de su vida por un robot que no necesita? Gris pulsó el botón que ninguna app quiere que pulses: eliminar del carrito."
+ },
+ {
+  "i": 6,
+  "a": 37.58,
+  "b": 42.57,
+  "acierto": 0.88,
+  "texto": "Haz la cuenta tú: divide el precio entre lo que ganas por hora. Funciona que da miedo.",
+  "voz": "Haz la cuenta tú: divide el precio entre lo que ganas por hora. Funciona que da miedo."
+ }
+]
