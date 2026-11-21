@@ -1,0 +1,38 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 5.27,
+  "acierto": 0.92,
+  "texto": "Gris dejó el móvil. Treinta días. Y entonces, en el sofá, encontró esto.",
+  "exa": 0.5,
+  "pausa": 0.5
+ },
+ {
+  "i": 1,
+  "a": 5.77,
+  "b": 11.88,
+  "acierto": 0.75,
+  "texto": "Un vaper que se había dejado un amigo. Sabor a mango. Esto no es tabaco, pensó. Esto no cuenta.",
+  "exa": 0.5,
+  "pausa": 0.5
+ },
+ {
+  "i": 2,
+  "a": 12.38,
+  "b": 17.92,
+  "acierto": 0.95,
+  "texto": "Tres semanas después, se despierta a las tres de la madrugada. Y lo primero que busca, a oscuras, es el vaper.",
+  "exa": 0.5,
+  "pausa": 0.5
+ },
+ {
+  "i": 3,
+  "a": 18.42,
+  "b": 23.32,
+  "acierto": 0.93,
+  "texto": "Esta es la historia de cómo algo que no cuenta, acaba contando más que nada.",
+  "exa": 0.5,
+  "pausa": 0.5
+ }
+]

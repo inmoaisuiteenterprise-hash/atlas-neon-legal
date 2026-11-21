@@ -1,0 +1,56 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 4.82,
+  "acierto": 0.92,
+  "texto": "¿Sabes cuánto tarda una calada de vaper en llegar a tu cerebro?",
+  "exa": 0.5,
+  "pausa": 0.5
+ },
+ {
+  "i": 1,
+  "a": 5.32,
+  "b": 7.87,
+  "acierto": 1.0,
+  "texto": "Unos pocos segundos.",
+  "exa": 0.5,
+  "pausa": 0.5
+ },
+ {
+  "i": 2,
+  "a": 8.37,
+  "b": 13.03,
+  "acierto": 1.0,
+  "texto": "La nicotina entra en los pulmones, pasa a la sangre, y sube directa a la cabeza.",
+  "exa": 0.5,
+  "pausa": 0.5
+ },
+ {
+  "i": 3,
+  "a": 13.53,
+  "b": 18.61,
+  "acierto": 0.91,
+  "texto": "Allí sube la dopamina, la química de las ganas. Gesto, y premio.",
+  "exa": 0.5,
+  "pausa": 0.5
+ },
+ {
+  "i": 4,
+  "a": 19.11,
+  "b": 24.04,
+  "acierto": 0.91,
+  "texto": "Y cuanto más rápido llega el premio, más rápido aprende el cerebro a pedirlo.",
+  "exa": 0.5,
+  "pausa": 0.5
+ },
+ {
+  "i": 5,
+  "a": 24.54,
+  "b": 27.68,
+  "acierto": 0.9,
+  "texto": "Por eso no te engancha solo una sustancia. Te engancha un gesto.",
+  "exa": 0.5,
+  "pausa": 0.5
+ }
+]

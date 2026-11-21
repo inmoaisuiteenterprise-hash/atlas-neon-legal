@@ -1,0 +1,29 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 5.52,
+  "acierto": 0.93,
+  "texto": "El día cuatro, en una fiesta, alguien le pasó uno. Y Gris dio una calada.",
+  "exa": 0.5,
+  "pausa": 0.5
+ },
+ {
+  "i": 1,
+  "a": 6.02,
+  "b": 13.92,
+  "acierto": 1.0,
+  "texto": "Y aquí está la clave, la misma que con el móvil. Un fallo no rompe el intento. Lo que lo rompe, es pensar que ya da igual.",
+  "exa": 0.5,
+  "pausa": 0.5
+ },
+ {
+  "i": 2,
+  "a": 14.42,
+  "b": 22.27,
+  "acierto": 0.9,
+  "texto": "Así que Gris no se compró otro. Al día siguiente, siguió desde donde lo había dejado. Un día malo, vale. Dos, no.",
+  "exa": 0.5,
+  "pausa": 0.5
+ }
+]

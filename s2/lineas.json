@@ -1,0 +1,56 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 1.5,
+  "acierto": 1.0,
+  "texto": "Un cigarro tiene un final.",
+  "exa": 0.5,
+  "pausa": 0.5
+ },
+ {
+  "i": 1,
+  "a": 2.0,
+  "b": 5.95,
+  "acierto": 1.0,
+  "texto": "Se consume, se apaga, y tienes que decidir si enciendes otro.",
+  "exa": 0.5,
+  "pausa": 0.5
+ },
+ {
+  "i": 2,
+  "a": 6.45,
+  "b": 8.05,
+  "acierto": 1.0,
+  "texto": "Ese final es un momento para pensar.",
+  "exa": 0.5,
+  "pausa": 0.5
+ },
+ {
+  "i": 3,
+  "a": 8.55,
+  "b": 14.17,
+  "acierto": 0.91,
+  "texto": "El vaper no se apaga nunca. Bolsillo, mesa, almohada. Siempre listo.",
+  "exa": 0.5,
+  "pausa": 0.5
+ },
+ {
+  "i": 4,
+  "a": 14.67,
+  "b": 16.75,
+  "acierto": 1.0,
+  "texto": "Sin final, no hay momento de decidir.",
+  "exa": 0.5,
+  "pausa": 0.5
+ },
+ {
+  "i": 5,
+  "a": 17.25,
+  "b": 20.23,
+  "acierto": 1.0,
+  "texto": "Solo hay otra calada.",
+  "exa": 0.5,
+  "pausa": 0.5
+ }
+]

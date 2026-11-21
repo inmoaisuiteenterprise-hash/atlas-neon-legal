@@ -1,0 +1,56 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 3.27,
+  "acierto": 1.0,
+  "texto": "Si quieres dejar el vaper, que sepas esto.",
+  "exa": 0.5,
+  "pausa": 0.5
+ },
+ {
+  "i": 1,
+  "a": 3.77,
+  "b": 6.47,
+  "acierto": 1.0,
+  "texto": "Lo más duro llega en los primeros días.",
+  "exa": 0.5,
+  "pausa": 0.5
+ },
+ {
+  "i": 2,
+  "a": 6.97,
+  "b": 10.08,
+  "acierto": 1.0,
+  "texto": "Nervios, mal humor, ganas a todas horas.",
+  "exa": 0.5,
+  "pausa": 0.5
+ },
+ {
+  "i": 3,
+  "a": 10.58,
+  "b": 14.03,
+  "acierto": 1.0,
+  "texto": "Pero después, las ganas suelen ir bajando en unas pocas semanas.",
+  "exa": 0.5,
+  "pausa": 0.5
+ },
+ {
+  "i": 4,
+  "a": 14.53,
+  "b": 16.52,
+  "acierto": 1.0,
+  "texto": "No es para siempre. Es un pico.",
+  "exa": 0.5,
+  "pausa": 0.5
+ },
+ {
+  "i": 5,
+  "a": 17.02,
+  "b": 20.65,
+  "acierto": 1.0,
+  "texto": "Y si te cuesta mucho, tu médico de cabecera puede ayudarte.",
+  "exa": 0.5,
+  "pausa": 0.5
+ }
+]

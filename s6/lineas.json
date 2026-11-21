@@ -1,0 +1,56 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 2.93,
+  "acierto": 1.0,
+  "texto": "Las ganas de vapear casi nunca llegan al azar.",
+  "exa": 0.5,
+  "pausa": 0.5
+ },
+ {
+  "i": 1,
+  "a": 3.43,
+  "b": 7.45,
+  "acierto": 1.0,
+  "texto": "Llegan al despertar. Al salir de casa. Después de comer.",
+  "exa": 0.5,
+  "pausa": 0.5
+ },
+ {
+  "i": 2,
+  "a": 7.95,
+  "b": 10.63,
+  "acierto": 1.0,
+  "texto": "Siempre a la misma hora, y en el mismo sitio.",
+  "exa": 0.5,
+  "pausa": 0.5
+ },
+ {
+  "i": 3,
+  "a": 11.13,
+  "b": 13.12,
+  "acierto": 1.0,
+  "texto": "Así que apunta tus momentos.",
+  "exa": 0.5,
+  "pausa": 0.5
+ },
+ {
+  "i": 4,
+  "a": 13.62,
+  "b": 19.77,
+  "acierto": 0.88,
+  "texto": "Y para cada uno, prepara un gesto de recambio. Agua, chicle sin azúcar, cinco minutos andando.",
+  "exa": 0.5,
+  "pausa": 0.5
+ },
+ {
+  "i": 5,
+  "a": 20.27,
+  "b": 23.34,
+  "acierto": 1.0,
+  "texto": "No luchas contra las ganas. Les cambias el camino.",
+  "exa": 0.5,
+  "pausa": 0.5
+ }
+]

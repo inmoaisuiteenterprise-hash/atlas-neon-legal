@@ -1,0 +1,56 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 3.1,
+  "acierto": 0.83,
+  "texto": "Dices que el vaper te relaja.",
+  "exa": 0.5,
+  "pausa": 0.5
+ },
+ {
+  "i": 1,
+  "a": 3.6,
+  "b": 7.46,
+  "acierto": 0.91,
+  "texto": "Y es verdad que, después de una calada, te sientes mejor.",
+  "exa": 0.5,
+  "pausa": 0.5
+ },
+ {
+  "i": 2,
+  "a": 7.96,
+  "b": 13.43,
+  "acierto": 1.0,
+  "texto": "Pero entre calada y calada, el cuerpo echa de menos la nicotina. Nervios, irritación, ganas.",
+  "exa": 0.5,
+  "pausa": 0.5
+ },
+ {
+  "i": 3,
+  "a": 13.93,
+  "b": 17.49,
+  "acierto": 1.0,
+  "texto": "La calada quita ese malestar. Y parece calma.",
+  "exa": 0.5,
+  "pausa": 0.5
+ },
+ {
+  "i": 4,
+  "a": 17.99,
+  "b": 19.54,
+  "acierto": 1.0,
+  "texto": "El vaper no te quita el agobio.",
+  "exa": 0.5,
+  "pausa": 0.5
+ },
+ {
+  "i": 5,
+  "a": 20.04,
+  "b": 21.67,
+  "acierto": 1.0,
+  "texto": "Te quita el agobio que te ha puesto él.",
+  "exa": 0.5,
+  "pausa": 0.5
+ }
+]

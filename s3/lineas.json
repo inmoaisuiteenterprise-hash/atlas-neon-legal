@@ -1,0 +1,47 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 2.56,
+  "acierto": 0.67,
+  "texto": "Mango. Sandía. Chicle.",
+  "exa": 0.5,
+  "pausa": 0.5
+ },
+ {
+  "i": 1,
+  "a": 3.06,
+  "b": 6.49,
+  "acierto": 1.0,
+  "texto": "Cuesta sentir que algo es peligroso, cuando sabe a caramelo.",
+  "exa": 0.5,
+  "pausa": 0.5
+ },
+ {
+  "i": 2,
+  "a": 6.99,
+  "b": 11.36,
+  "acierto": 0.92,
+  "texto": "Y muchos vapers usan sales de nicotina, que raspan menos la garganta.",
+  "exa": 0.5,
+  "pausa": 0.5
+ },
+ {
+  "i": 3,
+  "a": 11.86,
+  "b": 15.58,
+  "acierto": 1.0,
+  "texto": "Así se puede inhalar mucha nicotina, con muy poca molestia.",
+  "exa": 0.5,
+  "pausa": 0.5
+ },
+ {
+  "i": 4,
+  "a": 16.08,
+  "b": 21.17,
+  "acierto": 1.0,
+  "texto": "No sabe a tabaco. Pero lo que llega a tu cerebro es lo mismo: nicotina.",
+  "exa": 0.5,
+  "pausa": 0.5
+ }
+]

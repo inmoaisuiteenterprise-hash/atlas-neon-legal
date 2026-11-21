@@ -1,0 +1,65 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 4.95,
+  "acierto": 0.88,
+  "texto": "Así que Gris lo intentó. Otra vez, no con fuerza de voluntad, sino cambiando las reglas.",
+  "exa": 0.5,
+  "pausa": 0.5
+ },
+ {
+  "i": 1,
+  "a": 5.45,
+  "b": 12.42,
+  "acierto": 1.0,
+  "texto": "Primero, puso fecha. Un día concreto, apuntado en el calendario. Y se lo contó a alguien.",
+  "exa": 0.5,
+  "pausa": 0.5
+ },
+ {
+  "i": 2,
+  "a": 12.92,
+  "b": 23.53,
+  "acierto": 1.0,
+  "texto": "Segundo, buscó sus momentos. Al despertar. Al salir de casa. Después de comer. Las ganas casi siempre llegan a la misma hora, y en el mismo sitio.",
+  "exa": 0.5,
+  "pausa": 0.5
+ },
+ {
+  "i": 3,
+  "a": 24.03,
+  "b": 29.65,
+  "acierto": 0.93,
+  "texto": "Para cada momento, un gesto de recambio. Un vaso de agua. Un chicle sin azúcar. Cinco minutos andando.",
+  "exa": 0.5,
+  "pausa": 0.5
+ },
+ {
+  "i": 4,
+  "a": 30.15,
+  "b": 37.88,
+  "acierto": 0.88,
+  "texto": "Tercero, pidió ayuda. En un ensayo con más de dos mil quinientos jóvenes, un programa de mensajes de apoyo en el móvil ayudó a que más gente lo dejara.",
+  "exa": 0.5,
+  "pausa": 0.5
+ },
+ {
+  "i": 5,
+  "a": 38.38,
+  "b": 45.07,
+  "acierto": 1.0,
+  "texto": "Y si la nicotina te tiene muy atrapado, tu médico de cabecera puede ayudarte. Pedir ayuda no es fallar.",
+  "exa": 0.5,
+  "pausa": 0.5
+ },
+ {
+  "i": 6,
+  "a": 45.57,
+  "b": 50.82,
+  "acierto": 1.0,
+  "texto": "Lo más duro llega en los primeros días. Después, las ganas suelen ir bajando en unas pocas semanas.",
+  "exa": 0.5,
+  "pausa": 0.5
+ }
+]

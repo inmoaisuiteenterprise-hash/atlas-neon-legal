@@ -1,0 +1,56 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 6.54,
+  "acierto": 0.93,
+  "texto": "Treinta días después, Gris no se ha convertido en otra persona. Sigue teniendo días malos.",
+  "exa": 0.5,
+  "pausa": 0.5
+ },
+ {
+  "i": 1,
+  "a": 7.04,
+  "b": 13.93,
+  "acierto": 1.0,
+  "texto": "Pero ya no se despierta de noche buscando nada. Ya no mira cuánta batería le queda. Y el dinero se queda en su bolsillo.",
+  "exa": 0.5,
+  "pausa": 0.5
+ },
+ {
+  "i": 2,
+  "a": 14.43,
+  "b": 20.35,
+  "acierto": 1.0,
+  "texto": "Y ha aprendido algo más. Cuando se agobia, el agobio pasa solo. No necesita que nada se lo quite.",
+  "exa": 0.5,
+  "pausa": 0.5
+ },
+ {
+  "i": 3,
+  "a": 20.85,
+  "b": 28.12,
+  "acierto": 0.96,
+  "texto": "El vaper no es un caramelo. Es una forma muy eficaz de llevar nicotina a tu cerebro. Y está pensado para que no lo sueltes.",
+  "exa": 0.5,
+  "pausa": 0.5
+ },
+ {
+  "i": 4,
+  "a": 28.62,
+  "b": 35.76,
+  "acierto": 0.89,
+  "texto": "Así que hoy, si lo tienes cerca, no hace falta que lo tires. Solo cuenta cuántas veces lo buscas sin haberlo decidido.",
+  "exa": 0.5,
+  "pausa": 0.5
+ },
+ {
+  "i": 5,
+  "a": 36.26,
+  "b": 40.53,
+  "acierto": 1.0,
+  "texto": "Ese número es el principio.",
+  "exa": 0.5,
+  "pausa": 0.5
+ }
+]
