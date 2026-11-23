@@ -1,0 +1,31 @@
+{
+ "modo": "clon",
+ "ref": "ref_raiz_narr.wav",
+ "ref_text": "En el año mil cuatro, una princesa llegó a Venecia con un objeto que escandalizó a todos. Hoy lo tienes en el cajón de tu cocina, y no sabes de dónde viene. Esta es la historia de cómo algo tan pequeño cambió la forma de comer de medio mundo.",
+ "lineas": [
+  {
+   "texto": "Este faro es romano, y sigue en pie en La Coruña.",
+   "i": 0
+  },
+  {
+   "texto": "Se llama Torre de Hércules.",
+   "i": 1
+  },
+  {
+   "texto": "Y en el año ochocientos cuarenta y cuatro, vio llegar una flota vikinga.",
+   "i": 2
+  },
+  {
+   "texto": "Desembarcaron a sus pies, y empezaron a saquear.",
+   "i": 3
+  },
+  {
+   "texto": "Pero el rey de Asturias, Ramiro primero, los derrotó, y según las crónicas, les quemó muchos barcos.",
+   "i": 4
+  },
+  {
+   "texto": "Primer intento vikingo en España: fracaso.",
+   "i": 5
+  }
+ ]
+}

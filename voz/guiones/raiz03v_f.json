@@ -1,0 +1,27 @@
+{
+ "modo": "clon",
+ "ref": "ref_raiz_narr.wav",
+ "ref_text": "En el año mil cuatro, una princesa llegó a Venecia con un objeto que escandalizó a todos. Hoy lo tienes en el cajón de tu cocina, y no sabes de dónde viene. Esta es la historia de cómo algo tan pequeño cambió la forma de comer de medio mundo.",
+ "lineas": [
+  {
+   "texto": "Noviembre de ochocientos cuarenta y cuatro. Los vikingos se confían, y salen a saquear lejos de sus barcos.",
+   "i": 0
+  },
+  {
+   "texto": "Y en un lugar llamado Talyata, que muchos identifican con la actual Tablada, junto a Sevilla, el ejército de Córdoba les tiende una emboscada.",
+   "i": 1
+  },
+  {
+   "texto": "Las crónicas árabes hablan de cientos de vikingos muertos, de unos cuatrocientos prisioneros, y de unos treinta barcos perdidos.",
+   "i": 2
+  },
+  {
+   "texto": "Los supervivientes vuelven corriendo a sus barcos, y huyen río abajo. La gran expedición a al-Ándalus ha terminado.",
+   "i": 3
+  },
+  {
+   "texto": "Ojo, las cifras de esas crónicas hay que cogerlas con pinzas. Pero el resultado está claro. Los vikingos perdieron.",
+   "i": 4
+  }
+ ]
+}

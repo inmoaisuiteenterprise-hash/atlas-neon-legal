@@ -1,0 +1,23 @@
+{
+ "modo": "clon",
+ "ref": "ref_raiz_narr.wav",
+ "ref_text": "En el año mil cuatro, una princesa llegó a Venecia con un objeto que escandalizó a todos. Hoy lo tienes en el cajón de tu cocina, y no sabes de dónde viene. Esta es la historia de cómo algo tan pequeño cambió la forma de comer de medio mundo.",
+ "lineas": [
+  {
+   "texto": "Porque en el año ochocientos cincuenta y nueve, los vikingos vuelven. Sesenta y dos barcos, que según la tradición mandaban Hastein, y Björn Costado de Hierro.",
+   "i": 0
+  },
+  {
+   "texto": "Esta vez, la costa de al-Ándalus está vigilada, y la flota del emir les sale al paso. Sacan muy poco, y acaban cruzando hacia el Mediterráneo.",
+   "i": 1
+  },
+  {
+   "texto": "Eso sí, en algún momento de esa expedición se llevan un premio gordo. Capturan al rey de Pamplona, García Íñiguez.",
+   "i": 2
+  },
+  {
+   "texto": "Y piden por él un rescate de unos setenta mil dinares de oro. Una auténtica fortuna.",
+   "i": 3
+  }
+ ]
+}

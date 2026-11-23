@@ -1,0 +1,27 @@
+{
+ "modo": "clon",
+ "ref": "ref_raiz_narr.wav",
+ "ref_text": "En el año mil cuatro, una princesa llegó a Venecia con un objeto que escandalizó a todos. Hoy lo tienes en el cajón de tu cocina, y no sabes de dónde viene. Esta es la historia de cómo algo tan pequeño cambió la forma de comer de medio mundo.",
+ "lineas": [
+  {
+   "texto": "Pero vamos al principio. Escandinavia. Lo que hoy es Noruega, Suecia y Dinamarca.",
+   "i": 0
+  },
+  {
+   "texto": "Allí viven granjeros, pescadores y comerciantes. Pero algunos descubren un negocio mucho más rápido: subirse a un barco, y saquear.",
+   "i": 1
+  },
+  {
+   "texto": "Sus barcos son su gran arma. Largos, ligeros, y con tan poco calado, que pueden subir por ríos donde nadie espera un ataque.",
+   "i": 2
+  },
+  {
+   "texto": "En el año setecientos noventa y tres asaltan el monasterio de Lindisfarne, en Inglaterra. Y durante las décadas siguientes, nadie en las costas de Europa duerme tranquilo.",
+   "i": 3
+  },
+  {
+   "texto": "Hacia el año ochocientos cuarenta, ya tienen bases en Francia, en la desembocadura del río Loira. Y desde allí, miran hacia el sur.",
+   "i": 4
+  }
+ ]
+}

@@ -1,0 +1,19 @@
+{
+ "modo": "clon",
+ "ref": "ref_raiz_narr.wav",
+ "ref_text": "En el año mil cuatro, una princesa llegó a Venecia con un objeto que escandalizó a todos. Hoy lo tienes en el cajón de tu cocina, y no sabes de dónde viene. Esta es la historia de cómo algo tan pequeño cambió la forma de comer de medio mundo.",
+ "lineas": [
+  {
+   "texto": "Y aquí viene lo más interesante. Muchos reinos, después de un ataque vikingo, pagaban, o rezaban para que no volvieran.",
+   "i": 0
+  },
+  {
+   "texto": "Abderramán hizo otra cosa. Mandó construir un astillero en Sevilla, una flota de guerra, y defensas en la costa.",
+   "i": 1
+  },
+  {
+   "texto": "Convirtió el susto en un sistema. Y eso, años después, iba a marcar la diferencia.",
+   "i": 2
+  }
+ ]
+}

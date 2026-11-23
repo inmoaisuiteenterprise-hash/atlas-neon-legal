@@ -1,0 +1,31 @@
+{
+ "modo": "clon",
+ "ref": "ref_raiz_narr.wav",
+ "ref_text": "En el año mil cuatro, una princesa llegó a Venecia con un objeto que escandalizó a todos. Hoy lo tienes en el cajón de tu cocina, y no sabes de dónde viene. Esta es la historia de cómo algo tan pequeño cambió la forma de comer de medio mundo.",
+ "lineas": [
+  {
+   "texto": "Musa ibn Musa, señor de los Banu Qasi, era un rival del emir de Córdoba.",
+   "i": 0
+  },
+  {
+   "texto": "No se soportaban.",
+   "i": 1
+  },
+  {
+   "texto": "Pero en el año ochocientos cuarenta y cuatro, los vikingos saquearon Sevilla.",
+   "i": 2
+  },
+  {
+   "texto": "Y Musa se unió al ejército del emir.",
+   "i": 3
+  },
+  {
+   "texto": "Juntos, los derrotaron en Tablada.",
+   "i": 4
+  },
+  {
+   "texto": "A veces, el peor enemigo de tu enemigo, es tu mejor aliado.",
+   "i": 5
+  }
+ ]
+}

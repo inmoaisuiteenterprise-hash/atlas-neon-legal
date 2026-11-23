@@ -1,0 +1,31 @@
+{
+ "modo": "clon",
+ "ref": "ref_raiz_narr.wav",
+ "ref_text": "En el año mil cuatro, una princesa llegó a Venecia con un objeto que escandalizó a todos. Hoy lo tienes en el cajón de tu cocina, y no sabes de dónde viene. Esta es la historia de cómo algo tan pequeño cambió la forma de comer de medio mundo.",
+ "lineas": [
+  {
+   "texto": "En Galicia hay un pueblo que cada verano es invadido por vikingos.",
+   "i": 0
+  },
+  {
+   "texto": "Se llama Catoira.",
+   "i": 1
+  },
+  {
+   "texto": "En su Romería Vikinga, llegan barcos, hay desembarco, y los vecinos defienden su pueblo.",
+   "i": 2
+  },
+  {
+   "texto": "Recuerda los ataques vikingos a las costas gallegas, hace más de mil años.",
+   "i": 3
+  },
+  {
+   "texto": "Lo que un día fue un miedo.",
+   "i": 4
+  },
+  {
+   "texto": "Hoy es una fiesta.",
+   "i": 5
+  }
+ ]
+}

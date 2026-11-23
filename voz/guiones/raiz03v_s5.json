@@ -1,0 +1,31 @@
+{
+ "modo": "clon",
+ "ref": "ref_raiz_narr.wav",
+ "ref_text": "En el año mil cuatro, una princesa llegó a Venecia con un objeto que escandalizó a todos. Hoy lo tienes en el cajón de tu cocina, y no sabes de dónde viene. Esta es la historia de cómo algo tan pequeño cambió la forma de comer de medio mundo.",
+ "lineas": [
+  {
+   "texto": "En el siglo nueve, unos vikingos secuestraron a un rey español.",
+   "i": 0
+  },
+  {
+   "texto": "Era García Íñiguez, rey de Pamplona.",
+   "i": 1
+  },
+  {
+   "texto": "Lo capturaron durante una gran expedición, hacia el año ochocientos cincuenta y nueve.",
+   "i": 2
+  },
+  {
+   "texto": "Y pidieron un rescate de unos setenta mil dinares de oro.",
+   "i": 3
+  },
+  {
+   "texto": "Una auténtica fortuna.",
+   "i": 4
+  },
+  {
+   "texto": "Los vikingos no siempre querían tierras. A veces, solo querían cobrar.",
+   "i": 5
+  }
+ ]
+}

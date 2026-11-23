@@ -1,0 +1,31 @@
+{
+ "modo": "clon",
+ "ref": "ref_raiz_narr.wav",
+ "ref_text": "En el año mil cuatro, una princesa llegó a Venecia con un objeto que escandalizó a todos. Hoy lo tienes en el cajón de tu cocina, y no sabes de dónde viene. Esta es la historia de cómo algo tan pequeño cambió la forma de comer de medio mundo.",
+ "lineas": [
+  {
+   "texto": "Año ochocientos cuarenta y cuatro. Barcos vikingos suben por el Guadalquivir.",
+   "i": 0
+  },
+  {
+   "texto": "Sevilla no está preparada, y cae.",
+   "i": 1
+  },
+  {
+   "texto": "Pero desde Córdoba, el emir Abderramán segundo manda un ejército.",
+   "i": 2
+  },
+  {
+   "texto": "En Tablada, junto a Sevilla, les tiende una emboscada.",
+   "i": 3
+  },
+  {
+   "texto": "Cientos de vikingos muertos, y unos treinta barcos perdidos, según las crónicas.",
+   "i": 4
+  },
+  {
+   "texto": "Los vikingos atacaron España. Y les salió fatal.",
+   "i": 5
+  }
+ ]
+}

@@ -1,0 +1,14 @@
+{
+ "modo": "diseno",
+ "instruct": "Narrador joven, hombre español de España, acento castellano peninsular neutro (nada latinoamericano), unos veintiocho años, voz grave pero cercana, ritmo ágil y con energía, tono de divulgador de YouTube que explica con humor y un punto de ironía.",
+ "lineas": [
+  {
+   "texto": "Mira la etiqueta: nueve euros con noventa y nueve. No son diez. ¿O sí? Tu cerebro acaba de caer en un truco que tiene más de cien años.",
+   "i": 0
+  },
+  {
+   "texto": "Hoy te enseño qué hay detrás de ese céntimo, y por qué funciona aunque lo sepas.",
+   "i": 1
+  }
+ ]
+}

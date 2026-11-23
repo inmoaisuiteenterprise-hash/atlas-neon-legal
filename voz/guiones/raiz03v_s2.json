@@ -1,0 +1,31 @@
+{
+ "modo": "clon",
+ "ref": "ref_raiz_narr.wav",
+ "ref_text": "En el año mil cuatro, una princesa llegó a Venecia con un objeto que escandalizó a todos. Hoy lo tienes en el cajón de tu cocina, y no sabes de dónde viene. Esta es la historia de cómo algo tan pequeño cambió la forma de comer de medio mundo.",
+ "lineas": [
+  {
+   "texto": "¿Por qué los barcos vikingos daban tanto miedo?",
+   "i": 0
+  },
+  {
+   "texto": "Eran largos, ligeros, y casi no se hundían en el agua.",
+   "i": 1
+  },
+  {
+   "texto": "Con tan poco calado, podían subir por ríos, muy tierra adentro.",
+   "i": 2
+  },
+  {
+   "texto": "Así llegaron a París, a Sevilla, a ciudades que se creían a salvo lejos del mar.",
+   "i": 3
+  },
+  {
+   "texto": "El ataque no venía de la costa.",
+   "i": 4
+  },
+  {
+   "texto": "Venía por el río.",
+   "i": 5
+  }
+ ]
+}

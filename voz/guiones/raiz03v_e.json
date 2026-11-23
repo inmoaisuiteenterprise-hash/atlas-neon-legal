@@ -1,0 +1,23 @@
+{
+ "modo": "clon",
+ "ref": "ref_raiz_narr.wav",
+ "ref_text": "En el año mil cuatro, una princesa llegó a Venecia con un objeto que escandalizó a todos. Hoy lo tienes en el cajón de tu cocina, y no sabes de dónde viene. Esta es la historia de cómo algo tan pequeño cambió la forma de comer de medio mundo.",
+ "lineas": [
+  {
+   "texto": "Pero a unos ciento cuarenta kilómetros, en Córdoba, gobierna Abderramán segundo. Y al-Ándalus no es un reino cualquiera.",
+   "i": 0
+  },
+  {
+   "texto": "Córdoba es una de las ciudades más ricas de Europa. Y su emir tiene algo que a muchos reinos les falta: un ejército que se mueve rápido.",
+   "i": 1
+  },
+  {
+   "texto": "Abderramán manda a su primer ministro, Isa ibn Shuhayd, con un gran ejército hacia Sevilla.",
+   "i": 2
+  },
+  {
+   "texto": "Y se le une alguien inesperado. Musa ibn Musa, señor de los Banu Qasi, en el valle del Ebro. Un rival del emir. Pero contra los vikingos, hoy son aliados.",
+   "i": 3
+  }
+ ]
+}

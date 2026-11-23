@@ -1,0 +1,27 @@
+{
+ "modo": "clon",
+ "ref": "ref_raiz_narr.wav",
+ "ref_text": "En el año mil cuatro, una princesa llegó a Venecia con un objeto que escandalizó a todos. Hoy lo tienes en el cajón de tu cocina, y no sabes de dónde viene. Esta es la historia de cómo algo tan pequeño cambió la forma de comer de medio mundo.",
+ "lineas": [
+  {
+   "texto": "Año ochocientos cuarenta y cuatro. Sevilla.",
+   "i": 0
+  },
+  {
+   "texto": "Una mañana, los pescadores del Guadalquivir ven algo que nunca habían visto. Decenas de barcos largos y estrechos, subiendo por el río.",
+   "i": 1
+  },
+  {
+   "texto": "Son los vikingos. Y han venido desde el otro lado de Europa a por una sola cosa: el botín.",
+   "i": 2
+  },
+  {
+   "texto": "Lo que no saben, es que en Córdoba hay un emir que no se lo va a poner nada fácil.",
+   "i": 3
+  },
+  {
+   "texto": "Esta es la historia de cuando los vikingos atacaron España. Y de por qué les salió tan mal.",
+   "i": 4
+  }
+ ]
+}
