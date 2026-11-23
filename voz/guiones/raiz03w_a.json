@@ -1,0 +1,27 @@
+{
+ "modo": "clon",
+ "ref": "ref_raiz_narr.wav",
+ "ref_text": "En el año mil cuatro, una princesa llegó a Venecia con un objeto que escandalizó a todos. Hoy lo tienes en el cajón de tu cocina, y no sabes de dónde viene. Esta es la historia de cómo algo tan pequeño cambió la forma de comer de medio mundo.",
+ "lineas": [
+  {
+   "texto": "Año ochocientos cuarenta y cuatro. Sevilla. Es una mañana tranquila en el Guadalquivir.",
+   "i": 0
+  },
+  {
+   "texto": "Los pescadores están a lo suyo, cuando uno levanta la vista… y ve algo que no tiene ningún sentido.",
+   "i": 1
+  },
+  {
+   "texto": "Barcos. Decenas de barcos largos y estrechos, con escudos de colores en los costados. Subiendo por el río. Hacia la ciudad.",
+   "i": 2
+  },
+  {
+   "texto": "Nadie en Sevilla ha visto nunca nada igual. Pero en media Europa, esa imagen ya tiene nombre. Vikingos.",
+   "i": 3
+  },
+  {
+   "texto": "Y lo que está a punto de pasar aquí, es una de las historias más locas, y menos conocidas, de España.",
+   "i": 4
+  }
+ ]
+}

@@ -1,0 +1,39 @@
+{
+ "modo": "clon",
+ "ref": "ref_raiz_narr.wav",
+ "ref_text": "En el año mil cuatro, una princesa llegó a Venecia con un objeto que escandalizó a todos. Hoy lo tienes en el cajón de tu cocina, y no sabes de dónde viene. Esta es la historia de cómo algo tan pequeño cambió la forma de comer de medio mundo.",
+ "lineas": [
+  {
+   "texto": "Para entender cómo acaban unos vikingos en Sevilla, hay que irse muy al norte. A Escandinavia.",
+   "i": 0
+  },
+  {
+   "texto": "Lo que hoy es Noruega, Suecia y Dinamarca. Inviernos larguísimos, y en muchos sitios, muy poca tierra buena para cultivar.",
+   "i": 1
+  },
+  {
+   "texto": "La mayoría de los escandinavos eran granjeros. Pero algunos descubrieron una forma mucho más rápida de hacerse ricos.",
+   "i": 2
+  },
+  {
+   "texto": "Subirse a un barco… y llevarse lo que fuera de otros.",
+   "i": 3
+  },
+  {
+   "texto": "Y tenían el arma perfecta: el barco largo vikingo. Ligero, rápido, y capaz de cruzar el mar abierto.",
+   "i": 4
+  },
+  {
+   "texto": "Pero su gran truco era otro: casi no se hundía en el agua. Así que podía subir por los ríos, hasta ciudades que se creían a salvo, lejos de la costa.",
+   "i": 5
+  },
+  {
+   "texto": "En el año setecientos noventa y tres asaltan el monasterio de Lindisfarne, en Inglaterra. Y a partir de ahí, ninguna costa de Europa vuelve a dormir tranquila.",
+   "i": 6
+  },
+  {
+   "texto": "Medio siglo después, ya tienen bases en Francia, en la desembocadura del Loira. Y desde allí, alguien mira el mapa… y señala hacia el sur.",
+   "i": 7
+  }
+ ]
+}
