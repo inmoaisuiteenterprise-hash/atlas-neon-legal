@@ -1,0 +1,37 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 5.8,
+  "acierto": 0.69,
+  "texto": "Año ochocientos cuarenta y cuatro. Sevilla. Es una mañana tranquila en el Guadalquivir."
+ },
+ {
+  "i": 1,
+  "a": 6.1,
+  "b": 12.71,
+  "acierto": 1.0,
+  "texto": "Los pescadores están a lo suyo, cuando uno levanta la vista… y ve algo que no tiene ningún sentido."
+ },
+ {
+  "i": 2,
+  "a": 13.01,
+  "b": 21.62,
+  "acierto": 1.0,
+  "texto": "Barcos. Decenas de barcos largos y estrechos, con escudos de colores en los costados. Subiendo por el río. Hacia la ciudad."
+ },
+ {
+  "i": 3,
+  "a": 21.92,
+  "b": 29.18,
+  "acierto": 1.0,
+  "texto": "Nadie en Sevilla ha visto nunca nada igual. Pero en media Europa, esa imagen ya tiene nombre. Vikingos."
+ },
+ {
+  "i": 4,
+  "a": 29.48,
+  "b": 36.03,
+  "acierto": 1.0,
+  "texto": "Y lo que está a punto de pasar aquí, es una de las historias más locas, y menos conocidas, de España."
+ }
+]
