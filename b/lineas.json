@@ -1,0 +1,47 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 5.46,
+  "acierto": 1.0,
+  "texto": "Para entenderlo, vamos a seguir una sola calada. Desde la boca de Gris, hasta su cerebro.",
+  "exa": 0.5,
+  "pausa": 0.5
+ },
+ {
+  "i": 1,
+  "a": 5.96,
+  "b": 10.74,
+  "acierto": 1.0,
+  "texto": "La nicotina entra en los pulmones, pasa a la sangre, y en unos pocos segundos llega a la cabeza.",
+  "exa": 0.5,
+  "pausa": 0.5
+ },
+ {
+  "i": 2,
+  "a": 11.24,
+  "b": 21.3,
+  "acierto": 0.93,
+  "texto": "Allí sube la dopamina, la química de las ganas. Y llega justo después del gesto. Gesto, y premio. Gesto, y premio.",
+  "exa": 0.5,
+  "pausa": 0.5
+ },
+ {
+  "i": 3,
+  "a": 21.8,
+  "b": 28.2,
+  "acierto": 0.95,
+  "texto": "Cuanto más rápido llega el premio, más rápido aprende el cerebro a pedirlo. Y pocas cosas lo dan tan rápido como una calada.",
+  "exa": 0.5,
+  "pausa": 0.5
+ },
+ {
+  "i": 4,
+  "a": 28.7,
+  "b": 32.15,
+  "acierto": 1.0,
+  "texto": "Por eso no te engancha solo una sustancia. Te engancha un gesto.",
+  "exa": 0.5,
+  "pausa": 0.5
+ }
+]

@@ -1,0 +1,56 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 3.79,
+  "acierto": 0.89,
+  "texto": "Gris lleva treinta días sin móvil. Treinta. Y está orgulloso.",
+  "exa": 0.5,
+  "pausa": 0.5
+ },
+ {
+  "i": 1,
+  "a": 4.29,
+  "b": 8.67,
+  "acierto": 1.0,
+  "texto": "Esa tarde se deja caer en el sofá de un amigo… y nota algo duro debajo del cojín.",
+  "exa": 0.5,
+  "pausa": 0.5
+ },
+ {
+  "i": 2,
+  "a": 9.17,
+  "b": 14.15,
+  "acierto": 0.92,
+  "texto": "Un vaper. Azul. Sabor a mango. Alguien se lo ha dejado olvidado.",
+  "exa": 0.5,
+  "pausa": 0.5
+ },
+ {
+  "i": 3,
+  "a": 14.65,
+  "b": 17.79,
+  "acierto": 1.0,
+  "texto": "Esto no es tabaco, piensa Gris. Esto no cuenta.",
+  "exa": 0.5,
+  "pausa": 0.5
+ },
+ {
+  "i": 4,
+  "a": 18.29,
+  "b": 27.03,
+  "acierto": 1.0,
+  "texto": "Tres semanas después, son las tres de la madrugada. Gris se despierta, y antes de abrir los ojos del todo, su mano ya está buscando el vaper en la mesilla.",
+  "exa": 0.5,
+  "pausa": 0.5
+ },
+ {
+  "i": 5,
+  "a": 27.53,
+  "b": 30.57,
+  "acierto": 0.89,
+  "texto": "¿Cómo algo que no cuenta, acaba contando más que nada?",
+  "exa": 0.5,
+  "pausa": 0.5
+ }
+]
