@@ -1,0 +1,31 @@
+{
+ "modo": "clon",
+ "ref": "ref_letra_m1.wav",
+ "ref_text": "Mira la etiqueta: nueve euros con noventa y nueve. No son diez. ¿O sí? Tu cerebro acaba de caer en un truco que tiene más de cien años. Hoy te enseño qué hay detrás de ese céntimo, y por qué funciona aunque lo sepas.",
+ "lineas": [
+  {
+   "texto": "Vamos a hacer un experimento. Te enseño dos precios, muy rápido.",
+   "i": 0
+  },
+  {
+   "texto": "Dos con noventa y nueve. Y tres euros.",
+   "i": 1
+  },
+  {
+   "texto": "¿Cuál te ha parecido más barato? Exacto. Y la diferencia es… un céntimo.",
+   "i": 2
+  },
+  {
+   "texto": "Ahora otros dos. Tres con sesenta. Y tres con cincuenta y nueve.",
+   "i": 3
+  },
+  {
+   "texto": "Aquí también hay un céntimo de diferencia. Pero apuesto a que casi ni lo has notado.",
+   "i": 4
+  },
+  {
+   "texto": "¿Por qué el primer céntimo parece enorme, y el segundo, invisible? Esa misma pregunta se la hicieron dos investigadores en Nueva York. Y la respuesta es muy curiosa.",
+   "i": 5
+  }
+ ]
+}
