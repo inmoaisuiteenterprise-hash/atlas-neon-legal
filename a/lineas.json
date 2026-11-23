@@ -1,0 +1,37 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 2.11,
+  "acierto": 0.2,
+  "texto": "Nueve euros con noventa y nueve."
+ },
+ {
+  "i": 1,
+  "a": 2.41,
+  "b": 7.67,
+  "acierto": 1.0,
+  "texto": "Ahora mismo, tu cerebro ha leído un nueve. No un diez. Un nueve."
+ },
+ {
+  "i": 2,
+  "a": 7.97,
+  "b": 14.5,
+  "acierto": 1.0,
+  "texto": "Y eso que la diferencia es un céntimo. Un céntimo que, si se te cae al suelo, ni te agachas a recogerlo."
+ },
+ {
+  "i": 3,
+  "a": 14.8,
+  "b": 18.86,
+  "acierto": 0.9,
+  "texto": "Entonces, ¿por qué casi ninguna tienda pone diez euros redondos?"
+ },
+ {
+  "i": 4,
+  "a": 19.16,
+  "b": 23.38,
+  "acierto": 1.0,
+  "texto": "Spoiler: ese céntimo no está ahí para ti. Está ahí para tu cerebro."
+ }
+]
