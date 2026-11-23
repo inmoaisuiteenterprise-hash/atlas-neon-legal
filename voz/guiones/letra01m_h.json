@@ -1,0 +1,31 @@
+{
+ "modo": "clon",
+ "ref": "ref_letra_m1.wav",
+ "ref_text": "Mira la etiqueta: nueve euros con noventa y nueve. No son diez. ¿O sí? Tu cerebro acaba de caer en un truco que tiene más de cien años. Hoy te enseño qué hay detrás de ese céntimo, y por qué funciona aunque lo sepas.",
+ "lineas": [
+  {
+   "texto": "Entonces, ¿cómo se sale del laberinto?",
+   "i": 0
+  },
+  {
+   "texto": "Primera regla: redondea hacia arriba. Siempre. Nueve con noventa y nueve son diez euros. Diecinueve con noventa y nueve, veinte.",
+   "i": 1
+  },
+  {
+   "texto": "Dicho en voz alta suena distinto, ¿verdad?",
+   "i": 2
+  },
+  {
+   "texto": "Segunda regla: mira el precio por kilo o por litro. Está en la etiqueta, en letra más pequeña, y es el único que te deja comparar de verdad.",
+   "i": 3
+  },
+  {
+   "texto": "Tercera regla: desconfía cuando no sabes lo que vale algo. Justo ahí es donde el nueve trabaja mejor.",
+   "i": 4
+  },
+  {
+   "texto": "No se trata de enfadarse con las tiendas. Se trata de leer los números como ellas los escriben.",
+   "i": 5
+  }
+ ]
+}

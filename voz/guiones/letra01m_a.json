@@ -1,0 +1,31 @@
+{
+ "modo": "clon",
+ "ref": "ref_letra_m1.wav",
+ "ref_text": "Mira la etiqueta: nueve euros con noventa y nueve. No son diez. ¿O sí? Tu cerebro acaba de caer en un truco que tiene más de cien años. Hoy te enseño qué hay detrás de ese céntimo, y por qué funciona aunque lo sepas.",
+ "lineas": [
+  {
+   "texto": "Nueve euros con noventa y nueve.",
+   "i": 0
+  },
+  {
+   "texto": "Tu cerebro acaba de leer «nueve». No «diez». Nueve.",
+   "i": 1
+  },
+  {
+   "texto": "Y eso que la diferencia es un céntimo. Uno.",
+   "i": 2
+  },
+  {
+   "texto": "Si un céntimo no importa, ¿por qué casi ninguna tienda pone diez euros redondos?",
+   "i": 3
+  },
+  {
+   "texto": "Porque ese céntimo no está ahí para ti. Está ahí para tu forma de leer los números.",
+   "i": 4
+  },
+  {
+   "texto": "Hoy entramos en el laberinto de los precios que acaban en nueve. Y vas a salir sin volver a verlos igual.",
+   "i": 5
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "modo": "clon",
+ "ref": "ref_letra_m1.wav",
+ "ref_text": "Mira la etiqueta: nueve euros con noventa y nueve. No son diez. ¿O sí? Tu cerebro acaba de caer en un truco que tiene más de cien años. Hoy te enseño qué hay detrás de ese céntimo, y por qué funciona aunque lo sepas.",
+ "lineas": [
+  {
+   "texto": "Pero hay un detalle que casi nadie cuenta.",
+   "i": 0
+  },
+  {
+   "texto": "El truco no funciona siempre.",
+   "i": 1
+  },
+  {
+   "texto": "Solo funciona cuando el céntimo cambia la cifra de la izquierda.",
+   "i": 2
+  },
+  {
+   "texto": "De tres euros a dos con noventa y nueve, cambia el tres por un dos. Tu cerebro lo nota.",
+   "i": 3
+  },
+  {
+   "texto": "De tres con sesenta a tres con cincuenta y nueve, el tres sigue ahí. Y el efecto casi desaparece.",
+   "i": 4
+  },
+  {
+   "texto": "Por eso no verás tiendas poniendo tres con cincuenta y nueve. Verás dos con noventa y nueve, nueve con noventa y nueve, diecinueve con noventa y nueve.",
+   "i": 5
+  },
+  {
+   "texto": "Justo antes de cada número redondo. Justo donde cambia la primera cifra.",
+   "i": 6
+  }
+ ]
+}

@@ -1,0 +1,31 @@
+{
+ "modo": "clon",
+ "ref": "ref_letra_m1.wav",
+ "ref_text": "Mira la etiqueta: nueve euros con noventa y nueve. No son diez. ¿O sí? Tu cerebro acaba de caer en un truco que tiene más de cien años. Hoy te enseño qué hay detrás de ese céntimo, y por qué funciona aunque lo sepas.",
+ "lineas": [
+  {
+   "texto": "En dos mil cinco, dos investigadores de la Universidad de Nueva York, Manoj Thomas y Vicki Morwitz, se hicieron esa misma pregunta.",
+   "i": 0
+  },
+  {
+   "texto": "Hicieron cinco experimentos sobre cómo percibimos los precios.",
+   "i": 1
+  },
+  {
+   "texto": "Y encontraron la pieza clave: leemos los números de izquierda a derecha.",
+   "i": 2
+  },
+  {
+   "texto": "Cuando ves dos con noventa y nueve, la primera cifra que se te queda es el dos.",
+   "i": 3
+  },
+  {
+   "texto": "El cerebro ancla el precio en esa cifra, y los céntimos llegan tarde.",
+   "i": 4
+  },
+  {
+   "texto": "Lo llamaron el efecto del dígito izquierdo.",
+   "i": 5
+  }
+ ]
+}

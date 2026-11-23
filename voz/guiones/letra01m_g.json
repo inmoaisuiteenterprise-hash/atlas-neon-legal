@@ -1,0 +1,23 @@
+{
+ "modo": "clon",
+ "ref": "ref_letra_m1.wav",
+ "ref_text": "Mira la etiqueta: nueve euros con noventa y nueve. No son diez. ¿O sí? Tu cerebro acaba de caer en un truco que tiene más de cien años. Hoy te enseño qué hay detrás de ese céntimo, y por qué funciona aunque lo sepas.",
+ "lineas": [
+  {
+   "texto": "Seguramente has oído otra explicación: que los precios acaban en noventa y nueve para obligar al cajero a abrir la caja y dar cambio, y así evitar robos.",
+   "i": 0
+  },
+  {
+   "texto": "Es una historia muy repetida. Pero no hay pruebas sólidas de que naciera así.",
+   "i": 1
+  },
+  {
+   "texto": "Lo que sí está medido es el efecto en tu cabeza.",
+   "i": 2
+  },
+  {
+   "texto": "Así que, cuando alguien te cuente el origen «oficial» del nueve, pregúntale de dónde lo saca.",
+   "i": 3
+  }
+ ]
+}
