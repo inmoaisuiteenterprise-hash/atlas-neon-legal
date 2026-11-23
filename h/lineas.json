@@ -1,0 +1,44 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 2.31,
+  "acierto": 1.0,
+  "texto": "Entonces, ¿cómo se sale del laberinto?"
+ },
+ {
+  "i": 1,
+  "a": 2.61,
+  "b": 11.5,
+  "acierto": 0.53,
+  "texto": "Primera regla: redondea hacia arriba. Siempre. Nueve con noventa y nueve son diez euros. Diecinueve con noventa y nueve, veinte."
+ },
+ {
+  "i": 2,
+  "a": 11.8,
+  "b": 14.18,
+  "acierto": 1.0,
+  "texto": "Dicho en voz alta suena distinto, ¿verdad?"
+ },
+ {
+  "i": 3,
+  "a": 14.48,
+  "b": 24.31,
+  "acierto": 1.0,
+  "texto": "Segunda regla: mira el precio por kilo o por litro. Está en la etiqueta, en letra más pequeña, y es el único que te deja comparar de verdad."
+ },
+ {
+  "i": 4,
+  "a": 24.61,
+  "b": 30.84,
+  "acierto": 0.94,
+  "texto": "Tercera regla: desconfía cuando no sabes lo que vale algo. Justo ahí es donde el nueve trabaja mejor."
+ },
+ {
+  "i": 5,
+  "a": 31.14,
+  "b": 36.3,
+  "acierto": 1.0,
+  "texto": "No se trata de enfadarse con las tiendas. Se trata de leer los números como ellas los escriben."
+ }
+]

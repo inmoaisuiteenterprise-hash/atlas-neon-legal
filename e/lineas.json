@@ -1,0 +1,51 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 4.69,
+  "acierto": 1.0,
+  "texto": "Vale. Lo percibimos más barato. ¿Pero de verdad compramos más?"
+ },
+ {
+  "i": 1,
+  "a": 4.99,
+  "b": 10.84,
+  "acierto": 1.0,
+  "texto": "Dos profesores, Eric Anderson y Duncan Simester, lo comprobaron en la vida real."
+ },
+ {
+  "i": 2,
+  "a": 11.14,
+  "b": 17.99,
+  "acierto": 1.0,
+  "texto": "Trabajaron con una empresa que vendía por catálogo, y enviaron versiones distintas del mismo catálogo a clientes distintos."
+ },
+ {
+  "i": 3,
+  "a": 18.29,
+  "b": 21.74,
+  "acierto": 1.0,
+  "texto": "Los mismos productos, solo cambiaba el final del precio."
+ },
+ {
+  "i": 4,
+  "a": 22.04,
+  "b": 26.79,
+  "acierto": 0.8,
+  "texto": "Lo publicaron en dos mil tres, con tres experimentos. ¿El resultado?"
+ },
+ {
+  "i": 5,
+  "a": 27.09,
+  "b": 30.64,
+  "acierto": 0.89,
+  "texto": "En los tres, los precios acabados en nueve aumentaron las ventas."
+ },
+ {
+  "i": 6,
+  "a": 30.94,
+  "b": 36.38,
+  "acierto": 1.0,
+  "texto": "Y el efecto fue más fuerte en los productos nuevos, esos que el cliente no sabía cuánto debían costar."
+ }
+]

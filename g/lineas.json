@@ -1,0 +1,30 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 9.18,
+  "acierto": 0.92,
+  "texto": "Seguramente has oído otra explicación: que los precios acaban en noventa y nueve para obligar al cajero a abrir la caja y dar cambio, y así evitar robos."
+ },
+ {
+  "i": 1,
+  "a": 9.48,
+  "b": 14.18,
+  "acierto": 1.0,
+  "texto": "Es una historia muy repetida. Pero no hay pruebas sólidas de que naciera así."
+ },
+ {
+  "i": 2,
+  "a": 14.48,
+  "b": 17.02,
+  "acierto": 0.7,
+  "texto": "Lo que sí está medido es el efecto en tu cabeza."
+ },
+ {
+  "i": 3,
+  "a": 17.32,
+  "b": 23.14,
+  "acierto": 0.94,
+  "texto": "Así que, cuando alguien te cuente el origen «oficial» del nueve, pregúntale de dónde lo saca."
+ }
+]

@@ -1,0 +1,37 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 3.35,
+  "acierto": 1.0,
+  "texto": "Hay un precio en la etiqueta que casi nadie mira."
+ },
+ {
+  "i": 1,
+  "a": 3.65,
+  "b": 6.96,
+  "acierto": 1.0,
+  "texto": "Está en letra pequeña: el precio por kilo o por litro."
+ },
+ {
+  "i": 2,
+  "a": 7.26,
+  "b": 9.44,
+  "acierto": 0.7,
+  "texto": "Y es el único que te deja comparar de verdad."
+ },
+ {
+  "i": 3,
+  "a": 9.74,
+  "b": 13.93,
+  "acierto": 1.0,
+  "texto": "El paquete grande no siempre sale más barato. El de oferta, tampoco."
+ },
+ {
+  "i": 4,
+  "a": 14.23,
+  "b": 19.28,
+  "acierto": 0.93,
+  "texto": "Cuando no sepas qué es más barato, olvida el precio grande y mira el pequeño."
+ }
+]

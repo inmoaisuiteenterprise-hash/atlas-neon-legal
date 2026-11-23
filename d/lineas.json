@@ -1,0 +1,51 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 2.3,
+  "acierto": 1.0,
+  "texto": "Pero hay un detalle que casi nadie cuenta."
+ },
+ {
+  "i": 1,
+  "a": 2.6,
+  "b": 4.09,
+  "acierto": 1.0,
+  "texto": "El truco no funciona siempre."
+ },
+ {
+  "i": 2,
+  "a": 4.39,
+  "b": 7.92,
+  "acierto": 1.0,
+  "texto": "Solo funciona cuando el céntimo cambia la cifra de la izquierda."
+ },
+ {
+  "i": 3,
+  "a": 8.22,
+  "b": 14.21,
+  "acierto": 0.65,
+  "texto": "De tres euros a dos con noventa y nueve, cambia el tres por un dos. Tu cerebro lo nota."
+ },
+ {
+  "i": 4,
+  "a": 14.51,
+  "b": 21.02,
+  "acierto": 0.71,
+  "texto": "De tres con sesenta a tres con cincuenta y nueve, el tres sigue ahí. Y el efecto casi desaparece."
+ },
+ {
+  "i": 5,
+  "a": 21.32,
+  "b": 28.16,
+  "acierto": 0.43,
+  "texto": "Por eso no verás tiendas poniendo tres con cincuenta y nueve. Verás dos con noventa y nueve, nueve con noventa y nueve, diecinueve con noventa y nueve."
+ },
+ {
+  "i": 6,
+  "a": 28.46,
+  "b": 33.03,
+  "acierto": 1.0,
+  "texto": "Justo antes de cada número redondo. Justo donde cambia la primera cifra."
+ }
+]

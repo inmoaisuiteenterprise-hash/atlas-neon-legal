@@ -1,0 +1,30 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 4.84,
+  "acierto": 1.0,
+  "texto": "Un céntimo. Eso es todo lo que hace falta para mover millones de compras cada día."
+ },
+ {
+  "i": 1,
+  "a": 5.14,
+  "b": 14.54,
+  "acierto": 0.83,
+  "texto": "Ahora que lo sabes, haz una prueba: la próxima vez que veas un nueve con noventa y nueve, di «diez» en voz alta. Fíjate en lo que sientes."
+ },
+ {
+  "i": 2,
+  "a": 14.84,
+  "b": 18.89,
+  "acierto": 1.0,
+  "texto": "Cuéntame en los comentarios cuál es el precio con nueve que más te ha engañado."
+ },
+ {
+  "i": 3,
+  "a": 19.19,
+  "b": 23.9,
+  "acierto": 0.83,
+  "texto": "En el próximo vídeo entramos en otra trampa del supermercado: el tres por dos."
+ }
+]
