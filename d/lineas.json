@@ -1,0 +1,37 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 7.53,
+  "acierto": 0.95,
+  "texto": "Llegan a Lisboa, que entonces es parte de al-Ándalus. Pelean allí durante trece días, y siguen hacia el sur."
+ },
+ {
+  "i": 1,
+  "a": 7.83,
+  "b": 12.93,
+  "acierto": 1.0,
+  "texto": "Pasan por Cádiz, y a finales de septiembre entran por la desembocadura del Guadalquivir."
+ },
+ {
+  "i": 2,
+  "a": 13.23,
+  "b": 21.97,
+  "acierto": 0.95,
+  "texto": "El río es la gran autopista de Sevilla. Por él llegan el comercio, la comida y la riqueza. Y ahora, también los vikingos."
+ },
+ {
+  "i": 3,
+  "a": 22.27,
+  "b": 29.67,
+  "acierto": 1.0,
+  "texto": "La ciudad no está preparada para un ataque que llega por el agua. Mucha gente huye. Y a principios de octubre, Sevilla cae."
+ },
+ {
+  "i": 4,
+  "a": 29.97,
+  "b": 40.2,
+  "acierto": 1.0,
+  "texto": "Durante semanas, los vikingos saquean la ciudad y sus alrededores. Las crónicas árabes los llaman mayus. Algo así como, paganos adoradores del fuego."
+ }
+]

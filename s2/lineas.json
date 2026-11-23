@@ -1,0 +1,44 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 2.64,
+  "acierto": 1.0,
+  "texto": "¿Por qué los barcos vikingos daban tanto miedo?"
+ },
+ {
+  "i": 1,
+  "a": 2.94,
+  "b": 6.97,
+  "acierto": 1.0,
+  "texto": "Eran largos, ligeros, y casi no se hundían en el agua."
+ },
+ {
+  "i": 2,
+  "a": 7.27,
+  "b": 12.12,
+  "acierto": 1.0,
+  "texto": "Con tan poco calado, podían subir por ríos, muy tierra adentro."
+ },
+ {
+  "i": 3,
+  "a": 12.42,
+  "b": 17.75,
+  "acierto": 1.0,
+  "texto": "Así llegaron a París, a Sevilla, a ciudades que se creían a salvo lejos del mar."
+ },
+ {
+  "i": 4,
+  "a": 18.05,
+  "b": 19.8,
+  "acierto": 1.0,
+  "texto": "El ataque no venía de la costa."
+ },
+ {
+  "i": 5,
+  "a": 20.1,
+  "b": 21.31,
+  "acierto": 1.0,
+  "texto": "Venía por el río."
+ }
+]

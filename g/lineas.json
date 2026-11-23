@@ -1,0 +1,23 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 9.73,
+  "acierto": 1.0,
+  "texto": "Y aquí viene lo más interesante. Muchos reinos, después de un ataque vikingo, pagaban, o rezaban para que no volvieran."
+ },
+ {
+  "i": 1,
+  "a": 10.03,
+  "b": 17.52,
+  "acierto": 0.94,
+  "texto": "Abderramán hizo otra cosa. Mandó construir un astillero en Sevilla, una flota de guerra, y defensas en la costa."
+ },
+ {
+  "i": 2,
+  "a": 17.82,
+  "b": 24.28,
+  "acierto": 1.0,
+  "texto": "Convirtió el susto en un sistema. Y eso, años después, iba a marcar la diferencia."
+ }
+]

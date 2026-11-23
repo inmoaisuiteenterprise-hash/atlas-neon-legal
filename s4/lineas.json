@@ -1,0 +1,44 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 5.23,
+  "acierto": 1.0,
+  "texto": "Después de un ataque vikingo, muchos reinos pagaban, o rezaban."
+ },
+ {
+  "i": 1,
+  "a": 5.53,
+  "b": 9.48,
+  "acierto": 0.75,
+  "texto": "Abderramán segundo, emir de Córdoba, hizo otra cosa."
+ },
+ {
+  "i": 2,
+  "a": 9.78,
+  "b": 11.88,
+  "acierto": 1.0,
+  "texto": "Mandó construir un astillero en Sevilla."
+ },
+ {
+  "i": 3,
+  "a": 12.18,
+  "b": 15.73,
+  "acierto": 1.0,
+  "texto": "Una flota de guerra. Y defensas en la costa."
+ },
+ {
+  "i": 4,
+  "a": 16.03,
+  "b": 21.07,
+  "acierto": 0.89,
+  "texto": "Cuando los vikingos volvieron, quince años después, los estaban esperando."
+ },
+ {
+  "i": 5,
+  "a": 21.37,
+  "b": 24.01,
+  "acierto": 1.0,
+  "texto": "Convirtió un susto, en un sistema."
+ }
+]

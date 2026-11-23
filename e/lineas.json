@@ -1,0 +1,30 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 8.54,
+  "acierto": 0.78,
+  "texto": "Pero a unos ciento cuarenta kilómetros, en Córdoba, gobierna Abderramán segundo. Y al-Ándalus no es un reino cualquiera."
+ },
+ {
+  "i": 1,
+  "a": 8.84,
+  "b": 17.28,
+  "acierto": 1.0,
+  "texto": "Córdoba es una de las ciudades más ricas de Europa. Y su emir tiene algo que a muchos reinos les falta: un ejército que se mueve rápido."
+ },
+ {
+  "i": 2,
+  "a": 17.58,
+  "b": 23.78,
+  "acierto": 0.87,
+  "texto": "Abderramán manda a su primer ministro, Isa ibn Shuhayd, con un gran ejército hacia Sevilla."
+ },
+ {
+  "i": 3,
+  "a": 24.08,
+  "b": 35.85,
+  "acierto": 0.93,
+  "texto": "Y se le une alguien inesperado. Musa ibn Musa, señor de los Banu Qasi, en el valle del Ebro. Un rival del emir. Pero contra los vikingos, hoy son aliados."
+ }
+]

@@ -1,0 +1,37 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 6.69,
+  "acierto": 0.81,
+  "texto": "Noviembre de ochocientos cuarenta y cuatro. Los vikingos se confían, y salen a saquear lejos de sus barcos."
+ },
+ {
+  "i": 1,
+  "a": 6.99,
+  "b": 15.57,
+  "acierto": 0.96,
+  "texto": "Y en un lugar llamado Talyata, que muchos identifican con la actual Tablada, junto a Sevilla, el ejército de Córdoba les tiende una emboscada."
+ },
+ {
+  "i": 2,
+  "a": 15.87,
+  "b": 23.72,
+  "acierto": 0.87,
+  "texto": "Las crónicas árabes hablan de cientos de vikingos muertos, de unos cuatrocientos prisioneros, y de unos treinta barcos perdidos."
+ },
+ {
+  "i": 3,
+  "a": 24.02,
+  "b": 31.6,
+  "acierto": 0.94,
+  "texto": "Los supervivientes vuelven corriendo a sus barcos, y huyen río abajo. La gran expedición a al-Ándalus ha terminado."
+ },
+ {
+  "i": 4,
+  "a": 31.9,
+  "b": 40.65,
+  "acierto": 1.0,
+  "texto": "Ojo, las cifras de esas crónicas hay que cogerlas con pinzas. Pero el resultado está claro. Los vikingos perdieron."
+ }
+]

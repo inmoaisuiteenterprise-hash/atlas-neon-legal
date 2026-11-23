@@ -1,0 +1,44 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 4.09,
+  "acierto": 1.0,
+  "texto": "Este faro es romano, y sigue en pie en La Coruña."
+ },
+ {
+  "i": 1,
+  "a": 4.39,
+  "b": 6.1,
+  "acierto": 1.0,
+  "texto": "Se llama Torre de Hércules."
+ },
+ {
+  "i": 2,
+  "a": 6.4,
+  "b": 10.36,
+  "acierto": 0.75,
+  "texto": "Y en el año ochocientos cuarenta y cuatro, vio llegar una flota vikinga."
+ },
+ {
+  "i": 3,
+  "a": 10.66,
+  "b": 13.78,
+  "acierto": 1.0,
+  "texto": "Desembarcaron a sus pies, y empezaron a saquear."
+ },
+ {
+  "i": 4,
+  "a": 14.08,
+  "b": 21.16,
+  "acierto": 1.0,
+  "texto": "Pero el rey de Asturias, Ramiro primero, los derrotó, y según las crónicas, les quemó muchos barcos."
+ },
+ {
+  "i": 5,
+  "a": 21.46,
+  "b": 24.24,
+  "acierto": 1.0,
+  "texto": "Primer intento vikingo en España: fracaso."
+ }
+]

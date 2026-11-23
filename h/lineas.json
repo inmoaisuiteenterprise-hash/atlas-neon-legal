@@ -1,0 +1,30 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 10.97,
+  "acierto": 0.71,
+  "texto": "Porque en el año ochocientos cincuenta y nueve, los vikingos vuelven. Sesenta y dos barcos, que según la tradición mandaban Hastein, y Björn Costado de Hierro."
+ },
+ {
+  "i": 1,
+  "a": 11.27,
+  "b": 21.47,
+  "acierto": 0.92,
+  "texto": "Esta vez, la costa de al-Ándalus está vigilada, y la flota del emir les sale al paso. Sacan muy poco, y acaban cruzando hacia el Mediterráneo."
+ },
+ {
+  "i": 2,
+  "a": 21.77,
+  "b": 30.24,
+  "acierto": 0.95,
+  "texto": "Eso sí, en algún momento de esa expedición se llevan un premio gordo. Capturan al rey de Pamplona, García Íñiguez."
+ },
+ {
+  "i": 3,
+  "a": 30.54,
+  "b": 36.64,
+  "acierto": 0.87,
+  "texto": "Y piden por él un rescate de unos setenta mil dinares de oro. Una auténtica fortuna."
+ }
+]

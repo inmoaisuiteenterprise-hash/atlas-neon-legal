@@ -1,0 +1,44 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 5.38,
+  "acierto": 0.92,
+  "texto": "Musa ibn Musa, señor de los Banu Qasi, era un rival del emir de Córdoba."
+ },
+ {
+  "i": 1,
+  "a": 5.68,
+  "b": 6.74,
+  "acierto": 1.0,
+  "texto": "No se soportaban."
+ },
+ {
+  "i": 2,
+  "a": 7.04,
+  "b": 11.55,
+  "acierto": 0.67,
+  "texto": "Pero en el año ochocientos cuarenta y cuatro, los vikingos saquearon Sevilla."
+ },
+ {
+  "i": 3,
+  "a": 11.85,
+  "b": 13.89,
+  "acierto": 1.0,
+  "texto": "Y Musa se unió al ejército del emir."
+ },
+ {
+  "i": 4,
+  "a": 14.19,
+  "b": 16.69,
+  "acierto": 1.0,
+  "texto": "Juntos, los derrotaron en Tablada."
+ },
+ {
+  "i": 5,
+  "a": 16.99,
+  "b": 20.78,
+  "acierto": 1.0,
+  "texto": "A veces, el peor enemigo de tu enemigo, es tu mejor aliado."
+ }
+]

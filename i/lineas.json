@@ -1,0 +1,23 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 8.07,
+  "acierto": 1.0,
+  "texto": "Los vikingos volvieron alguna vez más a las costas de Galicia. Pero España nunca fue para ellos lo que fueron Inglaterra o Francia."
+ },
+ {
+  "i": 1,
+  "a": 8.37,
+  "b": 18.88,
+  "acierto": 1.0,
+  "texto": "Y hoy, en Catoira, en Galicia, cada verano se celebra una Romería Vikinga. Hay desembarco, hay barcos, y hay vecinos defendiendo su pueblo."
+ },
+ {
+  "i": 2,
+  "a": 19.18,
+  "b": 24.55,
+  "acierto": 1.0,
+  "texto": "Más de mil años después, lo que un día fue un miedo, hoy es una fiesta."
+ }
+]

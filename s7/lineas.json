@@ -1,0 +1,44 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 4.3,
+  "acierto": 1.0,
+  "texto": "En Galicia hay un pueblo que cada verano es invadido por vikingos."
+ },
+ {
+  "i": 1,
+  "a": 4.6,
+  "b": 6.15,
+  "acierto": 1.0,
+  "texto": "Se llama Catoira."
+ },
+ {
+  "i": 2,
+  "a": 6.45,
+  "b": 12.32,
+  "acierto": 1.0,
+  "texto": "En su Romería Vikinga, llegan barcos, hay desembarco, y los vecinos defienden su pueblo."
+ },
+ {
+  "i": 3,
+  "a": 12.62,
+  "b": 17.2,
+  "acierto": 1.0,
+  "texto": "Recuerda los ataques vikingos a las costas gallegas, hace más de mil años."
+ },
+ {
+  "i": 4,
+  "a": 17.5,
+  "b": 19.18,
+  "acierto": 1.0,
+  "texto": "Lo que un día fue un miedo."
+ },
+ {
+  "i": 5,
+  "a": 19.48,
+  "b": 20.49,
+  "acierto": 1.0,
+  "texto": "Hoy es una fiesta."
+ }
+]

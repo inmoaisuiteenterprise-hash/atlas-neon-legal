@@ -1,0 +1,44 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 4.26,
+  "acierto": 0.91,
+  "texto": "En el siglo nueve, unos vikingos secuestraron a un rey español."
+ },
+ {
+  "i": 1,
+  "a": 4.56,
+  "b": 7.15,
+  "acierto": 0.83,
+  "texto": "Era García Íñiguez, rey de Pamplona."
+ },
+ {
+  "i": 2,
+  "a": 7.45,
+  "b": 12.05,
+  "acierto": 0.69,
+  "texto": "Lo capturaron durante una gran expedición, hacia el año ochocientos cincuenta y nueve."
+ },
+ {
+  "i": 3,
+  "a": 12.35,
+  "b": 15.61,
+  "acierto": 0.8,
+  "texto": "Y pidieron un rescate de unos setenta mil dinares de oro."
+ },
+ {
+  "i": 4,
+  "a": 15.91,
+  "b": 17.46,
+  "acierto": 1.0,
+  "texto": "Una auténtica fortuna."
+ },
+ {
+  "i": 5,
+  "a": 17.76,
+  "b": 23.11,
+  "acierto": 1.0,
+  "texto": "Los vikingos no siempre querían tierras. A veces, solo querían cobrar."
+ }
+]

@@ -1,0 +1,37 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 3.55,
+  "acierto": 0.33,
+  "texto": "Año ochocientos cuarenta y cuatro. Sevilla."
+ },
+ {
+  "i": 1,
+  "a": 3.85,
+  "b": 12.51,
+  "acierto": 1.0,
+  "texto": "Una mañana, los pescadores del Guadalquivir ven algo que nunca habían visto. Decenas de barcos largos y estrechos, subiendo por el río."
+ },
+ {
+  "i": 2,
+  "a": 12.81,
+  "b": 19.33,
+  "acierto": 1.0,
+  "texto": "Son los vikingos. Y han venido desde el otro lado de Europa a por una sola cosa: el botín."
+ },
+ {
+  "i": 3,
+  "a": 19.63,
+  "b": 24.58,
+  "acierto": 1.0,
+  "texto": "Lo que no saben, es que en Córdoba hay un emir que no se lo va a poner nada fácil."
+ },
+ {
+  "i": 4,
+  "a": 24.88,
+  "b": 29.88,
+  "acierto": 0.94,
+  "texto": "Esta es la historia de cuando los vikingos atacaron España. Y de por qué les salió tan mal."
+ }
+]

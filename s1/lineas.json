@@ -1,0 +1,44 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 5.52,
+  "acierto": 0.64,
+  "texto": "Año ochocientos cuarenta y cuatro. Barcos vikingos suben por el Guadalquivir."
+ },
+ {
+  "i": 1,
+  "a": 5.82,
+  "b": 8.09,
+  "acierto": 1.0,
+  "texto": "Sevilla no está preparada, y cae."
+ },
+ {
+  "i": 2,
+  "a": 8.39,
+  "b": 12.63,
+  "acierto": 1.0,
+  "texto": "Pero desde Córdoba, el emir Abderramán segundo manda un ejército."
+ },
+ {
+  "i": 3,
+  "a": 12.93,
+  "b": 17.08,
+  "acierto": 1.0,
+  "texto": "En Tablada, junto a Sevilla, les tiende una emboscada."
+ },
+ {
+  "i": 4,
+  "a": 17.38,
+  "b": 22.73,
+  "acierto": 0.92,
+  "texto": "Cientos de vikingos muertos, y unos treinta barcos perdidos, según las crónicas."
+ },
+ {
+  "i": 5,
+  "a": 23.03,
+  "b": 26.34,
+  "acierto": 0.88,
+  "texto": "Los vikingos atacaron España. Y les salió fatal."
+ }
+]

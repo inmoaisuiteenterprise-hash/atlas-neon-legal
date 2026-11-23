@@ -1,0 +1,37 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 7.29,
+  "acierto": 1.0,
+  "texto": "Pero vamos al principio. Escandinavia. Lo que hoy es Noruega, Suecia y Dinamarca."
+ },
+ {
+  "i": 1,
+  "a": 7.59,
+  "b": 16.1,
+  "acierto": 1.0,
+  "texto": "Allí viven granjeros, pescadores y comerciantes. Pero algunos descubren un negocio mucho más rápido: subirse a un barco, y saquear."
+ },
+ {
+  "i": 2,
+  "a": 16.4,
+  "b": 24.87,
+  "acierto": 1.0,
+  "texto": "Sus barcos son su gran arma. Largos, ligeros, y con tan poco calado, que pueden subir por ríos donde nadie espera un ataque."
+ },
+ {
+  "i": 3,
+  "a": 25.17,
+  "b": 34.59,
+  "acierto": 0.86,
+  "texto": "En el año setecientos noventa y tres asaltan el monasterio de Lindisfarne, en Inglaterra. Y durante las décadas siguientes, nadie en las costas de Europa duerme tranquilo."
+ },
+ {
+  "i": 4,
+  "a": 34.89,
+  "b": 43.75,
+  "acierto": 0.9,
+  "texto": "Hacia el año ochocientos cuarenta, ya tienen bases en Francia, en la desembocadura del río Loira. Y desde allí, miran hacia el sur."
+ }
+]
