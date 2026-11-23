@@ -1,0 +1,44 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 5.22,
+  "acierto": 1.0,
+  "texto": "Vamos a hacer un experimento. Te enseño dos precios, muy rápido."
+ },
+ {
+  "i": 1,
+  "a": 5.52,
+  "b": 8.05,
+  "acierto": 0.29,
+  "texto": "Dos con noventa y nueve. Y tres euros."
+ },
+ {
+  "i": 2,
+  "a": 8.35,
+  "b": 12.76,
+  "acierto": 1.0,
+  "texto": "¿Cuál te ha parecido más barato? Exacto. Y la diferencia es… un céntimo."
+ },
+ {
+  "i": 3,
+  "a": 13.06,
+  "b": 18.16,
+  "acierto": 0.56,
+  "texto": "Ahora otros dos. Tres con sesenta. Y tres con cincuenta y nueve."
+ },
+ {
+  "i": 4,
+  "a": 18.46,
+  "b": 23.25,
+  "acierto": 1.0,
+  "texto": "Aquí también hay un céntimo de diferencia. Pero apuesto a que casi ni lo has notado."
+ },
+ {
+  "i": 5,
+  "a": 23.55,
+  "b": 33.51,
+  "acierto": 1.0,
+  "texto": "¿Por qué el primer céntimo parece enorme, y el segundo, invisible? Esa misma pregunta se la hicieron dos investigadores en Nueva York. Y la respuesta es muy curiosa."
+ }
+]
