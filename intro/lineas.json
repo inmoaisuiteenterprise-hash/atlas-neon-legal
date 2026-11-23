@@ -1,0 +1,20 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 5.01,
+  "acierto": 0.89,
+  "texto": "Bienvenido a Proyecto Gris. Hoy, capítulo dos: el vaper.",
+  "exa": 0.5,
+  "pausa": 0.5
+ },
+ {
+  "i": 1,
+  "a": 5.51,
+  "b": 8.78,
+  "acierto": 0.88,
+  "texto": "Esto es Proyecto Gris. Capítulo dos: el vaper.",
+  "exa": 0.5,
+  "pausa": 0.5
+ }
+]
