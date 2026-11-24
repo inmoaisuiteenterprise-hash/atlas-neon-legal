@@ -1,0 +1,160 @@
+{
+ "trabajo": "colonimg1",
+ "trozos": 11,
+ "estilo": "detailed hand-drawn ink and watercolor illustration, fine pen linework, cross-hatching shading, muted sepia and earthy colors with touches of red, aged parchment texture, historical graphic novel, cinematic composition, highly detailed, masterpiece",
+ "negativo": "photo, photorealistic, 3d render, blurry, text, letters, words, watermark, signature, logo, deformed, extra fingers, bad anatomy, modern buildings",
+ "imagenes": [
+  {
+   "id": "f_oceano_alba",
+   "prompt": "three 15th century caravels with white square sails and large red crosses sailing on a vast empty ocean at dawn, dramatic sky, wide shot",
+   "profundidad": true,
+   "seed": 11
+  },
+  {
+   "id": "f_corte",
+   "prompt": "grand medieval Spanish royal throne hall with horseshoe arches and tapestries, King Ferdinand and Queen Isabella of Castile seated on thrones, courtiers, warm light, wide shot",
+   "profundidad": true,
+   "seed": 12
+  },
+  {
+   "id": "f_sabios",
+   "prompt": "council of old scholars and monks in dark robes seated around a long wooden table covered with books, maps and a globe, candlelight, vaulted stone room, Salamanca 1486, wide shot",
+   "profundidad": true,
+   "seed": 13
+  },
+  {
+   "id": "f_mapa",
+   "prompt": "antique 15th century hand-drawn nautical map on parchment showing the Atlantic ocean with Europe and Africa on the right and a large imaginary Asia drawn very close on the left, compass roses, sea monsters, no text",
+   "profundidad": false,
+   "seed": 14
+  },
+  {
+   "id": "f_palos",
+   "prompt": "the port of Palos de la Frontera in 1492, three caravels docked, crowd of people and sailors loading barrels, small whitewashed town on a hill, morning light, wide shot",
+   "profundidad": true,
+   "seed": 15
+  },
+  {
+   "id": "f_cubierta",
+   "prompt": "deck of a 15th century caravel at sea, ropes, mast, barrels, tired sailors working, empty horizon, harsh sunlight",
+   "profundidad": true,
+   "seed": 16
+  },
+  {
+   "id": "f_noche",
+   "prompt": "deck of a 15th century caravel at night under a starry sky, a lantern glowing, dark waves, tense atmosphere",
+   "profundidad": true,
+   "seed": 17
+  },
+  {
+   "id": "f_isla",
+   "prompt": "tropical island beach with palm trees at dawn seen from the sea, three caravels anchored offshore, turquoise water, golden light, wide shot",
+   "profundidad": true,
+   "seed": 18
+  },
+  {
+   "id": "f_vacio",
+   "prompt": "endless empty ocean under a burning sun, no land in sight, a tiny lonely caravel far away, feeling of despair, wide shot",
+   "profundidad": true,
+   "seed": 19
+  },
+  {
+   "id": "f_deriva",
+   "prompt": "abandoned 15th century caravel with torn sails drifting on a dark empty ocean at night, moonlight, eerie atmosphere",
+   "profundidad": true,
+   "seed": 20
+  },
+  {
+   "id": "f_diario",
+   "prompt": "close-up of an old wooden desk with a leather-bound diary, quill pen, inkwell, candle and nautical instruments, warm candlelight",
+   "profundidad": true,
+   "seed": 21
+  },
+  {
+   "id": "f_examen",
+   "prompt": "a school exam paper on a wooden desk marked with a big red number two, a pencil and an eraser, top view",
+   "profundidad": false,
+   "seed": 22
+  },
+  {
+   "id": "p_colon",
+   "prompt": "Christopher Columbus, a 40-year-old man with long grey-white hair to the shoulders, clean-shaven, sharp nose, dark red cloak over a black doublet, confident proud pose, hands on hips, full body, standing, isolated on a plain white background, no background",
+   "recorte": true,
+   "w": 832,
+   "h": 1216,
+   "seed": 31
+  },
+  {
+   "id": "p_colon_listo",
+   "prompt": "close-up portrait of Christopher Columbus, a 40-year-old man with long grey-white hair to the shoulders, clean-shaven, sharp nose, dark red cloak over a black doublet, sly mischievous smile, raising one eyebrow, looking sideways, upper body, isolated on a plain white background",
+   "recorte": true,
+   "w": 832,
+   "h": 1216,
+   "seed": 32
+  },
+  {
+   "id": "p_colon_nervioso",
+   "prompt": "close-up portrait of Christopher Columbus, a 40-year-old man with long grey-white hair to the shoulders, clean-shaven, sharp nose, dark red cloak over a black doublet, nervous worried face, sweating, upper body, isolated on a plain white background",
+   "recorte": true,
+   "w": 832,
+   "h": 1216,
+   "seed": 33
+  },
+  {
+   "id": "p_colon_mapa",
+   "prompt": "Christopher Columbus, a 40-year-old man with long grey-white hair to the shoulders, clean-shaven, sharp nose, dark red cloak over a black doublet, passionately pointing at an unrolled map he holds in his other hand, full body, standing, isolated on a plain white background, no background",
+   "recorte": true,
+   "w": 832,
+   "h": 1216,
+   "seed": 34
+  },
+  {
+   "id": "p_sabio",
+   "prompt": "old skeptical scholar monk with a long grey beard and a dark robe and cap, raising a finger to object, frowning, full body, standing, isolated on a plain white background, no background",
+   "recorte": true,
+   "w": 832,
+   "h": 1216,
+   "seed": 35
+  },
+  {
+   "id": "p_marinero",
+   "prompt": "angry scared 15th century sailor with a beard, red wool cap and rough linen shirt, shouting with fists raised, upper body, isolated on a plain white background",
+   "recorte": true,
+   "w": 832,
+   "h": 1216,
+   "seed": 36
+  },
+  {
+   "id": "p_triana",
+   "prompt": "young 15th century sailor with a red cap, excited, pointing far away with his arm extended and mouth open shouting, full body, standing, isolated on a plain white background, no background",
+   "recorte": true,
+   "w": 832,
+   "h": 1216,
+   "seed": 37
+  },
+  {
+   "id": "p_isabel",
+   "prompt": "Queen Isabella of Castile in a rich crimson gown with a golden crown and white veil, regal, gesturing approval, full body, standing, isolated on a plain white background, no background",
+   "recorte": true,
+   "w": 832,
+   "h": 1216,
+   "seed": 38
+  },
+  {
+   "id": "p_marineros",
+   "prompt": "group of four tired worried 15th century sailors in linen shirts and wool caps looking at each other, full body, isolated on a plain white background",
+   "recorte": true,
+   "w": 1216,
+   "h": 832,
+   "seed": 39
+  },
+  {
+   "id": "p_alumno",
+   "prompt": "modern teenage student with a hoodie holding an exam paper, shocked funny face, upper body, isolated on a plain white background",
+   "recorte": true,
+   "w": 832,
+   "h": 1216,
+   "seed": 40
+  }
+ ]
+}

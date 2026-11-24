@@ -17,3 +17,15 @@ for i, im in enumerate(P["imagenes"]):
     t = time.time(); g = torch.Generator().manual_seed(im.get("seed", 1000 + i))
     img = pipe(prompt=im["prompt"] + ", " + estilo, negative_prompt=neg, num_inference_steps=4, guidance_scale=0, width=im.get("w", 1344), height=im.get("h", 768), generator=g).images[0]
     img.save(f"{out}/{im['id']}.jpg", quality=92); print(im["id"], round(time.time() - t, 1), "s", flush=True)
+    if im.get("recorte"):   # personaje recortado (fondo transparente) con rembg (MIT)
+        from rembg import remove, new_session
+        global SES
+        try: SES
+        except NameError: SES = new_session("isnet-general-use")
+        remove(img, session=SES).save(f"{out}/{im['id']}.png")
+    if im.get("profundidad"):   # mapa de profundidad para el paralaje (Depth Anything V2 Small, Apache 2.0)
+        from transformers import pipeline as tp
+        global DEP
+        try: DEP
+        except NameError: DEP = tp("depth-estimation", model="depth-anything/Depth-Anything-V2-Small-hf", device="cpu")
+        DEP(img)["depth"].save(f"{out}/{im['id']}_prof.png")

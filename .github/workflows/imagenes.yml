@@ -37,7 +37,7 @@ jobs:
       - name: Dependencias
         run: |
           pip install -q torch --index-url https://download.pytorch.org/whl/cpu
-          pip install -q diffusers transformers accelerate safetensors huggingface_hub
+          pip install -q diffusers transformers accelerate safetensors huggingface_hub "rembg[cpu]" pillow
       - name: Trozo ${{ matrix.trozo }}
         run: |
           free -g; nproc
