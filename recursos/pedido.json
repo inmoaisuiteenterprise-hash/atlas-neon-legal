@@ -1,1 +1,162 @@
-[{"url": "https://ftp.osuosl.org/pub/musescore/soundfont/MuseScore_General/MuseScore_General.sf3", "nombre": "MuseScore_General.sf3", "licencia": "MIT (MuseScore General SoundFont, S. Christian Collins)"}]
+[
+{
+"url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Five%20Armies.mp3",
+"nombre": "km_Five_Armies.mp3",
+"licencia": "Kevin MacLeod (incompetech.com), CC BY 4.0"
+},
+{
+"url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Heroic%20Age.mp3",
+"nombre": "km_Heroic_Age.mp3",
+"licencia": "Kevin MacLeod (incompetech.com), CC BY 4.0"
+},
+{
+"url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Crusade.mp3",
+"nombre": "km_Crusade.mp3",
+"licencia": "Kevin MacLeod (incompetech.com), CC BY 4.0"
+},
+{
+"url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Volatile%20Reaction.mp3",
+"nombre": "km_Volatile_Reaction.mp3",
+"licencia": "Kevin MacLeod (incompetech.com), CC BY 4.0"
+},
+{
+"url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Prelude%20and%20Action.mp3",
+"nombre": "km_Prelude_and_Action.mp3",
+"licencia": "Kevin MacLeod (incompetech.com), CC BY 4.0"
+},
+{
+"url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Clash%20Defiant.mp3",
+"nombre": "km_Clash_Defiant.mp3",
+"licencia": "Kevin MacLeod (incompetech.com), CC BY 4.0"
+},
+{
+"url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Echoes%20of%20Time.mp3",
+"nombre": "km_Echoes_of_Time.mp3",
+"licencia": "Kevin MacLeod (incompetech.com), CC BY 4.0"
+},
+{
+"url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Darkest%20Child.mp3",
+"nombre": "km_Darkest_Child.mp3",
+"licencia": "Kevin MacLeod (incompetech.com), CC BY 4.0"
+},
+{
+"url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Rites.mp3",
+"nombre": "km_Rites.mp3",
+"licencia": "Kevin MacLeod (incompetech.com), CC BY 4.0"
+},
+{
+"url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/The%20Descent.mp3",
+"nombre": "km_The_Descent.mp3",
+"licencia": "Kevin MacLeod (incompetech.com), CC BY 4.0"
+},
+{
+"url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Impact%20Prelude.mp3",
+"nombre": "km_Impact_Prelude.mp3",
+"licencia": "Kevin MacLeod (incompetech.com), CC BY 4.0"
+},
+{
+"url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Ossuary%206%20-%20Air.mp3",
+"nombre": "km_Ossuary_6_-_Air.mp3",
+"licencia": "Kevin MacLeod (incompetech.com), CC BY 4.0"
+},
+{
+"url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Long%20Note%20Four.mp3",
+"nombre": "km_Long_Note_Four.mp3",
+"licencia": "Kevin MacLeod (incompetech.com), CC BY 4.0"
+},
+{
+"url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Dark%20Times.mp3",
+"nombre": "km_Dark_Times.mp3",
+"licencia": "Kevin MacLeod (incompetech.com), CC BY 4.0"
+},
+{
+"url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Hitman.mp3",
+"nombre": "km_Hitman.mp3",
+"licencia": "Kevin MacLeod (incompetech.com), CC BY 4.0"
+},
+{
+"url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Investigations.mp3",
+"nombre": "km_Investigations.mp3",
+"licencia": "Kevin MacLeod (incompetech.com), CC BY 4.0"
+},
+{
+"url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Night%20on%20the%20Docks%20-%20Sax.mp3",
+"nombre": "km_Night_on_the_Docks_-_Sax.mp3",
+"licencia": "Kevin MacLeod (incompetech.com), CC BY 4.0"
+},
+{
+"url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Comfortable%20Mystery%204.mp3",
+"nombre": "km_Comfortable_Mystery_4.mp3",
+"licencia": "Kevin MacLeod (incompetech.com), CC BY 4.0"
+},
+{
+"url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Hot%20Swing.mp3",
+"nombre": "km_Hot_Swing.mp3",
+"licencia": "Kevin MacLeod (incompetech.com), CC BY 4.0"
+},
+{
+"url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Gymnopedie%20No%201.mp3",
+"nombre": "km_Gymnopedie_No_1.mp3",
+"licencia": "Kevin MacLeod (incompetech.com), CC BY 4.0"
+},
+{
+"url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Bossa%20Antigua.mp3",
+"nombre": "km_Bossa_Antigua.mp3",
+"licencia": "Kevin MacLeod (incompetech.com), CC BY 4.0"
+},
+{
+"url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Lobby%20Time.mp3",
+"nombre": "km_Lobby_Time.mp3",
+"licencia": "Kevin MacLeod (incompetech.com), CC BY 4.0"
+},
+{
+"url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Interloper.mp3",
+"nombre": "km_Interloper.mp3",
+"licencia": "Kevin MacLeod (incompetech.com), CC BY 4.0"
+},
+{
+"url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Movement%20Proposition.mp3",
+"nombre": "km_Movement_Proposition.mp3",
+"licencia": "Kevin MacLeod (incompetech.com), CC BY 4.0"
+},
+{
+"url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Killers.mp3",
+"nombre": "km_Killers.mp3",
+"licencia": "Kevin MacLeod (incompetech.com), CC BY 4.0"
+},
+{
+"url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Mesmerize.mp3",
+"nombre": "km_Mesmerize.mp3",
+"licencia": "Kevin MacLeod (incompetech.com), CC BY 4.0"
+},
+{
+"url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Night%20in%20Venice.mp3",
+"nombre": "km_Night_in_Venice.mp3",
+"licencia": "Kevin MacLeod (incompetech.com), CC BY 4.0"
+},
+{
+"url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Faster%20Does%20It.mp3",
+"nombre": "km_Faster_Does_It.mp3",
+"licencia": "Kevin MacLeod (incompetech.com), CC BY 4.0"
+},
+{
+"url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Covert%20Affair.mp3",
+"nombre": "km_Covert_Affair.mp3",
+"licencia": "Kevin MacLeod (incompetech.com), CC BY 4.0"
+},
+{
+"url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Spy%20Glass.mp3",
+"nombre": "km_Spy_Glass.mp3",
+"licencia": "Kevin MacLeod (incompetech.com), CC BY 4.0"
+},
+{
+"url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Pippin%20the%20Hunchback.mp3",
+"nombre": "km_Pippin_the_Hunchback.mp3",
+"licencia": "Kevin MacLeod (incompetech.com), CC BY 4.0"
+},
+{
+"url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Tenebrous%20Brothers%20Carnival%20-%20Mausoleum.mp3",
+"nombre": "km_Tenebrous_Brothers_Carnival_-_Mausoleum.mp3",
+"licencia": "Kevin MacLeod (incompetech.com), CC BY 4.0"
+}
+]
