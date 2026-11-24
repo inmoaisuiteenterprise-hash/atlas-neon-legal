@@ -1,0 +1,19 @@
+{
+ "modo": "clon",
+ "ref": "ref_raiz_n1.wav",
+ "ref_text": "Año mil cuatrocientos noventa y dos. Tres barcos llevan más de un mes navegando hacia el oeste, sin ver tierra. Su capitán está convencido de que Asia está ahí delante. Pero se equivocó en las cuentas. ¡Y no por poco!",
+ "lineas": [
+  {
+   "texto": "Rodrigo de Triana ve tierra. Y le corresponde el premio de la reina: diez mil maravedís al año.",
+   "pausa": 0.22
+  },
+  {
+   "texto": "Pero se lo quedó Colón. Dijo que la noche antes había visto una lucecita.",
+   "pausa": 0.22
+  },
+  {
+   "texto": "Un clásico.",
+   "pausa": 0.22
+  }
+ ]
+}

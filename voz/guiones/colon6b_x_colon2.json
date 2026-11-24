@@ -1,0 +1,10 @@
+{
+ "modo": "diseno",
+ "instruct": "Hombre de cuarenta años, voz grave y profunda, navegante bajo presión, tono firme, tenso y persuasivo, español de España.",
+ "lineas": [
+  {
+   "texto": "Dadme dos días más. Si no hay tierra, volvemos.",
+   "pausa": 0.2
+  }
+ ]
+}

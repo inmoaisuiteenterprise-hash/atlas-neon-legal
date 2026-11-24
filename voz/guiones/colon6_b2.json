@@ -4,11 +4,11 @@
  "ref_text": "Año mil cuatrocientos noventa y dos. Tres barcos llevan más de un mes navegando hacia el oeste, sin ver tierra. Su capitán está convencido de que Asia está ahí delante. Pero se equivocó en las cuentas. ¡Y no por poco!",
  "lineas": [
   {
-   "texto": "Primero se lo ofrece al rey de Portugal. Sus expertos echan las cuentas… y le dicen que no.",
+   "texto": "Se lo ofrece al rey de Portugal, y sus expertos le dicen que no. Lo intenta en Castilla, y los sabios le dicen lo mismo.",
    "pausa": 0.22
   },
   {
-   "texto": "Luego lo intenta en Castilla. Y los sabios de los Reyes Católicos le dicen lo mismo. Y, spoiler: tenían toda la razón.",
+   "texto": "Y, spoiler: tenían toda la razón.",
    "pausa": 0.22
   }
  ]

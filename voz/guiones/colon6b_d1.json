@@ -1,0 +1,19 @@
+{
+ "modo": "clon",
+ "ref": "ref_raiz_n1.wav",
+ "ref_text": "Año mil cuatrocientos noventa y dos. Tres barcos llevan más de un mes navegando hacia el oeste, sin ver tierra. Su capitán está convencido de que Asia está ahí delante. Pero se equivocó en las cuentas. ¡Y no por poco!",
+ "lineas": [
+  {
+   "texto": "Tres de agosto de mil cuatrocientos noventa y dos. Salen de Palos la Santa María, la Pinta y la Niña.",
+   "pausa": 0.22
+  },
+  {
+   "texto": "A los pocos días, a la Pinta se le suelta el timón. Colón sospecha sabotaje: a su dueño no le gustaba nada el viaje.",
+   "pausa": 0.22
+  },
+  {
+   "texto": "Tras arreglarlo en Canarias, el seis de septiembre se lanzan al océano. Y Colón empieza a mentir a su tripulación.",
+   "pausa": 0.22
+  }
+ ]
+}
