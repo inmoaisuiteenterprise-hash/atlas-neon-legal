@@ -1,0 +1,29 @@
+{
+ "ref": "ref_09334.wav",
+ "lineas": [
+  {
+   "texto": "Porque Colón hizo las cuentas a su manera: mezcló millas árabes con millas romanas… y estiró Asia en el mapa como si fuera un chicle.",
+   "exa": 0.72,
+   "cfg": 0.32,
+   "pausa": 0.15
+  },
+  {
+   "texto": "Resultado: un planeta un veinticinco por ciento más pequeño. Así, a ojo.",
+   "exa": 0.72,
+   "cfg": 0.32,
+   "pausa": 0.15
+  },
+  {
+   "texto": "Según él, de Canarias hasta Asia había unas tres mil millas. En la vida real, más del doble.",
+   "exa": 0.72,
+   "cfg": 0.32,
+   "pausa": 0.15
+  },
+  {
+   "texto": "Cualquiera se habría rendido. Colón no. Insiste, insiste e insiste… hasta que los Reyes Católicos le dicen que sí.",
+   "exa": 0.72,
+   "cfg": 0.32,
+   "pausa": 0.15
+  }
+ ]
+}
