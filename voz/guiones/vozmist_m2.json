@@ -1,0 +1,14 @@
+{
+ "modo": "diseno",
+ "instruct": "Narrador masculino de documental de misterio e historia, voz muy grave, profunda y aterciopelada, tono intrigante y envolvente, habla despacio y con pausas dramáticas, como contando un secreto antiguo, español de España.",
+ "lineas": [
+  {
+   "texto": "Doce de octubre de mil cuatrocientos noventa y dos. Las dos de la madrugada. Tres barcos perdidos en mitad del océano.",
+   "pausa": 0.4
+  },
+  {
+   "texto": "Nadie a bordo sabe que, esa noche, la historia del mundo está a punto de cambiar para siempre.",
+   "pausa": 0.4
+  }
+ ]
+}
