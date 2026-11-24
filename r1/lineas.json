@@ -1,0 +1,18 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 12.1,
+  "acierto": 0.81,
+  "texto": "Abril de mil setecientos cuarenta y uno. En Londres ya están fabricando medallas para celebrar una victoria. Solo hay un problema: la batalla todavía no ha terminado.",
+  "pausa": 0.5
+ },
+ {
+  "i": 1,
+  "a": 12.6,
+  "b": 21.72,
+  "acierto": 1.0,
+  "texto": "Al otro lado del océano, un almirante al que le falta una pierna, un ojo y un brazo está a punto de cambiar el final de la historia.",
+  "pausa": 0.5
+ }
+]

@@ -1,0 +1,18 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 10.88,
+  "acierto": 0.81,
+  "texto": "París, mil novecientos veinticinco. Un hombre muy elegante acaba de vender la Torre Eiffel. Siete mil toneladas de hierro. Y no era suya.",
+  "pausa": 0.5
+ },
+ {
+  "i": 1,
+  "a": 11.38,
+  "b": 23.05,
+  "acierto": 0.96,
+  "texto": "Lo más increíble no es que el comprador picara. Es que, además, le pagó un soborno. Hoy te explico por qué ese soborno fue justo lo que le convenció.",
+  "pausa": 0.5
+ }
+]
