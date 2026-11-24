@@ -1,0 +1,36 @@
+{
+ "trabajo": "colonimg2",
+ "trozos": 4,
+ "estilo": "detailed hand-drawn ink and watercolor illustration, fine pen linework, cross-hatching shading, muted sepia and earthy colors with touches of red, aged parchment texture, historical graphic novel, cinematic composition, highly detailed, masterpiece",
+ "negativo": "photo, photorealistic, 3d render, blurry, text, letters, words, watermark, signature, logo, deformed, extra fingers, bad anatomy, modern buildings",
+ "imagenes": [
+  {
+   "id": "f_sabios",
+   "prompt": "council of old scholars and monks in dark robes seated around a long wooden table covered with books, maps and a globe, candlelight, vaulted stone room, Salamanca 1486, wide shot",
+   "profundidad": true,
+   "seed": 13
+  },
+  {
+   "id": "f_mapa",
+   "prompt": "antique 15th century hand-drawn nautical map on parchment showing the Atlantic ocean with Europe and Africa on the right and a large imaginary Asia drawn very close on the left, compass roses, sea monsters, no text",
+   "profundidad": false,
+   "seed": 14
+  },
+  {
+   "id": "p_colon_listo",
+   "prompt": "close-up portrait of Christopher Columbus, a 40-year-old man with long grey-white hair to the shoulders, clean-shaven, sharp nose, dark red cloak over a black doublet, sly mischievous smile, raising one eyebrow, looking sideways, upper body, isolated on a plain white background",
+   "recorte": true,
+   "w": 832,
+   "h": 1216,
+   "seed": 32
+  },
+  {
+   "id": "p_colon_nervioso",
+   "prompt": "close-up portrait of Christopher Columbus, a 40-year-old man with long grey-white hair to the shoulders, clean-shaven, sharp nose, dark red cloak over a black doublet, nervous worried face, sweating, upper body, isolated on a plain white background",
+   "recorte": true,
+   "w": 832,
+   "h": 1216,
+   "seed": 33
+  }
+ ]
+}
