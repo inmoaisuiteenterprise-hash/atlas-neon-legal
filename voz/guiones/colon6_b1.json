@@ -1,0 +1,19 @@
+{
+ "modo": "clon",
+ "ref": "ref_raiz_n1.wav",
+ "ref_text": "Año mil cuatrocientos noventa y dos. Tres barcos llevan más de un mes navegando hacia el oeste, sin ver tierra. Su capitán está convencido de que Asia está ahí delante. Pero se equivocó en las cuentas. ¡Y no por poco!",
+ "lineas": [
+  {
+   "texto": "Pongámonos en situación. Finales del siglo quince. Las especias de Asia valen una fortuna, y llegar hasta allí es carísimo y peligrosísimo.",
+   "pausa": 0.22
+  },
+  {
+   "texto": "Y entonces aparece un marinero genovés con una idea que suena a genialidad: si la Tierra es redonda… ¿por qué no llegar a Asia navegando hacia el oeste?",
+   "pausa": 0.22
+  },
+  {
+   "texto": "Y ojo, aquí va el primer mito: nadie le dijo a Colón que la Tierra era plana. Eso se popularizó siglos después. Cualquiera con estudios sabía que era redonda. El problema era otro: lo grande que era.",
+   "pausa": 0.22
+  }
+ ]
+}

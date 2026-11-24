@@ -1,0 +1,15 @@
+{
+ "modo": "clon",
+ "ref": "ref_raiz_n1.wav",
+ "ref_text": "Año mil cuatrocientos noventa y dos. Tres barcos llevan más de un mes navegando hacia el oeste, sin ver tierra. Su capitán está convencido de que Asia está ahí delante. Pero se equivocó en las cuentas. ¡Y no por poco!",
+ "lineas": [
+  {
+   "texto": "Principios de octubre. Martín Alonso Pinzón, el capitán de la Pinta, convence a Colón para cambiar el rumbo. Pero la tierra sigue sin aparecer.",
+   "pausa": 0.22
+  },
+  {
+   "texto": "El diez de octubre, la tripulación está a punto de amotinarse. Y Colón, contra las cuerdas, se juega su última carta.",
+   "pausa": 0.22
+  }
+ ]
+}

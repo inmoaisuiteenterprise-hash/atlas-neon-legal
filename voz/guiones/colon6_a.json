@@ -1,0 +1,23 @@
+{
+ "modo": "clon",
+ "ref": "ref_raiz_n1.wav",
+ "ref_text": "Año mil cuatrocientos noventa y dos. Tres barcos llevan más de un mes navegando hacia el oeste, sin ver tierra. Su capitán está convencido de que Asia está ahí delante. Pero se equivocó en las cuentas. ¡Y no por poco!",
+ "lineas": [
+  {
+   "texto": "Imagina que te juegas la vida a un examen de mates. Haces mal todas las cuentas… y aun así sacas un diez.",
+   "pausa": 0.22
+  },
+  {
+   "texto": "Eso, literalmente, le pasó a Cristóbal Colón.",
+   "pausa": 0.22
+  },
+  {
+   "texto": "Calculó fatal el tamaño del planeta. Los expertos se lo advirtieron. Le mintió a su tripulación. Casi le montan un motín… y aun así acabó en todos los libros de historia.",
+   "pausa": 0.22
+  },
+  {
+   "texto": "Pero hoy no vamos a contar lo que pasó. Vamos a contar lo que habría pasado si América no hubiera estado ahí en medio.",
+   "pausa": 0.22
+  }
+ ]
+}
