@@ -1,0 +1,14 @@
+{
+ "modo": "diseno",
+ "instruct": "Narrador masculino español de España, acento castellano neutro, unos treinta años, voz grave pero muy despierta y con energía, ritmo rápido y dinámico, entonación muy expresiva, con intriga y emoción, como un youtuber de historia que engancha desde la primera frase. Nada cansado, nada lento.",
+ "lineas": [
+  {
+   "texto": "Año mil cuatrocientos noventa y dos. Tres barcos llevan más de un mes navegando hacia el oeste, sin ver tierra.",
+   "pausa": 0.3
+  },
+  {
+   "texto": "Su capitán está convencido de que Asia está ahí delante. Pero se equivocó en las cuentas. ¡Y no por poco!",
+   "pausa": 0.3
+  }
+ ]
+}
