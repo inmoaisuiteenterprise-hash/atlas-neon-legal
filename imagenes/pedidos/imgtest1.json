@@ -1,0 +1,16 @@
+{
+ "trabajo": "imgtest1",
+ "trozos": 2,
+ "estilo": "detailed hand-drawn ink and watercolor illustration, fine pen linework, cross-hatching shading, muted sepia and earthy colors, aged parchment texture, historical graphic novel, cinematic composition, highly detailed",
+ "negativo": "photo, photorealistic, 3d render, blurry, text, watermark, signature, deformed, extra fingers, modern clothes",
+ "imagenes": [
+  {
+   "id": "t1",
+   "prompt": "Christopher Columbus, a 40-year-old man with long grey-white hair to the shoulders, clean-shaven, dark red cloak over a black doublet, standing on the deck of a 15th century caravel, looking at the horizon with determination, sails with red crosses behind him"
+  },
+  {
+   "id": "t2",
+   "prompt": "three 15th century caravels with white square sails and large red crosses sailing on a vast empty ocean at dawn, dramatic sky"
+  }
+ ]
+}
