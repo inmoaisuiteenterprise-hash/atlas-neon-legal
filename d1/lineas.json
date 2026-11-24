@@ -1,0 +1,22 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 6.28,
+  "acierto": 0.71,
+  "texto": "Tres de agosto de mil cuatrocientos noventa y dos. Tres barcos: la Santa María, la Pinta y la Niña.",
+  "exa": 0.72,
+  "cfg": 0.32,
+  "pausa": 0.15
+ },
+ {
+  "i": 1,
+  "a": 6.43,
+  "b": 10.25,
+  "acierto": 0.92,
+  "texto": "Y aquí empieza lo bueno: Colón le miente a su propia tripulación.",
+  "exa": 0.72,
+  "cfg": 0.32,
+  "pausa": 0.15
+ }
+]

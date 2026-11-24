@@ -1,0 +1,42 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 7.33,
+  "acierto": 0.96,
+  "texto": "Porque Colón hizo las cuentas a su manera: mezcló millas árabes con millas romanas… y estiró Asia en el mapa como si fuera un chicle.",
+  "exa": 0.72,
+  "cfg": 0.32,
+  "pausa": 0.15
+ },
+ {
+  "i": 1,
+  "a": 7.48,
+  "b": 13.04,
+  "acierto": 0.91,
+  "texto": "Resultado: un planeta un veinticinco por ciento más pequeño. Así, a ojo.",
+  "exa": 0.72,
+  "cfg": 0.32,
+  "pausa": 0.15
+ },
+ {
+  "i": 2,
+  "a": 13.19,
+  "b": 18.21,
+  "acierto": 0.89,
+  "texto": "Según él, de Canarias hasta Asia había unas tres mil millas. En la vida real, más del doble.",
+  "exa": 0.72,
+  "cfg": 0.32,
+  "pausa": 0.15
+ },
+ {
+  "i": 3,
+  "a": 18.36,
+  "b": 26.55,
+  "acierto": 1.0,
+  "texto": "Cualquiera se habría rendido. Colón no. Insiste, insiste e insiste… hasta que los Reyes Católicos le dicen que sí.",
+  "exa": 0.72,
+  "cfg": 0.32,
+  "pausa": 0.15
+ }
+]

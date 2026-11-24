@@ -1,0 +1,12 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 3.57,
+  "acierto": 1.0,
+  "texto": "¡Hay que dar la vuelta! ¡Nos vamos a morir aquí!",
+  "exa": 0.9,
+  "cfg": 0.4,
+  "pausa": 0.15
+ }
+]

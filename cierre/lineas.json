@@ -1,0 +1,22 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 4.21,
+  "acierto": 1.0,
+  "texto": "Moraleja: a veces no ganas por listo… ganas por suerte geográfica.",
+  "exa": 0.72,
+  "cfg": 0.32,
+  "pausa": 0.15
+ },
+ {
+  "i": 1,
+  "a": 4.36,
+  "b": 11.71,
+  "acierto": 0.94,
+  "texto": "¿Qué otro «¿y si…?» quieres que haga? Déjalo en comentarios. Y suscríbete, que el siguiente es todavía más loco.",
+  "exa": 0.72,
+  "cfg": 0.32,
+  "pausa": 0.15
+ }
+]
