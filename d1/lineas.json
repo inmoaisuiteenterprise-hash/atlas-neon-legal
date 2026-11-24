@@ -1,0 +1,20 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 5.33,
+  "acierto": 0.71,
+  "texto": "Tres de agosto. Tres barcos: la Santa María, la Pinta y la Niña. Rumbo a lo desconocido.",
+  "exa": 0.55,
+  "pausa": 0.25
+ },
+ {
+  "i": 1,
+  "a": 5.58,
+  "b": 9.46,
+  "acierto": 1.0,
+  "texto": "Y aquí viene lo mejor: Colón empieza a engañar a su propia tripulación.",
+  "exa": 0.55,
+  "pausa": 0.25
+ }
+]
