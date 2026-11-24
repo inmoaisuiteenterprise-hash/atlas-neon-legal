@@ -1,0 +1,18 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 5.25,
+  "acierto": 0.54,
+  "texto": "En mil cuatrocientos noventa y dos, harto, se marcha a ofrecérselo a otro reino.",
+  "pausa": 0.22
+ },
+ {
+  "i": 1,
+  "a": 5.47,
+  "b": 11.76,
+  "acierto": 1.0,
+  "texto": "Pero en un puente, cerca de Granada, le alcanza un mensajero de la reina: el viaje va adelante.",
+  "pausa": 0.22
+ }
+]

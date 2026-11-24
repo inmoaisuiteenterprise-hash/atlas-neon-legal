@@ -1,0 +1,50 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 3.48,
+  "acierto": 1.0,
+  "texto": "Ahora sí. ¿Y si América no hubiera estado ahí?",
+  "pausa": 0.22
+ },
+ {
+  "i": 1,
+  "a": 3.7,
+  "b": 11.44,
+  "acierto": 0.85,
+  "texto": "Llevaban treinta y seis días desde Canarias. Y la Asia de verdad seguía a miles de kilómetros, tras otro océano: el Pacífico.",
+  "pausa": 0.22
+ },
+ {
+  "i": 2,
+  "a": 11.66,
+  "b": 20.2,
+  "acierto": 0.89,
+  "texto": "¿Cómo sabemos lo que les esperaba? Veintiocho años después, Magallanes lo cruzó: tres meses y veinte días sin comida fresca.",
+  "pausa": 0.22
+ },
+ {
+  "i": 3,
+  "a": 20.42,
+  "b": 26.04,
+  "acierto": 1.0,
+  "texto": "Comían galleta en polvo llena de gusanos, y cuero remojado. Las ratas eran un manjar.",
+  "pausa": 0.22
+ },
+ {
+  "i": 4,
+  "a": 26.26,
+  "b": 34.16,
+  "acierto": 1.0,
+  "texto": "Así que Colón tenía dos opciones: dar media vuelta con el rabo entre las piernas… o desaparecer en mitad del océano.",
+  "pausa": 0.22
+ },
+ {
+  "i": 5,
+  "a": 34.38,
+  "b": 40.14,
+  "acierto": 0.89,
+  "texto": "Y hoy no sería un héroe. Sería el tío que se perdió en el mar por hacer mal las cuentas.",
+  "pausa": 0.22
+ }
+]

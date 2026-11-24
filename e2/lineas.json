@@ -1,0 +1,26 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 5.92,
+  "acierto": 0.88,
+  "texto": "Rodrigo de Triana ve tierra. Y le corresponde el premio de la reina: diez mil maravedís al año.",
+  "pausa": 0.22
+ },
+ {
+  "i": 1,
+  "a": 6.14,
+  "b": 10.45,
+  "acierto": 1.0,
+  "texto": "Pero se lo quedó Colón. Dijo que la noche antes había visto una lucecita.",
+  "pausa": 0.22
+ },
+ {
+  "i": 2,
+  "a": 10.67,
+  "b": 11.46,
+  "acierto": 1.0,
+  "texto": "Un clásico.",
+  "pausa": 0.22
+ }
+]

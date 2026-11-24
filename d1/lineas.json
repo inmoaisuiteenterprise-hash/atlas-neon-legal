@@ -1,0 +1,26 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 7.16,
+  "acierto": 0.67,
+  "texto": "Tres de agosto de mil cuatrocientos noventa y dos. Salen de Palos la Santa María, la Pinta y la Niña.",
+  "pausa": 0.22
+ },
+ {
+  "i": 1,
+  "a": 7.38,
+  "b": 14.82,
+  "acierto": 1.0,
+  "texto": "A los pocos días, a la Pinta se le suelta el timón. Colón sospecha sabotaje: a su dueño no le gustaba nada el viaje.",
+  "pausa": 0.22
+ },
+ {
+  "i": 2,
+  "a": 15.04,
+  "b": 21.7,
+  "acierto": 0.95,
+  "texto": "Tras arreglarlo en Canarias, el seis de septiembre se lanzan al océano. Y Colón empieza a mentir a su tripulación.",
+  "pausa": 0.22
+ }
+]

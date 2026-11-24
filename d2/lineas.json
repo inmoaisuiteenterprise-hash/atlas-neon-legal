@@ -1,0 +1,18 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 9.11,
+  "acierto": 1.0,
+  "texto": "Llevaba dos cuentas: una secreta, con la distancia real, y otra para la tripulación, con menos leguas, para que nadie se asustara.",
+  "pausa": 0.22
+ },
+ {
+  "i": 1,
+  "a": 9.33,
+  "b": 14.63,
+  "acierto": 1.0,
+  "texto": "Pasan las semanas. Ni una isla. Y la tripulación empieza a perder la paciencia.",
+  "pausa": 0.22
+ }
+]

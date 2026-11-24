@@ -1,0 +1,34 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 7.29,
+  "acierto": 0.9,
+  "texto": "Imagina que te juegas la vida a un examen de mates. Haces mal todas las cuentas… y aun así sacas un diez.",
+  "pausa": 0.22
+ },
+ {
+  "i": 1,
+  "a": 7.51,
+  "b": 10.36,
+  "acierto": 1.0,
+  "texto": "Eso, literalmente, le pasó a Cristóbal Colón.",
+  "pausa": 0.22
+ },
+ {
+  "i": 2,
+  "a": 10.58,
+  "b": 19.42,
+  "acierto": 0.96,
+  "texto": "Calculó fatal el tamaño del planeta, le mintió a su tripulación, casi le montan un motín… y aun así acabó en todos los libros de historia.",
+  "pausa": 0.22
+ },
+ {
+  "i": 3,
+  "a": 19.64,
+  "b": 25.83,
+  "acierto": 1.0,
+  "texto": "Pero hoy no vamos a contar lo que pasó. Vamos a contar lo que habría pasado si América no hubiera estado ahí en medio.",
+  "pausa": 0.22
+ }
+]
