@@ -1,0 +1,27 @@
+{
+ "trabajo": "vidtest1",
+ "trozos": 2,
+ "pasos": 4,
+ "estilo": "hand-drawn ink and watercolor illustration, animated, smooth natural motion",
+ "negativo": "static, still image, blurry, deformed, morphing, text, watermark",
+ "clips": [
+  {
+   "id": "t_marinero",
+   "imagen": "video/entradas/colon/t_marinero.jpg",
+   "prompt": "an angry old sailor on the deck of a ship shouts and waves his fist, his beard moves in the wind, the ship rocks gently on the waves, sails flutter",
+   "w": 832,
+   "h": 480,
+   "frames": 49,
+   "seed": 3
+  },
+  {
+   "id": "t_sabios",
+   "imagen": "video/entradas/colon/f_sabios.jpg",
+   "prompt": "old scholars in robes argue around a table, they gesture with their hands and turn their heads, candle flames flicker, slow camera push in",
+   "w": 1280,
+   "h": 704,
+   "frames": 49,
+   "seed": 4
+  }
+ ]
+}

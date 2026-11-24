@@ -1,0 +1,64 @@
+# Clips animados (imagen -> vídeo) con FastWan2.2-TI2V-5B (Apache-2.0), en CPU. Sin claves ni coste.
+# Se lanza al subir video/pedidos/<trabajo>.json: {"trabajo","trozos","estilo","negativo","clips":[{"id","imagen","prompt","frames","w","h","seed"}]}
+name: "Vídeo · clips animados"
+on:
+  push:
+    branches: [main]
+    paths: ["video/pedidos/*.json"]
+permissions:
+  contents: write
+jobs:
+  plan:
+    runs-on: ubuntu-latest
+    outputs:
+      trozos: ${{ steps.p.outputs.trozos }}
+      trabajo: ${{ steps.p.outputs.trabajo }}
+      fichero: ${{ steps.p.outputs.fichero }}
+    steps:
+      - uses: actions/checkout@v4
+        with: { fetch-depth: 2 }
+      - id: p
+        run: |
+          f=$(git diff --name-only HEAD~1 HEAD -- video/pedidos | tail -1); [ -n "$f" ] || f=$(ls -t video/pedidos/*.json | head -1)
+          python3 -c "import json;p=json.load(open('$f'));n=p.get('trozos',4);print('trozos='+json.dumps(list(range(n))));print('trabajo='+p['trabajo'])" >> $GITHUB_OUTPUT
+          echo "fichero=$f" >> $GITHUB_OUTPUT
+  generar:
+    needs: plan
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    strategy:
+      fail-fast: false
+      matrix:
+        trozo: ${{ fromJSON(needs.plan.outputs.trozos) }}
+    steps:
+      - name: Espacio y memoria virtual
+        run: |
+          sudo rm -rf /usr/share/dotnet /usr/local/lib/android /opt/ghc /opt/hostedtoolcache/CodeQL /usr/local/share/boost || true
+          sudo swapoff -a || true; sudo rm -f /swapfile /mnt/swapfile || true
+          sudo fallocate -l 20G /swapfile2 && sudo chmod 600 /swapfile2 && sudo mkswap /swapfile2 && sudo swapon /swapfile2
+          df -h /; free -g; nproc
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.11" }
+      - name: Dependencias
+        run: |
+          pip install -q torch --index-url https://download.pytorch.org/whl/cpu
+          pip install -q diffusers transformers accelerate safetensors huggingface_hub ftfy imageio imageio-ffmpeg sentencepiece pillow
+      - name: Trozo ${{ matrix.trozo }}
+        run: python video/gen.py ${{ needs.plan.outputs.fichero }} ${{ matrix.trozo }} ${{ strategy.job-total }} out
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with: { name: "vid-${{ matrix.trozo }}", path: out }
+  juntar:
+    needs: [plan, generar]
+    if: always()
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/download-artifact@v4
+        with: { pattern: "vid-*", path: salida, merge-multiple: true }
+      - name: Guardar en salidas-${{ needs.plan.outputs.trabajo }}
+        run: |
+          mkdir -p salida && cd salida && ls
+          git init -q -b salidas-${{ needs.plan.outputs.trabajo }} && git add -A
+          git -c user.name=atlas-bot -c user.email=atlas-bot@users.noreply.github.com commit -qm "Vídeo ${{ needs.plan.outputs.trabajo }}" --allow-empty
+          git push -qf "https://x-access-token:${{ github.token }}@github.com/${GITHUB_REPOSITORY}.git" salidas-${{ needs.plan.outputs.trabajo }}
