@@ -1,0 +1,26 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 6.88,
+  "acierto": 0.4,
+  "texto": "Doce de octubre de mil cuatrocientos noventa y dos. Dos de la madrugada.",
+  "pausa": 0.5
+ },
+ {
+  "i": 1,
+  "a": 7.38,
+  "b": 17.72,
+  "acierto": 0.96,
+  "texto": "Noventa hombres llevan más de un mes sin ver tierra… y su capitán les ha estado mintiendo sobre lo lejos que están de casa.",
+  "pausa": 0.5
+ },
+ {
+  "i": 2,
+  "a": 18.22,
+  "b": 25.25,
+  "acierto": 1.0,
+  "texto": "Lo que nadie sabe a bordo es que, si delante no hubiera nada… ninguno volvería jamás.",
+  "pausa": 0.5
+ }
+]
