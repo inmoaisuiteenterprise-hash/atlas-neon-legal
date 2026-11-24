@@ -22,7 +22,7 @@ jobs:
           Image.MAX_IMAGE_PIXELS = None
           for x in json.load(open(os.environ["GITHUB_WORKSPACE"] + "/recursos/pedido.json")):
               dst = x["nombre"] if not x.get("recortes") else "/tmp/z/" + x["nombre"]
-              r = subprocess.run(["curl", "-fsSL", x["url"], "-o", dst])
+              r = subprocess.run(["curl", "-fsSL", "-A", "AtlasNeonBot/1.0 (https://github.com/inmoaisuiteenterprise-hash/atlas-neon-legal)", x["url"], "-o", dst])
               print(("OK   " if r.returncode == 0 else "FALLO") + " " + x["nombre"], flush=True)
               if r.returncode or not x.get("recortes"): continue
               zipfile.ZipFile(dst).extractall("/tmp/z/x"); tif = glob.glob("/tmp/z/x/**/*.tif", recursive=True)[0]
