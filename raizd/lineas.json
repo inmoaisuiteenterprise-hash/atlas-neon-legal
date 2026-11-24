@@ -1,0 +1,42 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 4.36,
+  "acierto": 1.0,
+  "texto": "Ahora, el gran mito: ¿la gente de la Edad Media no se lavaba?",
+  "pausa": 0.35
+ },
+ {
+  "i": 1,
+  "a": 4.71,
+  "b": 10.69,
+  "acierto": 1.0,
+  "texto": "Falso. Se hacía jabón con grasa animal y ceniza, y en las ciudades había baños públicos.",
+  "pausa": 0.35
+ },
+ {
+  "i": 2,
+  "a": 11.04,
+  "b": 18.8,
+  "acierto": 0.92,
+  "texto": "En el siglo trece, París tenía más de treinta casas de baños, y por las mañanas había quien gritaba por la calle que el agua ya estaba caliente.",
+  "pausa": 0.35
+ },
+ {
+  "i": 3,
+  "a": 19.15,
+  "b": 26.63,
+  "acierto": 0.94,
+  "texto": "Otro mito: que trabajabas sin descanso. El domingo no se trabajaba, y el calendario estaba lleno de fiestas religiosas.",
+  "pausa": 0.35
+ },
+ {
+  "i": 4,
+  "a": 26.98,
+  "b": 33.26,
+  "acierto": 1.0,
+  "texto": "Bodas, ferias, la llegada de unos juglares… Cualquier excusa era buena para parar.",
+  "pausa": 0.35
+ }
+]

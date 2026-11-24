@@ -1,0 +1,34 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 5.65,
+  "acierto": 1.0,
+  "texto": "Llega la hora de comer. ¿Te imaginas un muslo de pollo enorme, como en las películas?",
+  "pausa": 0.35
+ },
+ {
+  "i": 1,
+  "a": 6.0,
+  "b": 14.19,
+  "acierto": 0.95,
+  "texto": "Pues olvídalo. Lo de cada día es pan oscuro, de centeno o de cebada, y un potaje: un guiso espeso de cereales y verduras.",
+  "pausa": 0.35
+ },
+ {
+  "i": 2,
+  "a": 14.54,
+  "b": 20.42,
+  "acierto": 1.0,
+  "texto": "La carne existe, pero suele ser tocino, cerdo en salazón… o comida de fiesta.",
+  "pausa": 0.35
+ },
+ {
+  "i": 3,
+  "a": 20.77,
+  "b": 26.97,
+  "acierto": 1.0,
+  "texto": "¿Y para beber? Cerveza suave, incluso en el desayuno. Aunque muchas veces toca agua.",
+  "pausa": 0.35
+ }
+]

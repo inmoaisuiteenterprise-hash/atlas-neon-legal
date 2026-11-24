@@ -1,0 +1,18 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 6.8,
+  "acierto": 0.82,
+  "texto": "Entonces, ¿habrías sobrevivido? Dímelo en los comentarios: ¿campesino, monje o señor?",
+  "pausa": 0.35
+ },
+ {
+  "i": 1,
+  "a": 7.15,
+  "b": 13.17,
+  "acierto": 1.0,
+  "texto": "Y si quieres viajar a otra época, suscríbete. El próximo «¿y si…?» lo eliges tú.",
+  "pausa": 0.35
+ }
+]

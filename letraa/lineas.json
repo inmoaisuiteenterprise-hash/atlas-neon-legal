@@ -1,0 +1,26 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 6.75,
+  "acierto": 0.93,
+  "texto": "Veintidós de diciembre. Suena el bombo, cantan tu número… y te acaba de tocar el Gordo.",
+  "pausa": 0.35
+ },
+ {
+  "i": 1,
+  "a": 7.1,
+  "b": 10.35,
+  "acierto": 0.45,
+  "texto": "Cuatrocientos mil euros. ¿Verdad?",
+  "pausa": 0.35
+ },
+ {
+  "i": 2,
+  "a": 10.7,
+  "b": 20.87,
+  "acierto": 1.0,
+  "texto": "Pues no. Y esa es solo la primera letra pequeña. Hoy te cuento qué pasa de verdad cuando te toca… y qué dicen los estudios sobre los que ganan.",
+  "pausa": 0.35
+ }
+]

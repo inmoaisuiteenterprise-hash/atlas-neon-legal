@@ -1,0 +1,50 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 4.54,
+  "acierto": 1.0,
+  "texto": "Letra pequeña número dos: las cuentas del juego.",
+  "pausa": 0.35
+ },
+ {
+  "i": 1,
+  "a": 4.89,
+  "b": 12.84,
+  "acierto": 0.9,
+  "texto": "En el sorteo hay cien mil números. Con un décimo, tu probabilidad de que te toque el Gordo es de una entre cien mil.",
+  "pausa": 0.35
+ },
+ {
+  "i": 2,
+  "a": 13.19,
+  "b": 21.26,
+  "acierto": 0.78,
+  "texto": "Para tener solo un uno por ciento de opciones, tendrías que comprar mil números distintos: unos veinte mil euros.",
+  "pausa": 0.35
+ },
+ {
+  "i": 3,
+  "a": 21.61,
+  "b": 29.36,
+  "acierto": 0.84,
+  "texto": "Y de todo lo que se vende, en torno al setenta por ciento vuelve en premios. El resto se lo queda el Estado.",
+  "pausa": 0.35
+ },
+ {
+  "i": 4,
+  "a": 29.71,
+  "b": 36.82,
+  "acierto": 0.86,
+  "texto": "Dicho de otra forma: de media, por cada veinte euros que juegas, vuelven unos catorce.",
+  "pausa": 0.35
+ },
+ {
+  "i": 5,
+  "a": 37.17,
+  "b": 44.68,
+  "acierto": 1.0,
+  "texto": "Eso sí, es el sorteo que más reparte, y el reintegro te devuelve tu dinero una de cada diez veces.",
+  "pausa": 0.35
+ }
+]

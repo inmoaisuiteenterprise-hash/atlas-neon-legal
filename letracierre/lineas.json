@@ -1,0 +1,26 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 8.53,
+  "acierto": 1.0,
+  "texto": "Así que, si te toca, la letra pequeña es esta: sin prisas, sin deudas nuevas, y con un plan.",
+  "pausa": 0.35
+ },
+ {
+  "i": 1,
+  "a": 8.88,
+  "b": 14.77,
+  "acierto": 1.0,
+  "texto": "Y si no te toca, que es lo más probable, al menos ya sabes cuánto te habría tocado de verdad.",
+  "pausa": 0.35
+ },
+ {
+  "i": 2,
+  "a": 15.12,
+  "b": 23.2,
+  "acierto": 0.91,
+  "texto": "¿Tú qué harías con trescientos veintiocho mil euros? Te leo en los comentarios. Y suscríbete para no perderte la próxima letra pequeña.",
+  "pausa": 0.35
+ }
+]

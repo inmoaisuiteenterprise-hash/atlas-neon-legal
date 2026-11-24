@@ -1,0 +1,26 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 4.33,
+  "acierto": 0.89,
+  "texto": "Letra pequeña número tres: ya no da para tanto.",
+  "pausa": 0.35
+ },
+ {
+  "i": 1,
+  "a": 4.68,
+  "b": 14.87,
+  "acierto": 0.69,
+  "texto": "La vivienda usada en España ronda los dos mil novecientos treinta euros el metro cuadrado. Con tus trescientos veintiocho mil, te llega para unos ciento diez metros.",
+  "pausa": 0.35
+ },
+ {
+  "i": 2,
+  "a": 15.22,
+  "b": 23.02,
+  "acierto": 0.81,
+  "texto": "Pero en la ciudad de Madrid, por encima de seis mil cuatrocientos euros el metro, te da para un piso de unos cincuenta.",
+  "pausa": 0.35
+ }
+]

@@ -1,0 +1,50 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 7.78,
+  "acierto": 1.0,
+  "texto": "Lo primero: te despierta el sol. Tu jornada empieza al amanecer, y en verano eso puede ser muy, muy temprano.",
+  "pausa": 0.35
+ },
+ {
+  "i": 1,
+  "a": 8.13,
+  "b": 13.15,
+  "acierto": 0.94,
+  "texto": "Tu casa es de madera y barro, con el fuego en el centro. Y el humo lo llena todo.",
+  "pausa": 0.35
+ },
+ {
+  "i": 2,
+  "a": 13.5,
+  "b": 18.26,
+  "acierto": 1.0,
+  "texto": "Lo más probable es que seas campesino, como la gran mayoría de la gente de tu época.",
+  "pausa": 0.35
+ },
+ {
+  "i": 3,
+  "a": 18.61,
+  "b": 26.21,
+  "acierto": 1.0,
+  "texto": "Y si eres siervo, parte de tu semana no te pertenece: tienes que trabajar las tierras de tu señor, a menudo unos tres días a la semana.",
+  "pausa": 0.35
+ },
+ {
+  "i": 4,
+  "a": 26.56,
+  "b": 31.87,
+  "acierto": 1.0,
+  "texto": "Además, una décima parte de tu cosecha va para la Iglesia. Se llama diezmo.",
+  "pausa": 0.35
+ },
+ {
+  "i": 5,
+  "a": 32.22,
+  "b": 37.61,
+  "acierto": 0.92,
+  "texto": "Pero no trabajas solo: para arar o para segar, todo el pueblo se ayuda.",
+  "pausa": 0.35
+ }
+]

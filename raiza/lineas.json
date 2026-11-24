@@ -1,0 +1,34 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 6.43,
+  "acierto": 0.89,
+  "texto": "Cierra los ojos. Es el año mil trescientos y te acabas de despertar en un pueblo cualquiera de Europa.",
+  "pausa": 0.35
+ },
+ {
+  "i": 1,
+  "a": 6.78,
+  "b": 11.83,
+  "acierto": 1.0,
+  "texto": "No hay reloj, no hay luz eléctrica, y alguien ya te está diciendo que te levantes.",
+  "pausa": 0.35
+ },
+ {
+  "i": 2,
+  "a": 12.18,
+  "b": 20.05,
+  "acierto": 1.0,
+  "texto": "Hoy vas a vivir un día entero en la Edad Media. Y te aviso: casi todo lo que crees saber sobre esta época… está mal.",
+  "pausa": 0.35
+ },
+ {
+  "i": 3,
+  "a": 20.4,
+  "b": 23.08,
+  "acierto": 0.88,
+  "texto": "Al final del vídeo sabrás si habrías sobrevivido.",
+  "pausa": 0.35
+ }
+]

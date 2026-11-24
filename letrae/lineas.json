@@ -1,0 +1,58 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 4.04,
+  "acierto": 1.0,
+  "texto": "Y ahora, la pregunta de verdad: ¿te cambiaría la vida?",
+  "pausa": 0.35
+ },
+ {
+  "i": 1,
+  "a": 4.39,
+  "b": 12.37,
+  "acierto": 0.84,
+  "texto": "En Florida, unos economistas siguieron a ganadores de la lotería que se llevaron entre cincuenta mil y ciento cincuenta mil dólares.",
+  "pausa": 0.35
+ },
+ {
+  "i": 2,
+  "a": 12.72,
+  "b": 24.18,
+  "acierto": 1.0,
+  "texto": "Justo después de ganar, se declaraban menos en bancarrota. Pero entre tres y cinco años después, la quiebra volvía. A los cinco años, estaban igual que los que habían ganado poco.",
+  "pausa": 0.35
+ },
+ {
+  "i": 3,
+  "a": 24.53,
+  "b": 28.66,
+  "acierto": 1.0,
+  "texto": "El dinero no arregló sus problemas: solo los aplazó.",
+  "pausa": 0.35
+ },
+ {
+  "i": 4,
+  "a": 29.01,
+  "b": 38.84,
+  "acierto": 0.95,
+  "texto": "Pero en Suecia, otro estudio encontró algo distinto: los grandes ganadores estaban más satisfechos con su vida incluso más de diez años después.",
+  "pausa": 0.35
+ },
+ {
+  "i": 5,
+  "a": 39.19,
+  "b": 46.26,
+  "acierto": 1.0,
+  "texto": "Eso sí: la satisfacción subía, pero la felicidad del día a día y la salud mental, mucho menos.",
+  "pausa": 0.35
+ },
+ {
+  "i": 6,
+  "a": 46.61,
+  "b": 51.88,
+  "acierto": 1.0,
+  "texto": "¿La clave? Sobre todo, la tranquilidad de tener sus cuentas en orden.",
+  "pausa": 0.35
+ }
+]
