@@ -1,0 +1,34 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 6.84,
+  "acierto": 1.0,
+  "texto": "Unos años antes, Cristóbal Colón va de corte en corte con un plan: llegar a Asia navegando hacia el oeste.",
+  "pausa": 0.25
+ },
+ {
+  "i": 1,
+  "a": 7.09,
+  "b": 12.92,
+  "acierto": 1.0,
+  "texto": "Y aquí cae el primer mito: nadie le discutió que la Tierra fuera redonda. Eso ya se sabía.",
+  "pausa": 0.25
+ },
+ {
+  "i": 2,
+  "a": 13.17,
+  "b": 18.91,
+  "acierto": 1.0,
+  "texto": "La leyenda de la Tierra plana se popularizó siglos después, con una biografía novelada de Washington Irving.",
+  "pausa": 0.25
+ },
+ {
+  "i": 3,
+  "a": 19.16,
+  "b": 25.88,
+  "acierto": 1.0,
+  "texto": "El problema de verdad era otro: el tamaño del planeta. Los sabios que estudiaron su proyecto se lo dijeron claro.",
+  "pausa": 0.25
+ }
+]

@@ -1,0 +1,34 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 9.04,
+  "acierto": 0.91,
+  "texto": "Colón había hecho las cuentas a su manera: mezcló datos antiguos, confundió millas árabes con millas romanas, y estiró Asia hacia el este.",
+  "pausa": 0.25
+ },
+ {
+  "i": 1,
+  "a": 9.29,
+  "b": 13.7,
+  "acierto": 0.79,
+  "texto": "Resultado: se imaginó un planeta un veinticinco por ciento más pequeño de lo que es.",
+  "pausa": 0.25
+ },
+ {
+  "i": 2,
+  "a": 13.95,
+  "b": 21.42,
+  "acierto": 0.9,
+  "texto": "Según sus números, desde Canarias hasta las Indias había unas tres mil millas náuticas. La distancia real era más del doble.",
+  "pausa": 0.25
+ },
+ {
+  "i": 3,
+  "a": 21.67,
+  "b": 27.49,
+  "acierto": 0.78,
+  "texto": "Aun así, en mil cuatrocientos noventa y dos los Reyes Católicos le dan su apoyo. Y Colón se lanza.",
+  "pausa": 0.25
+ }
+]

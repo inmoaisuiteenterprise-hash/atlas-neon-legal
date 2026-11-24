@@ -1,0 +1,18 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 6.54,
+  "acierto": 0.67,
+  "texto": "Hoy hemos hecho sesenta leguas. A la gente, decidle cuarenta y ocho.",
+  "pausa": 0.3
+ },
+ {
+  "i": 1,
+  "a": 6.84,
+  "b": 11.07,
+  "acierto": 1.0,
+  "texto": "Dadme dos días más. Si no hay tierra, volvemos.",
+  "pausa": 0.3
+ }
+]

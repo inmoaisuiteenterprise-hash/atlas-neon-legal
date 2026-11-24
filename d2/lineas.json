@@ -1,0 +1,18 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 7.19,
+  "acierto": 1.0,
+  "texto": "En su diario lo explica: a la tripulación le cuenta menos distancia de la real, para que no se asuste si el viaje se alarga.",
+  "pausa": 0.25
+ },
+ {
+  "i": 1,
+  "a": 7.44,
+  "b": 11.34,
+  "acierto": 1.0,
+  "texto": "Pasan los días. Pasan las semanas. Y en el horizonte no aparece nada.",
+  "pausa": 0.25
+ }
+]

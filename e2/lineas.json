@@ -1,0 +1,42 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 9.55,
+  "acierto": 0.96,
+  "texto": "Es una isla de las Bahamas: Guanahaní. Y la recompensa por ver tierra primero… se la quedó Colón, que aseguró haber visto una luz horas antes.",
+  "pausa": 0.25
+ },
+ {
+  "i": 1,
+  "a": 9.8,
+  "b": 16.75,
+  "acierto": 1.0,
+  "texto": "Colón cree que está cerca de Japón. Pero ahora, la gran pregunta: ¿y si América no hubiera estado ahí?",
+  "pausa": 0.25
+ },
+ {
+  "i": 2,
+  "a": 17.0,
+  "b": 22.94,
+  "acierto": 0.88,
+  "texto": "Habían salido de Canarias treinta y seis días antes. Y la verdadera Asia seguía a miles de kilómetros.",
+  "pausa": 0.25
+ },
+ {
+  "i": 3,
+  "a": 23.19,
+  "b": 32.07,
+  "acierto": 1.0,
+  "texto": "Con aquellos barcos y aquellas provisiones, lo más probable es que nunca hubieran llegado: o daban la vuelta, o se quedaban sin agua ni comida en mitad del océano.",
+  "pausa": 0.25
+ },
+ {
+  "i": 4,
+  "a": 32.32,
+  "b": 40.24,
+  "acierto": 0.96,
+  "texto": "Los sabios tenían razón y Colón estaba equivocado. Y aun así, cambió la historia… gracias a un continente con el que no contaba nadie.",
+  "pausa": 0.25
+ }
+]

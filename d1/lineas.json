@@ -1,0 +1,18 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 6.88,
+  "acierto": 1.0,
+  "texto": "Tres de agosto. Salen de Palos con tres barcos: la Santa María, la Pinta y la Niña.",
+  "pausa": 0.25
+ },
+ {
+  "i": 1,
+  "a": 7.13,
+  "b": 13.74,
+  "acierto": 0.9,
+  "texto": "Tras una parada en Canarias, el seis de septiembre ponen rumbo al oeste. Y Colón empieza a hacer algo curioso.",
+  "pausa": 0.25
+ }
+]
