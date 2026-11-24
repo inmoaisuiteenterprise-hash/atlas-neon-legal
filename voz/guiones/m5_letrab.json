@@ -1,0 +1,43 @@
+{
+ "modo": "clon",
+ "ref": "ref_vox4_l2.wav",
+ "ref_text": "París, mil novecientos veinticinco. Un hombre muy elegante acaba de vender la Torre Eiffel. Siete mil toneladas de hierro. Y no era suya. Lo más increíble no es que el comprador picara. Es que, además, le pagó un soborno. Hoy te explico por qué ese soborno fue justo lo que le convenció.",
+ "lineas": [
+  {
+   "texto": "Paso uno: el momento.",
+   "pausa": 0.35
+  },
+  {
+   "texto": "En mil novecientos veinticinco la torre cuesta mucho de mantener, recibe menos visitas, y Gustave Eiffel, su gran defensor, había muerto dos años antes.",
+   "pausa": 0.35
+  },
+  {
+   "texto": "Víctor Lustig lee en el periódico que a la ciudad le sale cara. Y se le ocurre una idea.",
+   "pausa": 0.35
+  },
+  {
+   "texto": "Paso dos: la autoridad. Se hace pasar por un alto cargo del Ministerio de Correos y Telégrafos, con papel oficial falsificado.",
+   "pausa": 0.35
+  },
+  {
+   "texto": "Y cita a varios chatarreros en el Hôtel de Crillon, uno de los más lujosos de París.",
+   "pausa": 0.35
+  },
+  {
+   "texto": "Paso tres: el secreto. Les cuenta que el gobierno va a desmontar la torre y venderla como chatarra, pero que nadie puede saberlo todavía, para evitar un escándalo.",
+   "pausa": 0.35
+  },
+  {
+   "texto": "Fíjate en la trampa: si es secreto, no puedes preguntarle a nadie. Y si no preguntas a nadie, nadie puede avisarte.",
+   "pausa": 0.35
+  },
+  {
+   "texto": "Paso cuatro: el elegido. Lustig se fija en André Poisson, un chatarrero relativamente nuevo en la ciudad.",
+   "pausa": 0.35
+  },
+  {
+   "texto": "Pero Poisson desconfía. Hace demasiadas preguntas. Y aquí viene la jugada maestra.",
+   "pausa": 0.35
+  }
+ ]
+}

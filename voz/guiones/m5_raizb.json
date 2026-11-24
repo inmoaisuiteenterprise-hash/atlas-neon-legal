@@ -1,0 +1,43 @@
+{
+ "modo": "clon",
+ "ref": "ref_vox4_r1.wav",
+ "ref_text": "Abril de mil setecientos cuarenta y uno. En Londres ya están fabricando medallas para celebrar una victoria. Solo hay un problema: la batalla todavía no ha terminado. Al otro lado del océano, un almirante al que le falta una pierna, un ojo y un brazo está a punto de cambiar el final de la historia.",
+ "lineas": [
+  {
+   "texto": "Para entender esta locura hay que viajar al Caribe.",
+   "pausa": 0.35
+  },
+  {
+   "texto": "Cartagena de Indias es uno de los puertos más importantes del imperio español: por aquí pasa la plata camino de España.",
+   "pausa": 0.35
+  },
+  {
+   "texto": "España e Inglaterra están en guerra. Una guerra con un nombre absurdo: la guerra de la Oreja de Jenkins.",
+   "pausa": 0.35
+  },
+  {
+   "texto": "Y el almirante británico Edward Vernon tiene un objetivo: tomar Cartagena.",
+   "pausa": 0.35
+  },
+  {
+   "texto": "En marzo de mil setecientos cuarenta y uno aparece frente a la ciudad con cerca de ciento ochenta barcos y más de veinte mil hombres.",
+   "pausa": 0.35
+  },
+  {
+   "texto": "Enfrente, Blas de Lezo tiene seis navíos y unos pocos miles de defensores.",
+   "pausa": 0.35
+  },
+  {
+   "texto": "Sobre el papel, no hay partido. En Inglaterra lo saben. O eso creen.",
+   "pausa": 0.35
+  },
+  {
+   "texto": "Lezo hace algo desesperado: hunde sus propios barcos en la entrada de la bahía, para cerrar el paso.",
+   "pausa": 0.35
+  },
+  {
+   "texto": "Cada día que los ingleses pierden ahí fuera, juega a su favor. Porque en el Caribe hay un enemigo que no lleva uniforme: la fiebre amarilla.",
+   "pausa": 0.35
+  }
+ ]
+}

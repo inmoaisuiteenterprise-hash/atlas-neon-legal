@@ -1,0 +1,27 @@
+{
+ "modo": "clon",
+ "ref": "ref_vox4_r1.wav",
+ "ref_text": "Abril de mil setecientos cuarenta y uno. En Londres ya están fabricando medallas para celebrar una victoria. Solo hay un problema: la batalla todavía no ha terminado. Al otro lado del océano, un almirante al que le falta una pierna, un ojo y un brazo está a punto de cambiar el final de la historia.",
+ "lineas": [
+  {
+   "texto": "Abril de mil setecientos cuarenta y uno. En Inglaterra ya están acuñando medallas para celebrar una victoria.",
+   "pausa": 0.35
+  },
+  {
+   "texto": "En ellas, un almirante español aparece de rodillas, entregando su espada.",
+   "pausa": 0.35
+  },
+  {
+   "texto": "Solo hay un problema: la batalla todavía no ha terminado.",
+   "pausa": 0.35
+  },
+  {
+   "texto": "Y ese almirante, al que le faltan una pierna y un ojo, y que tiene un brazo inútil, no tiene ninguna intención de arrodillarse.",
+   "pausa": 0.35
+  },
+  {
+   "texto": "Esta es la historia de una de las mayores flotas reunidas hasta entonces… y de cómo acabó.",
+   "pausa": 0.35
+  }
+ ]
+}
