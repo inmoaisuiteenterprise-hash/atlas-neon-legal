@@ -1,0 +1,18 @@
+{
+ "modo": "diseno",
+ "instruct": "Hombre de cuarenta y cinco años, voz grave, cálida y rasposa, narra en voz baja como contando un secreto, misterioso y cercano, ritmo lento, español de España.",
+ "lineas": [
+  {
+   "texto": "Doce de octubre de mil cuatrocientos noventa y dos. Dos de la madrugada.",
+   "pausa": 0.5
+  },
+  {
+   "texto": "Noventa hombres llevan más de un mes sin ver tierra… y su capitán les ha estado mintiendo sobre lo lejos que están de casa.",
+   "pausa": 0.5
+  },
+  {
+   "texto": "Lo que nadie sabe a bordo es que, si delante no hubiera nada… ninguno volvería jamás.",
+   "pausa": 0.5
+  }
+ ]
+}

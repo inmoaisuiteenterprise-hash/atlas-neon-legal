@@ -1,0 +1,18 @@
+{
+ "modo": "diseno",
+ "instruct": "Narrador masculino de sesenta años, voz grave, serena y profunda, como un viejo marinero contando una leyenda junto al fuego, ritmo pausado, español de España.",
+ "lineas": [
+  {
+   "texto": "Doce de octubre de mil cuatrocientos noventa y dos. Dos de la madrugada.",
+   "pausa": 0.5
+  },
+  {
+   "texto": "Noventa hombres llevan más de un mes sin ver tierra… y su capitán les ha estado mintiendo sobre lo lejos que están de casa.",
+   "pausa": 0.5
+  },
+  {
+   "texto": "Lo que nadie sabe a bordo es que, si delante no hubiera nada… ninguno volvería jamás.",
+   "pausa": 0.5
+  }
+ ]
+}
