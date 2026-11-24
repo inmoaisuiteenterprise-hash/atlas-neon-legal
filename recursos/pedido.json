@@ -155,8 +155,28 @@
 "licencia": "Kevin MacLeod (incompetech.com), CC BY 4.0"
 },
 {
-"url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Tenebrous%20Brothers%20Carnival%20-%20Mausoleum.mp3",
-"nombre": "km_Tenebrous_Brothers_Carnival_-_Mausoleum.mp3",
-"licencia": "Kevin MacLeod (incompetech.com), CC BY 4.0"
+"url": "https://naciscdn.org/naturalearth/10m/raster/NE2_HR_LC_SR_W.zip",
+"nombre": "ne2.zip",
+"licencia": "Natural Earth, dominio público",
+"recortes": [
+{
+"nombre": "relieve_atlantico.jpg",
+"bb": [
+-90,
+0,
+10,
+60
+]
+},
+{
+"nombre": "relieve_europa.jpg",
+"bb": [
+-30,
+28,
+45,
+72
+]
+}
+]
 }
 ]

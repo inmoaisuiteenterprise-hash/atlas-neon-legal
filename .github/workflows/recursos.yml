@@ -1,4 +1,6 @@
-# Descarga recursos libres (por ejemplo, bancos de sonido con licencia MIT) a la rama "recursos". Sin secretos ni coste.
+# Descarga recursos libres (música CC BY, rásters de Natural Earth en dominio público...) a la rama "recursos". Sin secretos ni coste.
+# pedido.json: [{"url", "nombre", "licencia", "recortes"?: [{"nombre", "bb": [lon0, lat0, lon1, lat1]}]}]
+# Los rásters mundiales equirectangulares (zip con .tif) se recortan aquí para no subir archivos enormes.
 name: "Recursos libres"
 on:
   push:
@@ -11,9 +13,25 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      - run: pip install -q pillow
       - run: |
-          mkdir -p /tmp/r && cd /tmp/r
-          python3 -c "import json;[print(x['url'],x['nombre']) for x in json.load(open('$GITHUB_WORKSPACE/recursos/pedido.json'))]" | while read u n; do curl -fsSL "$u" -o "$n" && ls -la "$n"; done
+          mkdir -p /tmp/r /tmp/z && cd /tmp/r
+          python3 - <<'PY'
+          import json, subprocess, os, glob, zipfile
+          from PIL import Image
+          Image.MAX_IMAGE_PIXELS = None
+          for x in json.load(open(os.environ["GITHUB_WORKSPACE"] + "/recursos/pedido.json")):
+              dst = x["nombre"] if not x.get("recortes") else "/tmp/z/" + x["nombre"]
+              r = subprocess.run(["curl", "-fsSL", x["url"], "-o", dst])
+              print(("OK   " if r.returncode == 0 else "FALLO") + " " + x["nombre"], flush=True)
+              if r.returncode or not x.get("recortes"): continue
+              zipfile.ZipFile(dst).extractall("/tmp/z/x"); tif = glob.glob("/tmp/z/x/**/*.tif", recursive=True)[0]
+              im = Image.open(tif).convert("RGB"); W, H = im.size
+              for rc in x["recortes"]:
+                  l0, a0, l1, a1 = rc["bb"]; box = (round((l0 + 180) / 360 * W), round((90 - a1) / 180 * H), round((l1 + 180) / 360 * W), round((90 - a0) / 180 * H))
+                  im.crop(box).save(rc["nombre"], quality=88); print("recorte", rc["nombre"], box, flush=True)
+          PY
+          ls -la
           cp $GITHUB_WORKSPACE/recursos/pedido.json . ; git init -q -b recursos && git add -A
           git -c user.name=atlas-bot -c user.email=atlas-bot@users.noreply.github.com commit -qm "Recursos libres"
           git push -qf "https://x-access-token:${{ github.token }}@github.com/${GITHUB_REPOSITORY}.git" recursos
