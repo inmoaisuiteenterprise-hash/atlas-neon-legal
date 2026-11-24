@@ -1,0 +1,32 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 5.11,
+  "acierto": 1.0,
+  "texto": "Colón tiene un plan que, según él, no puede fallar: llegar hasta Asia navegando hacia el oeste.",
+  "exa": 0.55,
+  "cfg": 0.45,
+  "pausa": 0.2
+ },
+ {
+  "i": 1,
+  "a": 5.31,
+  "b": 14.07,
+  "acierto": 0.92,
+  "texto": "Y no, nadie le dijo que la Tierra era plana. Eso es un mito que se hizo famoso siglos después. Cualquiera con estudios sabía que era redonda.",
+  "exa": 0.55,
+  "cfg": 0.45,
+  "pausa": 0.2
+ },
+ {
+  "i": 2,
+  "a": 14.27,
+  "b": 18.13,
+  "acierto": 1.0,
+  "texto": "El problema era otro: lo grande que era.",
+  "exa": 0.55,
+  "cfg": 0.45,
+  "pausa": 0.2
+ }
+]

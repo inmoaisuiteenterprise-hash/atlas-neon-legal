@@ -1,0 +1,42 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 5.2,
+  "acierto": 0.94,
+  "texto": "Imagina que haces un examen de mates, te equivocas en todo… y aun así te ponen matrícula de honor.",
+  "exa": 0.55,
+  "cfg": 0.45,
+  "pausa": 0.2
+ },
+ {
+  "i": 1,
+  "a": 5.4,
+  "b": 8.12,
+  "acierto": 0.9,
+  "texto": "Pues eso, más o menos, le pasó a Cristóbal Colón.",
+  "exa": 0.55,
+  "cfg": 0.45,
+  "pausa": 0.2
+ },
+ {
+  "i": 2,
+  "a": 8.32,
+  "b": 14.88,
+  "acierto": 1.0,
+  "texto": "Hizo mal las cuentas más importantes de su vida. Y en vez de perderse en el océano… acabó en todos los libros de historia.",
+  "exa": 0.55,
+  "cfg": 0.45,
+  "pausa": 0.2
+ },
+ {
+  "i": 3,
+  "a": 15.08,
+  "b": 19.32,
+  "acierto": 1.0,
+  "texto": "Hoy nos preguntamos: ¿qué le habría pasado si América no hubiera estado ahí en medio?",
+  "exa": 0.55,
+  "cfg": 0.45,
+  "pausa": 0.2
+ }
+]

@@ -1,0 +1,42 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 2.86,
+  "acierto": 0.89,
+  "texto": "Ahora sí. ¿Y si América no hubiera estado ahí?",
+  "exa": 0.55,
+  "cfg": 0.45,
+  "pausa": 0.2
+ },
+ {
+  "i": 1,
+  "a": 3.06,
+  "b": 11.78,
+  "acierto": 0.9,
+  "texto": "Llevaban treinta y seis días desde Canarias. Y la Asia de verdad seguía a miles de kilómetros, al otro lado de otro océano: el Pacífico.",
+  "exa": 0.55,
+  "cfg": 0.45,
+  "pausa": 0.2
+ },
+ {
+  "i": 2,
+  "a": 11.98,
+  "b": 22.03,
+  "acierto": 0.92,
+  "texto": "Con la comida y el agua que llevaban, había dos opciones. Una: dar media vuelta con el rabo entre las piernas. Dos: quedarse sin nada en mitad del océano.",
+  "exa": 0.55,
+  "cfg": 0.45,
+  "pausa": 0.2
+ },
+ {
+  "i": 3,
+  "a": 22.23,
+  "b": 28.18,
+  "acierto": 1.0,
+  "texto": "Y hoy Colón no sería un héroe de los libros. Sería un meme: el tío que se perdió en el mar por hacer mal las cuentas.",
+  "exa": 0.55,
+  "cfg": 0.45,
+  "pausa": 0.2
+ }
+]

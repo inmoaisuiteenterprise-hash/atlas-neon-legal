@@ -1,0 +1,22 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 7.26,
+  "acierto": 1.0,
+  "texto": "Está en su propio diario: cada día apuntaba menos distancia de la real, para que nadie se asustara de lo lejos que estaban de casa.",
+  "exa": 0.55,
+  "cfg": 0.45,
+  "pausa": 0.2
+ },
+ {
+  "i": 1,
+  "a": 7.46,
+  "b": 14.39,
+  "acierto": 1.0,
+  "texto": "Pasan las semanas. Ni una isla. Agua, agua y más agua. Y la tripulación empieza a perder la paciencia.",
+  "exa": 0.55,
+  "cfg": 0.45,
+  "pausa": 0.2
+ }
+]

@@ -1,0 +1,22 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 9.84,
+  "acierto": 0.89,
+  "texto": "Rodrigo de Triana, desde la Pinta, ve tierra. Había un premio para el primero que la viera. ¿Para quién fue? Para Colón, que dijo haber visto una lucecita unas horas antes.",
+  "exa": 0.55,
+  "cfg": 0.45,
+  "pausa": 0.2
+ },
+ {
+  "i": 1,
+  "a": 10.04,
+  "b": 11.99,
+  "acierto": 1.0,
+  "texto": "Un clásico.",
+  "exa": 0.55,
+  "cfg": 0.45,
+  "pausa": 0.2
+ }
+]
