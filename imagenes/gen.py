@@ -5,11 +5,11 @@ from diffusers import StableDiffusionXLPipeline, UNet2DConditionModel, EulerDisc
 from huggingface_hub import hf_hub_download
 from safetensors.torch import load_file
 P = json.load(open(sys.argv[1])); k, n, out = int(sys.argv[2]), int(sys.argv[3]), sys.argv[4]; os.makedirs(out, exist_ok=True)
-torch.set_num_threads(os.cpu_count() or 4); dt = torch.bfloat16
+torch.set_num_threads(os.cpu_count() or 4); dt = torch.float32 if P.get("fp32", True) else torch.bfloat16
 base = "stabilityai/stable-diffusion-xl-base-1.0"
 unet = UNet2DConditionModel.from_config(base, subfolder="unet").to(dt)
 unet.load_state_dict(load_file(hf_hub_download("ByteDance/SDXL-Lightning", "sdxl_lightning_4step_unet.safetensors"), device="cpu"))
-pipe = StableDiffusionXLPipeline.from_pretrained(base, unet=unet, torch_dtype=dt, variant="fp16")
+pipe = StableDiffusionXLPipeline.from_pretrained(base, unet=unet, torch_dtype=dt)
 pipe.scheduler = EulerDiscreteScheduler.from_config(pipe.scheduler.config, timestep_spacing="trailing")
 estilo = P.get("estilo", ""); neg = P.get("negativo", "")
 for i, im in enumerate(P["imagenes"]):

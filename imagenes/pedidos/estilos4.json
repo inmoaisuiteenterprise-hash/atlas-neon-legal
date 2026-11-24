@@ -1,0 +1,58 @@
+{
+ "trabajo": "estilos4",
+ "trozos": 10,
+ "estilo": "",
+ "negativo": "photo, realistic, 3d render, painting, detailed shading, realistic proportions, sketch, blurry, text, letters, watermark, deformed, extra fingers, anime, comic book, gritty",
+ "imagenes": [
+  {
+   "id": "c1",
+   "prompt": "Christopher Columbus character with white hair and red cloak, no beard, arguing with a grumpy sailor with a big white beard and red cap, on the deck of a small wooden ship at sea, blue sky, cute chibi cartoon, big round heads, small bodies, simple dot eyes, thick black outlines, flat bright colors, simple vector shapes, funny history cartoon for youtube",
+   "seed": 300
+  },
+  {
+   "id": "c2",
+   "prompt": "Christopher Columbus character with white hair and red cloak, no beard, arguing with a grumpy sailor with a big white beard and red cap, on the deck of a small wooden ship at sea, blue sky, 2D flat vector cartoon, characters with very big heads and tiny bodies, simple round faces, bold outlines, bright cheerful colors, kids history animation style",
+   "seed": 301
+  },
+  {
+   "id": "c3",
+   "prompt": "Christopher Columbus character with white hair and red cloak, no beard, arguing with a grumpy sailor with a big white beard and red cap, on the deck of a small wooden ship at sea, blue sky, cartoon mascot style characters, oversized heads, big expressive eyes, thick outlines, flat colors, no shading, clean simple background, comedy youtube animation",
+   "seed": 302
+  },
+  {
+   "id": "c4",
+   "prompt": "Christopher Columbus character with white hair and red cloak, no beard, arguing with a grumpy sailor with a big white beard and red cap, on the deck of a small wooden ship at sea, blue sky, simple cartoon, round cute characters, big heads, flat colors, thick dark outline, minimal details, sticker style, humorous",
+   "seed": 303
+  },
+  {
+   "id": "c5",
+   "prompt": "Christopher Columbus character with white hair and red cloak, no beard, arguing with a grumpy sailor with a big white beard and red cap, on the deck of a small wooden ship at sea, blue sky, chibi cartoon characters with big heads and big funny expressions, flat cel colors, bold outline, detailed cartoon background, animated history series",
+   "seed": 304
+  },
+  {
+   "id": "c6",
+   "prompt": "Christopher Columbus character with white hair and red cloak, no beard, arguing with a grumpy sailor with a big white beard and red cap, on the deck of a small wooden ship at sea, blue sky, funny cartoon, big-headed caricature characters, flat vector illustration, thick outlines, saturated colors, cartoon sea and ship",
+   "seed": 305
+  },
+  {
+   "id": "c7",
+   "prompt": "Christopher Columbus character with white hair and red cloak, no beard, arguing with a grumpy sailor with a big white beard and red cap, on the deck of a small wooden ship at sea, blue sky, cute 2D animation style, chibi proportions, glossy flat colors, thick outlines, adorable comedic characters, cartoon ocean",
+   "seed": 306
+  },
+  {
+   "id": "c8",
+   "prompt": "Christopher Columbus character with white hair and red cloak, no beard, arguing with a grumpy sailor with a big white beard and red cap, on the deck of a small wooden ship at sea, blue sky, flat vector cartoon infographic style characters, big heads, simple faces, bold outline, bright colors, youtube explainer animation",
+   "seed": 307
+  },
+  {
+   "id": "c9",
+   "prompt": "Christopher Columbus character with white hair and red cloak, no beard, arguing with a grumpy sailor with a big white beard and red cap, on the deck of a small wooden ship at sea, blue sky, cartoon caricature, huge heads, tiny bodies, exaggerated angry and smug expressions, flat colors, black outline, simple background",
+   "seed": 308
+  },
+  {
+   "id": "c10",
+   "prompt": "Christopher Columbus character with white hair and red cloak, no beard, arguing with a grumpy sailor with a big white beard and red cap, on the deck of a small wooden ship at sea, blue sky, chibi animated series frame, big head characters, simple shading, thick lines, bright sky and sea, comedy",
+   "seed": 309
+  }
+ ]
+}
