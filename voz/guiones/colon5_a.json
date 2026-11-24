@@ -1,0 +1,29 @@
+{
+ "ref": "ref_09334.wav",
+ "lineas": [
+  {
+   "texto": "Imagina que haces un examen de mates, te equivocas en todo… y aun así te ponen matrícula de honor.",
+   "exa": 0.55,
+   "cfg": 0.45,
+   "pausa": 0.2
+  },
+  {
+   "texto": "Pues eso, más o menos, le pasó a Cristóbal Colón.",
+   "exa": 0.55,
+   "cfg": 0.45,
+   "pausa": 0.2
+  },
+  {
+   "texto": "Hizo mal las cuentas más importantes de su vida. Y en vez de perderse en el océano… acabó en todos los libros de historia.",
+   "exa": 0.55,
+   "cfg": 0.45,
+   "pausa": 0.2
+  },
+  {
+   "texto": "Hoy nos preguntamos: ¿qué le habría pasado si América no hubiera estado ahí en medio?",
+   "exa": 0.55,
+   "cfg": 0.45,
+   "pausa": 0.2
+  }
+ ]
+}

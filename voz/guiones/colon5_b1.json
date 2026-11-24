@@ -1,0 +1,23 @@
+{
+ "ref": "ref_09334.wav",
+ "lineas": [
+  {
+   "texto": "Colón tiene un plan que, según él, no puede fallar: llegar hasta Asia navegando hacia el oeste.",
+   "exa": 0.55,
+   "cfg": 0.45,
+   "pausa": 0.2
+  },
+  {
+   "texto": "Y no, nadie le dijo que la Tierra era plana. Eso es un mito que se hizo famoso siglos después. Cualquiera con estudios sabía que era redonda.",
+   "exa": 0.55,
+   "cfg": 0.45,
+   "pausa": 0.2
+  },
+  {
+   "texto": "El problema era otro: lo grande que era.",
+   "exa": 0.55,
+   "cfg": 0.45,
+   "pausa": 0.2
+  }
+ ]
+}

@@ -1,0 +1,17 @@
+{
+ "ref": "ref_09334.wav",
+ "lineas": [
+  {
+   "texto": "Rodrigo de Triana, desde la Pinta, ve tierra. Había un premio para el primero que la viera. ¿Para quién fue? Para Colón, que dijo haber visto una lucecita unas horas antes.",
+   "exa": 0.55,
+   "cfg": 0.45,
+   "pausa": 0.2
+  },
+  {
+   "texto": "Un clásico.",
+   "exa": 0.55,
+   "cfg": 0.45,
+   "pausa": 0.2
+  }
+ ]
+}

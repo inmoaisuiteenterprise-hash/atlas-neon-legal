@@ -1,0 +1,29 @@
+{
+ "ref": "ref_09334.wav",
+ "lineas": [
+  {
+   "texto": "Colón había hecho las cuentas a su manera. Mezcló millas árabes con millas romanas, que no medían lo mismo… y en su mapa, Asia se estiraba hacia el oeste como un chicle.",
+   "exa": 0.55,
+   "cfg": 0.45,
+   "pausa": 0.2
+  },
+  {
+   "texto": "Resultado: le salía un planeta un veinticinco por ciento más pequeño.",
+   "exa": 0.55,
+   "cfg": 0.45,
+   "pausa": 0.2
+  },
+  {
+   "texto": "Para él, de Canarias hasta Asia había unas tres mil millas. En la realidad, más del doble. Y en medio, un océano que nadie había cruzado.",
+   "exa": 0.55,
+   "cfg": 0.45,
+   "pausa": 0.2
+  },
+  {
+   "texto": "Cualquier otro se habría rendido. Colón no. Insistió durante años, de corte en corte… hasta que los Reyes Católicos le dijeron que sí.",
+   "exa": 0.55,
+   "cfg": 0.45,
+   "pausa": 0.2
+  }
+ ]
+}

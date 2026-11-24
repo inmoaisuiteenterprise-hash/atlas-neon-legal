@@ -1,0 +1,17 @@
+{
+ "ref": "ref_09334.wav",
+ "lineas": [
+  {
+   "texto": "Tres de agosto de mil cuatrocientos noventa y dos. Salen de Palos tres barcos: la Santa María, la Pinta y la Niña.",
+   "exa": 0.55,
+   "cfg": 0.45,
+   "pausa": 0.2
+  },
+  {
+   "texto": "Paran en Canarias, y el seis de septiembre se lanzan al océano. Y aquí empieza lo bueno: Colón le miente a su propia tripulación.",
+   "exa": 0.55,
+   "cfg": 0.45,
+   "pausa": 0.2
+  }
+ ]
+}
