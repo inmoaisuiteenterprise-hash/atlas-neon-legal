@@ -1,0 +1,20 @@
+{
+ "ref": "ref_09334.wav",
+ "lineas": [
+  {
+   "texto": "Imagina que suspendes un examen de mates con un dos… y aun así te ponen matrícula de honor.",
+   "exa": 0.55,
+   "pausa": 0.25
+  },
+  {
+   "texto": "Pues eso le pasó a Cristóbal Colón. Se equivocó en las cuentas más importantes de su vida… y acabó en todos los libros de historia.",
+   "exa": 0.55,
+   "pausa": 0.25
+  },
+  {
+   "texto": "La pregunta es: ¿qué le habría pasado si América no hubiera estado en medio?",
+   "exa": 0.55,
+   "pausa": 0.25
+  }
+ ]
+}
