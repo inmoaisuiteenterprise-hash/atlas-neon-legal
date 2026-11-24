@@ -1,0 +1,15 @@
+{
+ "modo": "clon",
+ "ref": "ref_raiz_n1.wav",
+ "ref_text": "Año mil cuatrocientos noventa y dos. Tres barcos llevan más de un mes navegando hacia el oeste, sin ver tierra. Su capitán está convencido de que Asia está ahí delante. Pero se equivocó en las cuentas. ¡Y no por poco!",
+ "lineas": [
+  {
+   "texto": "En su diario lo explica: a la tripulación le cuenta menos distancia de la real, para que no se asuste si el viaje se alarga.",
+   "pausa": 0.25
+  },
+  {
+   "texto": "Pasan los días. Pasan las semanas. Y en el horizonte no aparece nada.",
+   "pausa": 0.25
+  }
+ ]
+}

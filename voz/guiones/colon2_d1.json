@@ -1,0 +1,15 @@
+{
+ "modo": "clon",
+ "ref": "ref_raiz_n1.wav",
+ "ref_text": "Año mil cuatrocientos noventa y dos. Tres barcos llevan más de un mes navegando hacia el oeste, sin ver tierra. Su capitán está convencido de que Asia está ahí delante. Pero se equivocó en las cuentas. ¡Y no por poco!",
+ "lineas": [
+  {
+   "texto": "Tres de agosto. Salen de Palos con tres barcos: la Santa María, la Pinta y la Niña.",
+   "pausa": 0.25
+  },
+  {
+   "texto": "Tras una parada en Canarias, el seis de septiembre ponen rumbo al oeste. Y Colón empieza a hacer algo curioso.",
+   "pausa": 0.25
+  }
+ ]
+}

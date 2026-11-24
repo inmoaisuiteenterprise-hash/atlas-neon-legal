@@ -1,0 +1,23 @@
+{
+ "modo": "clon",
+ "ref": "ref_raiz_n1.wav",
+ "ref_text": "Año mil cuatrocientos noventa y dos. Tres barcos llevan más de un mes navegando hacia el oeste, sin ver tierra. Su capitán está convencido de que Asia está ahí delante. Pero se equivocó en las cuentas. ¡Y no por poco!",
+ "lineas": [
+  {
+   "texto": "Unos años antes, Cristóbal Colón va de corte en corte con un plan: llegar a Asia navegando hacia el oeste.",
+   "pausa": 0.25
+  },
+  {
+   "texto": "Y aquí cae el primer mito: nadie le discutió que la Tierra fuera redonda. Eso ya se sabía.",
+   "pausa": 0.25
+  },
+  {
+   "texto": "La leyenda de la Tierra plana se popularizó siglos después, con una biografía novelada de Washington Irving.",
+   "pausa": 0.25
+  },
+  {
+   "texto": "El problema de verdad era otro: el tamaño del planeta. Los sabios que estudiaron su proyecto se lo dijeron claro.",
+   "pausa": 0.25
+  }
+ ]
+}

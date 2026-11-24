@@ -1,0 +1,14 @@
+{
+ "modo": "diseno",
+ "instruct": "Hombre de cuarenta años, voz grave y profunda de hombre adulto, navegante decidido y astuto, habla bajo y con complicidad, español de España. Voz masculina grave.",
+ "lineas": [
+  {
+   "texto": "Hoy hemos hecho sesenta leguas. A la gente, decidle cuarenta y ocho.",
+   "pausa": 0.3
+  },
+  {
+   "texto": "Dadme dos días más. Si no hay tierra, volvemos.",
+   "pausa": 0.3
+  }
+ ]
+}

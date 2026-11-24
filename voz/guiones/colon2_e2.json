@@ -1,0 +1,27 @@
+{
+ "modo": "clon",
+ "ref": "ref_raiz_n1.wav",
+ "ref_text": "Año mil cuatrocientos noventa y dos. Tres barcos llevan más de un mes navegando hacia el oeste, sin ver tierra. Su capitán está convencido de que Asia está ahí delante. Pero se equivocó en las cuentas. ¡Y no por poco!",
+ "lineas": [
+  {
+   "texto": "Es una isla de las Bahamas: Guanahaní. Y la recompensa por ver tierra primero… se la quedó Colón, que aseguró haber visto una luz horas antes.",
+   "pausa": 0.25
+  },
+  {
+   "texto": "Colón cree que está cerca de Japón. Pero ahora, la gran pregunta: ¿y si América no hubiera estado ahí?",
+   "pausa": 0.25
+  },
+  {
+   "texto": "Habían salido de Canarias treinta y seis días antes. Y la verdadera Asia seguía a miles de kilómetros.",
+   "pausa": 0.25
+  },
+  {
+   "texto": "Con aquellos barcos y aquellas provisiones, lo más probable es que nunca hubieran llegado: o daban la vuelta, o se quedaban sin agua ni comida en mitad del océano.",
+   "pausa": 0.25
+  },
+  {
+   "texto": "Los sabios tenían razón y Colón estaba equivocado. Y aun así, cambió la historia… gracias a un continente con el que no contaba nadie.",
+   "pausa": 0.25
+  }
+ ]
+}

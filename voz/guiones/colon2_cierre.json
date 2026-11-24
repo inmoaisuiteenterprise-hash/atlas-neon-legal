@@ -1,0 +1,15 @@
+{
+ "modo": "clon",
+ "ref": "ref_raiz_n1.wav",
+ "ref_text": "Año mil cuatrocientos noventa y dos. Tres barcos llevan más de un mes navegando hacia el oeste, sin ver tierra. Su capitán está convencido de que Asia está ahí delante. Pero se equivocó en las cuentas. ¡Y no por poco!",
+ "lineas": [
+  {
+   "texto": "¿Tú qué crees que habría pasado? Te leo en los comentarios.",
+   "pausa": 0.25
+  },
+  {
+   "texto": "Y si te gustan estos «¿qué habría pasado si…?», suscríbete. El siguiente lo eliges tú.",
+   "pausa": 0.25
+  }
+ ]
+}
