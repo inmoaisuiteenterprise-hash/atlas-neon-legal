@@ -1,0 +1,48 @@
+{
+ "trabajo": "estilos2",
+ "trozos": 8,
+ "estilo": "",
+ "negativo": "photo, photorealistic, realistic, 3d render, oil painting, sketch, blurry, text, letters, watermark, signature, deformed, extra fingers, bad anatomy, beard on columbus",
+ "imagenes": [
+  {
+   "id": "d1",
+   "prompt": "Christopher Columbus, a clean-shaven man with long white hair and a red cloak, arguing with an angry bearded sailor in a red cap on the wooden deck of a 15th century caravel at sea, ropes and sails, anime screenshot, 2D cel animation, flat colors, hard cel shadows, clean thin lineart, crisp, vibrant saturated colors, anime TV series frame",
+   "seed": 100
+  },
+  {
+   "id": "d2",
+   "prompt": "Christopher Columbus, a clean-shaven man with long white hair and a red cloak, arguing with an angry bearded sailor in a red cap on the wooden deck of a 15th century caravel at sea, ropes and sails, anime key visual, cel shaded characters, clean lineart, bright blue sky, painted anime background, dynamic composition, high quality anime",
+   "seed": 101
+  },
+  {
+   "id": "d3",
+   "prompt": "Christopher Columbus, a clean-shaven man with long white hair and a red cloak, arguing with an angry bearded sailor in a red cap on the wooden deck of a 15th century caravel at sea, ropes and sails, 90s retro anime cel, hand-painted cels, film grain, warm colors, expressive faces, classic anime adventure series frame",
+   "seed": 102
+  },
+  {
+   "id": "d4",
+   "prompt": "Christopher Columbus, a clean-shaven man with long white hair and a red cloak, arguing with an angry bearded sailor in a red cap on the wooden deck of a 15th century caravel at sea, ropes and sails, modern anime film still, cel shading, glowing sunset light, lens flare, beautiful anime background art, expressive characters",
+   "seed": 103
+  },
+  {
+   "id": "d5",
+   "prompt": "Christopher Columbus, a clean-shaven man with long white hair and a red cloak, arguing with an angry bearded sailor in a red cap on the wooden deck of a 15th century caravel at sea, ropes and sails, anime adventure series frame, exaggerated comedic expressions, chibi-free, bold outlines, flat bright colors, energetic",
+   "seed": 104
+  },
+  {
+   "id": "d6",
+   "prompt": "Christopher Columbus, a clean-shaven man with long white hair and a red cloak, arguing with an angry bearded sailor in a red cap on the wooden deck of a 15th century caravel at sea, ropes and sails, dramatic anime action frame, dynamic angle, speed lines, strong cel shading, stormy sky, intense expressions",
+   "seed": 105
+  },
+  {
+   "id": "d7",
+   "prompt": "Christopher Columbus, a clean-shaven man with long white hair and a red cloak, arguing with an angry bearded sailor in a red cap on the wooden deck of a 15th century caravel at sea, ropes and sails, anime style, clean flat color, minimal shading, sharp outlines, looks like an animated cartoon frame, colorful",
+   "seed": 106
+  },
+  {
+   "id": "d8",
+   "prompt": "Christopher Columbus, a clean-shaven man with long white hair and a red cloak, arguing with an angry bearded sailor in a red cap on the wooden deck of a 15th century caravel at sea, ropes and sails, high budget anime movie frame, cel shaded characters over detailed painted background, cinematic, golden hour",
+   "seed": 107
+  }
+ ]
+}
