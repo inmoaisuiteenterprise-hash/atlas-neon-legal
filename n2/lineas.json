@@ -1,0 +1,18 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 7.45,
+  "acierto": 0.75,
+  "texto": "Año mil cuatrocientos noventa y dos. Tres barcos llevan más de un mes navegando hacia el oeste, sin ver tierra.",
+  "pausa": 0.3
+ },
+ {
+  "i": 1,
+  "a": 7.75,
+  "b": 14.88,
+  "acierto": 1.0,
+  "texto": "Su capitán está convencido de que Asia está ahí delante. Pero se equivocó en las cuentas. ¡Y no por poco!",
+  "pausa": 0.3
+ }
+]
