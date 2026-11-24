@@ -1,0 +1,68 @@
+{
+ "trabajo": "estilos1",
+ "trozos": 6,
+ "estilo": "",
+ "negativo": "photo, photorealistic, 3d render, blurry, text, letters, watermark, signature, deformed, extra fingers, bad anatomy",
+ "imagenes": [
+  {
+   "id": "e_serie_0",
+   "prompt": "Christopher Columbus, a man with long white hair and a red cloak, argues with an angry bearded old sailor in a red cap on the wooden deck of a 15th century caravel at sea, sails and ropes, dramatic sky, 2D animated TV series still frame, adult animation, bold clean black outlines, flat cel shading, expressive cartoon faces, exaggerated poses, vibrant colors, professional animation keyframe",
+   "seed": 11
+  },
+  {
+   "id": "e_serie_1",
+   "prompt": "Christopher Columbus, a man with long white hair and a red cloak, argues with an angry bearded old sailor in a red cap on the wooden deck of a 15th century caravel at sea, sails and ropes, dramatic sky, 2D animated TV series still frame, adult animation, bold clean black outlines, flat cel shading, expressive cartoon faces, exaggerated poses, vibrant colors, professional animation keyframe",
+   "seed": 22
+  },
+  {
+   "id": "e_anime_0",
+   "prompt": "Christopher Columbus, a man with long white hair and a red cloak, argues with an angry bearded old sailor in a red cap on the wooden deck of a 15th century caravel at sea, sails and ropes, dramatic sky, anime style key visual, cel shaded, clean lineart, expressive faces, detailed background painting, cinematic lighting, high quality animation still",
+   "seed": 11
+  },
+  {
+   "id": "e_anime_1",
+   "prompt": "Christopher Columbus, a man with long white hair and a red cloak, argues with an angry bearded old sailor in a red cap on the wooden deck of a 15th century caravel at sea, sails and ropes, dramatic sky, anime style key visual, cel shaded, clean lineart, expressive faces, detailed background painting, cinematic lighting, high quality animation still",
+   "seed": 22
+  },
+  {
+   "id": "e_comic_0",
+   "prompt": "Christopher Columbus, a man with long white hair and a red cloak, argues with an angry bearded old sailor in a red cap on the wooden deck of a 15th century caravel at sea, sails and ropes, dramatic sky, franco-belgian comic animation style, ligne claire, clean ink outlines, flat bright colors, humorous expressive characters, cartoon adventure, animated film frame",
+   "seed": 11
+  },
+  {
+   "id": "e_comic_1",
+   "prompt": "Christopher Columbus, a man with long white hair and a red cloak, argues with an angry bearded old sailor in a red cap on the wooden deck of a 15th century caravel at sea, sails and ropes, dramatic sky, franco-belgian comic animation style, ligne claire, clean ink outlines, flat bright colors, humorous expressive characters, cartoon adventure, animated film frame",
+   "seed": 22
+  },
+  {
+   "id": "e_disney_0",
+   "prompt": "Christopher Columbus, a man with long white hair and a red cloak, argues with an angry bearded old sailor in a red cap on the wooden deck of a 15th century caravel at sea, sails and ropes, dramatic sky, classic hand-drawn 2D animated feature film frame, painterly backgrounds, fluid character drawing, expressive cartoon characters, warm cinematic color, traditional animation",
+   "seed": 11
+  },
+  {
+   "id": "e_disney_1",
+   "prompt": "Christopher Columbus, a man with long white hair and a red cloak, argues with an angry bearded old sailor in a red cap on the wooden deck of a 15th century caravel at sea, sails and ropes, dramatic sky, classic hand-drawn 2D animated feature film frame, painterly backgrounds, fluid character drawing, expressive cartoon characters, warm cinematic color, traditional animation",
+   "seed": 22
+  },
+  {
+   "id": "e_moderno_0",
+   "prompt": "Christopher Columbus, a man with long white hair and a red cloak, argues with an angry bearded old sailor in a red cap on the wooden deck of a 15th century caravel at sea, sails and ropes, dramatic sky, modern stylized 2D animation, thick outlines, simple shapes, bold flat colors, comedic expressions, explainer cartoon for youtube, high quality",
+   "seed": 11
+  },
+  {
+   "id": "e_moderno_1",
+   "prompt": "Christopher Columbus, a man with long white hair and a red cloak, argues with an angry bearded old sailor in a red cap on the wooden deck of a 15th century caravel at sea, sails and ropes, dramatic sky, modern stylized 2D animation, thick outlines, simple shapes, bold flat colors, comedic expressions, explainer cartoon for youtube, high quality",
+   "seed": 22
+  },
+  {
+   "id": "e_oscuro_0",
+   "prompt": "Christopher Columbus, a man with long white hair and a red cloak, argues with an angry bearded old sailor in a red cap on the wooden deck of a 15th century caravel at sea, sails and ropes, dramatic sky, dark adult 2D animation style, gritty, strong shadows, cel shading, dramatic expressive characters, mature animated series frame",
+   "seed": 11
+  },
+  {
+   "id": "e_oscuro_1",
+   "prompt": "Christopher Columbus, a man with long white hair and a red cloak, argues with an angry bearded old sailor in a red cap on the wooden deck of a 15th century caravel at sea, sails and ropes, dramatic sky, dark adult 2D animation style, gritty, strong shadows, cel shading, dramatic expressive characters, mature animated series frame",
+   "seed": 22
+  }
+ ]
+}
