@@ -1,0 +1,20 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 5.37,
+  "acierto": 0.88,
+  "texto": "Moraleja: a veces aciertas… por pura suerte geográfica.",
+  "exa": 0.55,
+  "pausa": 0.25
+ },
+ {
+  "i": 1,
+  "a": 5.62,
+  "b": 12.27,
+  "acierto": 0.94,
+  "texto": "¿Qué otro «¿y si…?» quieres que hagamos? Déjalo en comentarios y suscríbete, que el siguiente es todavía más loco.",
+  "exa": 0.55,
+  "pausa": 0.25
+ }
+]

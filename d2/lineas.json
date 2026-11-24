@@ -1,0 +1,20 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 5.39,
+  "acierto": 1.0,
+  "texto": "Lo escribe él mismo en su diario: les cuenta menos distancia de la real para que nadie se asuste.",
+  "exa": 0.55,
+  "pausa": 0.25
+ },
+ {
+  "i": 1,
+  "a": 5.64,
+  "b": 11.39,
+  "acierto": 1.0,
+  "texto": "Pasan las semanas. Ni una isla. Solo agua. Y la tripulación empieza a perder la paciencia.",
+  "exa": 0.55,
+  "pausa": 0.25
+ }
+]

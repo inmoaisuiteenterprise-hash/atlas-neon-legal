@@ -1,0 +1,38 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 3.08,
+  "acierto": 1.0,
+  "texto": "Ahora sí: ¿y si América no hubiera estado ahí?",
+  "exa": 0.55,
+  "pausa": 0.25
+ },
+ {
+  "i": 1,
+  "a": 3.33,
+  "b": 9.06,
+  "acierto": 0.8,
+  "texto": "Llevaban treinta y seis días desde Canarias, y la Asia de verdad seguía a miles de kilómetros.",
+  "exa": 0.55,
+  "pausa": 0.25
+ },
+ {
+  "i": 2,
+  "a": 9.31,
+  "b": 16.13,
+  "acierto": 0.96,
+  "texto": "Lo más probable: o se daban la vuelta con el rabo entre las piernas… o se quedaban sin agua y sin comida en mitad del océano.",
+  "exa": 0.55,
+  "pausa": 0.25
+ },
+ {
+  "i": 3,
+  "a": 16.38,
+  "b": 22.74,
+  "acierto": 1.0,
+  "texto": "Y hoy, Colón no sería un héroe de los libros. Sería el hombre que se perdió en el mar por hacer mal las cuentas.",
+  "exa": 0.55,
+  "pausa": 0.25
+ }
+]

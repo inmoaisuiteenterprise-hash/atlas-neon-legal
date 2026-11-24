@@ -1,0 +1,29 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 5.22,
+  "acierto": 0.88,
+  "texto": "Imagina que suspendes un examen de mates con un dos… y aun así te ponen matrícula de honor.",
+  "exa": 0.55,
+  "pausa": 0.25
+ },
+ {
+  "i": 1,
+  "a": 5.47,
+  "b": 12.5,
+  "acierto": 1.0,
+  "texto": "Pues eso le pasó a Cristóbal Colón. Se equivocó en las cuentas más importantes de su vida… y acabó en todos los libros de historia.",
+  "exa": 0.55,
+  "pausa": 0.25
+ },
+ {
+  "i": 2,
+  "a": 12.75,
+  "b": 17.18,
+  "acierto": 1.0,
+  "texto": "La pregunta es: ¿qué le habría pasado si América no hubiera estado en medio?",
+  "exa": 0.55,
+  "pausa": 0.25
+ }
+]
