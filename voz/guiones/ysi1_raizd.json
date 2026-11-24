@@ -1,0 +1,27 @@
+{
+ "modo": "clon",
+ "ref": "ref_vox4_r1.wav",
+ "ref_text": "Abril de mil setecientos cuarenta y uno. En Londres ya están fabricando medallas para celebrar una victoria. Solo hay un problema: la batalla todavía no ha terminado. Al otro lado del océano, un almirante al que le falta una pierna, un ojo y un brazo está a punto de cambiar el final de la historia.",
+ "lineas": [
+  {
+   "texto": "Ahora, el gran mito: ¿la gente de la Edad Media no se lavaba?",
+   "pausa": 0.35
+  },
+  {
+   "texto": "Falso. Se hacía jabón con grasa animal y ceniza, y en las ciudades había baños públicos.",
+   "pausa": 0.35
+  },
+  {
+   "texto": "En el siglo trece, París tenía más de treinta casas de baños, y por las mañanas había quien gritaba por la calle que el agua ya estaba caliente.",
+   "pausa": 0.35
+  },
+  {
+   "texto": "Otro mito: que trabajabas sin descanso. El domingo no se trabajaba, y el calendario estaba lleno de fiestas religiosas.",
+   "pausa": 0.35
+  },
+  {
+   "texto": "Bodas, ferias, la llegada de unos juglares… Cualquier excusa era buena para parar.",
+   "pausa": 0.35
+  }
+ ]
+}

@@ -1,0 +1,19 @@
+{
+ "modo": "clon",
+ "ref": "ref_vox4_l2.wav",
+ "ref_text": "París, mil novecientos veinticinco. Un hombre muy elegante acaba de vender la Torre Eiffel. Siete mil toneladas de hierro. Y no era suya. Lo más increíble no es que el comprador picara. Es que, además, le pagó un soborno. Hoy te explico por qué ese soborno fue justo lo que le convenció.",
+ "lineas": [
+  {
+   "texto": "Veintidós de diciembre. Suena el bombo, cantan tu número… y te acaba de tocar el Gordo.",
+   "pausa": 0.35
+  },
+  {
+   "texto": "Cuatrocientos mil euros. ¿Verdad?",
+   "pausa": 0.35
+  },
+  {
+   "texto": "Pues no. Y esa es solo la primera letra pequeña. Hoy te cuento qué pasa de verdad cuando te toca… y qué dicen los estudios sobre los que ganan.",
+   "pausa": 0.35
+  }
+ ]
+}

@@ -1,0 +1,27 @@
+{
+ "modo": "clon",
+ "ref": "ref_vox4_r1.wav",
+ "ref_text": "Abril de mil setecientos cuarenta y uno. En Londres ya están fabricando medallas para celebrar una victoria. Solo hay un problema: la batalla todavía no ha terminado. Al otro lado del océano, un almirante al que le falta una pierna, un ojo y un brazo está a punto de cambiar el final de la historia.",
+ "lineas": [
+  {
+   "texto": "Pero no todo es fiesta. Una mala cosecha significa hambre. Y una herida que hoy curarías en casa podía matarte.",
+   "pausa": 0.35
+  },
+  {
+   "texto": "Y en mil trescientos cuarenta y siete llega a Europa la peste negra.",
+   "pausa": 0.35
+  },
+  {
+   "texto": "¿Y la esperanza de vida? Te habrán dicho que la gente moría a los treinta. Tampoco es verdad.",
+   "pausa": 0.35
+  },
+  {
+   "texto": "La media era baja porque muchísimos niños morían antes de cumplir cinco años. Pero si llegabas a adulto, podías vivir hasta los cincuenta, los sesenta, o más.",
+   "pausa": 0.35
+  },
+  {
+   "texto": "Al caer la noche, cenas junto al fuego, se cuentan historias, y a dormir pronto. Mañana, otra vez al amanecer.",
+   "pausa": 0.35
+  }
+ ]
+}

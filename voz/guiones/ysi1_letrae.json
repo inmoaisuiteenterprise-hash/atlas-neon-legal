@@ -1,0 +1,35 @@
+{
+ "modo": "clon",
+ "ref": "ref_vox4_l2.wav",
+ "ref_text": "París, mil novecientos veinticinco. Un hombre muy elegante acaba de vender la Torre Eiffel. Siete mil toneladas de hierro. Y no era suya. Lo más increíble no es que el comprador picara. Es que, además, le pagó un soborno. Hoy te explico por qué ese soborno fue justo lo que le convenció.",
+ "lineas": [
+  {
+   "texto": "Y ahora, la pregunta de verdad: ¿te cambiaría la vida?",
+   "pausa": 0.35
+  },
+  {
+   "texto": "En Florida, unos economistas siguieron a ganadores de la lotería que se llevaron entre cincuenta mil y ciento cincuenta mil dólares.",
+   "pausa": 0.35
+  },
+  {
+   "texto": "Justo después de ganar, se declaraban menos en bancarrota. Pero entre tres y cinco años después, la quiebra volvía. A los cinco años, estaban igual que los que habían ganado poco.",
+   "pausa": 0.35
+  },
+  {
+   "texto": "El dinero no arregló sus problemas: solo los aplazó.",
+   "pausa": 0.35
+  },
+  {
+   "texto": "Pero en Suecia, otro estudio encontró algo distinto: los grandes ganadores estaban más satisfechos con su vida incluso más de diez años después.",
+   "pausa": 0.35
+  },
+  {
+   "texto": "Eso sí: la satisfacción subía, pero la felicidad del día a día y la salud mental, mucho menos.",
+   "pausa": 0.35
+  },
+  {
+   "texto": "¿La clave? Sobre todo, la tranquilidad de tener sus cuentas en orden.",
+   "pausa": 0.35
+  }
+ ]
+}

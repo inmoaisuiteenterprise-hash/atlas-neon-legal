@@ -1,0 +1,23 @@
+{
+ "modo": "clon",
+ "ref": "ref_vox4_r1.wav",
+ "ref_text": "Abril de mil setecientos cuarenta y uno. En Londres ya están fabricando medallas para celebrar una victoria. Solo hay un problema: la batalla todavía no ha terminado. Al otro lado del océano, un almirante al que le falta una pierna, un ojo y un brazo está a punto de cambiar el final de la historia.",
+ "lineas": [
+  {
+   "texto": "Cierra los ojos. Es el año mil trescientos y te acabas de despertar en un pueblo cualquiera de Europa.",
+   "pausa": 0.35
+  },
+  {
+   "texto": "No hay reloj, no hay luz eléctrica, y alguien ya te está diciendo que te levantes.",
+   "pausa": 0.35
+  },
+  {
+   "texto": "Hoy vas a vivir un día entero en la Edad Media. Y te aviso: casi todo lo que crees saber sobre esta época… está mal.",
+   "pausa": 0.35
+  },
+  {
+   "texto": "Al final del vídeo sabrás si habrías sobrevivido.",
+   "pausa": 0.35
+  }
+ ]
+}

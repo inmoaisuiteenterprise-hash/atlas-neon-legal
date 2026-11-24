@@ -1,0 +1,31 @@
+{
+ "modo": "clon",
+ "ref": "ref_vox4_l2.wav",
+ "ref_text": "París, mil novecientos veinticinco. Un hombre muy elegante acaba de vender la Torre Eiffel. Siete mil toneladas de hierro. Y no era suya. Lo más increíble no es que el comprador picara. Es que, además, le pagó un soborno. Hoy te explico por qué ese soborno fue justo lo que le convenció.",
+ "lineas": [
+  {
+   "texto": "Letra pequeña número dos: las cuentas del juego.",
+   "pausa": 0.35
+  },
+  {
+   "texto": "En el sorteo hay cien mil números. Con un décimo, tu probabilidad de que te toque el Gordo es de una entre cien mil.",
+   "pausa": 0.35
+  },
+  {
+   "texto": "Para tener solo un uno por ciento de opciones, tendrías que comprar mil números distintos: unos veinte mil euros.",
+   "pausa": 0.35
+  },
+  {
+   "texto": "Y de todo lo que se vende, en torno al setenta por ciento vuelve en premios. El resto se lo queda el Estado.",
+   "pausa": 0.35
+  },
+  {
+   "texto": "Dicho de otra forma: de media, por cada veinte euros que juegas, vuelven unos catorce.",
+   "pausa": 0.35
+  },
+  {
+   "texto": "Eso sí, es el sorteo que más reparte, y el reintegro te devuelve tu dinero una de cada diez veces.",
+   "pausa": 0.35
+  }
+ ]
+}

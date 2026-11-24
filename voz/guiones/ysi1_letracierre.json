@@ -1,0 +1,19 @@
+{
+ "modo": "clon",
+ "ref": "ref_vox4_l2.wav",
+ "ref_text": "París, mil novecientos veinticinco. Un hombre muy elegante acaba de vender la Torre Eiffel. Siete mil toneladas de hierro. Y no era suya. Lo más increíble no es que el comprador picara. Es que, además, le pagó un soborno. Hoy te explico por qué ese soborno fue justo lo que le convenció.",
+ "lineas": [
+  {
+   "texto": "Así que, si te toca, la letra pequeña es esta: sin prisas, sin deudas nuevas, y con un plan.",
+   "pausa": 0.35
+  },
+  {
+   "texto": "Y si no te toca, que es lo más probable, al menos ya sabes cuánto te habría tocado de verdad.",
+   "pausa": 0.35
+  },
+  {
+   "texto": "¿Tú qué harías con trescientos veintiocho mil euros? Te leo en los comentarios. Y suscríbete para no perderte la próxima letra pequeña.",
+   "pausa": 0.35
+  }
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "modo": "clon",
+ "ref": "ref_vox4_r1.wav",
+ "ref_text": "Abril de mil setecientos cuarenta y uno. En Londres ya están fabricando medallas para celebrar una victoria. Solo hay un problema: la batalla todavía no ha terminado. Al otro lado del océano, un almirante al que le falta una pierna, un ojo y un brazo está a punto de cambiar el final de la historia.",
+ "lineas": [
+  {
+   "texto": "Llega la hora de comer. ¿Te imaginas un muslo de pollo enorme, como en las películas?",
+   "pausa": 0.35
+  },
+  {
+   "texto": "Pues olvídalo. Lo de cada día es pan oscuro, de centeno o de cebada, y un potaje: un guiso espeso de cereales y verduras.",
+   "pausa": 0.35
+  },
+  {
+   "texto": "La carne existe, pero suele ser tocino, cerdo en salazón… o comida de fiesta.",
+   "pausa": 0.35
+  },
+  {
+   "texto": "¿Y para beber? Cerveza suave, incluso en el desayuno. Aunque muchas veces toca agua.",
+   "pausa": 0.35
+  }
+ ]
+}

@@ -1,0 +1,31 @@
+{
+ "modo": "clon",
+ "ref": "ref_vox4_r1.wav",
+ "ref_text": "Abril de mil setecientos cuarenta y uno. En Londres ya están fabricando medallas para celebrar una victoria. Solo hay un problema: la batalla todavía no ha terminado. Al otro lado del océano, un almirante al que le falta una pierna, un ojo y un brazo está a punto de cambiar el final de la historia.",
+ "lineas": [
+  {
+   "texto": "Lo primero: te despierta el sol. Tu jornada empieza al amanecer, y en verano eso puede ser muy, muy temprano.",
+   "pausa": 0.35
+  },
+  {
+   "texto": "Tu casa es de madera y barro, con el fuego en el centro. Y el humo lo llena todo.",
+   "pausa": 0.35
+  },
+  {
+   "texto": "Lo más probable es que seas campesino, como la gran mayoría de la gente de tu época.",
+   "pausa": 0.35
+  },
+  {
+   "texto": "Y si eres siervo, parte de tu semana no te pertenece: tienes que trabajar las tierras de tu señor, a menudo unos tres días a la semana.",
+   "pausa": 0.35
+  },
+  {
+   "texto": "Además, una décima parte de tu cosecha va para la Iglesia. Se llama diezmo.",
+   "pausa": 0.35
+  },
+  {
+   "texto": "Pero no trabajas solo: para arar o para segar, todo el pueblo se ayuda.",
+   "pausa": 0.35
+  }
+ ]
+}
