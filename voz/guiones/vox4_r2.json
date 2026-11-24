@@ -1,0 +1,14 @@
+{
+ "modo": "diseno",
+ "instruct": "Narrador épico pero natural, hombre español peninsular de unos cuarenta años, voz potente y clara, ritmo dinámico, tensión dramática y entusiasmo contenido, como el narrador de una gran serie documental.",
+ "lineas": [
+  {
+   "texto": "Abril de mil setecientos cuarenta y uno. En Londres ya están fabricando medallas para celebrar una victoria. Solo hay un problema: la batalla todavía no ha terminado.",
+   "pausa": 0.5
+  },
+  {
+   "texto": "Al otro lado del océano, un almirante al que le falta una pierna, un ojo y un brazo está a punto de cambiar el final de la historia.",
+   "pausa": 0.5
+  }
+ ]
+}

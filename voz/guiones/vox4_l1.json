@@ -1,0 +1,14 @@
+{
+ "modo": "diseno",
+ "instruct": "Hombre español de España, acento castellano neutro, unos treinta años, hablando de forma natural y conversacional como en un podcast, voz cercana y relajada con matices, pausas naturales, nada robótico ni de locutor.",
+ "lineas": [
+  {
+   "texto": "París, mil novecientos veinticinco. Un hombre muy elegante acaba de vender la Torre Eiffel. Siete mil toneladas de hierro. Y no era suya.",
+   "pausa": 0.5
+  },
+  {
+   "texto": "Lo más increíble no es que el comprador picara. Es que, además, le pagó un soborno. Hoy te explico por qué ese soborno fue justo lo que le convenció.",
+   "pausa": 0.5
+  }
+ ]
+}
