@@ -1,0 +1,74 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 3.16,
+  "acierto": 1.0,
+  "texto": "Para entender esta locura hay que viajar al Caribe.",
+  "pausa": 0.35
+ },
+ {
+  "i": 1,
+  "a": 3.51,
+  "b": 10.56,
+  "acierto": 1.0,
+  "texto": "Cartagena de Indias es uno de los puertos más importantes del imperio español: por aquí pasa la plata camino de España.",
+  "pausa": 0.35
+ },
+ {
+  "i": 2,
+  "a": 10.91,
+  "b": 17.98,
+  "acierto": 0.93,
+  "texto": "España e Inglaterra están en guerra. Una guerra con un nombre absurdo: la guerra de la Oreja de Jenkins.",
+  "pausa": 0.35
+ },
+ {
+  "i": 3,
+  "a": 18.33,
+  "b": 23.31,
+  "acierto": 1.0,
+  "texto": "Y el almirante británico Edward Vernon tiene un objetivo: tomar Cartagena.",
+  "pausa": 0.35
+ },
+ {
+  "i": 4,
+  "a": 23.66,
+  "b": 30.56,
+  "acierto": 0.67,
+  "texto": "En marzo de mil setecientos cuarenta y uno aparece frente a la ciudad con cerca de ciento ochenta barcos y más de veinte mil hombres.",
+  "pausa": 0.35
+ },
+ {
+  "i": 5,
+  "a": 30.91,
+  "b": 36.16,
+  "acierto": 0.92,
+  "texto": "Enfrente, Blas de Lezo tiene seis navíos y unos pocos miles de defensores.",
+  "pausa": 0.35
+ },
+ {
+  "i": 6,
+  "a": 36.51,
+  "b": 41.98,
+  "acierto": 1.0,
+  "texto": "Sobre el papel, no hay partido. En Inglaterra lo saben. O eso creen.",
+  "pausa": 0.35
+ },
+ {
+  "i": 7,
+  "a": 42.33,
+  "b": 48.37,
+  "acierto": 0.94,
+  "texto": "Lezo hace algo desesperado: hunde sus propios barcos en la entrada de la bahía, para cerrar el paso.",
+  "pausa": 0.35
+ },
+ {
+  "i": 8,
+  "a": 48.72,
+  "b": 57.35,
+  "acierto": 1.0,
+  "texto": "Cada día que los ingleses pierden ahí fuera, juega a su favor. Porque en el Caribe hay un enemigo que no lleva uniforme: la fiebre amarilla.",
+  "pausa": 0.35
+ }
+]

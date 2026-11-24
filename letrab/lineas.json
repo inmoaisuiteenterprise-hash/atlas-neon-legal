@@ -1,0 +1,74 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 2.66,
+  "acierto": 1.0,
+  "texto": "Paso uno: el momento.",
+  "pausa": 0.35
+ },
+ {
+  "i": 1,
+  "a": 3.01,
+  "b": 13.12,
+  "acierto": 0.88,
+  "texto": "En mil novecientos veinticinco la torre cuesta mucho de mantener, recibe menos visitas, y Gustave Eiffel, su gran defensor, había muerto dos años antes.",
+  "pausa": 0.35
+ },
+ {
+  "i": 2,
+  "a": 13.47,
+  "b": 19.01,
+  "acierto": 0.94,
+  "texto": "Víctor Lustig lee en el periódico que a la ciudad le sale cara. Y se le ocurre una idea.",
+  "pausa": 0.35
+ },
+ {
+  "i": 3,
+  "a": 19.36,
+  "b": 28.65,
+  "acierto": 0.9,
+  "texto": "Paso dos: la autoridad. Se hace pasar por un alto cargo del Ministerio de Correos y Telégrafos, con papel oficial falsificado.",
+  "pausa": 0.35
+ },
+ {
+  "i": 4,
+  "a": 29.0,
+  "b": 34.56,
+  "acierto": 0.93,
+  "texto": "Y cita a varios chatarreros en el Hôtel de Crillon, uno de los más lujosos de París.",
+  "pausa": 0.35
+ },
+ {
+  "i": 5,
+  "a": 34.91,
+  "b": 45.38,
+  "acierto": 0.96,
+  "texto": "Paso tres: el secreto. Les cuenta que el gobierno va a desmontar la torre y venderla como chatarra, pero que nadie puede saberlo todavía, para evitar un escándalo.",
+  "pausa": 0.35
+ },
+ {
+  "i": 6,
+  "a": 45.73,
+  "b": 53.99,
+  "acierto": 1.0,
+  "texto": "Fíjate en la trampa: si es secreto, no puedes preguntarle a nadie. Y si no preguntas a nadie, nadie puede avisarte.",
+  "pausa": 0.35
+ },
+ {
+  "i": 7,
+  "a": 54.34,
+  "b": 61.47,
+  "acierto": 0.94,
+  "texto": "Paso cuatro: el elegido. Lustig se fija en André Poisson, un chatarrero relativamente nuevo en la ciudad.",
+  "pausa": 0.35
+ },
+ {
+  "i": 8,
+  "a": 61.82,
+  "b": 67.87,
+  "acierto": 0.92,
+  "texto": "Pero Poisson desconfía. Hace demasiadas preguntas. Y aquí viene la jugada maestra.",
+  "pausa": 0.35
+ }
+]

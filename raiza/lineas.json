@@ -1,0 +1,42 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 6.74,
+  "acierto": 0.71,
+  "texto": "Abril de mil setecientos cuarenta y uno. En Inglaterra ya están acuñando medallas para celebrar una victoria.",
+  "pausa": 0.35
+ },
+ {
+  "i": 1,
+  "a": 7.09,
+  "b": 12.22,
+  "acierto": 1.0,
+  "texto": "En ellas, un almirante español aparece de rodillas, entregando su espada.",
+  "pausa": 0.35
+ },
+ {
+  "i": 2,
+  "a": 12.57,
+  "b": 16.77,
+  "acierto": 0.9,
+  "texto": "Solo hay un problema: la batalla todavía no ha terminado.",
+  "pausa": 0.35
+ },
+ {
+  "i": 3,
+  "a": 17.12,
+  "b": 25.25,
+  "acierto": 0.95,
+  "texto": "Y ese almirante, al que le faltan una pierna y un ojo, y que tiene un brazo inútil, no tiene ninguna intención de arrodillarse.",
+  "pausa": 0.35
+ },
+ {
+  "i": 4,
+  "a": 25.6,
+  "b": 30.98,
+  "acierto": 1.0,
+  "texto": "Esta es la historia de una de las mayores flotas reunidas hasta entonces… y de cómo acabó.",
+  "pausa": 0.35
+ }
+]
