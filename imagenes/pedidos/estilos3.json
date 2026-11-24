@@ -1,0 +1,48 @@
+{
+ "trabajo": "estilos3",
+ "trozos": 8,
+ "estilo": "",
+ "negativo": "photo, photorealistic, realistic, 3d render, painting, sketch, blurry, text, letters, watermark, signature, deformed, extra fingers, bad anatomy, beard on columbus, anime",
+ "imagenes": [
+  {
+   "id": "m1",
+   "prompt": "cartoon Christopher Columbus, clean-shaven, long white hair, red cloak, arguing with an angry bearded sailor in a red cap, on the wooden deck of a caravel at sea, sails and ropes, blue sky, 2D cartoon animation style, characters with slightly big heads and expressive faces, thick black outlines, flat bright colors, simple clean shapes, educational history animation for youtube, funny",
+   "seed": 200
+  },
+  {
+   "id": "m2",
+   "prompt": "cartoon Christopher Columbus, clean-shaven, long white hair, red cloak, arguing with an angry bearded sailor in a red cap, on the wooden deck of a caravel at sea, sails and ropes, blue sky, 2D cartoon style, semi-chibi characters, bold outlines, flat colors with soft cel shading, detailed cartoon background, comedic expressions, history cartoon",
+   "seed": 201
+  },
+  {
+   "id": "m3",
+   "prompt": "cartoon Christopher Columbus, clean-shaven, long white hair, red cloak, arguing with an angry bearded sailor in a red cap, on the wooden deck of a caravel at sea, sails and ropes, blue sky, stylized 2D cartoon, slightly exaggerated proportions, thick clean outlines, flat colors, light cel shading, detailed but simple background, animated series for teenagers",
+   "seed": 202
+  },
+  {
+   "id": "m4",
+   "prompt": "cartoon Christopher Columbus, clean-shaven, long white hair, red cloak, arguing with an angry bearded sailor in a red cap, on the wooden deck of a caravel at sea, sails and ropes, blue sky, 2D animated cartoon frame, cartoon network style, bold outlines, flat vibrant colors, expressive funny faces, clean vector look",
+   "seed": 203
+  },
+  {
+   "id": "m5",
+   "prompt": "cartoon Christopher Columbus, clean-shaven, long white hair, red cloak, arguing with an angry bearded sailor in a red cap, on the wooden deck of a caravel at sea, sails and ropes, blue sky, cartoon illustration between comic and anime, clean bold lineart, flat colors with simple shadows, expressive exaggerated faces, polished 2D animation frame",
+   "seed": 204
+  },
+  {
+   "id": "m6",
+   "prompt": "cartoon Christopher Columbus, clean-shaven, long white hair, red cloak, arguing with an angry bearded sailor in a red cap, on the wooden deck of a caravel at sea, sails and ropes, blue sky, 2D cartoon animation, big expressive eyes, rounded shapes, thick outlines, flat colors, warm sunny palette, humorous history series",
+   "seed": 205
+  },
+  {
+   "id": "m7",
+   "prompt": "cartoon Christopher Columbus, clean-shaven, long white hair, red cloak, arguing with an angry bearded sailor in a red cap, on the wooden deck of a caravel at sea, sails and ropes, blue sky, modern flash cartoon style, vector art, bold outlines, flat shading, characters with big heads, detailed scenery, youtube animated history",
+   "seed": 206
+  },
+  {
+   "id": "m8",
+   "prompt": "cartoon Christopher Columbus, clean-shaven, long white hair, red cloak, arguing with an angry bearded sailor in a red cap, on the wooden deck of a caravel at sea, sails and ropes, blue sky, stylized cartoon, comic book animation, clean thick ink lines, flat cel colors, slightly realistic proportions, expressive, bright",
+   "seed": 207
+  }
+ ]
+}
