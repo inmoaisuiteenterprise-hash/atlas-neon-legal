@@ -1,0 +1,15 @@
+{
+ "modo": "clon",
+ "ref": "ref_raiz_f.wav",
+ "ref_text": "Doce de octubre de mil cuatrocientos noventa y dos. Dos de la madrugada. Noventa hombres llevan más de un mes sin ver tierra… y su capitán les ha estado mintiendo sobre lo lejos que están de casa. Lo que nadie sabe a bordo es que, si delante no hubiera nada… ninguno volvería jamás.",
+ "lineas": [
+  {
+   "texto": "En mil cuatrocientos noventa y dos, harto, se marcha a ofrecérselo a otro reino.",
+   "pausa": 0.3
+  },
+  {
+   "texto": "Pero en un puente, cerca de Granada, le alcanza un mensajero de la reina: el viaje va adelante.",
+   "pausa": 0.3
+  }
+ ]
+}

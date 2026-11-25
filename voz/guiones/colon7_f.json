@@ -1,0 +1,31 @@
+{
+ "modo": "clon",
+ "ref": "ref_raiz_f.wav",
+ "ref_text": "Doce de octubre de mil cuatrocientos noventa y dos. Dos de la madrugada. Noventa hombres llevan más de un mes sin ver tierra… y su capitán les ha estado mintiendo sobre lo lejos que están de casa. Lo que nadie sabe a bordo es que, si delante no hubiera nada… ninguno volvería jamás.",
+ "lineas": [
+  {
+   "texto": "Ahora sí. ¿Y si América no hubiera estado ahí?",
+   "pausa": 0.3
+  },
+  {
+   "texto": "Llevaban treinta y seis días desde Canarias. Y la Asia de verdad seguía a miles de kilómetros, tras otro océano: el Pacífico.",
+   "pausa": 0.3
+  },
+  {
+   "texto": "¿Cómo sabemos lo que les esperaba? Veintiocho años después, Magallanes lo cruzó: tres meses y veinte días sin comida fresca.",
+   "pausa": 0.3
+  },
+  {
+   "texto": "Comían galleta en polvo llena de gusanos, y cuero remojado. Las ratas eran un manjar.",
+   "pausa": 0.3
+  },
+  {
+   "texto": "Así que Colón tenía dos opciones: dar media vuelta con el rabo entre las piernas… o desaparecer en mitad del océano.",
+   "pausa": 0.3
+  },
+  {
+   "texto": "Y hoy no sería un héroe. Sería el tío que se perdió en el mar por hacer mal las cuentas.",
+   "pausa": 0.3
+  }
+ ]
+}

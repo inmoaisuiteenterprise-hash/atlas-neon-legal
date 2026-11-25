@@ -1,0 +1,15 @@
+{
+ "modo": "clon",
+ "ref": "ref_raiz_f.wav",
+ "ref_text": "Doce de octubre de mil cuatrocientos noventa y dos. Dos de la madrugada. Noventa hombres llevan más de un mes sin ver tierra… y su capitán les ha estado mintiendo sobre lo lejos que están de casa. Lo que nadie sabe a bordo es que, si delante no hubiera nada… ninguno volvería jamás.",
+ "lineas": [
+  {
+   "texto": "Se lo ofrece al rey de Portugal, y sus expertos le dicen que no. Lo intenta en Castilla, y los sabios le dicen lo mismo.",
+   "pausa": 0.3
+  },
+  {
+   "texto": "Y, spoiler: tenían toda la razón.",
+   "pausa": 0.3
+  }
+ ]
+}
