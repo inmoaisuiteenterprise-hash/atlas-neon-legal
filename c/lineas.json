@@ -1,0 +1,34 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 6.36,
+  "acierto": 1.0,
+  "texto": "Colón había leído las medidas de un geógrafo árabe como si fueran millas romanas, que son más cortas.",
+  "pausa": 0.3
+ },
+ {
+  "i": 1,
+  "a": 6.66,
+  "b": 13.26,
+  "acierto": 0.82,
+  "texto": "Le salía un planeta un veinticinco por ciento más pequeño, con Asia estirada hacia el oeste como un chicle.",
+  "pausa": 0.3
+ },
+ {
+  "i": 2,
+  "a": 13.56,
+  "b": 21.41,
+  "acierto": 0.88,
+  "texto": "Para él, de Canarias hasta Asia había unas tres mil millas. En la realidad, más del doble.",
+  "pausa": 0.3
+ },
+ {
+  "i": 3,
+  "a": 21.71,
+  "b": 25.92,
+  "acierto": 0.89,
+  "texto": "Aun así, se pasó años de corte en corte, insistiendo.",
+  "pausa": 0.3
+ }
+]

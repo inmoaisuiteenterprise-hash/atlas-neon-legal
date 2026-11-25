@@ -1,0 +1,34 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 5.58,
+  "acierto": 0.4,
+  "texto": "Doce de octubre de mil cuatrocientos noventa y dos. Dos de la madrugada.",
+  "pausa": 0.3
+ },
+ {
+  "i": 1,
+  "a": 5.88,
+  "b": 12.34,
+  "acierto": 0.96,
+  "texto": "Noventa hombres llevan más de un mes sin ver tierra… y su capitán les ha estado mintiendo sobre lo lejos que están de casa.",
+  "pausa": 0.3
+ },
+ {
+  "i": 2,
+  "a": 12.64,
+  "b": 18.69,
+  "acierto": 1.0,
+  "texto": "Lo que nadie sabe a bordo es que, si delante no hubiera nada… ninguno volvería jamás.",
+  "pausa": 0.3
+ },
+ {
+  "i": 3,
+  "a": 18.99,
+  "b": 23.9,
+  "acierto": 1.0,
+  "texto": "Hoy nos preguntamos: ¿qué habría pasado si América no hubiera estado ahí?",
+  "pausa": 0.3
+ }
+]

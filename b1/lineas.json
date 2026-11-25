@@ -1,0 +1,26 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 7.02,
+  "acierto": 0.94,
+  "texto": "Finales del siglo quince. Las especias de Asia valen una fortuna, y llegar hasta allí cuesta muchísimo.",
+  "pausa": 0.3
+ },
+ {
+  "i": 1,
+  "a": 7.32,
+  "b": 15.73,
+  "acierto": 1.0,
+  "texto": "Y aparece un marinero genovés con una idea que suena a genialidad: si la Tierra es redonda… ¿por qué no llegar a Asia navegando hacia el oeste?",
+  "pausa": 0.3
+ },
+ {
+  "i": 2,
+  "a": 16.03,
+  "b": 24.47,
+  "acierto": 1.0,
+  "texto": "Y no: nadie le dijo que la Tierra era plana. Eso es un mito. Ya se sabía que era redonda. El problema era lo grande que era.",
+  "pausa": 0.3
+ }
+]

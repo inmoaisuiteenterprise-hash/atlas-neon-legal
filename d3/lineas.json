@@ -1,0 +1,18 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 10.09,
+  "acierto": 1.0,
+  "texto": "Principios de octubre. Pinzón, el capitán de la Pinta, le convence para cambiar el rumbo. Pero la tierra no aparece.",
+  "pausa": 0.3
+ },
+ {
+  "i": 1,
+  "a": 10.39,
+  "b": 15.84,
+  "acierto": 0.93,
+  "texto": "El diez de octubre, casi hay un motín. Y Colón se juega su última carta.",
+  "pausa": 0.3
+ }
+]
