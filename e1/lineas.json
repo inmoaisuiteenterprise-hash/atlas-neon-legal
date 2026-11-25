@@ -1,0 +1,20 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 6.07,
+  "acierto": 1.0,
+  "parecido": 0.904,
+  "texto": "Al día siguiente aparecen señales: un junco verde flotando, pájaros…",
+  "pausa": 0.3
+ },
+ {
+  "i": 1,
+  "a": 6.37,
+  "b": 10.35,
+  "acierto": 0.9,
+  "parecido": 0.83,
+  "texto": "Y en la madrugada del doce de octubre, desde la Pinta…",
+  "pausa": 0.3
+ }
+]

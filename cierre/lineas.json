@@ -1,0 +1,38 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 4.8,
+  "acierto": 0.77,
+  "parecido": 0.829,
+  "texto": "Colón murió en mil quinientos seis convencido de que había llegado a Asia.",
+  "pausa": 0.3
+ },
+ {
+  "i": 1,
+  "a": 5.1,
+  "b": 12.9,
+  "acierto": 1.0,
+  "parecido": 0.78,
+  "texto": "Nunca supo que se había equivocado… ni que ese error, sin América en medio, le habría costado la vida a él y a sus noventa hombres.",
+  "pausa": 0.3
+ },
+ {
+  "i": 2,
+  "a": 13.2,
+  "b": 20.0,
+  "acierto": 1.0,
+  "parecido": 0.821,
+  "texto": "A veces la historia no la cambian los más listos, sino los que tienen la suerte de que haya un continente en medio.",
+  "pausa": 0.3
+ },
+ {
+  "i": 3,
+  "a": 20.3,
+  "b": 27.61,
+  "acierto": 1.0,
+  "parecido": 0.87,
+  "texto": "Si quieres más «¿y si…?» de la historia, suscríbete y dime en comentarios cuál hacemos ahora.",
+  "pausa": 0.3
+ }
+]

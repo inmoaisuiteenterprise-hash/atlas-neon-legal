@@ -1,0 +1,20 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 7.88,
+  "acierto": 1.0,
+  "parecido": 0.904,
+  "texto": "Se lo ofrece al rey de Portugal, y sus expertos le dicen que no. Lo intenta en Castilla, y los sabios le dicen lo mismo.",
+  "pausa": 0.3
+ },
+ {
+  "i": 1,
+  "a": 8.18,
+  "b": 11.22,
+  "acierto": 1.0,
+  "parecido": 0.898,
+  "texto": "Y, spoiler: tenían toda la razón.",
+  "pausa": 0.3
+ }
+]

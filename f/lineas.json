@@ -1,0 +1,56 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 3.72,
+  "acierto": 1.0,
+  "parecido": 0.889,
+  "texto": "Ahora sí. ¿Y si América no hubiera estado ahí?",
+  "pausa": 0.3
+ },
+ {
+  "i": 1,
+  "a": 4.02,
+  "b": 13.73,
+  "acierto": 0.85,
+  "parecido": 0.885,
+  "texto": "Llevaban treinta y seis días desde Canarias. Y la Asia de verdad seguía a miles de kilómetros, tras otro océano: el Pacífico.",
+  "pausa": 0.3
+ },
+ {
+  "i": 2,
+  "a": 14.03,
+  "b": 23.81,
+  "acierto": 0.95,
+  "parecido": 0.868,
+  "texto": "¿Cómo sabemos lo que les esperaba? Veintiocho años después, Magallanes lo cruzó: tres meses y veinte días sin comida fresca.",
+  "pausa": 0.3
+ },
+ {
+  "i": 3,
+  "a": 24.11,
+  "b": 31.16,
+  "acierto": 1.0,
+  "parecido": 0.884,
+  "texto": "Comían galleta en polvo llena de gusanos, y cuero remojado. Las ratas eran un manjar.",
+  "pausa": 0.3
+ },
+ {
+  "i": 4,
+  "a": 31.46,
+  "b": 39.55,
+  "acierto": 1.0,
+  "parecido": 0.888,
+  "texto": "Así que Colón tenía dos opciones: dar media vuelta con el rabo entre las piernas… o desaparecer en mitad del océano.",
+  "pausa": 0.3
+ },
+ {
+  "i": 5,
+  "a": 39.85,
+  "b": 45.82,
+  "acierto": 1.0,
+  "parecido": 0.912,
+  "texto": "Y hoy no sería un héroe. Sería el tío que se perdió en el mar por hacer mal las cuentas.",
+  "pausa": 0.3
+ }
+]
