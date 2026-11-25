@@ -1,0 +1,24 @@
+{
+ "modo": "clon",
+ "ref": "ref_raiz_f.wav",
+ "ref_text": "Doce de octubre de mil cuatrocientos noventa y dos. Dos de la madrugada. Noventa hombres llevan más de un mes sin ver tierra… y su capitán les ha estado mintiendo sobre lo lejos que están de casa. Lo que nadie sabe a bordo es que, si delante no hubiera nada… ninguno volvería jamás.",
+ "lineas": [
+  {
+   "texto": "Doce de octubre de mil cuatrocientos noventa y dos. Dos de la madrugada.",
+   "pausa": 0.3
+  },
+  {
+   "texto": "Noventa hombres llevan más de un mes sin ver tierra… y su capitán les ha estado mintiendo sobre lo lejos que están de casa.",
+   "pausa": 0.3
+  },
+  {
+   "texto": "Lo que nadie sabe a bordo es que, si delante no hubiera nada… ninguno volvería jamás.",
+   "pausa": 0.3
+  },
+  {
+   "texto": "Hoy nos preguntamos: ¿qué habría pasado si América no hubiera estado ahí?",
+   "pausa": 0.3
+  }
+ ],
+ "tomas": 4
+}

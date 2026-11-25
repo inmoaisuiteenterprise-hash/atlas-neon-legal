@@ -1,0 +1,16 @@
+{
+ "modo": "clon",
+ "ref": "ref_raiz_f.wav",
+ "ref_text": "Doce de octubre de mil cuatrocientos noventa y dos. Dos de la madrugada. Noventa hombres llevan más de un mes sin ver tierra… y su capitán les ha estado mintiendo sobre lo lejos que están de casa. Lo que nadie sabe a bordo es que, si delante no hubiera nada… ninguno volvería jamás.",
+ "lineas": [
+  {
+   "texto": "Al día siguiente aparecen señales: un junco verde flotando, pájaros…",
+   "pausa": 0.3
+  },
+  {
+   "texto": "Y en la madrugada del doce de octubre, desde la Pinta…",
+   "pausa": 0.3
+  }
+ ],
+ "tomas": 4
+}

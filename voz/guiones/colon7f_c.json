@@ -1,0 +1,24 @@
+{
+ "modo": "clon",
+ "ref": "ref_raiz_f.wav",
+ "ref_text": "Doce de octubre de mil cuatrocientos noventa y dos. Dos de la madrugada. Noventa hombres llevan más de un mes sin ver tierra… y su capitán les ha estado mintiendo sobre lo lejos que están de casa. Lo que nadie sabe a bordo es que, si delante no hubiera nada… ninguno volvería jamás.",
+ "lineas": [
+  {
+   "texto": "Colón había leído las medidas de un geógrafo árabe como si fueran millas romanas, que son más cortas.",
+   "pausa": 0.3
+  },
+  {
+   "texto": "Le salía un planeta un veinticinco por ciento más pequeño, con Asia estirada hacia el oeste como un chicle.",
+   "pausa": 0.3
+  },
+  {
+   "texto": "Para él, de Canarias hasta Asia había unas tres mil millas. En la realidad, más del doble.",
+   "pausa": 0.3
+  },
+  {
+   "texto": "Aun así, se pasó años de corte en corte, insistiendo.",
+   "pausa": 0.3
+  }
+ ],
+ "tomas": 4
+}
