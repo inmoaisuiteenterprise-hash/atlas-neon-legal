@@ -1,0 +1,12 @@
+{
+ "modo": "clon",
+ "ref": "ref_raiz_f.wav",
+ "ref_text": "Doce de octubre de mil cuatrocientos noventa y dos. Dos de la madrugada. Noventa hombres llevan más de un mes sin ver tierra… y su capitán les ha estado mintiendo sobre lo lejos que están de casa. Lo que nadie sabe a bordo es que, si delante no hubiera nada… ninguno volvería jamás.",
+ "tomas": 8,
+ "lineas": [
+  {
+   "texto": "Pasan las semanas. Ni una isla. Y la tripulación empieza a perder la paciencia.",
+   "pausa": 0.3
+  }
+ ]
+}
