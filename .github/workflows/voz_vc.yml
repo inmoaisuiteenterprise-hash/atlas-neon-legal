@@ -1,0 +1,36 @@
+# Unifica el timbre de una narración con OpenVoice V2 (MIT), en CPU, sin claves ni coste.
+# Se lanza al subir voz/pedidos_vc/<trabajo>.json: {"trabajo","entrada":"voz/vc_in/<x>","ref":"voz/refs/<ref>.wav"}
+name: "Voz · timbre único"
+on:
+  push:
+    branches: [main]
+    paths: ["voz/pedidos_vc/*.json"]
+permissions:
+  contents: write
+jobs:
+  vc:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+        with: { fetch-depth: 2 }
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.10" }
+      - name: OpenVoice
+        run: |
+          pip install -q torch torchaudio --index-url https://download.pytorch.org/whl/cpu
+          pip install -q librosa soundfile pydub huggingface_hub inflect unidecode eng_to_ipa jieba pypinyin cn2an langid wavmark
+          git clone -q --depth 1 https://github.com/myshell-ai/OpenVoice.git
+          python -c "from huggingface_hub import snapshot_download; snapshot_download('myshell-ai/OpenVoiceV2', allow_patterns=['converter/*'], local_dir='ckpt')"
+          ls -R ckpt
+      - name: Convertir
+        run: |
+          f=$(git diff --name-only HEAD~1 HEAD -- voz/pedidos_vc | tail -1)
+          T=$(python3 -c "import json;print(json.load(open('$f'))['trabajo'])"); E=$(python3 -c "import json;print(json.load(open('$f'))['entrada'])"); R=$(python3 -c "import json;print(json.load(open('$f'))['ref'])")
+          echo "T=$T" >> $GITHUB_ENV
+          python voz/vc/convertir.py "$E" "$R" salida
+      - name: Guardar en salidas-${{ env.T }}
+        run: |
+          cd salida && git init -q -b salidas-$T && git add -A
+          git -c user.name=atlas-bot -c user.email=atlas-bot@users.noreply.github.com commit -qm "Timbre único $T"
+          git push -qf "https://x-access-token:${{ github.token }}@github.com/${GITHUB_REPOSITORY}.git" salidas-$T
