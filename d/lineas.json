@@ -1,0 +1,29 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 3.9,
+  "acierto": 0.96,
+  "parecido": 0.946,
+  "texto": "Otro mito: que en la Edad Media nadie se lavaba.",
+  "pausa": 0.5
+ },
+ {
+  "i": 1,
+  "a": 4.4,
+  "b": 12.24,
+  "acierto": 0.96,
+  "parecido": 0.946,
+  "texto": "En las ciudades había baños públicos, con agua caliente y hierbas. En el París del siglo trece había más de treinta.",
+  "pausa": 0.5
+ },
+ {
+  "i": 2,
+  "a": 12.74,
+  "b": 18.13,
+  "acierto": 0.96,
+  "parecido": 0.946,
+  "texto": "Eso sí: en tu aldea, lo normal sería un cubo, agua fría y un trapo.",
+  "pausa": 0.5
+ }
+]

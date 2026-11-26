@@ -1,0 +1,47 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 4.95,
+  "acierto": 0.85,
+  "parecido": 0.944,
+  "texto": "Pero si llegas en mil trescientos, lo peor todavía no ha pasado.",
+  "pausa": 0.5
+ },
+ {
+  "i": 1,
+  "a": 5.45,
+  "b": 12.79,
+  "acierto": 0.85,
+  "parecido": 0.944,
+  "texto": "En mil trescientos quince empieza a llover. Y no para. Las cosechas se pudren. Es la Gran Hambruna.",
+  "pausa": 0.5
+ },
+ {
+  "i": 2,
+  "a": 13.29,
+  "b": 18.92,
+  "acierto": 0.85,
+  "parecido": 0.944,
+  "texto": "Y en mil trescientos cuarenta y siete llega algo peor por el mar: la peste negra.",
+  "pausa": 0.5
+ },
+ {
+  "i": 3,
+  "a": 19.42,
+  "b": 23.5,
+  "acierto": 0.85,
+  "parecido": 0.944,
+  "texto": "En pocos años muere entre un tercio y la mitad de toda Europa.",
+  "pausa": 0.5
+ },
+ {
+  "i": 4,
+  "a": 24.0,
+  "b": 27.2,
+  "acierto": 0.85,
+  "parecido": 0.944,
+  "texto": "Piensa en tu clase. Ahora quita a la mitad.",
+  "pausa": 0.5
+ }
+]

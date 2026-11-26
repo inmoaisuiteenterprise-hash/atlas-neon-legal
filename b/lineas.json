@@ -1,0 +1,38 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 7.92,
+  "acierto": 1.0,
+  "parecido": 0.937,
+  "texto": "Primero, lo más probable: no serías rey ni caballero. Serías campesino, como casi todo el mundo.",
+  "pausa": 0.5
+ },
+ {
+  "i": 1,
+  "a": 8.42,
+  "b": 12.83,
+  "acierto": 1.0,
+  "parecido": 0.937,
+  "texto": "Y muchos campesinos eran siervos: atados a la tierra de un señor.",
+  "pausa": 0.5
+ },
+ {
+  "i": 2,
+  "a": 13.33,
+  "b": 18.0,
+  "acierto": 1.0,
+  "parecido": 0.937,
+  "texto": "Dos o tres días a la semana trabajarías sus campos. Gratis.",
+  "pausa": 0.5
+ },
+ {
+  "i": 3,
+  "a": 18.5,
+  "b": 24.28,
+  "acierto": 1.0,
+  "parecido": 0.937,
+  "texto": "Y de lo que cosecharas en tu trocito de tierra, una décima parte iría a la Iglesia. El diezmo.",
+  "pausa": 0.5
+ }
+]
