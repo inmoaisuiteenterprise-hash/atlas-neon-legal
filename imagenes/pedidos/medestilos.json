@@ -1,0 +1,48 @@
+{
+ "trabajo": "medestilos",
+ "trozos": 8,
+ "estilo": "",
+ "negativo": "people, person, man, woman, text, letters, watermark, signature, blurry, deformed, modern objects, photo",
+ "imagenes": [
+  {
+   "id": "e1_aldea",
+   "prompt": "medieval peasant village in the year 1300, muddy street with puddles and filth, thatched timber-framed houses with chimney smoke, stone castle on a hill in the distance, overcast grey sky, crows, pigs in the mud, wide shot, no people, dark storybook illustration, hand painted gouache, muted earthy palette, dramatic moody lighting, highly detailed, cinematic composition",
+   "seed": 41
+  },
+  {
+   "id": "e1_choza",
+   "prompt": "interior of a poor medieval peasant hut, straw bed on dirt floor, open hearth fire with smoke filling the room, chickens and a goat inside, hanging iron pots, dim light from a tiny window, no people, dark storybook illustration, hand painted gouache, muted earthy palette, dramatic moody lighting, highly detailed, cinematic composition",
+   "seed": 42
+  },
+  {
+   "id": "e2_aldea",
+   "prompt": "medieval peasant village in the year 1300, muddy street with puddles and filth, thatched timber-framed houses with chimney smoke, stone castle on a hill in the distance, overcast grey sky, crows, pigs in the mud, wide shot, no people, graphic novel illustration, bold black ink shadows, flat muted colors, strong contrast, clean confident linework, detailed",
+   "seed": 41
+  },
+  {
+   "id": "e2_choza",
+   "prompt": "interior of a poor medieval peasant hut, straw bed on dirt floor, open hearth fire with smoke filling the room, chickens and a goat inside, hanging iron pots, dim light from a tiny window, no people, graphic novel illustration, bold black ink shadows, flat muted colors, strong contrast, clean confident linework, detailed",
+   "seed": 42
+  },
+  {
+   "id": "e3_aldea",
+   "prompt": "medieval peasant village in the year 1300, muddy street with puddles and filth, thatched timber-framed houses with chimney smoke, stone castle on a hill in the distance, overcast grey sky, crows, pigs in the mud, wide shot, no people, hand colored woodcut engraving, fine cross hatching, old manuscript illustration, muted sepia and ochre colors, parchment texture, detailed",
+   "seed": 41
+  },
+  {
+   "id": "e3_choza",
+   "prompt": "interior of a poor medieval peasant hut, straw bed on dirt floor, open hearth fire with smoke filling the room, chickens and a goat inside, hanging iron pots, dim light from a tiny window, no people, hand colored woodcut engraving, fine cross hatching, old manuscript illustration, muted sepia and ochre colors, parchment texture, detailed",
+   "seed": 42
+  },
+  {
+   "id": "e4_aldea",
+   "prompt": "medieval peasant village in the year 1300, muddy street with puddles and filth, thatched timber-framed houses with chimney smoke, stone castle on a hill in the distance, overcast grey sky, crows, pigs in the mud, wide shot, no people, 2D animated cartoon series background art, clean vector shapes, soft cel shading, muted gritty colors, detailed environment design",
+   "seed": 41
+  },
+  {
+   "id": "e4_choza",
+   "prompt": "interior of a poor medieval peasant hut, straw bed on dirt floor, open hearth fire with smoke filling the room, chickens and a goat inside, hanging iron pots, dim light from a tiny window, no people, 2D animated cartoon series background art, clean vector shapes, soft cel shading, muted gritty colors, detailed environment design",
+   "seed": 42
+  }
+ ]
+}
