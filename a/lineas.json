@@ -1,0 +1,47 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 4.78,
+  "acierto": 0.85,
+  "parecido": 0.968,
+  "texto": "Imagina que esta noche te duermes… y te despiertas en el año mil trescientos.",
+  "pausa": 0.4
+ },
+ {
+  "i": 1,
+  "a": 5.18,
+  "b": 12.2,
+  "acierto": 1.0,
+  "parecido": 0.947,
+  "texto": "Sin móvil. Sin luz. Sin agua en el grifo. Y con un gallo gritándote en la oreja antes de que salga el sol.",
+  "pausa": 0.4
+ },
+ {
+  "i": 2,
+  "a": 12.6,
+  "b": 19.8,
+  "acierto": 1.0,
+  "parecido": 0.953,
+  "texto": "Estás tumbado en un colchón de paja. Huele a humo, a animales… y a algo que prefieres no saber qué es.",
+  "pausa": 0.4
+ },
+ {
+  "i": 3,
+  "a": 20.2,
+  "b": 23.48,
+  "acierto": 1.0,
+  "parecido": 0.929,
+  "texto": "Así que solo tienes una pregunta: ¿cuánto durarías aquí?",
+  "pausa": 0.4
+ },
+ {
+  "i": 4,
+  "a": 23.88,
+  "b": 27.1,
+  "acierto": 1.0,
+  "parecido": 0.931,
+  "texto": "Esto es La Raíz de Todo. Y hoy vamos a averiguarlo.",
+  "pausa": 0.4
+ }
+]
