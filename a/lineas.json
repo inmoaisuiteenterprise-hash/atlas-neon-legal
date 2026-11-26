@@ -1,0 +1,47 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 4.78,
+  "acierto": 0.85,
+  "parecido": 0.968,
+  "texto": "Imagina que esta noche te duermes… y te despiertas en el año mil trescientos.",
+  "pausa": 0.45
+ },
+ {
+  "i": 1,
+  "a": 5.23,
+  "b": 10.92,
+  "acierto": 1.0,
+  "parecido": 0.915,
+  "texto": "Sin móvil. Sin luz. Sin agua corriente. Y con frío. Mucho frío.",
+  "pausa": 0.45
+ },
+ {
+  "i": 2,
+  "a": 11.37,
+  "b": 17.36,
+  "acierto": 0.95,
+  "parecido": 0.949,
+  "texto": "Duermes sobre paja llena de pulgas, junto a los animales. Y el humo del fuego no tiene por dónde salir.",
+  "pausa": 0.45
+ },
+ {
+  "i": 3,
+  "a": 17.81,
+  "b": 22.39,
+  "acierto": 1.0,
+  "parecido": 0.932,
+  "texto": "Fuera, la calle es barro… y todo lo que la gente tira por la ventana.",
+  "pausa": 0.45
+ },
+ {
+  "i": 4,
+  "a": 22.84,
+  "b": 28.16,
+  "acierto": 1.0,
+  "parecido": 0.936,
+  "texto": "Así que solo hay una pregunta: ¿cuánto durarías aquí? Esto es La Raíz de Todo.",
+  "pausa": 0.45
+ }
+]
