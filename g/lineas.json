@@ -1,0 +1,56 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 3.03,
+  "acierto": 0.96,
+  "parecido": 0.954,
+  "texto": "Entonces… ¿cuánto durarías?",
+  "pausa": 0.5
+ },
+ {
+  "i": 1,
+  "a": 3.53,
+  "b": 10.43,
+  "acierto": 0.96,
+  "parecido": 0.954,
+  "texto": "Seguro que has oído que en la Edad Media se vivía hasta los treinta y pocos. Es una media engañosa.",
+  "pausa": 0.5
+ },
+ {
+  "i": 2,
+  "a": 10.93,
+  "b": 15.51,
+  "acierto": 0.96,
+  "parecido": 0.954,
+  "texto": "Muchísimos niños morían muy pequeños, y eso hunde el promedio.",
+  "pausa": 0.5
+ },
+ {
+  "i": 3,
+  "a": 16.01,
+  "b": 21.25,
+  "acierto": 0.96,
+  "parecido": 0.954,
+  "texto": "Si superabas la infancia, podías llegar a los cincuenta, a los sesenta… o más.",
+  "pausa": 0.5
+ },
+ {
+  "i": 4,
+  "a": 21.75,
+  "b": 27.09,
+  "acierto": 0.96,
+  "parecido": 0.954,
+  "texto": "O sea: lo difícil no era hacerse viejo. Lo difícil era sobrevivir a ser niño.",
+  "pausa": 0.5
+ },
+ {
+  "i": 5,
+  "a": 27.59,
+  "b": 32.98,
+  "acierto": 0.96,
+  "parecido": 0.954,
+  "texto": "Y tú, con lo que sabes hoy… ¿cuánto crees que durarías? Te leo en los comentarios.",
+  "pausa": 0.5
+ }
+]

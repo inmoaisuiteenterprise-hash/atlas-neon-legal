@@ -1,0 +1,47 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 3.54,
+  "acierto": 1.0,
+  "parecido": 0.946,
+  "texto": "Ahora, lo duro de verdad: ponerte enfermo.",
+  "pausa": 0.5
+ },
+ {
+  "i": 1,
+  "a": 4.04,
+  "b": 11.77,
+  "acierto": 1.0,
+  "parecido": 0.946,
+  "texto": "Los médicos creían que el cuerpo tenía cuatro humores: sangre, flema, bilis amarilla y bilis negra.",
+  "pausa": 0.5
+ },
+ {
+  "i": 2,
+  "a": 12.27,
+  "b": 17.89,
+  "acierto": 1.0,
+  "parecido": 0.946,
+  "texto": "Si enfermabas, era porque estaban desequilibrados. ¿La solución? Sacarte sangre.",
+  "pausa": 0.5
+ },
+ {
+  "i": 3,
+  "a": 18.39,
+  "b": 25.08,
+  "acierto": 1.0,
+  "parecido": 0.946,
+  "texto": "¿Y quién te la sacaba? Muchas veces, el barbero. El mismo que te cortaba el pelo te arrancaba muelas.",
+  "pausa": 0.5
+ },
+ {
+  "i": 4,
+  "a": 25.58,
+  "b": 30.46,
+  "acierto": 1.0,
+  "parecido": 0.946,
+  "texto": "Por eso los postes de barbería son rojos y blancos: sangre y vendas.",
+  "pausa": 0.5
+ }
+]

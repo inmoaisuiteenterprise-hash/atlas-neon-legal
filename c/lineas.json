@@ -1,0 +1,38 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 5.8,
+  "acierto": 1.0,
+  "parecido": 0.959,
+  "texto": "¿Y qué comes? Pan. Mucho pan. Alrededor de un kilo al día.",
+  "pausa": 0.5
+ },
+ {
+  "i": 1,
+  "a": 6.3,
+  "b": 14.9,
+  "acierto": 1.0,
+  "parecido": 0.959,
+  "texto": "Con potaje: verduras, legumbres y cereal cociendo horas en la olla. ¿Carne? Poca, y en fiestas.",
+  "pausa": 0.5
+ },
+ {
+  "i": 2,
+  "a": 15.4,
+  "b": 20.83,
+  "acierto": 1.0,
+  "parecido": 0.959,
+  "texto": "Y aquí cae un mito: que bebían cerveza porque el agua era veneno. Falso.",
+  "pausa": 0.5
+ },
+ {
+  "i": 3,
+  "a": 21.33,
+  "b": 28.75,
+  "acierto": 1.0,
+  "parecido": 0.959,
+  "texto": "Bebían agua cuando estaba limpia. La cerveza, más floja que la de hoy, era sobre todo energía para aguantar el día.",
+  "pausa": 0.5
+ }
+]
