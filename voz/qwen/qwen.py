@@ -35,7 +35,7 @@ def parecido(w):
 if g.get("toma_unica"):   # todo el bloque en UNA toma continua (misma voz de principio a fin), luego se corta por frases
     import difflib
     L = g["lineas"]; txt = " ".join(ln.get("voz", ln["texto"]) for ln in L); full = f"{OUT}/_toma.wav"; best = None
-    for intento in range(g.get("tomas", 3)):
+    for intento in range(0 if g.get("toma_wav") else g.get("tomas", 3)):
         torch.manual_seed(2000 + intento)
         if modo == "diseno": wavs, sr = model.generate_voice_design(text=txt, language="Spanish", instruct=g["instruct"])
         else: wavs, sr = model.generate_voice_clone(text=txt, language="Spanish", voice_clone_prompt=prompt)
@@ -45,7 +45,15 @@ if g.get("toma_unica"):   # todo el bloque en UNA toma continua (misma voz de pr
         sm = difflib.SequenceMatcher(None, R, Hn, autojunk=False); score = sum(b.size for b in sm.get_matching_blocks()) / max(1, len(R))
         sim = parecido(full); total = score + (2.0 * sim if ENC is not None else 0); print("toma", intento, round(score, 2), round(sim, 3), flush=True)
         if best is None or total > best[0]: best = (total, score, sim, ws, sm.get_matching_blocks(), R); subprocess.run(["cp", full, full + ".best"])
-    subprocess.run(["mv", full + ".best", full]); _, score, sim, ws, bloques, R = best
+    if g.get("toma_wav"):   # reutilizar una toma ya generada (solo se vuelve a alinear y cortar)
+        src = os.path.join(os.path.dirname(os.path.abspath(G)), "..", g["toma_wav"]); subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-i", src, "-ar", "48000", "-ac", "2", full], check=True)
+        segs, _ = wm.transcribe(full, language="es", word_timestamps=True); ws = [x for s in segs for x in s.words]
+        R = [w for ln in L for w in norm(ln["texto"]).split()]; Hn = [norm(x.word).strip() for x in ws]
+        sm = difflib.SequenceMatcher(None, R, Hn, autojunk=False); score = sum(b.size for b in sm.get_matching_blocks()) / max(1, len(R)); sim = parecido(full) if ENC is not None else 0
+        bloques = sm.get_matching_blocks()
+    else:
+        subprocess.run(["mv", full + ".best", full]); _, score, sim, ws, bloques, R = best
+    json.dump([{"w": x.word.strip(), "a": round(x.start, 2), "b": round(x.end, 2)} for x in ws], open(f"{OUT}/_toma.json", "w"), ensure_ascii=False)
     m = {}
     for b in bloques:
         for k in range(b.size): m[b.a + k] = b.b + k
@@ -59,7 +67,7 @@ if g.get("toma_unica"):   # todo el bloque en UNA toma continua (misma voz de pr
     for i, ln in enumerate(L):
         a, b = cortes[i], cortes[i + 1]; w = f"{OUT}/l{i:02d}.wav"
         subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-i", full, "-ss", f"{a:.3f}", "-to", f"{b:.3f}", "-af",
-                        "silenceremove=start_periods=1:start_threshold=-45dB,areverse,silenceremove=start_periods=1:start_threshold=-45dB,areverse,afade=t=in:d=0.02,afade=t=out:st=0:d=0", w], check=True)
+                        "silenceremove=start_periods=1:start_threshold=-45dB,areverse,silenceremove=start_periods=1:start_threshold=-45dB,areverse,afade=t=in:d=0.015", w], check=True)
         d = dur(w); seg, _ = wm.transcribe(w, language="es", word_timestamps=True); wl = [x for s in seg for x in s.words]
         lineas.append({"i": i, "a": round(t, 2), "b": round(t + d, 2), "acierto": round(score, 2), "parecido": round(sim, 3), **ln})
         for x in wl: palabras.append({"w": x.word.strip(), "a": round(t + x.start, 2), "b": round(t + x.end, 2), "linea": i})

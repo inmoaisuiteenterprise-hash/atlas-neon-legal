@@ -1,0 +1,34 @@
+{
+ "modo": "clon",
+ "ref": "ref_raiz_v5.wav",
+ "ref_text": "Imagina que esta noche te duermes… y te despiertas en el año mil trescientos. Sin móvil. Sin luz. Y con un gallo gritándote en la oreja antes de que salga el sol.",
+ "toma_unica": true,
+ "tomas": 3,
+ "lineas": [
+  {
+   "texto": "Entonces… ¿cuánto durarías?",
+   "pausa": 0.5
+  },
+  {
+   "texto": "Seguro que has oído que en la Edad Media se vivía hasta los treinta y pocos. Es una media engañosa.",
+   "pausa": 0.5
+  },
+  {
+   "texto": "Muchísimos niños morían muy pequeños, y eso hunde el promedio.",
+   "pausa": 0.5
+  },
+  {
+   "texto": "Si superabas la infancia, podías llegar a los cincuenta, a los sesenta… o más.",
+   "pausa": 0.5
+  },
+  {
+   "texto": "O sea: lo difícil no era hacerse viejo. Lo difícil era sobrevivir a ser niño.",
+   "pausa": 0.5
+  },
+  {
+   "texto": "Y tú, con lo que sabes hoy… ¿cuánto crees que durarías? Te leo en los comentarios.",
+   "pausa": 0.5
+  }
+ ],
+ "toma_wav": "tomas/medcap_g.flac"
+}

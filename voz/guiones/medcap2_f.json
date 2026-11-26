@@ -1,0 +1,30 @@
+{
+ "modo": "clon",
+ "ref": "ref_raiz_v5.wav",
+ "ref_text": "Imagina que esta noche te duermes… y te despiertas en el año mil trescientos. Sin móvil. Sin luz. Y con un gallo gritándote en la oreja antes de que salga el sol.",
+ "toma_unica": true,
+ "tomas": 3,
+ "lineas": [
+  {
+   "texto": "Pero si llegas en mil trescientos, lo peor todavía no ha pasado.",
+   "pausa": 0.5
+  },
+  {
+   "texto": "En mil trescientos quince empieza a llover. Y no para. Las cosechas se pudren. Es la Gran Hambruna.",
+   "pausa": 0.5
+  },
+  {
+   "texto": "Y en mil trescientos cuarenta y siete llega algo peor por el mar: la peste negra.",
+   "pausa": 0.5
+  },
+  {
+   "texto": "En pocos años muere entre un tercio y la mitad de toda Europa.",
+   "pausa": 0.5
+  },
+  {
+   "texto": "Piensa en tu clase. Ahora quita a la mitad.",
+   "pausa": 0.5
+  }
+ ],
+ "toma_wav": "tomas/medcap_f.flac"
+}
