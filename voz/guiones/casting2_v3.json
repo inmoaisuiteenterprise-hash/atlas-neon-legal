@@ -1,0 +1,14 @@
+{
+ "modo": "diseno",
+ "instruct": "Castilian Spanish accent from Spain (c and z pronounced as 'th'), natural and human, never robotic. Male narrator in his forties, very deep bass voice, cinematic trailer style but softer, slow and mysterious, a whisper of intrigue.",
+ "lineas": [
+  {
+   "texto": "Imagina que esta noche te duermes… y te despiertas en el año mil trescientos.",
+   "pausa": 0.5
+  },
+  {
+   "texto": "Sin móvil. Sin luz. Y con un gallo gritándote en la oreja antes de que salga el sol.",
+   "pausa": 0.5
+  }
+ ]
+}

@@ -1,0 +1,14 @@
+{
+ "modo": "diseno",
+ "instruct": "Castilian Spanish accent from Spain (c and z pronounced as 'th'), natural and human, never robotic. Young male narrator around twenty, enthusiastic and expressive, animated cartoon-show narrator, bright but not shrill, lively rhythm.",
+ "lineas": [
+  {
+   "texto": "Imagina que esta noche te duermes… y te despiertas en el año mil trescientos.",
+   "pausa": 0.5
+  },
+  {
+   "texto": "Sin móvil. Sin luz. Y con un gallo gritándote en la oreja antes de que salga el sol.",
+   "pausa": 0.5
+  }
+ ]
+}
