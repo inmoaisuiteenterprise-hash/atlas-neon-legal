@@ -1,0 +1,20 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 5.1,
+  "acierto": 0.85,
+  "parecido": 0,
+  "texto": "Imagina que esta noche te duermes… y te despiertas en el año mil trescientos.",
+  "pausa": 0.5
+ },
+ {
+  "i": 1,
+  "a": 5.6,
+  "b": 13.6,
+  "acierto": 1.0,
+  "parecido": 0,
+  "texto": "Sin móvil. Sin luz. Y con un gallo gritándote en la oreja antes de que salga el sol.",
+  "pausa": 0.5
+ }
+]
