@@ -1,0 +1,25 @@
+{
+ "modo": "clon",
+ "ref": "ref_raiz_v5.wav",
+ "ref_text": "Imagina que esta noche te duermes… y te despiertas en el año mil trescientos. Sin móvil. Sin luz. Y con un gallo gritándote en la oreja antes de que salga el sol.",
+ "toma_unica": true,
+ "tomas": 3,
+ "lineas": [
+  {
+   "texto": "¿Y qué comes? Pan. Mucho pan. Alrededor de un kilo al día.",
+   "pausa": 0.5
+  },
+  {
+   "texto": "Con potaje: verduras, legumbres y cereal cociendo horas en la olla. ¿Carne? Poca, y en fiestas.",
+   "pausa": 0.5
+  },
+  {
+   "texto": "Y aquí cae un mito: que bebían cerveza porque el agua era veneno. Falso.",
+   "pausa": 0.5
+  },
+  {
+   "texto": "Bebían agua cuando estaba limpia. La cerveza, más floja que la de hoy, era sobre todo energía para aguantar el día.",
+   "pausa": 0.5
+  }
+ ]
+}

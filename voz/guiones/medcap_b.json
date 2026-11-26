@@ -1,0 +1,25 @@
+{
+ "modo": "clon",
+ "ref": "ref_raiz_v5.wav",
+ "ref_text": "Imagina que esta noche te duermes… y te despiertas en el año mil trescientos. Sin móvil. Sin luz. Y con un gallo gritándote en la oreja antes de que salga el sol.",
+ "toma_unica": true,
+ "tomas": 3,
+ "lineas": [
+  {
+   "texto": "Primero, lo más probable: no serías rey ni caballero. Serías campesino, como casi todo el mundo.",
+   "pausa": 0.5
+  },
+  {
+   "texto": "Y muchos campesinos eran siervos: atados a la tierra de un señor.",
+   "pausa": 0.5
+  },
+  {
+   "texto": "Dos o tres días a la semana trabajarías sus campos. Gratis.",
+   "pausa": 0.5
+  },
+  {
+   "texto": "Y de lo que cosecharas en tu trocito de tierra, una décima parte iría a la Iglesia. El diezmo.",
+   "pausa": 0.5
+  }
+ ]
+}

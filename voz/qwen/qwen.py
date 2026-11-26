@@ -24,7 +24,7 @@ if modo == "clon":
     prompt = model.create_voice_clone_prompt(ref_audio=ref, ref_text=g["ref_text"], x_vector_only_mode=False)
 lineas, palabras, t = [], [], 0.35
 ENC = REFE = None
-if g.get("tomas"):   # elegir, de varias tomas, la que más se parece a la voz de referencia (huella de voz con Resemblyzer, Apache 2.0)
+if g.get("tomas") and modo == "clon":   # elegir, de varias tomas, la que más se parece a la voz de referencia (huella de voz con Resemblyzer, Apache 2.0)
     subprocess.run([sys.executable, "-m", "pip", "install", "-q", "resemblyzer"], check=False)
     from resemblyzer import VoiceEncoder, preprocess_wav
     import numpy as np
@@ -32,6 +32,39 @@ if g.get("tomas"):   # elegir, de varias tomas, la que más se parece a la voz d
 def parecido(w):
     if ENC is None: return 0
     e = ENC.embed_utterance(preprocess_wav(w)); return float(np.dot(e, REFE) / (np.linalg.norm(e) * np.linalg.norm(REFE)))
+if g.get("toma_unica"):   # todo el bloque en UNA toma continua (misma voz de principio a fin), luego se corta por frases
+    import difflib
+    L = g["lineas"]; txt = " ".join(ln.get("voz", ln["texto"]) for ln in L); full = f"{OUT}/_toma.wav"; best = None
+    for intento in range(g.get("tomas", 3)):
+        torch.manual_seed(2000 + intento)
+        if modo == "diseno": wavs, sr = model.generate_voice_design(text=txt, language="Spanish", instruct=g["instruct"])
+        else: wavs, sr = model.generate_voice_clone(text=txt, language="Spanish", voice_clone_prompt=prompt)
+        tmp = tempfile.mktemp(suffix=".wav"); sf.write(tmp, wavs[0], sr); post(tmp, full)
+        segs, _ = wm.transcribe(full, language="es", word_timestamps=True); ws = [x for s in segs for x in s.words]
+        R = [w for ln in L for w in norm(ln["texto"]).split()]; Hn = [norm(x.word).strip() for x in ws]
+        sm = difflib.SequenceMatcher(None, R, Hn, autojunk=False); score = sum(b.size for b in sm.get_matching_blocks()) / max(1, len(R))
+        sim = parecido(full); total = score + (2.0 * sim if ENC is not None else 0); print("toma", intento, round(score, 2), round(sim, 3), flush=True)
+        if best is None or total > best[0]: best = (total, score, sim, ws, sm.get_matching_blocks(), R); subprocess.run(["cp", full, full + ".best"])
+    subprocess.run(["mv", full + ".best", full]); _, score, sim, ws, bloques, R = best
+    m = {}
+    for b in bloques:
+        for k in range(b.size): m[b.a + k] = b.b + k
+    lim, c = [], 0
+    for ln in L: c += len(norm(ln["texto"]).split()); lim.append(c)
+    cortes, D = [0.0], dur(full)
+    for k in range(len(L) - 1):
+        r = lim[k]; antes = max([m[j] for j in m if j < r], default=0); desp = min([m[j] for j in m if j >= r], default=len(ws) - 1)
+        cortes.append((ws[antes].end + ws[desp].start) / 2 if desp > antes else ws[antes].end + 0.05)
+    cortes.append(D)
+    for i, ln in enumerate(L):
+        a, b = cortes[i], cortes[i + 1]; w = f"{OUT}/l{i:02d}.wav"
+        subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-i", full, "-ss", f"{a:.3f}", "-to", f"{b:.3f}", "-af",
+                        "silenceremove=start_periods=1:start_threshold=-45dB,areverse,silenceremove=start_periods=1:start_threshold=-45dB,areverse,afade=t=in:d=0.02,afade=t=out:st=0:d=0", w], check=True)
+        d = dur(w); seg, _ = wm.transcribe(w, language="es", word_timestamps=True); wl = [x for s in seg for x in s.words]
+        lineas.append({"i": i, "a": round(t, 2), "b": round(t + d, 2), "acierto": round(score, 2), "parecido": round(sim, 3), **ln})
+        for x in wl: palabras.append({"w": x.word.strip(), "a": round(t + x.start, 2), "b": round(t + x.end, 2), "linea": i})
+        t += d + ln.get("pausa", 0.3); print(i, round(d, 1), flush=True)
+    json.dump(lineas, open(f"{OUT}/lineas.json", "w"), ensure_ascii=False, indent=1); json.dump(palabras, open(f"{OUT}/timing.json", "w"), ensure_ascii=False); sys.exit(0)
 for i, ln in enumerate(g["lineas"]):
     w = f"{OUT}/l{i:02d}.wav"; best = None
     for intento in range(g.get("tomas", 3)):

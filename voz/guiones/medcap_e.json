@@ -1,0 +1,29 @@
+{
+ "modo": "clon",
+ "ref": "ref_raiz_v5.wav",
+ "ref_text": "Imagina que esta noche te duermes… y te despiertas en el año mil trescientos. Sin móvil. Sin luz. Y con un gallo gritándote en la oreja antes de que salga el sol.",
+ "toma_unica": true,
+ "tomas": 3,
+ "lineas": [
+  {
+   "texto": "Ahora, lo duro de verdad: ponerte enfermo.",
+   "pausa": 0.5
+  },
+  {
+   "texto": "Los médicos creían que el cuerpo tenía cuatro humores: sangre, flema, bilis amarilla y bilis negra.",
+   "pausa": 0.5
+  },
+  {
+   "texto": "Si enfermabas, era porque estaban desequilibrados. ¿La solución? Sacarte sangre.",
+   "pausa": 0.5
+  },
+  {
+   "texto": "¿Y quién te la sacaba? Muchas veces, el barbero. El mismo que te cortaba el pelo te arrancaba muelas.",
+   "pausa": 0.5
+  },
+  {
+   "texto": "Por eso los postes de barbería son rojos y blancos: sangre y vendas.",
+   "pausa": 0.5
+  }
+ ]
+}
