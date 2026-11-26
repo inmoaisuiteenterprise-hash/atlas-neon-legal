@@ -1,0 +1,10 @@
+{
+ "modo": "diseno",
+ "instruct": "Castilian Spanish accent from Spain (c and z pronounced as 'th'), natural and human, never robotic. Female narrator in her late twenties. Warm, curious, slightly low voice, engaging storyteller for young audiences, gentle mystery.",
+ "lineas": [
+  {
+   "texto": "Imagina que esta noche te duermes… y te despiertas en el año mil trescientos. Sin móvil. Sin luz. Y con un gallo gritándote en la oreja antes de que salga el sol.",
+   "pausa": 0.3
+  }
+ ]
+}
