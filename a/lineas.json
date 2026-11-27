@@ -1,0 +1,38 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 7.54,
+  "acierto": 0.92,
+  "parecido": 0.954,
+  "texto": "Francia, año mil trescientos ochenta y seis. Una multitud se reúne en la plaza para ver una ejecución.",
+  "pausa": 0.5
+ },
+ {
+  "i": 1,
+  "a": 8.04,
+  "b": 13.85,
+  "acierto": 0.92,
+  "parecido": 0.954,
+  "texto": "El condenado lleva chaqueta, calzones y guantes. Lo han juzgado por matar a un niño.",
+  "pausa": 0.5
+ },
+ {
+  "i": 2,
+  "a": 14.35,
+  "b": 18.36,
+  "acierto": 0.92,
+  "parecido": 0.954,
+  "texto": "Y entonces lo ves: el acusado… es un cerdo.",
+  "pausa": 0.5
+ },
+ {
+  "i": 3,
+  "a": 18.86,
+  "b": 24.93,
+  "acierto": 0.92,
+  "parecido": 0.954,
+  "texto": "Bienvenido a la Edad Media. Ahora imagina que te despiertas allí. Esto es La Raíz de Todo.",
+  "pausa": 0.5
+ }
+]

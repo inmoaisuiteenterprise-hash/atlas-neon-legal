@@ -1,0 +1,38 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 4.19,
+  "acierto": 0.9,
+  "parecido": 0.942,
+  "texto": "Y en mil trescientos cuarenta y siete llega la peste negra.",
+  "pausa": 0.5
+ },
+ {
+  "i": 1,
+  "a": 4.69,
+  "b": 12.87,
+  "acierto": 0.9,
+  "parecido": 0.942,
+  "texto": "En pocos años muere entre un tercio y la mitad de toda Europa. Piensa en tu clase… y quita a la mitad.",
+  "pausa": 0.5
+ },
+ {
+  "i": 2,
+  "a": 13.37,
+  "b": 20.94,
+  "acierto": 0.9,
+  "parecido": 0.942,
+  "texto": "Mucha gente pensó que era un castigo de Dios. Y salieron a la calle en procesión… azotándose a sí mismos.",
+  "pausa": 0.5
+ },
+ {
+  "i": 3,
+  "a": 21.44,
+  "b": 25.28,
+  "acierto": 0.9,
+  "parecido": 0.942,
+  "texto": "Llegaron a tal extremo que el propio papa acabó condenándolos.",
+  "pausa": 0.5
+ }
+]

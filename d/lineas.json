@@ -1,0 +1,38 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 6.19,
+  "acierto": 0.98,
+  "parecido": 0.967,
+  "texto": "¿Y si enfermas? Los médicos creían que todo dependía de cuatro humores.",
+  "pausa": 0.5
+ },
+ {
+  "i": 1,
+  "a": 6.69,
+  "b": 13.12,
+  "acierto": 0.98,
+  "parecido": 0.967,
+  "texto": "La solución estrella era sacarte sangre. Muchas veces, hasta que te desmayabas.",
+  "pausa": 0.5
+ },
+ {
+  "i": 2,
+  "a": 13.62,
+  "b": 22.85,
+  "acierto": 0.98,
+  "parecido": 0.967,
+  "texto": "¿Te duele una muela? Será un gusano que vive dentro. El remedio: hierbas, oraciones… o arrancarla sin anestesia.",
+  "pausa": 0.5
+ },
+ {
+  "i": 3,
+  "a": 23.35,
+  "b": 30.38,
+  "acierto": 0.98,
+  "parecido": 0.967,
+  "texto": "Y quien lo hacía solía ser el barbero. Por eso sus postes son rojos y blancos: sangre y vendas.",
+  "pausa": 0.5
+ }
+]

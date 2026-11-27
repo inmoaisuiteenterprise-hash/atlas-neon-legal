@@ -1,0 +1,38 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 5.31,
+  "acierto": 0.96,
+  "parecido": 0.95,
+  "texto": "Esta noche te duermes en tu cama… y despiertas en el año mil trescientos.",
+  "pausa": 0.5
+ },
+ {
+  "i": 1,
+  "a": 5.81,
+  "b": 11.87,
+  "acierto": 0.96,
+  "parecido": 0.95,
+  "texto": "Paja con pulgas, animales dentro de casa y el humo del fuego sin salida.",
+  "pausa": 0.5
+ },
+ {
+  "i": 2,
+  "a": 12.37,
+  "b": 19.18,
+  "acierto": 0.96,
+  "parecido": 0.95,
+  "texto": "Lo más probable es que fueras campesino. Y muchos eran siervos: atados a la tierra de un señor.",
+  "pausa": 0.5
+ },
+ {
+  "i": 3,
+  "a": 19.68,
+  "b": 26.79,
+  "acierto": 0.96,
+  "parecido": 0.95,
+  "texto": "Dos o tres días a la semana trabajarías sus campos gratis. Y una décima parte de tu cosecha iría a la Iglesia.",
+  "pausa": 0.5
+ }
+]

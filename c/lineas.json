@@ -1,0 +1,38 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 4.36,
+  "acierto": 0.96,
+  "parecido": 0.951,
+  "texto": "Pero lo peor no es trabajar. Lo peor es cuando no hay comida.",
+  "pausa": 0.5
+ },
+ {
+  "i": 1,
+  "a": 4.86,
+  "b": 11.4,
+  "acierto": 0.96,
+  "parecido": 0.951,
+  "texto": "En mil trescientos quince empieza a llover y no para. Las cosechas se pudren dos años seguidos.",
+  "pausa": 0.5
+ },
+ {
+  "i": 2,
+  "a": 11.9,
+  "b": 18.81,
+  "acierto": 0.96,
+  "parecido": 0.951,
+  "texto": "Un cronista inglés escribió que la carne de caballo era un lujo… y que se robaban los perros gordos para comérselos.",
+  "pausa": 0.5
+ },
+ {
+  "i": 3,
+  "a": 19.31,
+  "b": 26.17,
+  "acierto": 0.96,
+  "parecido": 0.951,
+  "texto": "Y añadió algo peor: que, según muchos relatos, había gente que se comía en secreto a sus propios hijos.",
+  "pausa": 0.5
+ }
+]

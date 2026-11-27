@@ -1,0 +1,47 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 2.69,
+  "acierto": 0.96,
+  "parecido": 0.964,
+  "texto": "Entonces… ¿cuánto durarías?",
+  "pausa": 0.5
+ },
+ {
+  "i": 1,
+  "a": 3.19,
+  "b": 9.99,
+  "acierto": 0.96,
+  "parecido": 0.964,
+  "texto": "Seguro que has oído que en la Edad Media se vivía hasta los treinta y pocos. Es una media engañosa.",
+  "pausa": 0.5
+ },
+ {
+  "i": 2,
+  "a": 10.49,
+  "b": 21.79,
+  "acierto": 0.96,
+  "parecido": 0.964,
+  "texto": "Muchísimos niños morían muy pequeños, y eso hunde el promedio. Si llegabas a adulto, podías vivir cincuenta, sesenta años… o más.",
+  "pausa": 0.5
+ },
+ {
+  "i": 3,
+  "a": 22.29,
+  "b": 27.97,
+  "acierto": 0.96,
+  "parecido": 0.964,
+  "texto": "O sea: lo difícil no era hacerse viejo. Lo difícil era sobrevivir.",
+  "pausa": 0.5
+ },
+ {
+  "i": 4,
+  "a": 28.47,
+  "b": 33.31,
+  "acierto": 0.96,
+  "parecido": 0.964,
+  "texto": "¿Y tú? ¿Cuánto crees que durarías? Te leo en los comentarios.",
+  "pausa": 0.5
+ }
+]
