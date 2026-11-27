@@ -1,0 +1,25 @@
+{
+ "modo": "clon",
+ "ref": "ref_raiz_v5.wav",
+ "ref_text": "Imagina que esta noche te duermes… y te despiertas en el año mil trescientos. Sin móvil. Sin luz. Y con un gallo gritándote en la oreja antes de que salga el sol.",
+ "toma_unica": true,
+ "tomas": 3,
+ "lineas": [
+  {
+   "texto": "Francia, año mil trescientos ochenta y seis. Una multitud se reúne en la plaza para ver una ejecución.",
+   "pausa": 0.5
+  },
+  {
+   "texto": "El condenado lleva chaqueta, calzones y guantes. Lo han juzgado por matar a un niño.",
+   "pausa": 0.5
+  },
+  {
+   "texto": "Y entonces lo ves: el acusado… es un cerdo.",
+   "pausa": 0.5
+  },
+  {
+   "texto": "Bienvenido a la Edad Media. Ahora imagina que te despiertas allí. Esto es La Raíz de Todo.",
+   "pausa": 0.5
+  }
+ ]
+}

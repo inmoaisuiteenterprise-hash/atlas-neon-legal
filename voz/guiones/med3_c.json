@@ -1,0 +1,25 @@
+{
+ "modo": "clon",
+ "ref": "ref_raiz_v5.wav",
+ "ref_text": "Imagina que esta noche te duermes… y te despiertas en el año mil trescientos. Sin móvil. Sin luz. Y con un gallo gritándote en la oreja antes de que salga el sol.",
+ "toma_unica": true,
+ "tomas": 3,
+ "lineas": [
+  {
+   "texto": "Pero lo peor no es trabajar. Lo peor es cuando no hay comida.",
+   "pausa": 0.5
+  },
+  {
+   "texto": "En mil trescientos quince empieza a llover y no para. Las cosechas se pudren dos años seguidos.",
+   "pausa": 0.5
+  },
+  {
+   "texto": "Un cronista inglés escribió que la carne de caballo era un lujo… y que se robaban los perros gordos para comérselos.",
+   "pausa": 0.5
+  },
+  {
+   "texto": "Y añadió algo peor: que, según muchos relatos, había gente que se comía en secreto a sus propios hijos.",
+   "pausa": 0.5
+  }
+ ]
+}

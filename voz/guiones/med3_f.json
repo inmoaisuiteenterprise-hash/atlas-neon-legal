@@ -1,0 +1,25 @@
+{
+ "modo": "clon",
+ "ref": "ref_raiz_v5.wav",
+ "ref_text": "Imagina que esta noche te duermes… y te despiertas en el año mil trescientos. Sin móvil. Sin luz. Y con un gallo gritándote en la oreja antes de que salga el sol.",
+ "toma_unica": true,
+ "tomas": 3,
+ "lineas": [
+  {
+   "texto": "Y en mil trescientos cuarenta y siete llega la peste negra.",
+   "pausa": 0.5
+  },
+  {
+   "texto": "En pocos años muere entre un tercio y la mitad de toda Europa. Piensa en tu clase… y quita a la mitad.",
+   "pausa": 0.5
+  },
+  {
+   "texto": "Mucha gente pensó que era un castigo de Dios. Y salieron a la calle en procesión… azotándose a sí mismos.",
+   "pausa": 0.5
+  },
+  {
+   "texto": "Llegaron a tal extremo que el propio papa acabó condenándolos.",
+   "pausa": 0.5
+  }
+ ]
+}

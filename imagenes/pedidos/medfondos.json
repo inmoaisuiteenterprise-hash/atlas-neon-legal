@@ -1,0 +1,78 @@
+{
+ "trabajo": "medfondos",
+ "trozos": 10,
+ "estilo": "",
+ "negativo": "people, person, man, woman, child, text, letters, watermark, signature, blurry, deformed, photo, gore, blood",
+ "imagenes": [
+  {
+   "id": "plaza",
+   "prompt": "medieval french town square in 1386, wooden gallows platform in the center, timber framed houses, church tower, overcast sky, muddy cobblestones, empty, poor and rough, wattle and daub walls, thatched roofs, no glass windows, dark storybook illustration, hand painted gouache, muted earthy palette, dramatic moody lighting, highly detailed, cinematic composition, wide shot",
+   "seed": 100
+  },
+  {
+   "id": "dormitorio",
+   "prompt": "modern teenager bedroom at night, bed with blanket, posters on wall, desk with laptop, window with city lights and moon, cozy dim blue light, dark storybook illustration, hand painted gouache, muted earthy palette, dramatic moody lighting, highly detailed, cinematic composition, wide shot",
+   "seed": 101
+  },
+  {
+   "id": "choza",
+   "prompt": "interior of a very poor medieval peasant hut, dirt floor, straw bedding on the ground, open central hearth with smoke filling the room, a goat and chickens inside, crude wooden stools, clay pots, dark, poor and rough, wattle and daub walls, thatched roofs, no glass windows, dark storybook illustration, hand painted gouache, muted earthy palette, dramatic moody lighting, highly detailed, cinematic composition, wide shot",
+   "seed": 102
+  },
+  {
+   "id": "campo",
+   "prompt": "medieval farmland with peasants strips of plowed fields, lord's stone castle on a hill, small village church, overcast sky, autumn, muddy, dark storybook illustration, hand painted gouache, muted earthy palette, dramatic moody lighting, highly detailed, cinematic composition, wide shot",
+   "seed": 103
+  },
+  {
+   "id": "lluvia",
+   "prompt": "medieval fields flooded by heavy rain, rotting crops, grey stormy sky, puddles, bleak, a lone thatched hut, rain, dark storybook illustration, hand painted gouache, muted earthy palette, dramatic moody lighting, highly detailed, cinematic composition, wide shot",
+   "seed": 104
+  },
+  {
+   "id": "hambre",
+   "prompt": "bleak medieval village in winter during famine, bare trees, empty houses, grey sky, crows, mud and snow, desolate, poor and rough, wattle and daub walls, thatched roofs, no glass windows, dark storybook illustration, hand painted gouache, muted earthy palette, dramatic moody lighting, highly detailed, cinematic composition, wide shot",
+   "seed": 105
+  },
+  {
+   "id": "barbero",
+   "prompt": "interior of a medieval barber surgeon shop, wooden chair, bowls for blood, jars, knives and pliers on a table, herbs hanging, candle light, dark, grim, dark storybook illustration, hand painted gouache, muted earthy palette, dramatic moody lighting, highly detailed, cinematic composition, wide shot",
+   "seed": 106
+  },
+  {
+   "id": "puente",
+   "prompt": "medieval London Bridge over the river Thames in 1305, stone gatehouse with tall pikes on top, houses on the bridge, grey sky, crows, gloomy, dark storybook illustration, hand painted gouache, muted earthy palette, dramatic moody lighting, highly detailed, cinematic composition, wide shot",
+   "seed": 107
+  },
+  {
+   "id": "smithfield",
+   "prompt": "medieval execution ground outside the city walls, wooden gallows and scaffold, elm trees, grey sky, muddy field, empty, grim, dark storybook illustration, hand painted gouache, muted earthy palette, dramatic moody lighting, highly detailed, cinematic composition, wide shot",
+   "seed": 108
+  },
+  {
+   "id": "procesion",
+   "prompt": "narrow medieval town street during the black death plague, closed doors marked with crosses, smoke, candles, empty, dark gloomy evening, poor and rough, wattle and daub walls, thatched roofs, no glass windows, dark storybook illustration, hand painted gouache, muted earthy palette, dramatic moody lighting, highly detailed, cinematic composition, wide shot",
+   "seed": 109
+  },
+  {
+   "id": "cementerio",
+   "prompt": "medieval cemetery with a mass grave pit and wooden crosses, church in background, fog, grey dawn light, crows, grim, dark storybook illustration, hand painted gouache, muted earthy palette, dramatic moody lighting, highly detailed, cinematic composition, wide shot",
+   "seed": 110
+  },
+  {
+   "id": "aula",
+   "prompt": "modern school classroom with rows of desks, whiteboard, large windows, daylight, dark storybook illustration, hand painted gouache, muted earthy palette, dramatic moody lighting, highly detailed, cinematic composition, wide shot",
+   "seed": 111
+  },
+  {
+   "id": "aldea",
+   "prompt": "medieval peasant village street, muddy road with puddles, thatched houses with smoke, pigs and chickens, stone castle on a distant hill, overcast sky, poor and rough, wattle and daub walls, thatched roofs, no glass windows, dark storybook illustration, hand painted gouache, muted earthy palette, dramatic moody lighting, highly detailed, cinematic composition, wide shot",
+   "seed": 112
+  },
+  {
+   "id": "atardecer",
+   "prompt": "medieval peasant village at sunset, thatched houses, warm orange sky, castle silhouette on the hill, smoke from chimneys, calm, poor and rough, wattle and daub walls, thatched roofs, no glass windows, dark storybook illustration, hand painted gouache, muted earthy palette, dramatic moody lighting, highly detailed, cinematic composition, wide shot",
+   "seed": 113
+  }
+ ]
+}
