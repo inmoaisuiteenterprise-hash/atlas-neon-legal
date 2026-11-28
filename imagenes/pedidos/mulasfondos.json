@@ -1,0 +1,68 @@
+{
+ "trabajo": "mulasfondos",
+ "trozos": 12,
+ "estilo": "",
+ "negativo": "people, person, man, woman, child, text, letters, words, logo, watermark, signature, blurry, deformed, photo",
+ "imagenes": [
+  {
+   "id": "habitacion",
+   "prompt": "small bedroom of a young man at night, unmade bed, desk with laptop, phone screen glowing, posters, window with city lights, blue and purple light, moody cinematic illustration, hand painted digital art, detailed, dramatic lighting, muted colors, wide shot",
+   "seed": 300
+  },
+  {
+   "id": "calle",
+   "prompt": "city street at night in Spain, wet asphalt reflecting lights, apartment buildings with balconies, shops closed, rain, lonely, moody cinematic illustration, hand painted digital art, detailed, dramatic lighting, muted colors, wide shot",
+   "seed": 301
+  },
+  {
+   "id": "cajero",
+   "prompt": "bank ATM machine in a street wall at night, cold light, wet pavement, empty street, moody cinematic illustration, hand painted digital art, detailed, dramatic lighting, muted colors, wide shot",
+   "seed": 302
+  },
+  {
+   "id": "salon",
+   "prompt": "cozy living room of an elderly woman, armchair, old telephone on a side table, family photos, lace curtains, warm lamp light, afternoon, moody cinematic illustration, hand painted digital art, detailed, dramatic lighting, muted colors, wide shot",
+   "seed": 303
+  },
+  {
+   "id": "centro",
+   "prompt": "dark room full of laptops and many mobile phones on tables, cables, monitors glowing, scam call center, messy, night, moody cinematic illustration, hand painted digital art, detailed, dramatic lighting, muted colors, wide shot",
+   "seed": 304
+  },
+  {
+   "id": "pasillo",
+   "prompt": "apartment building hallway with a front door, dim light, doormat, stairs, night, tense mood, moody cinematic illustration, hand painted digital art, detailed, dramatic lighting, muted colors, wide shot",
+   "seed": 305
+  },
+  {
+   "id": "comisaria",
+   "prompt": "Spanish police station interior, reception desk, waiting chairs, notice boards, fluorescent light, moody cinematic illustration, hand painted digital art, detailed, dramatic lighting, muted colors, wide shot",
+   "seed": 306
+  },
+  {
+   "id": "juzgado",
+   "prompt": "Spanish courtroom interior, judge bench, wooden furniture, Spanish flag, empty seats, solemn light, moody cinematic illustration, hand painted digital art, detailed, dramatic lighting, muted colors, wide shot",
+   "seed": 307
+  },
+  {
+   "id": "banco",
+   "prompt": "modern bank branch office interior, counters, glass partitions, empty, daylight, moody cinematic illustration, hand painted digital art, detailed, dramatic lighting, muted colors, wide shot",
+   "seed": 308
+  },
+  {
+   "id": "campus",
+   "prompt": "university campus plaza in Spain with students' benches, trees, modern building, sunny afternoon, moody cinematic illustration, hand painted digital art, detailed, dramatic lighting, muted colors, wide shot",
+   "seed": 309
+  },
+  {
+   "id": "parque",
+   "prompt": "urban park bench at dusk, streetlights turning on, city skyline, calm, moody cinematic illustration, hand painted digital art, detailed, dramatic lighting, muted colors, wide shot",
+   "seed": 310
+  },
+  {
+   "id": "despacho",
+   "prompt": "dark office desk with documents, bank statements, a lamp, coffee cup, night, investigative mood, moody cinematic illustration, hand painted digital art, detailed, dramatic lighting, muted colors, wide shot",
+   "seed": 311
+  }
+ ]
+}
