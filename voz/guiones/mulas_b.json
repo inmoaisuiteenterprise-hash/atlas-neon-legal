@@ -1,0 +1,25 @@
+{
+ "modo": "clon",
+ "ref": "ref_letra_v1.wav",
+ "ref_text": "Imagina que esta noche te duermes… y te despiertas en el año mil trescientos. Sin móvil. Sin luz. Y con un gallo gritándote en la oreja antes de que salga el sol.",
+ "toma_unica": true,
+ "tomas": 3,
+ "lineas": [
+  {
+   "texto": "Lo que te han pedido tiene nombre: ser una mula. Una mula de dinero.",
+   "pausa": 0.45
+  },
+  {
+   "texto": "Funciona así: alguien engaña a una víctima, por ejemplo haciéndose pasar por su banco. La víctima transfiere sus ahorros.",
+   "pausa": 0.45
+  },
+  {
+   "texto": "Pero el dinero no va a la cuenta del estafador. Va a la tuya. Y de ahí sale enseguida: a otra cuenta, a un cajero, o a criptomonedas.",
+   "pausa": 0.45
+  },
+  {
+   "texto": "Así el rastro se pierde… menos en un sitio: tu nombre, que sí aparece en todos los papeles.",
+   "pausa": 0.45
+  }
+ ]
+}

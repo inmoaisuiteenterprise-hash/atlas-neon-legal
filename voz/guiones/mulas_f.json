@@ -1,0 +1,25 @@
+{
+ "modo": "clon",
+ "ref": "ref_letra_v1.wav",
+ "ref_text": "Imagina que esta noche te duermes… y te despiertas en el año mil trescientos. Sin móvil. Sin luz. Y con un gallo gritándote en la oreja antes de que salga el sol.",
+ "toma_unica": true,
+ "tomas": 3,
+ "lineas": [
+  {
+   "texto": "Así que, tres señales para no caer.",
+   "pausa": 0.45
+  },
+  {
+   "texto": "Una: te ofrecen dinero por algo tan fácil como prestar tu cuenta o recibir transferencias.",
+   "pausa": 0.45
+  },
+  {
+   "texto": "Dos: te piden tus claves, un código que te llega al móvil, o que compartas la pantalla.",
+   "pausa": 0.45
+  },
+  {
+   "texto": "Tres: el trabajo consiste en recibir dinero y reenviarlo. Eso no es un trabajo. Es blanquear dinero.",
+   "pausa": 0.45
+  }
+ ]
+}

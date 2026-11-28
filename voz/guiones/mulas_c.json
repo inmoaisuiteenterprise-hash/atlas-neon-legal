@@ -1,0 +1,21 @@
+{
+ "modo": "clon",
+ "ref": "ref_letra_v1.wav",
+ "ref_text": "Imagina que esta noche te duermes… y te despiertas en el año mil trescientos. Sin móvil. Sin luz. Y con un gallo gritándote en la oreja antes de que salga el sol.",
+ "toma_unica": true,
+ "tomas": 3,
+ "lineas": [
+  {
+   "texto": "No es una película. En noviembre de dos mil veintiséis, la Policía Nacional detuvo a cuarenta y tres personas por estafar más de un millón cien mil euros a clientes de bancos.",
+   "pausa": 0.45
+  },
+  {
+   "texto": "Las cuentas donde caía el dinero estaban a nombre de mulas: jóvenes captados por redes sociales, y personas sin hogar.",
+   "pausa": 0.45
+  },
+  {
+   "texto": "Ese mismo mes, la Guardia Civil cerró un canal de redes sociales que captaba cuentas bancarias. Uno de los titulares llegó a acumular veintiséis cuentas en ocho bancos distintos.",
+   "pausa": 0.45
+  }
+ ]
+}

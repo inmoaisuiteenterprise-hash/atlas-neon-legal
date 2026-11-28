@@ -1,0 +1,25 @@
+{
+ "modo": "clon",
+ "ref": "ref_letra_v1.wav",
+ "ref_text": "Imagina que esta noche te duermes… y te despiertas en el año mil trescientos. Sin móvil. Sin luz. Y con un gallo gritándote en la oreja antes de que salga el sol.",
+ "toma_unica": true,
+ "tomas": 3,
+ "lineas": [
+  {
+   "texto": "¿Y por qué jóvenes? Porque es a quien buscan.",
+   "pausa": 0.45
+  },
+  {
+   "texto": "En el Reino Unido, la Agencia Nacional contra el Crimen calcula que unas seis de cada diez mulas tienen menos de treinta años. Y que la mayoría fueron captadas entre los diecisiete y los veinticuatro.",
+   "pausa": 0.45
+  },
+  {
+   "texto": "El anzuelo cambia: un trabajo de agente de pagos, una promoción del banco, un favor a un conocido.",
+   "pausa": 0.45
+  },
+  {
+   "texto": "En Elche, dos chicos de veinte y veintiún años creían estar participando en una promoción bancaria. Acabaron detenidos por estafa y blanqueo de capitales.",
+   "pausa": 0.45
+  }
+ ]
+}

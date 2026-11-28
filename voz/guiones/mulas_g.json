@@ -1,0 +1,21 @@
+{
+ "modo": "clon",
+ "ref": "ref_letra_v1.wav",
+ "ref_text": "Imagina que esta noche te duermes… y te despiertas en el año mil trescientos. Sin móvil. Sin luz. Y con un gallo gritándote en la oreja antes de que salga el sol.",
+ "toma_unica": true,
+ "tomas": 3,
+ "lineas": [
+  {
+   "texto": "Y si ya estás dentro: para. No muevas ni un euro más.",
+   "pausa": 0.45
+  },
+  {
+   "texto": "Llama a tu banco y cuéntaselo. Y ve a la policía a denunciarlo. Cuanto antes lo hagas, mejor para ti.",
+   "pausa": 0.45
+  },
+  {
+   "texto": "Si tienes un amigo al que le han ofrecido dinero fácil, mándale este vídeo. Puede que le ahorres un juicio. Esto es Letra Pequeña.",
+   "pausa": 0.45
+  }
+ ]
+}
