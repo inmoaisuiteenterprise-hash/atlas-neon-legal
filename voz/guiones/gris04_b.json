@@ -1,0 +1,29 @@
+{
+ "modo": "clon",
+ "ref": "ref_qwen_Q1.wav",
+ "ref_text": "Son las dos de la madrugada. Le quedan cinco segundos para decidir… y no va a decidir él. En mil novecientos veintisiete, una psicóloga descubrió algo que tu cerebro hace cada noche, sin que te des cuenta. No es culpa tuya. Pero sí es tu decisión.",
+ "toma_unica": true,
+ "tomas": 3,
+ "lineas": [
+  {
+   "texto": "En dos mil nueve, el neurocientífico Luke Clark, de la Universidad de Cambridge, puso a voluntarios a jugar a una tragaperras dentro de un escáner.",
+   "pausa": 0.4
+  },
+  {
+   "texto": "Cuando los símbolos se quedaban a uno del premio, el cerebro se activaba en zonas parecidas a cuando ganaban de verdad.",
+   "pausa": 0.4
+  },
+  {
+   "texto": "La gente decía que casi ganar era desagradable… pero justo después tenía más ganas de seguir jugando.",
+   "pausa": 0.4
+  },
+  {
+   "texto": "Y en personas con problemas de juego, la reacción al casi era todavía más fuerte.",
+   "pausa": 0.4
+  },
+  {
+   "texto": "Una combinada perdida por una tarjeta no es solo mala suerte. Para tu cerebro, es casi un premio.",
+   "pausa": 0.4
+  }
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "modo": "clon",
+ "ref": "ref_qwen_Q1.wav",
+ "ref_text": "Son las dos de la madrugada. Le quedan cinco segundos para decidir… y no va a decidir él. En mil novecientos veintisiete, una psicóloga descubrió algo que tu cerebro hace cada noche, sin que te des cuenta. No es culpa tuya. Pero sí es tu decisión.",
+ "toma_unica": true,
+ "tomas": 3,
+ "lineas": [
+  {
+   "texto": "Tres semanas después, final de copa. Sus amigos apostando en el grupo. Y Gris, con el móvil en la mano, buscando una casa que no estuviera en el registro.",
+   "pausa": 0.4
+  },
+  {
+   "texto": "Ojo con esto: las webs sin licencia española no consultan ese registro. Son justo las que no tienen ningún control.",
+   "pausa": 0.4
+  },
+  {
+   "texto": "Gris no apostó. Le escribió a un amigo: estoy a punto de liarla. Y el amigo le llamó.",
+   "pausa": 0.4
+  }
+ ]
+}

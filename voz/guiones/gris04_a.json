@@ -1,0 +1,29 @@
+{
+ "modo": "clon",
+ "ref": "ref_qwen_Q1.wav",
+ "ref_text": "Son las dos de la madrugada. Le quedan cinco segundos para decidir… y no va a decidir él. En mil novecientos veintisiete, una psicóloga descubrió algo que tu cerebro hace cada noche, sin que te des cuenta. No es culpa tuya. Pero sí es tu decisión.",
+ "toma_unica": true,
+ "tomas": 3,
+ "lineas": [
+  {
+   "texto": "Domingo, minuto noventa. Gris lleva toda la tarde mirando el móvil, no el partido.",
+   "pausa": 0.4
+  },
+  {
+   "texto": "Ha apostado cinco euros a una combinada: gana su equipo, hay más de dos goles, y el portero rival ve tarjeta. Si sale, se lleva ciento ochenta.",
+   "pausa": 0.4
+  },
+  {
+   "texto": "Dos de las tres cosas ya han pasado. Solo falta la tarjeta. Y en el último segundo… el árbitro pita el final.",
+   "pausa": 0.4
+  },
+  {
+   "texto": "Por una tarjeta. Casi. Y lo primero que piensa Gris no es «he perdido». Es «la próxima sale».",
+   "pausa": 0.4
+  },
+  {
+   "texto": "Esta es la historia de por qué casi ganar engancha más que ganar.",
+   "pausa": 0.4
+  }
+ ]
+}

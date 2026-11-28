@@ -1,0 +1,29 @@
+{
+ "modo": "clon",
+ "ref": "ref_qwen_Q1.wav",
+ "ref_text": "Son las dos de la madrugada. Le quedan cinco segundos para decidir… y no va a decidir él. En mil novecientos veintisiete, una psicóloga descubrió algo que tu cerebro hace cada noche, sin que te des cuenta. No es culpa tuya. Pero sí es tu decisión.",
+ "toma_unica": true,
+ "tomas": 3,
+ "lineas": [
+  {
+   "texto": "Cuatro reglas que usó Gris para dejar de apostar.",
+   "pausa": 0.4
+  },
+  {
+   "texto": "Una: haz la cuenta de verdad. Todo lo metido, menos todo lo sacado.",
+   "pausa": 0.4
+  },
+  {
+   "texto": "Dos: borra las apps y quita la tarjeta guardada.",
+   "pausa": 0.4
+  },
+  {
+   "texto": "Tres: silencia los grupos de pronósticos.",
+   "pausa": 0.4
+  },
+  {
+   "texto": "Cuatro: apúntate al registro de autoprohibidos. Es gratis y bloquea las casas legales de toda España.",
+   "pausa": 0.4
+  }
+ ]
+}

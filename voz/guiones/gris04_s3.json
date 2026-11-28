@@ -1,0 +1,29 @@
+{
+ "modo": "clon",
+ "ref": "ref_qwen_Q1.wav",
+ "ref_text": "Son las dos de la madrugada. Le quedan cinco segundos para decidir… y no va a decidir él. En mil novecientos veintisiete, una psicóloga descubrió algo que tu cerebro hace cada noche, sin que te des cuenta. No es culpa tuya. Pero sí es tu decisión.",
+ "toma_unica": true,
+ "tomas": 3,
+ "lineas": [
+  {
+   "texto": "¿A qué edad empiezan a apostar por internet en España?",
+   "pausa": 0.4
+  },
+  {
+   "texto": "Catorce años de media.",
+   "pausa": 0.4
+  },
+  {
+   "texto": "Según el Ministerio de Sanidad, uno de cada cuatro estudiantes de catorce a dieciocho años jugó dinero el último año.",
+   "pausa": 0.4
+  },
+  {
+   "texto": "Entre los chicos, más de uno de cada tres.",
+   "pausa": 0.4
+  },
+  {
+   "texto": "Y no empieza a los dieciocho. Empieza en el instituto.",
+   "pausa": 0.4
+  }
+ ]
+}

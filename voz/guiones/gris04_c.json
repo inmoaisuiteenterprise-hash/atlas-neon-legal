@@ -1,0 +1,29 @@
+{
+ "modo": "clon",
+ "ref": "ref_qwen_Q1.wav",
+ "ref_text": "Son las dos de la madrugada. Le quedan cinco segundos para decidir… y no va a decidir él. En mil novecientos veintisiete, una psicóloga descubrió algo que tu cerebro hace cada noche, sin que te des cuenta. No es culpa tuya. Pero sí es tu decisión.",
+ "toma_unica": true,
+ "tomas": 3,
+ "lineas": [
+  {
+   "texto": "Y luego están los números. Una cuota no es la probabilidad real de que pase algo.",
+   "pausa": 0.4
+  },
+  {
+   "texto": "Si un resultado tiene un cincuenta por ciento de opciones, lo justo sería pagarte el doble. La casa te paga un poco menos: uno coma noventa.",
+   "pausa": 0.4
+  },
+  {
+   "texto": "Parece nada. Pero es el negocio: si sumas las probabilidades de todas las opciones, no da cien. Da más.",
+   "pausa": 0.4
+  },
+  {
+   "texto": "Por eso la casa gana pase lo que pase en el campo. Tú apuestas a un partido. Ella apuesta a los números.",
+   "pausa": 0.4
+  },
+  {
+   "texto": "Y las combinadas prometen premios enormes… porque cada condición que añades es otra forma de perder.",
+   "pausa": 0.4
+  }
+ ]
+}

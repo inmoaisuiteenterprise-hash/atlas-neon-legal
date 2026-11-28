@@ -1,0 +1,17 @@
+{
+ "modo": "clon",
+ "ref": "ref_qwen_Q1.wav",
+ "ref_text": "Son las dos de la madrugada. Le quedan cinco segundos para decidir… y no va a decidir él. En mil novecientos veintisiete, una psicóloga descubrió algo que tu cerebro hace cada noche, sin que te des cuenta. No es culpa tuya. Pero sí es tu decisión.",
+ "toma_unica": true,
+ "tomas": 3,
+ "lineas": [
+  {
+   "texto": "Gris lleva treinta días sin apostar. Y por primera vez en mucho tiempo, vuelve a mirar el partido.",
+   "pausa": 0.4
+  },
+  {
+   "texto": "Porque un partido dura noventa minutos. Una apuesta, si te dejas, no se acaba nunca. Si conoces a alguien que mira más el móvil que el partido, enséñale este vídeo. Esto es Proyecto Gris.",
+   "pausa": 0.4
+  }
+ ]
+}

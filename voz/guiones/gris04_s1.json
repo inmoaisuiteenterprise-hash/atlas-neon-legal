@@ -1,0 +1,33 @@
+{
+ "modo": "clon",
+ "ref": "ref_qwen_Q1.wav",
+ "ref_text": "Son las dos de la madrugada. Le quedan cinco segundos para decidir… y no va a decidir él. En mil novecientos veintisiete, una psicóloga descubrió algo que tu cerebro hace cada noche, sin que te des cuenta. No es culpa tuya. Pero sí es tu decisión.",
+ "toma_unica": true,
+ "tomas": 3,
+ "lineas": [
+  {
+   "texto": "Pierdes una combinada por una sola tarjeta.",
+   "pausa": 0.4
+  },
+  {
+   "texto": "¿Y qué piensas? La próxima sale.",
+   "pausa": 0.4
+  },
+  {
+   "texto": "En dos mil nueve, un neurocientífico de Cambridge lo vio en un escáner.",
+   "pausa": 0.4
+  },
+  {
+   "texto": "Casi ganar activa el cerebro de forma parecida a ganar de verdad.",
+   "pausa": 0.4
+  },
+  {
+   "texto": "Y justo después, la gente tenía más ganas de seguir jugando.",
+   "pausa": 0.4
+  },
+  {
+   "texto": "Para tu cerebro, casi perder… es casi un premio.",
+   "pausa": 0.4
+  }
+ ]
+}

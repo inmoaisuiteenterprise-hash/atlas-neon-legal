@@ -1,0 +1,29 @@
+{
+ "modo": "clon",
+ "ref": "ref_qwen_Q1.wav",
+ "ref_text": "Son las dos de la madrugada. Le quedan cinco segundos para decidir… y no va a decidir él. En mil novecientos veintisiete, una psicóloga descubrió algo que tu cerebro hace cada noche, sin que te des cuenta. No es culpa tuya. Pero sí es tu decisión.",
+ "toma_unica": true,
+ "tomas": 3,
+ "lineas": [
+  {
+   "texto": "Ahora además se puede apostar en directo: al próximo córner, a la próxima tarjeta. Cada minuto, otra ocasión de casi ganar.",
+   "pausa": 0.4
+  },
+  {
+   "texto": "En dos mil veinticuatro, más de un millón y medio de personas apostaron a deportes por internet en España. Un veinticinco por ciento más que el año anterior.",
+   "pausa": 0.4
+  },
+  {
+   "texto": "Ocho de cada diez son hombres. Y la gran mayoría tiene entre dieciocho y cuarenta y cinco años.",
+   "pausa": 0.4
+  },
+  {
+   "texto": "Pero no empieza a los dieciocho. Según la última encuesta del Ministerio de Sanidad, uno de cada cuatro estudiantes de catorce a dieciocho años jugó dinero el último año. Entre los chicos, más de uno de cada tres.",
+   "pausa": 0.4
+  },
+  {
+   "texto": "Y la edad media a la que empiezan a jugar por internet: catorce años.",
+   "pausa": 0.4
+  }
+ ]
+}
