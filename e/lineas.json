@@ -1,0 +1,38 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 2.58,
+  "acierto": 1.0,
+  "parecido": 0.94,
+  "texto": "Y aquí está la letra pequeña de verdad.",
+  "pausa": 0.45
+ },
+ {
+  "i": 1,
+  "a": 3.03,
+  "b": 14.4,
+  "acierto": 1.0,
+  "parecido": 0.94,
+  "texto": "Para la ley, la cuenta es tuya. La Policía lo repite: el titular tiene que tener siempre el control de su cuenta. Dejársela a otro no te libra.",
+  "pausa": 0.45
+ },
+ {
+  "i": 2,
+  "a": 14.85,
+  "b": 24.38,
+  "acierto": 1.0,
+  "parecido": 0.94,
+  "texto": "Puedes acabar acusado de estafa o de blanqueo de capitales, incluso si dices que no sabías nada. Ya hay muleros condenados a prisión por esto.",
+  "pausa": 0.45
+ },
+ {
+  "i": 3,
+  "a": 24.83,
+  "b": 29.44,
+  "acierto": 1.0,
+  "parecido": 0.94,
+  "texto": "Europol lo resume en una frase: la ignorancia no es excusa.",
+  "pausa": 0.45
+ }
+]

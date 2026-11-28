@@ -1,0 +1,38 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 8.4,
+  "acierto": 1.0,
+  "parecido": 0.946,
+  "texto": "Imagina que te llega este mensaje: «Gana dinero fácil. Solo necesitas una cuenta bancaria. Nada ilegal».",
+  "pausa": 0.45
+ },
+ {
+  "i": 1,
+  "a": 8.85,
+  "b": 15.75,
+  "acierto": 1.0,
+  "parecido": 0.946,
+  "texto": "Abres la cuenta, le pasas las claves a alguien que no conoces, y te llevan unos euros por las molestias.",
+  "pausa": 0.45
+ },
+ {
+  "i": 2,
+  "a": 16.2,
+  "b": 21.94,
+  "acierto": 1.0,
+  "parecido": 0.946,
+  "texto": "Meses después, la policía llama a tu puerta. Y el acusado… eres tú.",
+  "pausa": 0.45
+ },
+ {
+  "i": 3,
+  "a": 22.39,
+  "b": 27.54,
+  "acierto": 1.0,
+  "parecido": 0.946,
+  "texto": "Hoy te cuento la letra pequeña del dinero fácil. Esto es Letra Pequeña.",
+  "pausa": 0.45
+ }
+]

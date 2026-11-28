@@ -1,0 +1,38 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 2.85,
+  "acierto": 1.0,
+  "parecido": 0.941,
+  "texto": "Así que, tres señales para no caer.",
+  "pausa": 0.45
+ },
+ {
+  "i": 1,
+  "a": 3.3,
+  "b": 9.11,
+  "acierto": 1.0,
+  "parecido": 0.941,
+  "texto": "Una: te ofrecen dinero por algo tan fácil como prestar tu cuenta o recibir transferencias.",
+  "pausa": 0.45
+ },
+ {
+  "i": 2,
+  "a": 9.56,
+  "b": 15.74,
+  "acierto": 1.0,
+  "parecido": 0.941,
+  "texto": "Dos: te piden tus claves, un código que te llega al móvil, o que compartas la pantalla.",
+  "pausa": 0.45
+ },
+ {
+  "i": 3,
+  "a": 16.19,
+  "b": 23.52,
+  "acierto": 1.0,
+  "parecido": 0.941,
+  "texto": "Tres: el trabajo consiste en recibir dinero y reenviarlo. Eso no es un trabajo. Es blanquear dinero.",
+  "pausa": 0.45
+ }
+]

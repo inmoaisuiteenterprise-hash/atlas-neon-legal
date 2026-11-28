@@ -1,0 +1,38 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 5.47,
+  "acierto": 0.97,
+  "parecido": 0.946,
+  "texto": "Lo que te han pedido tiene nombre: ser una mula. Una mula de dinero.",
+  "pausa": 0.45
+ },
+ {
+  "i": 1,
+  "a": 5.92,
+  "b": 14.79,
+  "acierto": 0.97,
+  "parecido": 0.946,
+  "texto": "Funciona así: alguien engaña a una víctima, por ejemplo haciéndose pasar por su banco. La víctima transfiere sus ahorros.",
+  "pausa": 0.45
+ },
+ {
+  "i": 2,
+  "a": 15.24,
+  "b": 25.53,
+  "acierto": 0.97,
+  "parecido": 0.946,
+  "texto": "Pero el dinero no va a la cuenta del estafador. Va a la tuya. Y de ahí sale enseguida: a otra cuenta, a un cajero, o a criptomonedas.",
+  "pausa": 0.45
+ },
+ {
+  "i": 3,
+  "a": 25.98,
+  "b": 32.55,
+  "acierto": 0.97,
+  "parecido": 0.946,
+  "texto": "Así el rastro se pierde… menos en un sitio: tu nombre, que sí aparece en todos los papeles.",
+  "pausa": 0.45
+ }
+]

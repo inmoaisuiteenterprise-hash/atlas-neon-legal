@@ -1,0 +1,29 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 4.92,
+  "acierto": 1.0,
+  "parecido": 0.928,
+  "texto": "Y si ya estás dentro: para. No muevas ni un euro más.",
+  "pausa": 0.45
+ },
+ {
+  "i": 1,
+  "a": 5.37,
+  "b": 12.96,
+  "acierto": 1.0,
+  "parecido": 0.928,
+  "texto": "Llama a tu banco y cuéntaselo. Y ve a la policía a denunciarlo. Cuanto antes lo hagas, mejor para ti.",
+  "pausa": 0.45
+ },
+ {
+  "i": 2,
+  "a": 13.41,
+  "b": 22.07,
+  "acierto": 1.0,
+  "parecido": 0.928,
+  "texto": "Si tienes un amigo al que le han ofrecido dinero fácil, mándale este vídeo. Puede que le ahorres un juicio. Esto es Letra Pequeña.",
+  "pausa": 0.45
+ }
+]
