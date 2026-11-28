@@ -1,0 +1,47 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 3.12,
+  "acierto": 0.98,
+  "parecido": 0.864,
+  "texto": "Así que Gris decidió cambiar las reglas del juego.",
+  "pausa": 0.4
+ },
+ {
+  "i": 1,
+  "a": 3.52,
+  "b": 10.8,
+  "acierto": 0.98,
+  "parecido": 0.864,
+  "texto": "Primero, hizo la cuenta de verdad: todo lo que había metido, menos todo lo que había sacado. Sin trampas.",
+  "pausa": 0.4
+ },
+ {
+  "i": 2,
+  "a": 11.2,
+  "b": 17.83,
+  "acierto": 0.98,
+  "parecido": 0.864,
+  "texto": "Segundo, borró las apps y quitó la tarjeta guardada. Si apostar cuesta un poco más, apuestas mucho menos.",
+  "pausa": 0.4
+ },
+ {
+  "i": 3,
+  "a": 18.23,
+  "b": 23.53,
+  "acierto": 0.98,
+  "parecido": 0.864,
+  "texto": "Tercero, silenció los grupos de pronósticos y las cuentas que le vendían apuestas seguras.",
+  "pausa": 0.4
+ },
+ {
+  "i": 4,
+  "a": 23.93,
+  "b": 32.25,
+  "acierto": 0.98,
+  "parecido": 0.864,
+  "texto": "Y cuarto, lo más fuerte: se apuntó al registro de autoprohibidos. Es gratis, y bloquea las casas de apuestas legales de toda España.",
+  "pausa": 0.4
+ }
+]

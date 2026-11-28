@@ -1,0 +1,47 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 4.82,
+  "acierto": 0.88,
+  "parecido": 0.849,
+  "texto": "Si algo tiene un cincuenta por ciento de opciones, lo justo es pagarte el doble.",
+  "pausa": 0.4
+ },
+ {
+  "i": 1,
+  "a": 5.22,
+  "b": 6.86,
+  "acierto": 0.88,
+  "parecido": 0.849,
+  "texto": "La casa te paga uno coma noventa.",
+  "pausa": 0.4
+ },
+ {
+  "i": 2,
+  "a": 7.26,
+  "b": 13.86,
+  "acierto": 0.88,
+  "parecido": 0.849,
+  "texto": "Parece nada. Pero suma las probabilidades de todas las opciones: no da cien. Da más.",
+  "pausa": 0.4
+ },
+ {
+  "i": 3,
+  "a": 14.26,
+  "b": 17.15,
+  "acierto": 0.88,
+  "parecido": 0.849,
+  "texto": "Por eso la casa gana pase lo que pase en el campo.",
+  "pausa": 0.4
+ },
+ {
+  "i": 4,
+  "a": 17.55,
+  "b": 20.93,
+  "acierto": 0.88,
+  "parecido": 0.849,
+  "texto": "Tú apuestas a un partido. Ella apuesta a los números.",
+  "pausa": 0.4
+ }
+]

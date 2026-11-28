@@ -1,0 +1,56 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 2.76,
+  "acierto": 0.93,
+  "parecido": 0.869,
+  "texto": "Pierdes una combinada por una sola tarjeta.",
+  "pausa": 0.4
+ },
+ {
+  "i": 1,
+  "a": 3.16,
+  "b": 5.94,
+  "acierto": 0.93,
+  "parecido": 0.869,
+  "texto": "¿Y qué piensas? La próxima sale.",
+  "pausa": 0.4
+ },
+ {
+  "i": 2,
+  "a": 6.34,
+  "b": 10.82,
+  "acierto": 0.93,
+  "parecido": 0.869,
+  "texto": "En dos mil nueve, un neurocientífico de Cambridge lo vio en un escáner.",
+  "pausa": 0.4
+ },
+ {
+  "i": 3,
+  "a": 11.22,
+  "b": 14.39,
+  "acierto": 0.93,
+  "parecido": 0.869,
+  "texto": "Casi ganar activa el cerebro de forma parecida a ganar de verdad.",
+  "pausa": 0.4
+ },
+ {
+  "i": 4,
+  "a": 14.79,
+  "b": 18.37,
+  "acierto": 0.93,
+  "parecido": 0.869,
+  "texto": "Y justo después, la gente tenía más ganas de seguir jugando.",
+  "pausa": 0.4
+ },
+ {
+  "i": 5,
+  "a": 18.77,
+  "b": 22.16,
+  "acierto": 0.93,
+  "parecido": 0.869,
+  "texto": "Para tu cerebro, casi perder… es casi un premio.",
+  "pausa": 0.4
+ }
+]

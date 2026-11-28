@@ -1,0 +1,47 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 8.44,
+  "acierto": 0.96,
+  "parecido": 0.863,
+  "texto": "En dos mil nueve, el neurocientífico Luke Clark, de la Universidad de Cambridge, puso a voluntarios a jugar a una tragaperras dentro de un escáner.",
+  "pausa": 0.4
+ },
+ {
+  "i": 1,
+  "a": 8.84,
+  "b": 15.46,
+  "acierto": 0.96,
+  "parecido": 0.863,
+  "texto": "Cuando los símbolos se quedaban a uno del premio, el cerebro se activaba en zonas parecidas a cuando ganaban de verdad.",
+  "pausa": 0.4
+ },
+ {
+  "i": 2,
+  "a": 15.86,
+  "b": 22.55,
+  "acierto": 0.96,
+  "parecido": 0.863,
+  "texto": "La gente decía que casi ganar era desagradable… pero justo después tenía más ganas de seguir jugando.",
+  "pausa": 0.4
+ },
+ {
+  "i": 3,
+  "a": 22.95,
+  "b": 27.39,
+  "acierto": 0.96,
+  "parecido": 0.863,
+  "texto": "Y en personas con problemas de juego, la reacción al casi era todavía más fuerte.",
+  "pausa": 0.4
+ },
+ {
+  "i": 4,
+  "a": 27.79,
+  "b": 33.9,
+  "acierto": 0.96,
+  "parecido": 0.863,
+  "texto": "Una combinada perdida por una tarjeta no es solo mala suerte. Para tu cerebro, es casi un premio.",
+  "pausa": 0.4
+ }
+]

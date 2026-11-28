@@ -1,0 +1,47 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 3.09,
+  "acierto": 0.96,
+  "parecido": 0.854,
+  "texto": "Cuatro reglas que usó Gris para dejar de apostar.",
+  "pausa": 0.4
+ },
+ {
+  "i": 1,
+  "a": 3.49,
+  "b": 8.43,
+  "acierto": 0.96,
+  "parecido": 0.854,
+  "texto": "Una: haz la cuenta de verdad. Todo lo metido, menos todo lo sacado.",
+  "pausa": 0.4
+ },
+ {
+  "i": 2,
+  "a": 8.83,
+  "b": 12.11,
+  "acierto": 0.96,
+  "parecido": 0.854,
+  "texto": "Dos: borra las apps y quita la tarjeta guardada.",
+  "pausa": 0.4
+ },
+ {
+  "i": 3,
+  "a": 12.51,
+  "b": 15.25,
+  "acierto": 0.96,
+  "parecido": 0.854,
+  "texto": "Tres: silencia los grupos de pronósticos.",
+  "pausa": 0.4
+ },
+ {
+  "i": 4,
+  "a": 15.65,
+  "b": 21.55,
+  "acierto": 0.96,
+  "parecido": 0.854,
+  "texto": "Cuatro: apúntate al registro de autoprohibidos. Es gratis y bloquea las casas legales de toda España.",
+  "pausa": 0.4
+ }
+]

@@ -1,0 +1,38 @@
+[
+ {
+  "i": 0,
+  "a": 0.35,
+  "b": 4.84,
+  "acierto": 1.0,
+  "parecido": 0.884,
+  "texto": "Hay dos preguntas muy sencillas que los especialistas usan para detectar el problema.",
+  "pausa": 0.4
+ },
+ {
+  "i": 1,
+  "a": 5.24,
+  "b": 8.36,
+  "acierto": 1.0,
+  "parecido": 0.884,
+  "texto": "¿Alguna vez has mentido a alguien sobre cuánto apuestas?",
+  "pausa": 0.4
+ },
+ {
+  "i": 2,
+  "a": 8.76,
+  "b": 11.98,
+  "acierto": 1.0,
+  "parecido": 0.884,
+  "texto": "¿Has sentido que necesitabas apostar cada vez más dinero?",
+  "pausa": 0.4
+ },
+ {
+  "i": 3,
+  "a": 12.38,
+  "b": 22.33,
+  "acierto": 1.0,
+  "parecido": 0.884,
+  "texto": "Si respondes que sí a alguna, no es para asustarse. Es para hablarlo: con alguien de confianza, con tu médico, o con una asociación de jugadores en rehabilitación.",
+  "pausa": 0.4
+ }
+]
